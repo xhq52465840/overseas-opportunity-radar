@@ -20,7 +20,12 @@ Initial publication was rejected by GitHub push protection because an upstream W
 - Actual source status: success, incremental, 3 public requests, 24 cache hits, 50 recent cards, 2 new projects/profiles; total 12,592 projects and 795 profile sources. This was not a full directory recrawl.
 - Export version consistency deployment also succeeded: https://github.com/xhq52465840/overseas-opportunity-radar/actions/runs/43843851646
 - Scheduled GitHub execution is best effort and upstream failure must be read separately from workflow success.
-- Rolling-year launch/payment filters are implemented and offline tested; their deployment will be verified separately. Existing evidence supports only 4 strict recent-paid projects, plus 316 recent-founded paid candidates awaiting actual launch evidence. The complete pool is retained.
+- Rolling-year launch/payment filters deployed successfully: https://github.com/xhq52465840/overseas-opportunity-radar/actions/runs/43844797790
+- Verified 2026-11-16 18:01 Asia/Shanghai (UTC+8): HTTPS homepage has all four date filters; live JavaScript matches tested code; live index contains 12,592 projects, metadata shows 795 profiles and 25 prior official-content checks, first detail chunk has 100 records, and source status is success/incremental/3 requests.
+- Existing explicit public launch statements support only 4 strict recent-paid records, plus 316 recent-founded paid candidates awaiting launch evidence. Launch statements are product/founder self-reports, not independent date audits. The complete pool is retained.
+- Latest safety audit: 1,856 data files/archive members, zero unresolved common credential/unsafe URL/markup findings. This is not a reputation audit of every external website. Python: 28 tests passed; frontend: 26 assertions passed.
+- Replacement sanitized ZIP has 12,592 records; CRC and JSON count/version verified, and public ZIP/JSONL byte checksums match local audited files. ZIP SHA256: 078ed3b9601bd35202a422b00667755f47afd749e518ae0bf159ecb99ebd5271
+- Downloads: https://raw.githubusercontent.com/xhq52465840/overseas-opportunity-radar/main/data/trustmrr-data.zip and https://raw.githubusercontent.com/xhq52465840/overseas-opportunity-radar/main/data/projects.jsonl
 - Automated tests and live HTTP/data checks are complete; no real-browser visual QA is claimed.
 
 Repository: https://github.com/xhq52465840/overseas-opportunity-radar
