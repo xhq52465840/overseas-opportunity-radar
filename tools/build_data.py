@@ -10,10 +10,18 @@ def read(p):return json.loads(p.read_text())
 def write(p,x):p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(x,ensure_ascii=False,separators=(',',':'))+'\n')
 def build(root=ROOT):
     data=root/'data';original=read(data/'projects.json');obj=scrub(original)
-    if obj!=original:
-        write(data/'projects.json',obj);version=read(data/'version.json');version['semantic_version_sha256']=semantic_hash(obj['projects']);write(data/'version.json',version)
-        if(data/'monitor-state.json').exists():
-            state=read(data/'monitor-state.json');state['latest_version']=version['semantic_version_sha256'];write(data/'monitor-state.json',scrub(state))
+    # A publication redaction changes facts. Keep every embedded/exported version in sync,
+    # including when an earlier safety pass already rewrote the input before this build.
+    fact_version=semantic_hash(obj['projects'])
+    obj.setdefault('metadata',{})['semantic_version_sha256']=fact_version
+    if obj!=original:write(data/'projects.json',obj)
+    version=read(data/'version.json')
+    if version.get('semantic_version_sha256')!=fact_version:
+        version['semantic_version_sha256']=fact_version;write(data/'version.json',version)
+    if(data/'monitor-state.json').exists():
+        state=read(data/'monitor-state.json')
+        if state.get('latest_version')!=fact_version:
+            state['latest_version']=fact_version;write(data/'monitor-state.json',scrub(state))
     for raw in(data/'raw').rglob('*'):
         if not raw.is_file():continue
         if raw.suffix=='.json':

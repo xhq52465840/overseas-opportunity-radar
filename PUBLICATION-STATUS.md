@@ -10,7 +10,14 @@ Initial publication was rejected by GitHub push protection because an upstream W
 - Only unpublished local history was cleaned. Original private historical files must not be redistributed.
 
 ## Live publication verification
-The next step is a normal protected push of the sanitized initial commit and Pages deployment. Until a successful deploy and HTTPS/data checks are recorded, this document does not claim the site is live.
+- Sanitized initial commit: af61736d0df85b012bb5c009b05b2f0b36b2e923; normal protected push accepted.
+- First Pages deployment succeeded: https://github.com/xhq52465840/overseas-opportunity-radar/actions/runs/43843309336
+- Verified 2026-11-16 17:51 Asia/Shanghai (UTC+8): HTTPS homepage, index, metadata, first detail chunk and annotations all returned 200. Index contains 12,590 projects; coverage records 793 profiles and 25 prior official-content checks.
+- Live site: https://xhq52465840.github.io/overseas-opportunity-radar/
+- GitHub secret scanning and secret-scanning push protection are enabled. No protection was bypassed or disabled; no rejected commit was republished.
+- Follow-up export check caught an embedded metadata version not updated after redaction. The exporter now synchronizes all fact hashes, with an offline regression test; no project facts were removed.
+- Manual cloud updater validation is still pending at this revision. Scheduled GitHub execution is best effort and upstream failure must be read separately from workflow success.
+- Automated tests and live HTTP/data checks are complete; no real-browser visual QA is claimed.
 
 Repository: https://github.com/xhq52465840/overseas-opportunity-radar
 Actions: https://github.com/xhq52465840/overseas-opportunity-radar/actions

@@ -9,6 +9,7 @@ def check(root=ROOT):
     assert len(ps)==len({p['slug']for p in ps})==len(idx['projects'])
     assert len(ps)==sum(1 for _ in(data/'projects.jsonl').open())
     assert semantic_hash(ps)==version['semantic_version_sha256']
+    assert all(m.get('semantic_version_sha256')==version['semantic_version_sha256']for m in[obj['metadata'],idx['metadata'],json.loads((data/'metadata.json').read_text())])
     assert len(list((data/'raw/public-profiles').glob('*.md')))==sum(bool(p.get('profile_read'))for p in ps)
     assert all(p.get('source_url')and p.get('read_at')for p in ps)
     assert all(not p.get('launch_date')or p.get('launch_evidence')for p in ps)
