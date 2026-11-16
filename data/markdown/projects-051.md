@@ -1,4 +1,4 @@
-# TrustMRR公开项目 12501–12590 / 12590
+# TrustMRR公开项目 12501–12592 / 12592
 无预筛；功能/类别为来源原文。收入非利润；目录值可能舍入；未知不等于0；新入池/成立日不代表上线。
 |slug / 产品|功能原文|原站类别|MRR / 30天 / 累计（USD）|来源级别|链接|
 |---|---|---|---|---|---|
@@ -92,3 +92,5 @@
 |hidden-business-59 / Stealth Company|Web-based AI image editing tool for creators and small businesses. Users upload an image and get a polished, AI-edited result in under a minute - no design skills needed. Monetized|Artificial Intelligence|未知 / $5,678 / 未知|R|[TrustMRR](https://trustmrr.com/startup/hidden-business-59)|
 |zony / Stealth Company|AI Note Taker and Voice to Text for Meetings, Lectures, Dictations, Audio and Video files, Web Links, YouTube, Podcasts.|Mobile Apps|未知 / $17,901 / 未知|R|[TrustMRR](https://trustmrr.com/startup/zony)|
 |elofoot / Stealth Company|Elofoot is an AI-powered football prediction platform that forecasts match outcomes, exact scores and scorers with market-leading accuracy. Built for the 2026 World Cup and beyond,|Artificial Intelligence|未知 / $3,884 / 未知|R|[TrustMRR](https://trustmrr.com/startup/elofoot)|
+|superclip / Superclip|Superclip is a Windows productivity panel that brings clipboard history, music controls, screen capture, focus tools and AI usage into a compact notch or side panel.|Productivity/Utilities/Dev Tools|$0.00 / $0.00 / $0.00|P|[TrustMRR](https://trustmrr.com/startup/superclip) [官网](https://getsuperclip.com/)|
+|gpt-scrambler / GPT Scrambler|GPT Scrambler helps people turn AI drafts into writing that sounds human. Students use it to polish essays, content writers and marketers to get natural copy in the right tone, and developers to plug it into their workflow via API and MCP. Paste text from ChatGPT, Claude or any LLM and get readable, detector-passing writing in seconds, in 20+ languages. It saves hours of manual rewriting. Free to …〔全文见JSON〕|AI/Marketing/Education/Social Media/News & Magazines|$155 / $139 / $3,150|P|[TrustMRR](https://trustmrr.com/startup/gpt-scrambler) [官网](https://gptscrambler.com/)|

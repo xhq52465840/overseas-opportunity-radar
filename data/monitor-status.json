@@ -1,10 +1,27 @@
 {
-  "at": "2026-11-16T09:17:38.384694+00:00",
-  "status": "baseline_initialized",
-  "network_requests": 0,
-  "project_count": 12590,
-  "semantic_version": "aabb9d85068b30fa049ca66d5e885be40d97475576386ca5416e42e5cb6b6324",
-  "baseline_no_history": true,
-  "material_change_count": 0,
-  "publication_status": "security_gate_passed"
+  "at": "2026-11-16T09:54:32.241910+00:00",
+  "run_id": "20261116T175415-d701c9",
+  "status": "success",
+  "mode": "incremental",
+  "network_requests": 3,
+  "cache_hits": 24,
+  "project_count": 12592,
+  "event_count": 2,
+  "material_change_count": 2,
+  "fact_version_changed": true,
+  "semantic_version": "90cba4fb88258b307ee1995bb68cff2803cda42dcb9eb90d4a0831580e9e363a",
+  "coverage": {
+    "mode": "incremental",
+    "directory_pages_expected": null,
+    "directory_pages_successful": [],
+    "directory_failed_pages": [],
+    "directory_card_occurrences": 0,
+    "directory_unique_slugs": 0,
+    "full_crawl_completed": false,
+    "is_whole_site_census": false,
+    "note": "Dynamic pagination can shift/duplicate/omit records; absent records are retained, not interpreted as closures.",
+    "recent_cards": 50
+  },
+  "failures": [],
+  "note": "No outgoing messages or routine edits performed."
 }
