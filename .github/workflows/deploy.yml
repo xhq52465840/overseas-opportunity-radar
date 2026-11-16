@@ -1,0 +1,49 @@
+name: Deploy research site
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - README.md
+      - SOURCE-NOTICE.md
+      - PUBLICATION-STATUS.md
+      - docs/**
+  workflow_dispatch:
+  workflow_call:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: radar-pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --disable-pip-version-check -r requirements.txt
+      - name: Offline collector and frontend tests
+        run: |
+          PYTHONPATH=tools python -m unittest discover -s tests -v
+          node --check web/app.js
+          node tests/frontend.test.cjs
+          python tools/check_data.py
+          python tools/security_audit.py
+      - run: python tools/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+          retention-days: 1
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

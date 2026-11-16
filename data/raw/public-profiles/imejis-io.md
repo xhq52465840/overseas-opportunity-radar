@@ -1,0 +1,291 @@
+# Imejis.io
+> Cached snapshot — next refresh expected around 2026-11-17T08:20:30.137Z.
+Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/imejis-io) on TrustMRR.
+> Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
+
+## Profile
+
+- Name: Imejis.io
+- Slug: `imejis-io`
+- TrustMRR page: [https://trustmrr.com/startup/imejis-io](https://trustmrr.com/startup/imejis-io)
+- Markdown page: [https://trustmrr.com/startup/imejis-io.md](https://trustmrr.com/startup/imejis-io.md)
+- Website: [https://www.imejis.io/](https://www.imejis.io/)
+- Icon: [https://d21oz30g4w22sz.cloudfront.net/logos/jagodana-llc-f97744c4-6ce0-4fd8-820f-b2397fa3e339.png](https://d21oz30g4w22sz.cloudfront.net/logos/jagodana-llc-f97744c4-6ce0-4fd8-820f-b2397fa3e339.png)
+- Description: Generate social media images, e-commerce banners, and more with our powerful API and seamless integrations. Scale your visual content without limits.
+- Country: US
+- Founded date: 2023-11-09
+- Founder: [Dharmik \\| MakerRadar](https://trustmrr.com/founder/dharmikjagodana)
+- Founder image: [https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg](https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg)
+- X followers: 329
+
+
+## Verification Sources
+
+All revenue-related metrics on this page—including revenue, MRR, customers, subscriptions, and churn—are calculated from the startup's real payment records, retrieved directly from the payment provider through an API key (or an equivalent owner-authorized API credential, such as OAuth). They are not screenshots, manual entries, or self-reported revenue claims.
+Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
+- Verified payment provider API source: Stripe (API key)
+- Merchant of record: No
+- Revenue last synced: 2026-11-16T03:19:39.704Z
+- Google Analytics API connected: No
+- DataFast API key connected: No
+- Google Search Console API connected: No
+
+
+## Revenue
+
+Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
+| Period | Verified revenue |
+| --- | ---: |
+| Last 24 hours | $0.00 |
+| Last 7 days | $29.98 |
+| Last 30 days | $160 |
+| Last 3 months | $585 |
+| Last 6 months | $1,020 |
+| Last 12 months | $1,589 |
+| All time | $2,059 |
+- Last 30 days revenue snapshot: $160
+- Last 30 days revenue growth: -31.9%
+- All-time revenue snapshot: $2,059
+- Revenue data last synced: 2026-11-16T03:19:39.704Z
+### Daily revenue — last 30 days
+Daily totals use UTC calendar dates. Today's value may be partial.
+| Date | Verified revenue |
+| --- | ---: |
+| 2026-10-18 | $0.00 |
+| 2026-10-19 | $14.99 |
+| 2026-10-20 | $0.00 |
+| 2026-10-21 | $0.00 |
+| 2026-10-22 | $14.99 |
+| 2026-10-23 | $14.99 |
+| 2026-10-24 | $0.00 |
+| 2026-10-25 | $0.00 |
+| 2026-10-26 | $0.00 |
+| 2026-10-27 | $0.00 |
+| 2026-10-28 | $0.00 |
+| 2026-10-29 | $14.99 |
+| 2026-10-30 | $14.99 |
+| 2026-10-31 | $0.00 |
+| 2026-11-01 | $0.00 |
+| 2026-11-02 | $0.00 |
+| 2026-11-03 | $0.00 |
+| 2026-11-04 | $0.00 |
+| 2026-11-05 | $29.98 |
+| 2026-11-06 | $0.00 |
+| 2026-11-07 | $0.00 |
+| 2026-11-08 | $0.00 |
+| 2026-11-09 | $24.99 |
+| 2026-11-10 | $14.99 |
+| 2026-11-11 | $0.00 |
+| 2026-11-12 | $0.00 |
+| 2026-11-13 | $0.00 |
+| 2026-11-14 | $14.99 |
+| 2026-11-15 | $0.00 |
+| 2026-11-16 | $0.00 |
+### Monthly revenue timeline
+| Month | Verified revenue |
+| --- | ---: |
+| 2025-12 | $54.97 |
+| 2026-01 | $115 |
+| 2026-02 | $89.96 |
+| 2026-03 | $89.96 |
+| 2026-04 | $94.95 |
+| 2026-05 | $155 |
+| 2026-06 | $125 |
+| 2026-07 | $170 |
+| 2026-08 | $205 |
+| 2026-09 | $205 |
+| 2026-10 | $200 |
+| 2026-11 | $84.95 |
+
+
+## Metric Snapshots
+
+These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
+- Current MRR: $350
+- Last 30 days MRR growth: +7.7%
+- Current active subscriptions: 12
+- Last 30 days profit margin: 78.0%
+
+
+## Metrics Available After Login
+
+Full MRR, churn, traffic/visitor, Google Search Console, Meta Ads spend, profit margin, and revenue-per-visitor timelines are not exposed in this public Markdown file. Current or last-30-day snapshots may be shown above when stored on the startup profile.
+Create a free TrustMRR account to access metrics available to authenticated users: [TrustMRR dashboard](https://trustmrr.com/dashboard)
+Full startup page: [https://trustmrr.com/startup/imejis-io](https://trustmrr.com/startup/imejis-io)
+
+
+## Startup Insights
+
+- Value proposition: Generate social media images, e-commerce banners, and more from one simple API. Or let an AI agent design and render them for you over MCP. Scale your visual content without limits.
+- Problem solved: Automate and scale visual content creation without extensive design skills or hiring more designers.
+- Pricing model: Free tier available
+- Target persona: Marketing Managers, E-commerce Brands, Developers, Content Leads, Digital Agencies
+- Audience type: [B2B](https://trustmrr.com/search?targetAudience=B2B)
+- Estimated user count: 1,500
+- Markets: [Dev Tools](https://trustmrr.com/category/developer-tools), [AI](https://trustmrr.com/category/ai), [Marketing](https://trustmrr.com/category/marketing), [Content Creation](https://trustmrr.com/category/content-creation), [SaaS](https://trustmrr.com/category/saas), [Design Tools](https://trustmrr.com/category/design-tools)
+
+
+## Tech Stack
+
+- Frontend: [Next.js](https://trustmrr.com/tech/nextjs), [CSS](https://trustmrr.com/tech/css), [HTML5](https://trustmrr.com/tech/html5), [Redux](https://trustmrr.com/tech/redux), [Tailwind CSS](https://trustmrr.com/tech/tailwindcss), [TypeScript](https://trustmrr.com/tech/typescript)
+- Backend: [Google Cloud](https://trustmrr.com/tech/gcp), [Docker](https://trustmrr.com/tech/docker), [Express](https://trustmrr.com/tech/express), [GitHub Actions](https://trustmrr.com/tech/github-actions), [MongoDB](https://trustmrr.com/tech/mongodb), [Node.js](https://trustmrr.com/tech/nodejs), [Nginx](https://trustmrr.com/tech/nginx), [Stripe](https://trustmrr.com/tech/stripe), [Vercel](https://trustmrr.com/tech/vercel)
+
+
+## SEO Domain Data
+
+- Domain: imejis.io
+- Domain rating: 29.0
+- Last synced: 2026-11-15T06:31:41.706Z
+
+
+## Screenshots
+
+![Landing page (1920x10815)](https://d21oz30g4w22sz.cloudfront.net/startup-screenshots/imejis-io/1786950215005-498cd5c8-4abb-4128-884f-0bcb8df8d889-landing-page.webp)
+
+
+## Acquisition
+
+This startup is not currently listed for sale on TrustMRR.
+Browse active acquisition listings: [TrustMRR acquire marketplace](https://trustmrr.com/acquire)
+
+
+## Discover More Startups
+
+These recommendations use the same public recommendation logic as the TrustMRR startup page. Each startup is returned as a consistently structured object for easier reading and parsing.
+Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
+Note: Stealth Company is a placeholder label, not the actual company name. It means the underlying business and domain are not revealed publicly on TrustMRR. The founder may still be known to TrustMRR, and the revenue and other displayed metrics can still be verified; the public page simply avoids linking the real business identity or domain to this startup profile.
+```json
+[
+  {
+    "name": "Wow Keywords",
+    "slug": "wow-keywords",
+    "category": "SaaS",
+    "categoryUrl": "https://trustmrr.com/category/saas",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$19,838",
+    "revenueGrowthLast30Days": "0.0%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Unlimited access to App Store optimization for Mac and Windows with no subscription.",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVVRIV3VJcXdtSDNGdVFlfGZsX2xpdmVfZEhnYnczNnY4UnFOMVF2YnVBdXdVbHRt00kwyleN4z",
+    "startupUrl": "https://trustmrr.com/startup/wow-keywords"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "ai-image-editor",
+    "category": "Mobile Apps",
+    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
+    "isForSale": true,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 1408,
+    "cachedOfferCount": 7,
+    "revenueLast30Days": "$5,853",
+    "revenueGrowthLast30Days": "+1.4%",
+    "askingPrice": "$100,000",
+    "revenueMultiple": "1.4x",
+    "description": "This cross-platform AI photo app democratizes pro-level editing without complex prompts or login friction. Growth: Revenue surged from $3k to $6k in 3 months (65% margin). Assets: ",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/ai-image-editor"
+  },
+  {
+    "name": "Sprinta.ai",
+    "slug": "sprinta-ai",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$5,578",
+    "revenueGrowthLast30Days": "-20.5%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Ofrecemos diferentes tipos de Saas por suscripción, como herramientas para crear agentes de IA para whatsapp",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/sprinta-ai"
+  },
+  {
+    "name": "MyPlots",
+    "slug": "myplots",
+    "category": "SaaS",
+    "categoryUrl": "https://trustmrr.com/category/saas",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$630,784",
+    "revenueGrowthLast30Days": "+85.6%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Discover the events worth showing up for, grab your tickets in seconds, and host your own — all on the platform built for real-life moments.",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/myplots-6e6edc77-b326-4abf-9d1f-0ebc482fa46a.png",
+    "startupUrl": "https://trustmrr.com/startup/myplots"
+  },
+  {
+    "name": "Backlinker AI",
+    "slug": "backlinker-ai",
+    "category": "Marketing",
+    "categoryUrl": "https://trustmrr.com/category/marketing",
+    "isForSale": true,
+    "listingTier": "premium",
+    "listingTierName": "Scale",
+    "cardBackgroundColor": "#e5f6fe",
+    "cardBackgroundColorDark": "#1a2d3a",
+    "cachedUniquePageviews": 17607,
+    "cachedOfferCount": 44,
+    "revenueLast30Days": "$18,772",
+    "revenueGrowthLast30Days": "+8.3%",
+    "askingPrice": "$350,000",
+    "revenueMultiple": "1.6x",
+    "description": "Backlinker AI automates backlink acquisition through AI-powered reporter and editorial outreach. Built for agencies, founders, and SEO teams, it finds relevant opportunities, draft",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/seo-startup-0326818f-cba7-4496-bfcf-84c9eb1993f7.jpg",
+    "startupUrl": "https://trustmrr.com/startup/backlinker-ai"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "startup-f5208a0753ad",
+    "category": "Mobile Apps",
+    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$10,475",
+    "revenueGrowthLast30Days": "+9.6%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": null,
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/startup-f5208a0753ad"
+  }
+]
+```
+
+
+## Related TrustMRR Pages
+
+- [Acquire startups](https://trustmrr.com/acquire)
+- [Startup categories](https://trustmrr.com/category)
+- [Technology stack pages](https://trustmrr.com/tech)
+- [Marketing channel pages](https://trustmrr.com/channels)
+- [Public AI endpoint](https://trustmrr.com/api/ai)
+- [llms.txt](https://trustmrr.com/llms.txt)
+

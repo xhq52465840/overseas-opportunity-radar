@@ -1,0 +1,60 @@
+name: Update public project data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 0 * * *' # 08:23 Asia/Shanghai (UTC+8); GitHub schedules can be delayed.
+permissions:
+  contents: read
+concurrency:
+  group: radar-data-update
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --disable-pip-version-check -r requirements.txt
+      - name: Verify offline invariants
+        run: |
+          PYTHONPATH=tools python -m unittest discover -s tests -v
+          python tools/ci_refresh.py --check
+      - name: Refresh normal public sources, preserving old data on failure
+        run: python tools/ci_refresh.py
+      - name: Verify public dataset
+        run: |
+          python tools/check_data.py
+          python tools/security_audit.py
+      - name: Commit only public data changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh public TrustMRR observations'
+            git push
+          fi
+      - name: Collection status (workflow success does not imply source success)
+        run: |
+          python - <<'PY'
+          import json,os
+          s=json.load(open('data/monitor-status.json'))
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+            f.write('## Public source collection\n\nStatus: **'+str(s.get('status'))+'**\n\n')
+            f.write('Source failures preserve prior data. A green workflow means preservation/build succeeded, not that the upstream fetch succeeded.\n\n')
+            f.write('```json\n'+json.dumps(s,ensure_ascii=False,indent=2)+'\n```\n')
+          PY
+  deploy:
+    needs: collect
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

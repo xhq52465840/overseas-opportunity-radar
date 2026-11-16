@@ -1,0 +1,32 @@
+test_403_stops_without_alternate (test_monitor.Tests.test_403_stops_without_alternate) ... ok
+test_429_backoff (test_monitor.Tests.test_429_backoff) ... ok
+test_commit_recovery_rolls_forward (test_monitor.Tests.test_commit_recovery_rolls_forward) ... ok
+test_directory_parse_keeps_zero (test_monitor.Tests.test_directory_parse_keeps_zero) ... ok
+test_empty_response_keeps_old_cache (test_monitor.Tests.test_empty_response_keeps_old_cache) ... ok
+test_failed_run_does_not_replace_latest_or_observations (test_monitor.Tests.test_failed_run_does_not_replace_latest_or_observations) ... ok
+test_fresh_cache_makes_no_network_request (test_monitor.Tests.test_fresh_cache_makes_no_network_request) ... ok
+test_hash_ignores_read_time_sync_and_position (test_monitor.Tests.test_hash_ignores_read_time_sync_and_position) ... ok
+test_lock_prevents_parallel_process (test_monitor.Tests.test_lock_prevents_parallel_process) ... ok
+test_merge_missing_and_profile_flags (test_monitor.Tests.test_merge_missing_and_profile_flags) ... ok
+test_missing_does_not_become_zero (test_monitor.Tests.test_missing_does_not_become_zero) ... ok
+test_new_project_and_partial_page_failure_preserve_pool (test_monitor.Tests.test_new_project_and_partial_page_failure_preserve_pool) ... ok
+test_precision_channels_not_cross_compared (test_monitor.Tests.test_precision_channels_not_cross_compared) ... ok
+test_profile_founded_not_launch (test_monitor.Tests.test_profile_founded_not_launch) ... ok
+test_public_next_refresh_honored (test_monitor.Tests.test_public_next_refresh_honored) ... ok
+test_recent_revenue_period_unknown (test_monitor.Tests.test_recent_revenue_period_unknown) ... ok
+test_rolling_decline_not_churn (test_monitor.Tests.test_rolling_decline_not_churn) ... ok
+test_rounding_only_display_change_no_relative_growth (test_monitor.Tests.test_rounding_only_display_change_no_relative_growth) ... ok
+test_sync_revision_not_growth (test_monitor.Tests.test_sync_revision_not_growth) ... ok
+test_zero_to_positive_is_observed_not_first_sale (test_monitor.Tests.test_zero_to_positive_is_observed_not_first_sale) ... ok
+test_nested_archive_fields_are_scrubbed (test_redaction.RedactionTests.test_nested_archive_fields_are_scrubbed) ... ok
+test_raw_markdown_website_is_not_a_broken_credential_link (test_redaction.RedactionTests.test_raw_markdown_website_is_not_a_broken_credential_link) ... ok
+test_restricted_key_is_detected (test_redaction.RedactionTests.test_restricted_key_is_detected) ... ok
+test_website_omitted_but_project_retained (test_redaction.RedactionTests.test_website_omitted_but_project_retained) ... ok
+test_markup_and_encoded_scheme_removed (test_redaction.URLSafetyTests.test_markup_and_encoded_scheme_removed) ... ok
+test_nested_sensitive_field_names_omitted (test_redaction.URLSafetyTests.test_nested_sensitive_field_names_omitted) ... ok
+test_only_http_https_without_authentication (test_redaction.URLSafetyTests.test_only_http_https_without_authentication) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.348s
+
+OK

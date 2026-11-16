@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Shanghai",
+  "initial_exports": "ONLY_REQUIRED_FOR_FIRST_LOCAL_LEGACY_IMPORT",
+  "initial_collection_root": "ONLY_REQUIRED_FOR_FIRST_LOCAL_LEGACY_IMPORT",
+  "initial_recent_cache": "ONLY_REQUIRED_FOR_FIRST_LOCAL_LEGACY_IMPORT",
+  "request_interval_seconds": 0.9,
+  "request_timeout_seconds": 25,
+  "concurrency": 1,
+  "recent_min_interval_hours": 2,
+  "profile_min_interval_hours": 24,
+  "directory_min_interval_hours": 12,
+  "full_min_interval_hours": 12,
+  "robots_min_interval_hours": 24,
+  "rate_limit_backoff_hours": 6,
+  "new_profiles_per_run": 8,
+  "full_policy": "At most one full attempt per local day after minimum interval; other runs recent + watchlist, honoring cache/validators/public next-refresh.",
+  "external_actions": "None. No scheduler changes, posts, purchases, signup, domain/payment changes or third-party contact."
+}

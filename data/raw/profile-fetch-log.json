@@ -1,0 +1,2406 @@
+{
+  "stopped_on_obstacle": false,
+  "requested": 400,
+  "results": [
+    {
+      "slug": "0sec",
+      "source_url": "https://trustmrr.com/startup/0sec.md",
+      "read_at": "2026-11-16T08:58:10.840715+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1-better",
+      "source_url": "https://trustmrr.com/startup/1-better.md",
+      "read_at": "2026-11-16T08:58:11.136842+00:00",
+      "status": 200
+    },
+    {
+      "slug": "10-ai-saas",
+      "source_url": "https://trustmrr.com/startup/10-ai-saas.md",
+      "read_at": "2026-11-16T08:58:12.288078+00:00",
+      "status": 200
+    },
+    {
+      "slug": "100-questions",
+      "source_url": "https://trustmrr.com/startup/100-questions.md",
+      "read_at": "2026-11-16T08:58:12.811275+00:00",
+      "status": 200
+    },
+    {
+      "slug": "10015-io",
+      "source_url": "https://trustmrr.com/startup/10015-io.md",
+      "read_at": "2026-11-16T08:58:13.632629+00:00",
+      "status": 200
+    },
+    {
+      "slug": "100percentmarket",
+      "source_url": "https://trustmrr.com/startup/100percentmarket.md",
+      "read_at": "2026-11-16T08:58:14.664639+00:00",
+      "status": 200
+    },
+    {
+      "slug": "10k-steps-club",
+      "source_url": "https://trustmrr.com/startup/10k-steps-club.md",
+      "read_at": "2026-11-16T08:58:15.557554+00:00",
+      "status": 200
+    },
+    {
+      "slug": "10sentences",
+      "source_url": "https://trustmrr.com/startup/10sentences.md",
+      "read_at": "2026-11-16T08:58:16.261245+00:00",
+      "status": 200
+    },
+    {
+      "slug": "111",
+      "source_url": "https://trustmrr.com/startup/111.md",
+      "read_at": "2026-11-16T08:58:17.303915+00:00",
+      "status": 200
+    },
+    {
+      "slug": "140-6",
+      "source_url": "https://trustmrr.com/startup/140-6.md",
+      "read_at": "2026-11-16T08:58:17.896349+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1418-technologies-llc",
+      "source_url": "https://trustmrr.com/startup/1418-technologies-llc.md",
+      "read_at": "2026-11-16T08:58:18.954972+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1600-lol",
+      "source_url": "https://trustmrr.com/startup/1600-lol.md",
+      "read_at": "2026-11-16T08:58:20.000097+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1atatime",
+      "source_url": "https://trustmrr.com/startup/1atatime.md",
+      "read_at": "2026-11-16T08:58:20.800029+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1devtool",
+      "source_url": "https://trustmrr.com/startup/1devtool.md",
+      "read_at": "2026-11-16T08:58:21.586592+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1explain-com",
+      "source_url": "https://trustmrr.com/startup/1explain-com.md",
+      "read_at": "2026-11-16T08:58:22.493737+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1foodmenu",
+      "source_url": "https://trustmrr.com/startup/1foodmenu.md",
+      "read_at": "2026-11-16T08:58:23.162908+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1h-challenge",
+      "source_url": "https://trustmrr.com/startup/1h-challenge.md",
+      "read_at": "2026-11-16T08:58:23.892600+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1lookup",
+      "source_url": "https://trustmrr.com/startup/1lookup.md",
+      "read_at": "2026-11-16T08:58:24.474712+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1milliontaps-lol",
+      "source_url": "https://trustmrr.com/startup/1milliontaps-lol.md",
+      "read_at": "2026-11-16T08:58:25.616158+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1minebook",
+      "source_url": "https://trustmrr.com/startup/1minebook.md",
+      "read_at": "2026-11-16T08:58:26.457662+00:00",
+      "status": 200
+    },
+    {
+      "slug": "1uidev",
+      "source_url": "https://trustmrr.com/startup/1uidev.md",
+      "read_at": "2026-11-16T08:58:27.344014+00:00",
+      "status": 200
+    },
+    {
+      "slug": "20-000-weekly-users-15-000-tier-1-country-users-no-maintenance-browser-extension",
+      "source_url": "https://trustmrr.com/startup/20-000-weekly-users-15-000-tier-1-country-users-no-maintenance-browser-extension.md",
+      "read_at": "2026-11-16T08:58:28.136886+00:00",
+      "status": 200
+    },
+    {
+      "slug": "2048-classic-number-puzzle",
+      "source_url": "https://trustmrr.com/startup/2048-classic-number-puzzle.md",
+      "read_at": "2026-11-16T08:58:29.135064+00:00",
+      "status": 200
+    },
+    {
+      "slug": "21km",
+      "source_url": "https://trustmrr.com/startup/21km.md",
+      "read_at": "2026-11-16T08:58:30.089790+00:00",
+      "status": 200
+    },
+    {
+      "slug": "21st-tools",
+      "source_url": "https://trustmrr.com/startup/21st-tools.md",
+      "read_at": "2026-11-16T08:58:30.698652+00:00",
+      "status": 200
+    },
+    {
+      "slug": "222",
+      "source_url": "https://trustmrr.com/startup/222.md",
+      "read_at": "2026-11-16T08:58:31.818129+00:00",
+      "status": 200
+    },
+    {
+      "slug": "24hrbuild",
+      "source_url": "https://trustmrr.com/startup/24hrbuild.md",
+      "read_at": "2026-11-16T08:58:32.563904+00:00",
+      "status": 200
+    },
+    {
+      "slug": "2fa-authenticator",
+      "source_url": "https://trustmrr.com/startup/2fa-authenticator.md",
+      "read_at": "2026-11-16T08:58:33.254844+00:00",
+      "status": 200
+    },
+    {
+      "slug": "2ndopinion",
+      "source_url": "https://trustmrr.com/startup/2ndopinion.md",
+      "read_at": "2026-11-16T08:58:34.135084+00:00",
+      "status": 200
+    },
+    {
+      "slug": "3-pixel-grid",
+      "source_url": "https://trustmrr.com/startup/3-pixel-grid.md",
+      "read_at": "2026-11-16T08:58:35.157897+00:00",
+      "status": 200
+    },
+    {
+      "slug": "300aidirectories",
+      "source_url": "https://trustmrr.com/startup/300aidirectories.md",
+      "read_at": "2026-11-16T08:58:36.055846+00:00",
+      "status": 200
+    },
+    {
+      "slug": "37-audits",
+      "source_url": "https://trustmrr.com/startup/37-audits.md",
+      "read_at": "2026-11-16T08:58:36.633862+00:00",
+      "status": 200
+    },
+    {
+      "slug": "3d-agent",
+      "source_url": "https://trustmrr.com/startup/3d-agent.md",
+      "read_at": "2026-11-16T08:58:37.838285+00:00",
+      "status": 200
+    },
+    {
+      "slug": "3dn1",
+      "source_url": "https://trustmrr.com/startup/3dn1.md",
+      "read_at": "2026-11-16T08:58:38.620637+00:00",
+      "status": 200
+    },
+    {
+      "slug": "3dplotter",
+      "source_url": "https://trustmrr.com/startup/3dplotter.md",
+      "read_at": "2026-11-16T08:58:39.237264+00:00",
+      "status": 200
+    },
+    {
+      "slug": "3dprint-ste",
+      "source_url": "https://trustmrr.com/startup/3dprint-ste.md",
+      "read_at": "2026-11-16T08:58:40.456193+00:00",
+      "status": 200
+    },
+    {
+      "slug": "3k-mrr-organic-app",
+      "source_url": "https://trustmrr.com/startup/3k-mrr-organic-app.md",
+      "read_at": "2026-11-16T08:58:41.272340+00:00",
+      "status": 200
+    },
+    {
+      "slug": "402lounge",
+      "source_url": "https://trustmrr.com/startup/402lounge.md",
+      "read_at": "2026-11-16T08:58:42.028811+00:00",
+      "status": 200
+    },
+    {
+      "slug": "4wins-4-wins-everyday",
+      "source_url": "https://trustmrr.com/startup/4wins-4-wins-everyday.md",
+      "read_at": "2026-11-16T08:58:42.729352+00:00",
+      "status": 200
+    },
+    {
+      "slug": "5-day-sprint",
+      "source_url": "https://trustmrr.com/startup/5-day-sprint.md",
+      "read_at": "2026-11-16T08:58:43.564442+00:00",
+      "status": 200
+    },
+    {
+      "slug": "5ugc-ai-ugc-video",
+      "source_url": "https://trustmrr.com/startup/5ugc-ai-ugc-video.md",
+      "read_at": "2026-11-16T08:58:44.622782+00:00",
+      "status": 200
+    },
+    {
+      "slug": "628-vc",
+      "source_url": "https://trustmrr.com/startup/628-vc.md",
+      "read_at": "2026-11-16T08:58:45.100358+00:00",
+      "status": 200
+    },
+    {
+      "slug": "6753882399",
+      "source_url": "https://trustmrr.com/startup/6753882399.md",
+      "read_at": "2026-11-16T08:58:46.011249+00:00",
+      "status": 200
+    },
+    {
+      "slug": "7daylabs",
+      "source_url": "https://trustmrr.com/startup/7daylabs.md",
+      "read_at": "2026-11-16T08:58:47.131272+00:00",
+      "status": 200
+    },
+    {
+      "slug": "7running",
+      "source_url": "https://trustmrr.com/startup/7running.md",
+      "read_at": "2026-11-16T08:58:47.746563+00:00",
+      "status": 200
+    },
+    {
+      "slug": "88finder",
+      "source_url": "https://trustmrr.com/startup/88finder.md",
+      "read_at": "2026-11-16T08:58:48.975689+00:00",
+      "status": 200
+    },
+    {
+      "slug": "8call",
+      "source_url": "https://trustmrr.com/startup/8call.md",
+      "read_at": "2026-11-16T08:58:49.685367+00:00",
+      "status": 200
+    },
+    {
+      "slug": "90fix",
+      "source_url": "https://trustmrr.com/startup/90fix.md",
+      "read_at": "2026-11-16T08:58:50.265409+00:00",
+      "status": 200
+    },
+    {
+      "slug": "9434-5782-quebec-inc",
+      "source_url": "https://trustmrr.com/startup/9434-5782-quebec-inc.md",
+      "read_at": "2026-11-16T08:58:51.076370+00:00",
+      "status": 200
+    },
+    {
+      "slug": "99xdev",
+      "source_url": "https://trustmrr.com/startup/99xdev.md",
+      "read_at": "2026-11-16T08:58:52.419453+00:00",
+      "status": 200
+    },
+    {
+      "slug": "a",
+      "source_url": "https://trustmrr.com/startup/a.md",
+      "read_at": "2026-11-16T08:58:53.035189+00:00",
+      "status": 200
+    },
+    {
+      "slug": "a-1-plumbing-heating-cooling-mechanical",
+      "source_url": "https://trustmrr.com/startup/a-1-plumbing-heating-cooling-mechanical.md",
+      "read_at": "2026-11-16T08:58:53.698386+00:00",
+      "status": 200
+    },
+    {
+      "slug": "a-k-solution",
+      "source_url": "https://trustmrr.com/startup/a-k-solution.md",
+      "read_at": "2026-11-16T08:58:54.477737+00:00",
+      "status": 200
+    },
+    {
+      "slug": "a-venture",
+      "source_url": "https://trustmrr.com/startup/a-venture.md",
+      "read_at": "2026-11-16T08:58:55.441330+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aa-doorschodt",
+      "source_url": "https://trustmrr.com/startup/aa-doorschodt.md",
+      "read_at": "2026-11-16T08:58:56.212136+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aaiyega",
+      "source_url": "https://trustmrr.com/startup/aaiyega.md",
+      "read_at": "2026-11-16T08:58:57.137654+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aantraa",
+      "source_url": "https://trustmrr.com/startup/aantraa.md",
+      "read_at": "2026-11-16T08:58:58.357835+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aback-launch",
+      "source_url": "https://trustmrr.com/startup/aback-launch.md",
+      "read_at": "2026-11-16T08:58:58.899658+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abble",
+      "source_url": "https://trustmrr.com/startup/abble.md",
+      "read_at": "2026-11-16T08:59:00.189761+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abgkol-com",
+      "source_url": "https://trustmrr.com/startup/abgkol-com.md",
+      "read_at": "2026-11-16T08:59:00.729987+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abhub",
+      "source_url": "https://trustmrr.com/startup/abhub.md",
+      "read_at": "2026-11-16T08:59:01.437586+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ablite",
+      "source_url": "https://trustmrr.com/startup/ablite.md",
+      "read_at": "2026-11-16T08:59:02.202618+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abmaxx",
+      "source_url": "https://trustmrr.com/startup/abmaxx.md",
+      "read_at": "2026-11-16T08:59:03.083226+00:00",
+      "status": 200
+    },
+    {
+      "slug": "above-average",
+      "source_url": "https://trustmrr.com/startup/above-average.md",
+      "read_at": "2026-11-16T08:59:03.826581+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abre-bio",
+      "source_url": "https://trustmrr.com/startup/abre-bio.md",
+      "read_at": "2026-11-16T08:59:05.144611+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abscore",
+      "source_url": "https://trustmrr.com/startup/abscore.md",
+      "read_at": "2026-11-16T08:59:05.691059+00:00",
+      "status": 200
+    },
+    {
+      "slug": "absolutecinema",
+      "source_url": "https://trustmrr.com/startup/absolutecinema.md",
+      "read_at": "2026-11-16T08:59:06.328021+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abstract27-ltd-1",
+      "source_url": "https://trustmrr.com/startup/abstract27-ltd-1.md",
+      "read_at": "2026-11-16T08:59:07.235837+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abun-com",
+      "source_url": "https://trustmrr.com/startup/abun-com.md",
+      "read_at": "2026-11-16T08:59:08.099055+00:00",
+      "status": 200
+    },
+    {
+      "slug": "abysm",
+      "source_url": "https://trustmrr.com/startup/abysm.md",
+      "read_at": "2026-11-16T08:59:08.899933+00:00",
+      "status": 200
+    },
+    {
+      "slug": "acarson-llc",
+      "source_url": "https://trustmrr.com/startup/acarson-llc.md",
+      "read_at": "2026-11-16T08:59:09.953515+00:00",
+      "status": 200
+    },
+    {
+      "slug": "acceslab-com",
+      "source_url": "https://trustmrr.com/startup/acceslab-com.md",
+      "read_at": "2026-11-16T08:59:10.670989+00:00",
+      "status": 200
+    },
+    {
+      "slug": "access-labs-pty-ltd",
+      "source_url": "https://trustmrr.com/startup/access-labs-pty-ltd.md",
+      "read_at": "2026-11-16T08:59:11.603207+00:00",
+      "status": 200
+    },
+    {
+      "slug": "account-expense-manager",
+      "source_url": "https://trustmrr.com/startup/account-expense-manager.md",
+      "read_at": "2026-11-16T08:59:12.528700+00:00",
+      "status": 200
+    },
+    {
+      "slug": "accudy-ecommerce",
+      "source_url": "https://trustmrr.com/startup/accudy-ecommerce.md",
+      "read_at": "2026-11-16T08:59:13.412934+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ace",
+      "source_url": "https://trustmrr.com/startup/ace.md",
+      "read_at": "2026-11-16T08:59:14.470720+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aceedigital-ltd",
+      "source_url": "https://trustmrr.com/startup/aceedigital-ltd.md",
+      "read_at": "2026-11-16T08:59:15.232791+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aceface",
+      "source_url": "https://trustmrr.com/startup/aceface.md",
+      "read_at": "2026-11-16T08:59:16.128179+00:00",
+      "status": 200
+    },
+    {
+      "slug": "achty-ai",
+      "source_url": "https://trustmrr.com/startup/achty-ai.md",
+      "read_at": "2026-11-16T08:59:17.089779+00:00",
+      "status": 200
+    },
+    {
+      "slug": "acquirecommunity",
+      "source_url": "https://trustmrr.com/startup/acquirecommunity.md",
+      "read_at": "2026-11-16T08:59:17.664536+00:00",
+      "status": 200
+    },
+    {
+      "slug": "acquirely-markets",
+      "source_url": "https://trustmrr.com/startup/acquirely-markets.md",
+      "read_at": "2026-11-16T08:59:18.866592+00:00",
+      "status": 200
+    },
+    {
+      "slug": "acsperf",
+      "source_url": "https://trustmrr.com/startup/acsperf.md",
+      "read_at": "2026-11-16T08:59:19.193256+00:00",
+      "status": 200
+    },
+    {
+      "slug": "act-school-reports",
+      "source_url": "https://trustmrr.com/startup/act-school-reports.md",
+      "read_at": "2026-11-16T08:59:20.415342+00:00",
+      "status": 200
+    },
+    {
+      "slug": "act101",
+      "source_url": "https://trustmrr.com/startup/act101.md",
+      "read_at": "2026-11-16T08:59:20.955301+00:00",
+      "status": 200
+    },
+    {
+      "slug": "actionclip",
+      "source_url": "https://trustmrr.com/startup/actionclip.md",
+      "read_at": "2026-11-16T08:59:21.683380+00:00",
+      "status": 200
+    },
+    {
+      "slug": "activeo-app",
+      "source_url": "https://trustmrr.com/startup/activeo-app.md",
+      "read_at": "2026-11-16T08:59:22.710743+00:00",
+      "status": 200
+    },
+    {
+      "slug": "activityproof",
+      "source_url": "https://trustmrr.com/startup/activityproof.md",
+      "read_at": "2026-11-16T08:59:23.669654+00:00",
+      "status": 200
+    },
+    {
+      "slug": "actrun-ai",
+      "source_url": "https://trustmrr.com/startup/actrun-ai.md",
+      "read_at": "2026-11-16T08:59:24.287731+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ad-flow-polsia-app",
+      "source_url": "https://trustmrr.com/startup/ad-flow-polsia-app.md",
+      "read_at": "2026-11-16T08:59:25.675869+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ad-library-accelerator-chrome-plugin-for-facebook-ad-library-meta-instagram-in-europe",
+      "source_url": "https://trustmrr.com/startup/ad-library-accelerator-chrome-plugin-for-facebook-ad-library-meta-instagram-in-europe.md",
+      "read_at": "2026-11-16T08:59:26.071328+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ad-machine",
+      "source_url": "https://trustmrr.com/startup/ad-machine.md",
+      "read_at": "2026-11-16T08:59:26.954232+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adamlead",
+      "source_url": "https://trustmrr.com/startup/adamlead.md",
+      "read_at": "2026-11-16T08:59:27.658962+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adaptlypost",
+      "source_url": "https://trustmrr.com/startup/adaptlypost.md",
+      "read_at": "2026-11-16T08:59:28.618304+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adaptmycv",
+      "source_url": "https://trustmrr.com/startup/adaptmycv.md",
+      "read_at": "2026-11-16T08:59:29.412458+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adawcag",
+      "source_url": "https://trustmrr.com/startup/adawcag.md",
+      "read_at": "2026-11-16T08:59:30.842630+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adboss",
+      "source_url": "https://trustmrr.com/startup/adboss.md",
+      "read_at": "2026-11-16T08:59:31.058678+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adcar",
+      "source_url": "https://trustmrr.com/startup/adcar.md",
+      "read_at": "2026-11-16T08:59:31.884744+00:00",
+      "status": 200
+    },
+    {
+      "slug": "add-more-colors-to-calendar",
+      "source_url": "https://trustmrr.com/startup/add-more-colors-to-calendar.md",
+      "read_at": "2026-11-16T08:59:33.107792+00:00",
+      "status": 200
+    },
+    {
+      "slug": "add-to-catalog",
+      "source_url": "https://trustmrr.com/startup/add-to-catalog.md",
+      "read_at": "2026-11-16T08:59:34.032686+00:00",
+      "status": 200
+    },
+    {
+      "slug": "addcomic",
+      "source_url": "https://trustmrr.com/startup/addcomic.md",
+      "read_at": "2026-11-16T08:59:34.531675+00:00",
+      "status": 200
+    },
+    {
+      "slug": "addgradient",
+      "source_url": "https://trustmrr.com/startup/addgradient.md",
+      "read_at": "2026-11-16T08:59:35.399872+00:00",
+      "status": 200
+    },
+    {
+      "slug": "addinvoices",
+      "source_url": "https://trustmrr.com/startup/addinvoices.md",
+      "read_at": "2026-11-16T08:59:36.005334+00:00",
+      "status": 200
+    },
+    {
+      "slug": "addsubtitles",
+      "source_url": "https://trustmrr.com/startup/addsubtitles.md",
+      "read_at": "2026-11-16T08:59:37.031269+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adelante-ltd",
+      "source_url": "https://trustmrr.com/startup/adelante-ltd.md",
+      "read_at": "2026-11-16T08:59:37.847617+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aditya-pratap-singh",
+      "source_url": "https://trustmrr.com/startup/aditya-pratap-singh.md",
+      "read_at": "2026-11-16T08:59:39.135486+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adjug-ench-res-immobili-res",
+      "source_url": "https://trustmrr.com/startup/adjug-ench-res-immobili-res.md",
+      "read_at": "2026-11-16T08:59:40.210538+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adjustmentscore-com",
+      "source_url": "https://trustmrr.com/startup/adjustmentscore-com.md",
+      "read_at": "2026-11-16T08:59:40.652099+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adkit",
+      "source_url": "https://trustmrr.com/startup/adkit.md",
+      "read_at": "2026-11-16T08:59:41.232182+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adle",
+      "source_url": "https://trustmrr.com/startup/adle.md",
+      "read_at": "2026-11-16T08:59:42.111489+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adlibrary-com",
+      "source_url": "https://trustmrr.com/startup/adlibrary-com.md",
+      "read_at": "2026-11-16T08:59:43.035541+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adlibrary-com-1",
+      "source_url": "https://trustmrr.com/startup/adlibrary-com-1.md",
+      "read_at": "2026-11-16T08:59:44.546462+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adm-guard",
+      "source_url": "https://trustmrr.com/startup/adm-guard.md",
+      "read_at": "2026-11-16T08:59:44.775115+00:00",
+      "status": 200
+    },
+    {
+      "slug": "admakerai",
+      "source_url": "https://trustmrr.com/startup/admakerai.md",
+      "read_at": "2026-11-16T08:59:45.994235+00:00",
+      "status": 200
+    },
+    {
+      "slug": "admesio",
+      "source_url": "https://trustmrr.com/startup/admesio.md",
+      "read_at": "2026-11-16T08:59:46.647450+00:00",
+      "status": 200
+    },
+    {
+      "slug": "admin-hero",
+      "source_url": "https://trustmrr.com/startup/admin-hero.md",
+      "read_at": "2026-11-16T08:59:47.319017+00:00",
+      "status": 200
+    },
+    {
+      "slug": "admiro",
+      "source_url": "https://trustmrr.com/startup/admiro.md",
+      "read_at": "2026-11-16T08:59:48.514850+00:00",
+      "status": 200
+    },
+    {
+      "slug": "admirror",
+      "source_url": "https://trustmrr.com/startup/admirror.md",
+      "read_at": "2026-11-16T08:59:49.292953+00:00",
+      "status": 200
+    },
+    {
+      "slug": "admitscore",
+      "source_url": "https://trustmrr.com/startup/admitscore.md",
+      "read_at": "2026-11-16T08:59:50.419535+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adpunk-ai",
+      "source_url": "https://trustmrr.com/startup/adpunk-ai.md",
+      "read_at": "2026-11-16T08:59:51.202447+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adremake",
+      "source_url": "https://trustmrr.com/startup/adremake.md",
+      "read_at": "2026-11-16T08:59:51.579508+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adriselab",
+      "source_url": "https://trustmrr.com/startup/adriselab.md",
+      "read_at": "2026-11-16T08:59:52.474581+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adruby",
+      "source_url": "https://trustmrr.com/startup/adruby.md",
+      "read_at": "2026-11-16T08:59:53.217703+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ads-gateway",
+      "source_url": "https://trustmrr.com/startup/ads-gateway.md",
+      "read_at": "2026-11-16T08:59:54.016175+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ads-pulse",
+      "source_url": "https://trustmrr.com/startup/ads-pulse.md",
+      "read_at": "2026-11-16T08:59:55.289836+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adscrafted",
+      "source_url": "https://trustmrr.com/startup/adscrafted.md",
+      "read_at": "2026-11-16T08:59:55.943239+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adscriptly",
+      "source_url": "https://trustmrr.com/startup/adscriptly.md",
+      "read_at": "2026-11-16T08:59:56.585886+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adsense-auditor",
+      "source_url": "https://trustmrr.com/startup/adsense-auditor.md",
+      "read_at": "2026-11-16T08:59:57.581170+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adshelf",
+      "source_url": "https://trustmrr.com/startup/adshelf.md",
+      "read_at": "2026-11-16T08:59:58.466737+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adsly",
+      "source_url": "https://trustmrr.com/startup/adsly.md",
+      "read_at": "2026-11-16T08:59:59.085448+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adspirer",
+      "source_url": "https://trustmrr.com/startup/adspirer.md",
+      "read_at": "2026-11-16T08:59:59.970133+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adstellar",
+      "source_url": "https://trustmrr.com/startup/adstellar.md",
+      "read_at": "2026-11-16T09:00:01.633532+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adstudio",
+      "source_url": "https://trustmrr.com/startup/adstudio.md",
+      "read_at": "2026-11-16T09:00:01.889338+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adtek-labs",
+      "source_url": "https://trustmrr.com/startup/adtek-labs.md",
+      "read_at": "2026-11-16T09:00:02.761908+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adtomic",
+      "source_url": "https://trustmrr.com/startup/adtomic.md",
+      "read_at": "2026-11-16T09:00:03.822855+00:00",
+      "status": 200
+    },
+    {
+      "slug": "advanced-gsc-mcp",
+      "source_url": "https://trustmrr.com/startup/advanced-gsc-mcp.md",
+      "read_at": "2026-11-16T09:00:05.886659+00:00",
+      "status": 200
+    },
+    {
+      "slug": "advantage-player",
+      "source_url": "https://trustmrr.com/startup/advantage-player.md",
+      "read_at": "2026-11-16T09:00:05.758119+00:00",
+      "status": 200
+    },
+    {
+      "slug": "advantora-insights",
+      "source_url": "https://trustmrr.com/startup/advantora-insights.md",
+      "read_at": "2026-11-16T09:00:07.089747+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adventory",
+      "source_url": "https://trustmrr.com/startup/adventory.md",
+      "read_at": "2026-11-16T09:00:07.749600+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adverse-monitor",
+      "source_url": "https://trustmrr.com/startup/adverse-monitor.md",
+      "read_at": "2026-11-16T09:00:08.605934+00:00",
+      "status": 200
+    },
+    {
+      "slug": "advise-so",
+      "source_url": "https://trustmrr.com/startup/advise-so.md",
+      "read_at": "2026-11-16T09:00:09.554642+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adviselyai",
+      "source_url": "https://trustmrr.com/startup/adviselyai.md",
+      "read_at": "2026-11-16T09:00:12.384512+00:00",
+      "status": 200
+    },
+    {
+      "slug": "adviserry",
+      "source_url": "https://trustmrr.com/startup/adviserry.md",
+      "read_at": "2026-11-16T09:00:11.350437+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ae-intelligence",
+      "source_url": "https://trustmrr.com/startup/ae-intelligence.md",
+      "read_at": "2026-11-16T09:00:12.705634+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ae-nettoyages",
+      "source_url": "https://trustmrr.com/startup/ae-nettoyages.md",
+      "read_at": "2026-11-16T09:00:13.384748+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aecharts",
+      "source_url": "https://trustmrr.com/startup/aecharts.md",
+      "read_at": "2026-11-16T09:00:14.324378+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aeo-boost",
+      "source_url": "https://trustmrr.com/startup/aeo-boost.md",
+      "read_at": "2026-11-16T09:00:15.315207+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aeo-checker",
+      "source_url": "https://trustmrr.com/startup/aeo-checker.md",
+      "read_at": "2026-11-16T09:00:16.051881+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aeo-engine",
+      "source_url": "https://trustmrr.com/startup/aeo-engine.md",
+      "read_at": "2026-11-16T09:00:16.772061+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aeo-go",
+      "source_url": "https://trustmrr.com/startup/aeo-go.md",
+      "read_at": "2026-11-16T09:00:17.905759+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aera-browser",
+      "source_url": "https://trustmrr.com/startup/aera-browser.md",
+      "read_at": "2026-11-16T09:00:19.160286+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aerie",
+      "source_url": "https://trustmrr.com/startup/aerie.md",
+      "read_at": "2026-11-16T09:00:19.464895+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aerolaunch",
+      "source_url": "https://trustmrr.com/startup/aerolaunch.md",
+      "read_at": "2026-11-16T09:00:19.988394+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aesthetic-clinics-malaysia",
+      "source_url": "https://trustmrr.com/startup/aesthetic-clinics-malaysia.md",
+      "read_at": "2026-11-16T09:00:21.184426+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aesty",
+      "source_url": "https://trustmrr.com/startup/aesty.md",
+      "read_at": "2026-11-16T09:00:21.941678+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aether-ship",
+      "source_url": "https://trustmrr.com/startup/aether-ship.md",
+      "read_at": "2026-11-16T09:00:22.736766+00:00",
+      "status": 200
+    },
+    {
+      "slug": "affiliatetrack",
+      "source_url": "https://trustmrr.com/startup/affiliatetrack.md",
+      "read_at": "2026-11-16T09:00:24.061054+00:00",
+      "status": 200
+    },
+    {
+      "slug": "affililist",
+      "source_url": "https://trustmrr.com/startup/affililist.md",
+      "read_at": "2026-11-16T09:00:24.579497+00:00",
+      "status": 200
+    },
+    {
+      "slug": "affinsy",
+      "source_url": "https://trustmrr.com/startup/affinsy.md",
+      "read_at": "2026-11-16T09:00:25.204900+00:00",
+      "status": 200
+    },
+    {
+      "slug": "affirm-daily-motivation",
+      "source_url": "https://trustmrr.com/startup/affirm-daily-motivation.md",
+      "read_at": "2026-11-16T09:00:26.556539+00:00",
+      "status": 200
+    },
+    {
+      "slug": "afflemi",
+      "source_url": "https://trustmrr.com/startup/afflemi.md",
+      "read_at": "2026-11-16T09:00:27.500533+00:00",
+      "status": 200
+    },
+    {
+      "slug": "affonso",
+      "source_url": "https://trustmrr.com/startup/affonso.md",
+      "read_at": "2026-11-16T09:00:27.907546+00:00",
+      "status": 200
+    },
+    {
+      "slug": "affterms",
+      "source_url": "https://trustmrr.com/startup/affterms.md",
+      "read_at": "2026-11-16T09:00:28.910133+00:00",
+      "status": 200
+    },
+    {
+      "slug": "afiyet-co",
+      "source_url": "https://trustmrr.com/startup/afiyet-co.md",
+      "read_at": "2026-11-16T09:00:29.726943+00:00",
+      "status": 200
+    },
+    {
+      "slug": "africalatency-dev",
+      "source_url": "https://trustmrr.com/startup/africalatency-dev.md",
+      "read_at": "2026-11-16T09:00:33.308805+00:00",
+      "status": 200
+    },
+    {
+      "slug": "afrovibrations",
+      "source_url": "https://trustmrr.com/startup/afrovibrations.md",
+      "read_at": "2026-11-16T09:00:31.458925+00:00",
+      "status": 200
+    },
+    {
+      "slug": "after-effects-photoshop-for-gaussian-splats-and-3d-worlds",
+      "source_url": "https://trustmrr.com/startup/after-effects-photoshop-for-gaussian-splats-and-3d-worlds.md",
+      "read_at": "2026-11-16T09:00:32.460511+00:00",
+      "status": 200
+    },
+    {
+      "slug": "after-inspect",
+      "source_url": "https://trustmrr.com/startup/after-inspect.md",
+      "read_at": "2026-11-16T09:00:34.087020+00:00",
+      "status": 200
+    },
+    {
+      "slug": "afterfeed",
+      "source_url": "https://trustmrr.com/startup/afterfeed.md",
+      "read_at": "2026-11-16T09:00:34.379825+00:00",
+      "status": 200
+    },
+    {
+      "slug": "afterprompt",
+      "source_url": "https://trustmrr.com/startup/afterprompt.md",
+      "read_at": "2026-11-16T09:00:35.619419+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aftersora",
+      "source_url": "https://trustmrr.com/startup/aftersora.md",
+      "read_at": "2026-11-16T09:00:36.116175+00:00",
+      "status": 200
+    },
+    {
+      "slug": "against-myself",
+      "source_url": "https://trustmrr.com/startup/against-myself.md",
+      "read_at": "2026-11-16T09:00:36.843526+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agence-immobiliere-france",
+      "source_url": "https://trustmrr.com/startup/agence-immobiliere-france.md",
+      "read_at": "2026-11-16T09:00:38.055053+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agence-web-abstract27",
+      "source_url": "https://trustmrr.com/startup/agence-web-abstract27.md",
+      "read_at": "2026-11-16T09:00:38.759926+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agencify-client-onboarding-portal",
+      "source_url": "https://trustmrr.com/startup/agencify-client-onboarding-portal.md",
+      "read_at": "2026-11-16T09:00:39.642694+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agency-plan",
+      "source_url": "https://trustmrr.com/startup/agency-plan.md",
+      "read_at": "2026-11-16T09:00:40.275974+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agenkit",
+      "source_url": "https://trustmrr.com/startup/agenkit.md",
+      "read_at": "2026-11-16T09:00:41.334410+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agensea",
+      "source_url": "https://trustmrr.com/startup/agensea.md",
+      "read_at": "2026-11-16T09:00:42.155428+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-berlin",
+      "source_url": "https://trustmrr.com/startup/agent-berlin.md",
+      "read_at": "2026-11-16T09:00:43.589750+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-checker",
+      "source_url": "https://trustmrr.com/startup/agent-checker.md",
+      "read_at": "2026-11-16T09:00:43.783554+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-feed",
+      "source_url": "https://trustmrr.com/startup/agent-feed.md",
+      "read_at": "2026-11-16T09:00:44.878416+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-grown",
+      "source_url": "https://trustmrr.com/startup/agent-grown.md",
+      "read_at": "2026-11-16T09:00:45.869163+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-idea-hub",
+      "source_url": "https://trustmrr.com/startup/agent-idea-hub.md",
+      "read_at": "2026-11-16T09:00:46.572276+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-identity",
+      "source_url": "https://trustmrr.com/startup/agent-identity.md",
+      "read_at": "2026-11-16T09:00:47.497752+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-launch",
+      "source_url": "https://trustmrr.com/startup/agent-launch.md",
+      "read_at": "2026-11-16T09:00:48.453651+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-one",
+      "source_url": "https://trustmrr.com/startup/agent-one.md",
+      "read_at": "2026-11-16T09:00:49.042689+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-page",
+      "source_url": "https://trustmrr.com/startup/agent-page.md",
+      "read_at": "2026-11-16T09:00:50.128604+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agent-pets",
+      "source_url": "https://trustmrr.com/startup/agent-pets.md",
+      "read_at": "2026-11-16T09:00:50.603121+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentbay",
+      "source_url": "https://trustmrr.com/startup/agentbay.md",
+      "read_at": "2026-11-16T09:00:51.344718+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentboot",
+      "source_url": "https://trustmrr.com/startup/agentboot.md",
+      "read_at": "2026-11-16T09:00:52.312796+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentcenter-cloud-openclaw-dashboard",
+      "source_url": "https://trustmrr.com/startup/agentcenter-cloud-openclaw-dashboard.md",
+      "read_at": "2026-11-16T09:00:53.635507+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentedseo",
+      "source_url": "https://trustmrr.com/startup/agentedseo.md",
+      "read_at": "2026-11-16T09:00:54.173486+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentemail",
+      "source_url": "https://trustmrr.com/startup/agentemail.md",
+      "read_at": "2026-11-16T09:00:54.925609+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentency",
+      "source_url": "https://trustmrr.com/startup/agentency.md",
+      "read_at": "2026-11-16T09:00:55.928518+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentfast",
+      "source_url": "https://trustmrr.com/startup/agentfast.md",
+      "read_at": "2026-11-16T09:00:56.623439+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentgov",
+      "source_url": "https://trustmrr.com/startup/agentgov.md",
+      "read_at": "2026-11-16T09:00:57.689142+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentibus-o",
+      "source_url": "https://trustmrr.com/startup/agentibus-o.md",
+      "read_at": "2026-11-16T09:00:58.579479+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentic-traders",
+      "source_url": "https://trustmrr.com/startup/agentic-traders.md",
+      "read_at": "2026-11-16T09:00:59.385330+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agenticrelay",
+      "source_url": "https://trustmrr.com/startup/agenticrelay.md",
+      "read_at": "2026-11-16T09:01:00.735495+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentinbox",
+      "source_url": "https://trustmrr.com/startup/agentinbox.md",
+      "read_at": "2026-11-16T09:01:01.190288+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentline",
+      "source_url": "https://trustmrr.com/startup/agentline.md",
+      "read_at": "2026-11-16T09:01:01.984999+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentmrr",
+      "source_url": "https://trustmrr.com/startup/agentmrr.md",
+      "read_at": "2026-11-16T09:01:02.688906+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentpedia-codes",
+      "source_url": "https://trustmrr.com/startup/agentpedia-codes.md",
+      "read_at": "2026-11-16T09:01:03.600896+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentplanners",
+      "source_url": "https://trustmrr.com/startup/agentplanners.md",
+      "read_at": "2026-11-16T09:01:04.467236+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentquest",
+      "source_url": "https://trustmrr.com/startup/agentquest.md",
+      "read_at": "2026-11-16T09:01:05.495152+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentreacher",
+      "source_url": "https://trustmrr.com/startup/agentreacher.md",
+      "read_at": "2026-11-16T09:01:06.025405+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agents-directory",
+      "source_url": "https://trustmrr.com/startup/agents-directory.md",
+      "read_at": "2026-11-16T09:01:06.999020+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agents-metrics-l-l-c",
+      "source_url": "https://trustmrr.com/startup/agents-metrics-l-l-c.md",
+      "read_at": "2026-11-16T09:01:07.992243+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agents-pilot",
+      "source_url": "https://trustmrr.com/startup/agents-pilot.md",
+      "read_at": "2026-11-16T09:01:08.832626+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentsaegis",
+      "source_url": "https://trustmrr.com/startup/agentsaegis.md",
+      "read_at": "2026-11-16T09:01:09.336256+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentscan",
+      "source_url": "https://trustmrr.com/startup/agentscan.md",
+      "read_at": "2026-11-16T09:01:10.578830+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentscmd",
+      "source_url": "https://trustmrr.com/startup/agentscmd.md",
+      "read_at": "2026-11-16T09:01:11.203001+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentsguild",
+      "source_url": "https://trustmrr.com/startup/agentsguild.md",
+      "read_at": "2026-11-16T09:01:12.405187+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentstashlab",
+      "source_url": "https://trustmrr.com/startup/agentstashlab.md",
+      "read_at": "2026-11-16T09:01:12.878936+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentsy",
+      "source_url": "https://trustmrr.com/startup/agentsy.md",
+      "read_at": "2026-11-16T09:01:14.001635+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agentteamemail",
+      "source_url": "https://trustmrr.com/startup/agentteamemail.md",
+      "read_at": "2026-11-16T09:01:14.736721+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agify",
+      "source_url": "https://trustmrr.com/startup/agify.md",
+      "read_at": "2026-11-16T09:01:15.437735+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agiletestware-llc",
+      "source_url": "https://trustmrr.com/startup/agiletestware-llc.md",
+      "read_at": "2026-11-16T09:01:16.735529+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agnxi",
+      "source_url": "https://trustmrr.com/startup/agnxi.md",
+      "read_at": "2026-11-16T09:01:16.786866+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agoravai",
+      "source_url": "https://trustmrr.com/startup/agoravai.md",
+      "read_at": "2026-11-16T09:01:18.152559+00:00",
+      "status": 200
+    },
+    {
+      "slug": "agreedly",
+      "source_url": "https://trustmrr.com/startup/agreedly.md",
+      "read_at": "2026-11-16T09:01:19.149933+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ahmed-mohamed",
+      "source_url": "https://trustmrr.com/startup/ahmed-mohamed.md",
+      "read_at": "2026-11-16T09:01:19.615385+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-agents-for-firms",
+      "source_url": "https://trustmrr.com/startup/ai-agents-for-firms.md",
+      "read_at": "2026-11-16T09:01:20.763687+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-apps-and-games",
+      "source_url": "https://trustmrr.com/startup/ai-apps-and-games.md",
+      "read_at": "2026-11-16T09:01:21.426184+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-baby-generator",
+      "source_url": "https://trustmrr.com/startup/ai-baby-generator.md",
+      "read_at": "2026-11-16T09:01:22.001198+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-boardroom",
+      "source_url": "https://trustmrr.com/startup/ai-boardroom.md",
+      "read_at": "2026-11-16T09:01:23.036329+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-brand-kits",
+      "source_url": "https://trustmrr.com/startup/ai-brand-kits.md",
+      "read_at": "2026-11-16T09:01:24.174358+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-captions",
+      "source_url": "https://trustmrr.com/startup/ai-captions.md",
+      "read_at": "2026-11-16T09:01:24.683183+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-chatbot-nivon",
+      "source_url": "https://trustmrr.com/startup/ai-chatbot-nivon.md",
+      "read_at": "2026-11-16T09:01:25.740510+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-content-marketing-agent",
+      "source_url": "https://trustmrr.com/startup/ai-content-marketing-agent.md",
+      "read_at": "2026-11-16T09:01:26.440158+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-corey",
+      "source_url": "https://trustmrr.com/startup/ai-corey.md",
+      "read_at": "2026-11-16T09:01:27.516554+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-cover-music-video",
+      "source_url": "https://trustmrr.com/startup/ai-cover-music-video.md",
+      "read_at": "2026-11-16T09:01:28.328264+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-dashboard-gen",
+      "source_url": "https://trustmrr.com/startup/ai-dashboard-gen.md",
+      "read_at": "2026-11-16T09:01:29.373543+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-dating-assistant-1",
+      "source_url": "https://trustmrr.com/startup/ai-dating-assistant-1.md",
+      "read_at": "2026-11-16T09:01:29.752772+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-decorator",
+      "source_url": "https://trustmrr.com/startup/ai-decorator.md",
+      "read_at": "2026-11-16T09:01:30.712216+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-design-app-in-passionate-high-spending-niche",
+      "source_url": "https://trustmrr.com/startup/ai-design-app-in-passionate-high-spending-niche.md",
+      "read_at": "2026-11-16T09:01:31.696339+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-designer",
+      "source_url": "https://trustmrr.com/startup/ai-designer.md",
+      "read_at": "2026-11-16T09:01:32.460100+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-detector",
+      "source_url": "https://trustmrr.com/startup/ai-detector.md",
+      "read_at": "2026-11-16T09:01:33.296232+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-detector-image-checker",
+      "source_url": "https://trustmrr.com/startup/ai-detector-image-checker.md",
+      "read_at": "2026-11-16T09:01:34.041563+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-detector-plagiarism-checker",
+      "source_url": "https://trustmrr.com/startup/ai-detector-plagiarism-checker.md",
+      "read_at": "2026-11-16T09:01:34.945345+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-dev",
+      "source_url": "https://trustmrr.com/startup/ai-dev.md",
+      "read_at": "2026-11-16T09:01:35.781283+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-directories",
+      "source_url": "https://trustmrr.com/startup/ai-directories.md",
+      "read_at": "2026-11-16T09:01:36.502800+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-dm-setter",
+      "source_url": "https://trustmrr.com/startup/ai-dm-setter.md",
+      "read_at": "2026-11-16T09:01:37.380880+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-editor-photo-video",
+      "source_url": "https://trustmrr.com/startup/ai-editor-photo-video.md",
+      "read_at": "2026-11-16T09:01:38.425726+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-enhancer-and-video",
+      "source_url": "https://trustmrr.com/startup/ai-enhancer-and-video.md",
+      "read_at": "2026-11-16T09:01:39.663855+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-exercises",
+      "source_url": "https://trustmrr.com/startup/ai-exercises.md",
+      "read_at": "2026-11-16T09:01:39.966508+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-flex-chart",
+      "source_url": "https://trustmrr.com/startup/ai-flex-chart.md",
+      "read_at": "2026-11-16T09:01:40.951984+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-football",
+      "source_url": "https://trustmrr.com/startup/ai-football.md",
+      "read_at": "2026-11-16T09:01:41.771285+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-for-that",
+      "source_url": "https://trustmrr.com/startup/ai-for-that.md",
+      "read_at": "2026-11-16T09:01:42.635756+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-garden-design",
+      "source_url": "https://trustmrr.com/startup/ai-garden-design.md",
+      "read_at": "2026-11-16T09:01:43.757156+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-girl-generator",
+      "source_url": "https://trustmrr.com/startup/ai-girl-generator.md",
+      "read_at": "2026-11-16T09:01:44.500653+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-girlfriend",
+      "source_url": "https://trustmrr.com/startup/ai-girlfriend.md",
+      "read_at": "2026-11-16T09:01:45.165867+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-girlfriend-chat-and-romance",
+      "source_url": "https://trustmrr.com/startup/ai-girlfriend-chat-and-romance.md",
+      "read_at": "2026-11-16T09:01:45.982676+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-headshot-generator",
+      "source_url": "https://trustmrr.com/startup/ai-headshot-generator.md",
+      "read_at": "2026-11-16T09:01:47.171525+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-herf-scale-yearly",
+      "source_url": "https://trustmrr.com/startup/ai-herf-scale-yearly.md",
+      "read_at": "2026-11-16T09:01:47.886304+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-home-design",
+      "source_url": "https://trustmrr.com/startup/ai-home-design.md",
+      "read_at": "2026-11-16T09:01:49.065430+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-humanizer",
+      "source_url": "https://trustmrr.com/startup/ai-humanizer.md",
+      "read_at": "2026-11-16T09:01:49.494992+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-image-boost",
+      "source_url": "https://trustmrr.com/startup/ai-image-boost.md",
+      "read_at": "2026-11-16T09:01:50.302181+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-image-converter",
+      "source_url": "https://trustmrr.com/startup/ai-image-converter.md",
+      "read_at": "2026-11-16T09:01:51.178192+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-image-editor",
+      "source_url": "https://trustmrr.com/startup/ai-image-editor.md",
+      "read_at": "2026-11-16T09:01:52.016770+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-image-playground",
+      "source_url": "https://trustmrr.com/startup/ai-image-playground.md",
+      "read_at": "2026-11-16T09:01:52.902979+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-influencer-generator",
+      "source_url": "https://trustmrr.com/startup/ai-influencer-generator.md",
+      "read_at": "2026-11-16T09:01:53.971964+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-interview-copilot",
+      "source_url": "https://trustmrr.com/startup/ai-interview-copilot.md",
+      "read_at": "2026-11-16T09:01:54.454563+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-it-solutions-marcin-gendek",
+      "source_url": "https://trustmrr.com/startup/ai-it-solutions-marcin-gendek.md",
+      "read_at": "2026-11-16T09:01:55.695608+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-just-better-1",
+      "source_url": "https://trustmrr.com/startup/ai-just-better-1.md",
+      "read_at": "2026-11-16T09:01:56.171354+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-kitchen-design",
+      "source_url": "https://trustmrr.com/startup/ai-kitchen-design.md",
+      "read_at": "2026-11-16T09:01:57.023509+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-kitchendesign",
+      "source_url": "https://trustmrr.com/startup/ai-kitchendesign.md",
+      "read_at": "2026-11-16T09:01:58.138615+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-labs",
+      "source_url": "https://trustmrr.com/startup/ai-labs.md",
+      "read_at": "2026-11-16T09:01:59.202176+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-lip-sync",
+      "source_url": "https://trustmrr.com/startup/ai-lip-sync.md",
+      "read_at": "2026-11-16T09:01:59.698581+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-marketing-framework-for-founders-validated-high-margin-minimal-ops",
+      "source_url": "https://trustmrr.com/startup/ai-marketing-framework-for-founders-validated-high-margin-minimal-ops.md",
+      "read_at": "2026-11-16T09:02:00.616982+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-math-solver",
+      "source_url": "https://trustmrr.com/startup/ai-math-solver.md",
+      "read_at": "2026-11-16T09:02:01.749917+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-meal-feedback",
+      "source_url": "https://trustmrr.com/startup/ai-meal-feedback.md",
+      "read_at": "2026-11-16T09:02:02.462338+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-media-studio",
+      "source_url": "https://trustmrr.com/startup/ai-media-studio.md",
+      "read_at": "2026-11-16T09:02:03.548912+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-memorysdk",
+      "source_url": "https://trustmrr.com/startup/ai-memorysdk.md",
+      "read_at": "2026-11-16T09:02:04.417160+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-mizu",
+      "source_url": "https://trustmrr.com/startup/ai-mizu.md",
+      "read_at": "2026-11-16T09:02:05.181853+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-money-group",
+      "source_url": "https://trustmrr.com/startup/ai-money-group.md",
+      "read_at": "2026-11-16T09:02:05.614279+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-money-vault",
+      "source_url": "https://trustmrr.com/startup/ai-money-vault.md",
+      "read_at": "2026-11-16T09:02:06.398850+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-music-maker-muzify",
+      "source_url": "https://trustmrr.com/startup/ai-music-maker-muzify.md",
+      "read_at": "2026-11-16T09:02:07.386403+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-music-maker-soneva",
+      "source_url": "https://trustmrr.com/startup/ai-music-maker-soneva.md",
+      "read_at": "2026-11-16T09:02:08.206787+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-nail-art-designer-nailtry",
+      "source_url": "https://trustmrr.com/startup/ai-nail-art-designer-nailtry.md",
+      "read_at": "2026-11-16T09:02:09.122620+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-natives-hall-of-fame",
+      "source_url": "https://trustmrr.com/startup/ai-natives-hall-of-fame.md",
+      "read_at": "2026-11-16T09:02:09.875579+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-natural-write",
+      "source_url": "https://trustmrr.com/startup/ai-natural-write.md",
+      "read_at": "2026-11-16T09:02:10.592703+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-pet-care-health",
+      "source_url": "https://trustmrr.com/startup/ai-pet-care-health.md",
+      "read_at": "2026-11-16T09:02:11.699871+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-portrait",
+      "source_url": "https://trustmrr.com/startup/ai-portrait.md",
+      "read_at": "2026-11-16T09:02:12.390743+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-powered-lifestyle-app-high-converting-subscription-business",
+      "source_url": "https://trustmrr.com/startup/ai-powered-lifestyle-app-high-converting-subscription-business.md",
+      "read_at": "2026-11-16T09:02:13.296536+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-powered-social-media-extension-for-everyone",
+      "source_url": "https://trustmrr.com/startup/ai-powered-social-media-extension-for-everyone.md",
+      "read_at": "2026-11-16T09:02:13.875214+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-prank-call",
+      "source_url": "https://trustmrr.com/startup/ai-prank-call.md",
+      "read_at": "2026-11-16T09:02:15.011479+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-pregnancy-test-checker",
+      "source_url": "https://trustmrr.com/startup/ai-pregnancy-test-checker.md",
+      "read_at": "2026-11-16T09:02:15.789993+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-pro-portrait",
+      "source_url": "https://trustmrr.com/startup/ai-pro-portrait.md",
+      "read_at": "2026-11-16T09:02:17.144201+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-product-pick",
+      "source_url": "https://trustmrr.com/startup/ai-product-pick.md",
+      "read_at": "2026-11-16T09:02:17.719941+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-prompt-maker-promptay",
+      "source_url": "https://trustmrr.com/startup/ai-prompt-maker-promptay.md",
+      "read_at": "2026-11-16T09:02:18.485848+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-recipe-generator",
+      "source_url": "https://trustmrr.com/startup/ai-recipe-generator.md",
+      "read_at": "2026-11-16T09:02:19.129875+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-reels",
+      "source_url": "https://trustmrr.com/startup/ai-reels.md",
+      "read_at": "2026-11-16T09:02:20.017642+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-renamer",
+      "source_url": "https://trustmrr.com/startup/ai-renamer.md",
+      "read_at": "2026-11-16T09:02:21.179460+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-resources",
+      "source_url": "https://trustmrr.com/startup/ai-resources.md",
+      "read_at": "2026-11-16T09:02:22.071941+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-resume-builder-rothr",
+      "source_url": "https://trustmrr.com/startup/ai-resume-builder-rothr.md",
+      "read_at": "2026-11-16T09:02:22.859293+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-room-styler",
+      "source_url": "https://trustmrr.com/startup/ai-room-styler.md",
+      "read_at": "2026-11-16T09:02:23.434525+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-sb",
+      "source_url": "https://trustmrr.com/startup/ai-sb.md",
+      "read_at": "2026-11-16T09:02:24.493760+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-search-audit",
+      "source_url": "https://trustmrr.com/startup/ai-search-audit.md",
+      "read_at": "2026-11-16T09:02:25.264245+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-selfie-studio",
+      "source_url": "https://trustmrr.com/startup/ai-selfie-studio.md",
+      "read_at": "2026-11-16T09:02:26.124333+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-seo",
+      "source_url": "https://trustmrr.com/startup/ai-seo.md",
+      "read_at": "2026-11-16T09:02:27.236520+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-service-agency",
+      "source_url": "https://trustmrr.com/startup/ai-service-agency.md",
+      "read_at": "2026-11-16T09:02:27.815952+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-smart-decor",
+      "source_url": "https://trustmrr.com/startup/ai-smart-decor.md",
+      "read_at": "2026-11-16T09:02:28.874927+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-song-clip-generator",
+      "source_url": "https://trustmrr.com/startup/ai-song-clip-generator.md",
+      "read_at": "2026-11-16T09:02:29.487619+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-song-generator",
+      "source_url": "https://trustmrr.com/startup/ai-song-generator.md",
+      "read_at": "2026-11-16T09:02:30.141317+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-song-maker-generate-music",
+      "source_url": "https://trustmrr.com/startup/ai-song-maker-generate-music.md",
+      "read_at": "2026-11-16T09:02:31.080862+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-startup",
+      "source_url": "https://trustmrr.com/startup/ai-startup.md",
+      "read_at": "2026-11-16T09:02:31.839055+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-startup-1",
+      "source_url": "https://trustmrr.com/startup/ai-startup-1.md",
+      "read_at": "2026-11-16T09:02:32.827952+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-startup-newsletter",
+      "source_url": "https://trustmrr.com/startup/ai-startup-newsletter.md",
+      "read_at": "2026-11-16T09:02:34.057195+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-stats",
+      "source_url": "https://trustmrr.com/startup/ai-stats.md",
+      "read_at": "2026-11-16T09:02:34.624471+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-studio",
+      "source_url": "https://trustmrr.com/startup/ai-studio.md",
+      "read_at": "2026-11-16T09:02:35.384787+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-suitup",
+      "source_url": "https://trustmrr.com/startup/ai-suitup.md",
+      "read_at": "2026-11-16T09:02:36.653749+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-swap-facetik",
+      "source_url": "https://trustmrr.com/startup/ai-swap-facetik.md",
+      "read_at": "2026-11-16T09:02:37.301403+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-tales",
+      "source_url": "https://trustmrr.com/startup/ai-tales.md",
+      "read_at": "2026-11-16T09:02:38.094182+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-talk-coach",
+      "source_url": "https://trustmrr.com/startup/ai-talk-coach.md",
+      "read_at": "2026-11-16T09:02:38.989394+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-text-humanizer",
+      "source_url": "https://trustmrr.com/startup/ai-text-humanizer.md",
+      "read_at": "2026-11-16T09:02:39.975615+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-text-humanizer-1",
+      "source_url": "https://trustmrr.com/startup/ai-text-humanizer-1.md",
+      "read_at": "2026-11-16T09:02:40.794613+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-text-humanizer-netherlands-belgium",
+      "source_url": "https://trustmrr.com/startup/ai-text-humanizer-netherlands-belgium.md",
+      "read_at": "2026-11-16T09:02:41.591368+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-text-song",
+      "source_url": "https://trustmrr.com/startup/ai-text-song.md",
+      "read_at": "2026-11-16T09:02:42.006251+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-time-guardian",
+      "source_url": "https://trustmrr.com/startup/ai-time-guardian.md",
+      "read_at": "2026-11-16T09:02:43.366544+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-tool-directory",
+      "source_url": "https://trustmrr.com/startup/ai-tool-directory.md",
+      "read_at": "2026-11-16T09:02:43.916328+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-toolbox",
+      "source_url": "https://trustmrr.com/startup/ai-toolbox.md",
+      "read_at": "2026-11-16T09:02:44.722648+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-usage-tracker-tokenmaxxing",
+      "source_url": "https://trustmrr.com/startup/ai-usage-tracker-tokenmaxxing.md",
+      "read_at": "2026-11-16T09:02:45.606216+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-video-generator-text-to-video-image-to-video-vivideo-ai",
+      "source_url": "https://trustmrr.com/startup/ai-video-generator-text-to-video-image-to-video-vivideo-ai.md",
+      "read_at": "2026-11-16T09:02:46.305351+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-vids-pro",
+      "source_url": "https://trustmrr.com/startup/ai-vids-pro.md",
+      "read_at": "2026-11-16T09:02:47.367061+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-viral-tube",
+      "source_url": "https://trustmrr.com/startup/ai-viral-tube.md",
+      "read_at": "2026-11-16T09:02:48.573258+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-virtual-staging",
+      "source_url": "https://trustmrr.com/startup/ai-virtual-staging.md",
+      "read_at": "2026-11-16T09:02:49.304141+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-voice-calls",
+      "source_url": "https://trustmrr.com/startup/ai-voice-calls.md",
+      "read_at": "2026-11-16T09:02:49.780011+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-voice-tts",
+      "source_url": "https://trustmrr.com/startup/ai-voice-tts.md",
+      "read_at": "2026-11-16T09:02:50.784113+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-website-builder",
+      "source_url": "https://trustmrr.com/startup/ai-website-builder.md",
+      "read_at": "2026-11-16T09:02:51.623163+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai-website-directory",
+      "source_url": "https://trustmrr.com/startup/ai-website-directory.md",
+      "read_at": "2026-11-16T09:02:52.272826+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ai51-ug-haftungsbeschr-nkt",
+      "source_url": "https://trustmrr.com/startup/ai51-ug-haftungsbeschr-nkt.md",
+      "read_at": "2026-11-16T09:02:53.542413+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiagents-directory",
+      "source_url": "https://trustmrr.com/startup/aiagents-directory.md",
+      "read_at": "2026-11-16T09:02:54.463363+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiatria-software",
+      "source_url": "https://trustmrr.com/startup/aiatria-software.md",
+      "read_at": "2026-11-16T09:02:55.233644+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aibananaflow",
+      "source_url": "https://trustmrr.com/startup/aibananaflow.md",
+      "read_at": "2026-11-16T09:02:55.728798+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aibill",
+      "source_url": "https://trustmrr.com/startup/aibill.md",
+      "read_at": "2026-11-16T09:02:56.655841+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiblurweb",
+      "source_url": "https://trustmrr.com/startup/aiblurweb.md",
+      "read_at": "2026-11-16T09:02:57.423375+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aibrand",
+      "source_url": "https://trustmrr.com/startup/aibrand.md",
+      "read_at": "2026-11-16T09:02:58.576228+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aichatseo",
+      "source_url": "https://trustmrr.com/startup/aichatseo.md",
+      "read_at": "2026-11-16T09:02:59.072199+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aicleanerpro",
+      "source_url": "https://trustmrr.com/startup/aicleanerpro.md",
+      "read_at": "2026-11-16T09:03:00.338590+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aicook",
+      "source_url": "https://trustmrr.com/startup/aicook.md",
+      "read_at": "2026-11-16T09:03:01.003610+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aidelly",
+      "source_url": "https://trustmrr.com/startup/aidelly.md",
+      "read_at": "2026-11-16T09:03:01.615909+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiden",
+      "source_url": "https://trustmrr.com/startup/aiden.md",
+      "read_at": "2026-11-16T09:03:02.573341+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aidoks",
+      "source_url": "https://trustmrr.com/startup/aidoks.md",
+      "read_at": "2026-11-16T09:03:03.509191+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiebooks-store",
+      "source_url": "https://trustmrr.com/startup/aiebooks-store.md",
+      "read_at": "2026-11-16T09:03:04.395658+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiexposuretool-com",
+      "source_url": "https://trustmrr.com/startup/aiexposuretool-com.md",
+      "read_at": "2026-11-16T09:03:05.311279+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aifeed",
+      "source_url": "https://trustmrr.com/startup/aifeed.md",
+      "read_at": "2026-11-16T09:03:05.895746+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiflowmusic",
+      "source_url": "https://trustmrr.com/startup/aiflowmusic.md",
+      "read_at": "2026-11-16T09:03:06.951033+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aifordevelopers",
+      "source_url": "https://trustmrr.com/startup/aifordevelopers.md",
+      "read_at": "2026-11-16T09:03:07.680227+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiforeveryone",
+      "source_url": "https://trustmrr.com/startup/aiforeveryone.md",
+      "read_at": "2026-11-16T09:03:08.605021+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aifurniture",
+      "source_url": "https://trustmrr.com/startup/aifurniture.md",
+      "read_at": "2026-11-16T09:03:09.481602+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aify",
+      "source_url": "https://trustmrr.com/startup/aify.md",
+      "read_at": "2026-11-16T09:03:10.154527+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiindex",
+      "source_url": "https://trustmrr.com/startup/aiindex.md",
+      "read_at": "2026-11-16T09:03:11.151392+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aijet-cc",
+      "source_url": "https://trustmrr.com/startup/aijet-cc.md",
+      "read_at": "2026-11-16T09:03:11.900601+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aijobmaster",
+      "source_url": "https://trustmrr.com/startup/aijobmaster.md",
+      "read_at": "2026-11-16T09:03:12.988184+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aikeyboard",
+      "source_url": "https://trustmrr.com/startup/aikeyboard.md",
+      "read_at": "2026-11-16T09:03:13.564877+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aila-1",
+      "source_url": "https://trustmrr.com/startup/aila-1.md",
+      "read_at": "2026-11-16T09:03:14.723875+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ailliot",
+      "source_url": "https://trustmrr.com/startup/ailliot.md",
+      "read_at": "2026-11-16T09:03:15.207083+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ailurn",
+      "source_url": "https://trustmrr.com/startup/ailurn.md",
+      "read_at": "2026-11-16T09:03:16.310336+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aimagazine",
+      "source_url": "https://trustmrr.com/startup/aimagazine.md",
+      "read_at": "2026-11-16T09:03:16.997152+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aimageresize",
+      "source_url": "https://trustmrr.com/startup/aimageresize.md",
+      "read_at": "2026-11-16T09:03:17.991588+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aimatch-pro",
+      "source_url": "https://trustmrr.com/startup/aimatch-pro.md",
+      "read_at": "2026-11-16T09:03:18.717012+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aimentiontracker",
+      "source_url": "https://trustmrr.com/startup/aimentiontracker.md",
+      "read_at": "2026-11-16T09:03:19.814927+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aimenuscanner",
+      "source_url": "https://trustmrr.com/startup/aimenuscanner.md",
+      "read_at": "2026-11-16T09:03:20.616540+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aimytrade-io",
+      "source_url": "https://trustmrr.com/startup/aimytrade-io.md",
+      "read_at": "2026-11-16T09:03:21.279213+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ainave",
+      "source_url": "https://trustmrr.com/startup/ainave.md",
+      "read_at": "2026-11-16T09:03:22.100221+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ainexo",
+      "source_url": "https://trustmrr.com/startup/ainexo.md",
+      "read_at": "2026-11-16T09:03:23.131408+00:00",
+      "status": 200
+    },
+    {
+      "slug": "ainfographic-com",
+      "source_url": "https://trustmrr.com/startup/ainfographic-com.md",
+      "read_at": "2026-11-16T09:03:23.891898+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aio-insights",
+      "source_url": "https://trustmrr.com/startup/aio-insights.md",
+      "read_at": "2026-11-16T09:03:25.004098+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aipcbuilding",
+      "source_url": "https://trustmrr.com/startup/aipcbuilding.md",
+      "read_at": "2026-11-16T09:03:25.552060+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aipwn",
+      "source_url": "https://trustmrr.com/startup/aipwn.md",
+      "read_at": "2026-11-16T09:03:26.390796+00:00",
+      "status": 200
+    },
+    {
+      "slug": "airankpilot",
+      "source_url": "https://trustmrr.com/startup/airankpilot.md",
+      "read_at": "2026-11-16T09:03:27.332983+00:00",
+      "status": 200
+    },
+    {
+      "slug": "airanq",
+      "source_url": "https://trustmrr.com/startup/airanq.md",
+      "read_at": "2026-11-16T09:03:27.986009+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aircoalert",
+      "source_url": "https://trustmrr.com/startup/aircoalert.md",
+      "read_at": "2026-11-16T09:03:28.839768+00:00",
+      "status": 200
+    },
+    {
+      "slug": "airconcierge",
+      "source_url": "https://trustmrr.com/startup/airconcierge.md",
+      "read_at": "2026-11-16T09:03:29.819512+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aircoradar",
+      "source_url": "https://trustmrr.com/startup/aircoradar.md",
+      "read_at": "2026-11-16T09:03:30.681533+00:00",
+      "status": 200
+    },
+    {
+      "slug": "airfryer-genius",
+      "source_url": "https://trustmrr.com/startup/airfryer-genius.md",
+      "read_at": "2026-11-16T09:03:31.612523+00:00",
+      "status": 200
+    },
+    {
+      "slug": "airspell",
+      "source_url": "https://trustmrr.com/startup/airspell.md",
+      "read_at": "2026-11-16T09:03:32.618961+00:00",
+      "status": 200
+    },
+    {
+      "slug": "airticler",
+      "source_url": "https://trustmrr.com/startup/airticler.md",
+      "read_at": "2026-11-16T09:03:33.278810+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aisaaswebsitebygefei",
+      "source_url": "https://trustmrr.com/startup/aisaaswebsitebygefei.md",
+      "read_at": "2026-11-16T09:03:34.529913+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aisanity",
+      "source_url": "https://trustmrr.com/startup/aisanity.md",
+      "read_at": "2026-11-16T09:03:34.833994+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiscored",
+      "source_url": "https://trustmrr.com/startup/aiscored.md",
+      "read_at": "2026-11-16T09:03:35.612833+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aisdr-inc",
+      "source_url": "https://trustmrr.com/startup/aisdr-inc.md",
+      "read_at": "2026-11-16T09:03:36.240706+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiselfi-es",
+      "source_url": "https://trustmrr.com/startup/aiselfi-es.md",
+      "read_at": "2026-11-16T09:03:37.448754+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiseomate",
+      "source_url": "https://trustmrr.com/startup/aiseomate.md",
+      "read_at": "2026-11-16T09:03:38.517401+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiseoscan",
+      "source_url": "https://trustmrr.com/startup/aiseoscan.md",
+      "read_at": "2026-11-16T09:03:38.928516+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aishorts",
+      "source_url": "https://trustmrr.com/startup/aishorts.md",
+      "read_at": "2026-11-16T09:03:40.236145+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aisle-wedding-planner",
+      "source_url": "https://trustmrr.com/startup/aisle-wedding-planner.md",
+      "read_at": "2026-11-16T09:03:40.861494+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiso-blog",
+      "source_url": "https://trustmrr.com/startup/aiso-blog.md",
+      "read_at": "2026-11-16T09:03:41.496583+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aisqlhub",
+      "source_url": "https://trustmrr.com/startup/aisqlhub.md",
+      "read_at": "2026-11-16T09:03:42.517817+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aisthetix-tryon",
+      "source_url": "https://trustmrr.com/startup/aisthetix-tryon.md",
+      "read_at": "2026-11-16T09:03:43.272041+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aistote",
+      "source_url": "https://trustmrr.com/startup/aistote.md",
+      "read_at": "2026-11-16T09:03:44.411614+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aistudios",
+      "source_url": "https://trustmrr.com/startup/aistudios.md",
+      "read_at": "2026-11-16T09:03:45.112559+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aitachyon",
+      "source_url": "https://trustmrr.com/startup/aitachyon.md",
+      "read_at": "2026-11-16T09:03:45.920172+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aitechroles",
+      "source_url": "https://trustmrr.com/startup/aitechroles.md",
+      "read_at": "2026-11-16T09:03:46.727355+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiter-io",
+      "source_url": "https://trustmrr.com/startup/aiter-io.md",
+      "read_at": "2026-11-16T09:03:47.751454+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aitoolhunt",
+      "source_url": "https://trustmrr.com/startup/aitoolhunt.md",
+      "read_at": "2026-11-16T09:03:48.517878+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aitube",
+      "source_url": "https://trustmrr.com/startup/aitube.md",
+      "read_at": "2026-11-16T09:03:49.405711+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aiturnout",
+      "source_url": "https://trustmrr.com/startup/aiturnout.md",
+      "read_at": "2026-11-16T09:03:50.179588+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aivastark",
+      "source_url": "https://trustmrr.com/startup/aivastark.md",
+      "read_at": "2026-11-16T09:03:51.092696+00:00",
+      "status": 200
+    },
+    {
+      "slug": "aivideobygefei",
+      "source_url": "https://trustmrr.com/startup/aivideobygefei.md",
+      "read_at": "2026-11-16T09:03:51.778552+00:00",
+      "status": 200
+    }
+  ]
+}

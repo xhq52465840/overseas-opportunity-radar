@@ -1,0 +1,1046 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://trustmrr.com/#organization",
+        "name": "TrustMRR",
+        "url": "https://trustmrr.com",
+        "logo": "https://trustmrr.com/icon.png",
+        "description": "Buy and sell SaaS, apps, and digital businesses on TrustMRR, the startup marketplace with verified revenue, MRR, growth, and acquisition metrics."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://trustmrr.com/#website",
+        "name": "TrustMRR",
+        "url": "https://trustmrr.com",
+        "publisher": {
+          "@id": "https://trustmrr.com/#organization"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://trustmrr.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://trustmrr.com/#webpage",
+        "url": "https://trustmrr.com",
+        "name": "TrustMRR - Buy and Sell SaaS Startups",
+        "description": "Buy and sell SaaS, apps, and digital businesses on TrustMRR, the startup marketplace with verified revenue, MRR, growth, and acquisition metrics.",
+        "isPartOf": {
+          "@id": "https://trustmrr.com/#website"
+        },
+        "about": {
+          "@id": "https://trustmrr.com/#verified-startup-revenue-dataset"
+        },
+        "primaryImageOfPage": "https://trustmrr.com/opengraph-image.png",
+        "mainEntity": {
+          "@id": "https://trustmrr.com/#top-verified-startups"
+        }
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://trustmrr.com/#verified-startup-revenue-dataset",
+        "name": "TrustMRR verified startup revenue database",
+        "url": "https://trustmrr.com",
+        "description": "A startup acquisition marketplace and public database of SaaS, apps, and digital businesses with revenue and marketplace metrics verified through payment providers and connected analytics sources when available.",
+        "creator": {
+          "@id": "https://trustmrr.com/#organization"
+        },
+        "publisher": {
+          "@id": "https://trustmrr.com/#organization"
+        },
+        "keywords": [
+          "Artificial Intelligence",
+          "SaaS",
+          "Developer Tools",
+          "Fintech",
+          "Productivity",
+          "Marketing",
+          "E-commerce",
+          "Design Tools",
+          "No-Code",
+          "Analytics",
+          "Education",
+          "Health & Fitness",
+          "Social Media",
+          "Content Creation",
+          "Sales",
+          "Customer Support",
+          "Recruiting & HR",
+          "Real Estate",
+          "Travel",
+          "Security"
+        ],
+        "measurementTechnique": "Payment-provider API verification, connected traffic analytics, Google Search Console, GitHub activity, and founder-provided marketplace data.",
+        "variableMeasured": [
+          "Verified revenue",
+          "Monthly recurring revenue",
+          "Revenue growth",
+          "Traffic",
+          "Revenue per visitor",
+          "Acquisition asking price",
+          "Revenue multiple"
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://trustmrr.com/#top-verified-startups",
+        "name": "Top startups by verified revenue",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://trustmrr.com/startup/gumroad",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/gumroad#organization",
+              "name": "Gumroad",
+              "url": "https://trustmrr.com/startup/gumroad",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/gumroad-113809f2-c628-4d3a-8adb-fbdc414784d7.png",
+              "description": "Go from 0 to $1",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified GMV, last 30 days",
+                  "value": 7143937.999999995,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 878595860.5199997,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 0,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://trustmrr.com/startup/pastel",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/pastel#organization",
+              "name": "Pastel",
+              "url": "https://trustmrr.com/startup/pastel",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/ma-boutique-7aefe79c-6812-4f86-a0b5-f99883ee187d.png",
+              "description": "Turn high-intent buyers into revenue - We surface buyers already interested in your product across social platforms and engage them directly.",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 6419480.321808042,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 6508332.7700356785,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 0,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 949.8549410770963,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": 0,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://trustmrr.com/startup/stan",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/stan#organization",
+              "name": "Stan",
+              "url": "https://trustmrr.com/startup/stan",
+              "image": "https://files.stripe.com/links/MDB8YWNjdF8xTXlnNkdDY0N2cGd5d1RufGZsX2xpdmVfUDcwUmxUUjZuUFR0RDhrS2ZpMEI3bkZN00QXGw5NKb",
+              "description": "Stan enables people to make living and work for themselves.",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2844651.94697744,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 76627685.07479446,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 3569654.22,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -7.602785221506508,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": 0.42784466426209566,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://trustmrr.com/startup/easytools-sp-z-o-o",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/easytools-sp-z-o-o#organization",
+              "name": "easytools",
+              "url": "https://trustmrr.com/startup/easytools-sp-z-o-o",
+              "image": "https://files.stripe.com/links/MDB8YWNjdF8xSXIxTDRFbnRqdUdOYURHfGZsX2xpdmVfYTBOWjN0OXBsUGFpZklDOVBZMHJEUVBW00tG23D7uD",
+              "description": "Sell digital products easier than ever before",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified GMV, last 30 days",
+                  "value": 2703570.4649458947,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 82107087.16467215,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 0,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://trustmrr.com/startup/arntreal",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/arntreal#organization",
+              "name": "ARNTREAL",
+              "url": "https://trustmrr.com/startup/arntreal",
+              "description": "Sells distinctive streetwear, apparel, bags, and accessories through an online store, with no customs or import fees advertised.",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 1197138.5357687199,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 9051560.557024118,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 0,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 47.44975378484001,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": 0,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://trustmrr.com/startup/comp-ai",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/comp-ai#organization",
+              "name": "Comp AI",
+              "url": "https://trustmrr.com/startup/comp-ai",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/bubba-ai-inc-a7ead591-62f5-4479-b6e2-c90910068261.jpg",
+              "description": "The fastest way to get compliant with cyber security frameworks like SOC 2 and ISO 27001.",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 990868.64,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 7096590.96,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 17382.67,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 31.441713703989137,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": 52.86840793832261,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://trustmrr.com/startup/stealth-company-17",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/stealth-company-17#organization",
+              "name": "Stealth Company",
+              "url": "https://trustmrr.com/startup/stealth-company-17",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 857621.6111514034,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 4753822.416590386,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 135899.31,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 718.9372678021773,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": 12983.364595150124,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://trustmrr.com/startup/stack-influence",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/stack-influence#organization",
+              "name": "Stack Influence",
+              "url": "https://trustmrr.com/startup/stack-influence",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/stack-influence-9ad26773-85fb-46ad-822a-6accdd49ee61.png",
+              "description": "Micro Creator marketing platform for eComm brands.",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 821027.02,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 29506631.66,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 26241.5,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -16.077477246380205,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": -8.215480756899193,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://trustmrr.com/startup/brand-on-demand-inc",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/brand-on-demand-inc#organization",
+              "name": "Brand On Demand, Inc.",
+              "url": "https://trustmrr.com/startup/brand-on-demand-inc",
+              "image": "https://files.stripe.com/links/MDB8YWNjdF8xQVRSWHZIS0J1a29Ob3lyfGZsX2xpdmVfV2pySWhsN0MweDFZZ20wTE9lYTd0MEpV00RLZZopWY",
+              "description": "Supliful is an all-in-one platform for Creators to launch and operate a scalable CPG brand. Our approach unifies the entire business cycle – from product selection all the way through e-commerce enablement and order fulf",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 814964.01,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 54678901.143129244,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 175644.67,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -14.352435366799687,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": -2.5759591322442725,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://trustmrr.com/startup/online-edtech",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/online-edtech#organization",
+              "name": "Stealth Company",
+              "url": "https://trustmrr.com/startup/online-edtech",
+              "description": "Profitable online language learning platform combining live 1-on-1 tutoring with AI-powered speaking practice, personalized learning and learner analytics.",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 665247.6938910169,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified total revenue",
+                  "value": 8838074.337289937,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Current MRR",
+                  "value": 171754.29,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 10.976811803480517,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "MRR growth, last 30 days",
+                  "value": 13.76212836061272,
+                  "unitText": "percent"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Traffic, last 30 days",
+                  "value": 502665,
+                  "unitText": "visitors"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue per visitor, last 30 days",
+                  "value": 1.3234,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://trustmrr.com/#recent-acquisition-listings",
+        "name": "Recently listed startups for sale",
+        "url": "https://trustmrr.com/acquire",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://trustmrr.com/startup/submitsaas",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/submitsaas#organization",
+              "name": "SubmitSaaS",
+              "url": "https://trustmrr.com/startup/submitsaas",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/submitsaas-25f9c5aa-fe83-4cbf-b5e7-c40015919675.png",
+              "description": "We Submit Your SaaS to 140+ Directories Effortlessly",
+              "category": "Marketing",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2401.651852308973,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://trustmrr.com/startup/cozyroom",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/cozyroom#organization",
+              "name": "CozyRoom",
+              "url": "https://trustmrr.com/startup/cozyroom",
+              "description": "A Chrome companion for DAT One that helps freight brokers spot new and changed loads, filter results, and keep call notes with less manual work.",
+              "category": "Productivity",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2747.2500000000005,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://trustmrr.com/startup/screeny",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/screeny#organization",
+              "name": "Screeny: Mockup & Product Demo",
+              "url": "https://trustmrr.com/startup/screeny",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/screeny-836c5236-8f0d-4a8b-ae43-5ee2dd8af656.png",
+              "description": "The simplest way to make beautiful product demos. Screeny is an iOS and macOS app that turns raw screenshots and screen recordings into polished mockups and 3D animations in seconds, ready for social media and the App St",
+              "category": "Mobile Apps",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2558.45,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://trustmrr.com/startup/smartlycv",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/smartlycv#organization",
+              "name": "SmartlyCV",
+              "url": "https://trustmrr.com/startup/smartlycv",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/smartlycv-03c1c295-3099-43b2-b858-f1ca1f0e47c2.jpg",
+              "description": "AI tools to tailor ATS-friendly resumes and cover letters to job postings, practice interviews, and manage applications in one workspace.",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 408.67387906991894,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://trustmrr.com/startup/deepsearch",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/deepsearch#organization",
+              "name": "DeepSearch AI - People Finder",
+              "url": "https://trustmrr.com/startup/deepsearch",
+              "image": "https://www.appatar.io/xyz.maplebyte.peoplesearch/large?store=app_store",
+              "description": "Performs a deep AI search on people and compiles information about them.",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 632.46,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://trustmrr.com/startup/agenkit",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/agenkit#organization",
+              "name": "AgenKit",
+              "url": "https://trustmrr.com/startup/agenkit",
+              "image": "https://polar-public-files.s3.amazonaws.com/organization_avatar/54b4a15e-f602-4688-99ca-53954312a107/5f6970a5-2d50-4255-ba89-6b85fba82a81/agenkit.png",
+              "description": "We've helped 170+ programmers turn trading strategies into bots.",
+              "category": "SaaS",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2561.39,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://trustmrr.com/startup/private-venture-104",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/private-venture-104#organization",
+              "name": "Stealth Company",
+              "url": "https://trustmrr.com/startup/private-venture-104",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 9676.9,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://trustmrr.com/startup/productsfarm",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/productsfarm#organization",
+              "name": "Productsfarm",
+              "url": "https://trustmrr.com/startup/productsfarm",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/productsfarm-33f6cd4d-3ad7-4246-98fb-3a623a42a932.png",
+              "description": "Directory for saas and app",
+              "category": "Marketing",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 639.9926440589006,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://trustmrr.com/startup/superpower-for-ai",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/superpower-for-ai#organization",
+              "name": "Superpower for AI",
+              "url": "https://trustmrr.com/startup/superpower-for-ai",
+              "image": "https://cdn.lemonsqueezy.com/avatars/stores/297926/NIK8hrLdrq8WAHQ8WylilNvSA0vpcl1gQlTAFsdY.png?fit=contain&format=auto&height=100&ixlib=php-3.3.1&width=100",
+              "description": "Superpower for AI are 5 Chrome extensions that add the missing power-user features to the major AI chat tools: Superpower for Gemini, Superpower for Claude, Superpower for NotebookLM, Superpower for Grok and Workbench fo",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2259.04,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://trustmrr.com/startup/pattes-moi",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/pattes-moi#organization",
+              "name": "Pattes & Moi",
+              "url": "https://trustmrr.com/startup/pattes-moi",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/pattes-moi-71446fd6-30ae-41d3-9463-4cd307ab3222.png",
+              "description": "Pattes & Moi turns a photo of you and your pet into a custom AI portrait, delivered digitally or printed on keepsake products, launched October 2026. 100+ paid orders and ~3,650 CAD in revenue in under a month, driven by",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2687.773971655209,
+                  "unitText": "USD"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://trustmrr.com/#best-startup-deals",
+        "name": "Best startup acquisition deals this week",
+        "url": "https://trustmrr.com/acquire",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://trustmrr.com/startup/scalereach",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/scalereach#organization",
+              "name": "Scalereach.ai",
+              "url": "https://trustmrr.com/startup/scalereach",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/anonymous-startup-78-ed3c5683-1c4d-431d-9906-0101d666a54a.png",
+              "description": "AI video repurposing tool that turns long videos into viral short clips for TikTok, Reels and YouTube Shorts. Paste a YouTube, Twitch, Kick, Drive or Loom link and ScaleReach finds the best moments, scores them for viral",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 6584.588105168321,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 5649.241044676512,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://trustmrr.com/startup/hidden-business-90",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/hidden-business-90#organization",
+              "name": "Stealth Company",
+              "url": "https://trustmrr.com/startup/hidden-business-90",
+              "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no running costs. Not in a rush to sell. Hap",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 4022.81,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 107.1072601653641,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://trustmrr.com/startup/screeny",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/screeny#organization",
+              "name": "Screeny: Mockup & Product Demo",
+              "url": "https://trustmrr.com/startup/screeny",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/screeny-836c5236-8f0d-4a8b-ae43-5ee2dd8af656.png",
+              "description": "The simplest way to make beautiful product demos. Screeny is an iOS and macOS app that turns raw screenshots and screen recordings into polished mockups and 3D animations in seconds, ready for social media and the App St",
+              "category": "Mobile Apps",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2558.45,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 301.8549932460025,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://trustmrr.com/startup/private-enterprise-92",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/private-enterprise-92#organization",
+              "name": "Stealth Company",
+              "url": "https://trustmrr.com/startup/private-enterprise-92",
+              "description": "An app for content creators: upload a video and get a score and report on how viral it could be. Steady new users every month, low running costs, and plenty of room to grow with better marketing. Not in a rush to sell. H",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 471.93,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 31.809295050832304,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://trustmrr.com/startup/capacity-track",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/capacity-track#organization",
+              "name": "Capacity Track",
+              "url": "https://trustmrr.com/startup/capacity-track",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/capacity-track-05c69a22-5b20-4b24-80a0-1b421b417079.png",
+              "description": "Helps Minnesota families and care professionals find licensed residential care providers and current openings, then contact selected providers with one inquiry.",
+              "category": "Marketplace",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2108,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -10.41223969400765,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://trustmrr.com/startup/janusprep-ai",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/janusprep-ai#organization",
+              "name": "JanusPrep.AI",
+              "url": "https://trustmrr.com/startup/janusprep-ai",
+              "image": "[REMOVED_UNSAFE_URL]",
+              "description": "This digital SAT preparation platform simulates the real SAT exam experience, allowing students to practice with a comprehensive library of exams and receive AI-personalized study plans to help them achieve top scores. T",
+              "category": "Education",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 1898.39,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -22.688880562976486,
+                  "unitText": "percent"
+                }
+              ],
+              "publication_redactions": [
+                "image"
+              ],
+              "publication_redaction_note": "Unsafe credential-like/source-link content omitted without validation or use; other project facts retained."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://trustmrr.com/startup/canvasninjaapp",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/canvasninjaapp#organization",
+              "name": "CanvasNinja",
+              "url": "https://trustmrr.com/startup/canvasninjaapp",
+              "image": "https://files.stripe.com/links/MDB8YWNjdF8xVHNGZ2NDdUV0Zk9keThtfGZsX2xpdmVfeUtxZlBuREEzMjZVb2oyamtJVjFLMnhB00hcF3JwF1",
+              "description": "CanvasNinja is a Chrome extension that students use to cheat on Canvas exams by staying undetected by Canvas's logging system. It has three main features: Privacy Guard, Answer Saver and Smart Answers. Most of the custom",
+              "category": "Education",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 2066.8399999999997,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -24.36942195030004,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://trustmrr.com/startup/smartlycv",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/smartlycv#organization",
+              "name": "SmartlyCV",
+              "url": "https://trustmrr.com/startup/smartlycv",
+              "image": "https://d21oz30g4w22sz.cloudfront.net/logos/smartlycv-03c1c295-3099-43b2-b858-f1ca1f0e47c2.jpg",
+              "description": "AI tools to tailor ATS-friendly resumes and cover letters to job postings, practice interviews, and manage applications in one workspace.",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 408.67387906991894,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": 462.06791995148564,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://trustmrr.com/startup/deepsearch",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/deepsearch#organization",
+              "name": "DeepSearch AI - People Finder",
+              "url": "https://trustmrr.com/startup/deepsearch",
+              "image": "https://www.appatar.io/xyz.maplebyte.peoplesearch/large?store=app_store",
+              "description": "Performs a deep AI search on people and compiles information about them.",
+              "category": "Artificial Intelligence",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 632.46,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -13.709171282778975,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://trustmrr.com/startup/creator-monetization",
+            "item": {
+              "@type": "Organization",
+              "@id": "https://trustmrr.com/startup/creator-monetization#organization",
+              "name": "Stealth Company",
+              "url": "https://trustmrr.com/startup/creator-monetization",
+              "description": "Platform for monetizing content on Telegram with AI",
+              "category": "Education",
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Verified revenue, last 30 days",
+                  "value": 29038.95911686361,
+                  "unitText": "USD"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Revenue growth, last 30 days",
+                  "value": -16.583327936054516,
+                  "unitText": "percent"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

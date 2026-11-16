@@ -1,0 +1,10 @@
+{
+  "at": "2026-11-16T09:17:38.384694+00:00",
+  "status": "baseline_initialized",
+  "network_requests": 0,
+  "project_count": 12590,
+  "semantic_version": "aabb9d85068b30fa049ca66d5e885be40d97475576386ca5416e42e5cb6b6324",
+  "baseline_no_history": true,
+  "material_change_count": 0,
+  "publication_status": "security_gate_passed"
+}

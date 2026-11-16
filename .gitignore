@@ -1,0 +1,13 @@
+_site/
+.monitor-work/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+.cf-token
+*.log
+.local-config.json

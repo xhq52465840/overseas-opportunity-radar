@@ -1,0 +1,17 @@
+# *
+User-agent: *
+Allow: /
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+Disallow: /*.md$
+Disallow: /*_rsc=
+
+# Host
+Host: https://trustmrr.com
+
+# Sitemaps
+Sitemap: https://trustmrr.com/sitemap.xml
+Sitemap: https://trustmrr.com/compete-sitemap.xml
+Sitemap: https://trustmrr.com/startup-sitemap.xml

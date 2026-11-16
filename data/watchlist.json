@@ -1,0 +1,212 @@
+{
+  "purpose": "人工小观察表，不过滤完整项目池；仅作为低投入缩小版的待验证假设，不代表原项目成本已核实或投资推荐。插件、Mac原生等原始类型仍保留。",
+  "projects": [
+    {
+      "slug": "pdfbolt",
+      "name": "PDFBolt",
+      "function_original": "Scalable & Privacy‑First PDF Generation API",
+      "source_url": "https://trustmrr.com/startup/pdfbolt.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "doctotable",
+      "name": "DocToTable",
+      "function_original": "Simple online tool to convert pdfs into excel/.csv files",
+      "source_url": "https://trustmrr.com/startup/doctotable.md",
+      "read_at": "2026-11-16T08:36:32.351343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "invoicesplitter",
+      "name": "InvoiceSplitter",
+      "function_original": "Automatically split, crop, and auto-rename mixed PDF receipts/bills and invoices in minutes.",
+      "source_url": "https://trustmrr.com/startup/invoicesplitter.md",
+      "read_at": "2026-11-16T08:36:32.351343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "batch-studio",
+      "name": "Batch Studio",
+      "function_original": "AI-powered batch image editor. Edit up to a 1000 image at once.",
+      "source_url": "https://trustmrr.com/startup/batch-studio.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "fontwise",
+      "name": "Fontwise",
+      "function_original": "Fontwise is a Figma plugin that makes typography work faster and more consistent. Scan your file to see fonts in use, replace fonts in bulk, and fix missing text styles without updating layers one by one. Explore 350+ curated font pairings and preview combinations before applying them. Built for designers and teams who want to spend less time on repetitive typography cleanup.",
+      "source_url": "https://trustmrr.com/startup/fontwise.md",
+      "read_at": "2026-11-16T08:36:32.347342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "lasso",
+      "name": "Lasso",
+      "function_original": "Turn messy product data into enhanced ecommerce listings with AI. Import raw supplier files in any format. AI maps them to your structure, finds missing information on the web, enriches attributes, generates on-brand descriptions, and perfect catalog images. Your team only reviews and approves - saving time and improving data quality.",
+      "source_url": "https://trustmrr.com/startup/lasso.md",
+      "read_at": "2026-11-16T08:36:32.347342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "specify",
+      "name": "Specify",
+      "function_original": "Create description for eCommerce products",
+      "source_url": "https://trustmrr.com/startup/specify.md",
+      "read_at": "2026-11-16T08:36:32.347342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "hyprfeed",
+      "name": "Hyprfeed",
+      "function_original": "HYPRFEED is a minimalist RSS reader powered by AI. It gives you back control over fragmented web content, synthesizing it for speed and relevance.",
+      "source_url": "https://trustmrr.com/startup/hyprfeed.md",
+      "read_at": "2026-11-16T08:36:32.343342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "linkazu-com",
+      "name": "Linkazu.com",
+      "function_original": "Automated link monitoring for SEO agencies. Track sponsored article compliance, verify dofollow status, and get instant alerts when links break or change.",
+      "source_url": "https://trustmrr.com/startup/linkazu-com.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "gpt-subtitler",
+      "name": "GPT Subtitler",
+      "function_original": "Translate subtitle files in 100+ languages with context-aware AI, or turn audio and video into editable captions.",
+      "source_url": "https://trustmrr.com/startup/gpt-subtitler.md",
+      "read_at": "2026-11-16T08:36:32.347342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "sqlflow",
+      "name": "SQLFlow",
+      "function_original": "SQLFlow is a secure, browser-first data migration utility built for modern engineers. It effortlessly converts .csv and .xlsx files into production-ready SQL scripts (PostgreSQL, MySQL, and T-SQL) with support for Insert, Update, and Upsert logic. Featuring a live preview, seamless column mapping, and transaction-based pricing, it completely eliminates recurring subscriptions. No account is required—your data is parsed locally in the browser and remains entirely private.",
+      "source_url": "https://trustmrr.com/startup/sqlflow.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "screensnap",
+      "name": "ScreenSnap",
+      "function_original": "Create and edit beautiful screenshots without leaving your browser.",
+      "source_url": "https://trustmrr.com/startup/screensnap.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "sitehaul",
+      "name": "SiteHaul",
+      "function_original": "Screenshot an entire website in one click. A complete snapshot of any website: every page, at desktop and mobile sizes, in one run. Built for moodboards, portfolios, and a visual record before a rebuild.",
+      "source_url": "https://trustmrr.com/startup/sitehaul.md",
+      "read_at": "2026-11-16T08:36:32.347342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "shotomatic",
+      "name": "Shotomatic",
+      "function_original": "Hands-free screenshot automation for macos. Shotomatic captures, schedules and scripts screenshots on Mac so you can archive your favorite content, create timelapses, record bug reports and tutorials without lifting a finger. Here’s what it can do: – Capture screenshots at a custom interval (ex. every 500ms) – Simulate key presses between shots (like arrow keys or page down) – Capture entire screen, specific window, or custom area",
+      "source_url": "https://trustmrr.com/startup/shotomatic.md",
+      "read_at": "2026-11-16T08:36:32.351343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "pdf-editify",
+      "name": "PDF Editify",
+      "function_original": "PDF Editify allows users to fill, sign, and edit PDFs online securely and quickly.",
+      "source_url": "https://trustmrr.com/startup/pdf-editify.md",
+      "read_at": "2026-11-16T08:36:32.343342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "ai-pdf-studio",
+      "name": "AI PDF STUDIO",
+      "function_original": "Online document editing (PDF) with the assistance of AI",
+      "source_url": "https://trustmrr.com/startup/ai-pdf-studio.md",
+      "read_at": "2026-11-16T08:36:32.343342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "orshot-com",
+      "name": "Orshot.com",
+      "function_original": "Orshot is an API and Automation service for Creative Marketing",
+      "source_url": "https://trustmrr.com/startup/orshot-com.md",
+      "read_at": "2026-11-16T08:36:32.343342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "imejis-io",
+      "name": "Imejis.io",
+      "function_original": "Generate social media images, e-commerce banners, and more with our powerful API and seamless integrations. Scale your visual content without limits.",
+      "source_url": "https://trustmrr.com/startup/imejis-io.md",
+      "read_at": "2026-11-16T08:36:32.351343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "pdf2epub",
+      "name": "pdf2epub",
+      "function_original": "Converts PDFs into reader-ready EPUBs with properly reconstructed paragraphs and chapters, plus OCR for scanned pages.",
+      "source_url": "https://trustmrr.com/startup/pdf2epub.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "topsd",
+      "name": "toPSD",
+      "function_original": "toPSD converts Procreate (.procreate) files into layered PSD, TIFF and Krita files in the web browser, no iPad needed. Files never leave the customer's device. The preview and flat PNG, JPG and PDF exports are free; a layered file is $3.90, or $24.90 once for Unlimited.",
+      "source_url": "https://trustmrr.com/startup/topsd.md",
+      "read_at": "2026-11-16T08:36:32.347342+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "catalogohoy",
+      "name": "CatalogoHoy",
+      "function_original": "Manage an online product catalog, orders, sales, customers, and store metrics from your phone.",
+      "source_url": "https://trustmrr.com/startup/catalogohoy.md",
+      "read_at": "2026-11-16T08:36:32.355343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "nice-catalogs",
+      "name": "Nice Catalogs",
+      "function_original": "Nice Catalogs allows users to create a digital catalog to showcase their products online without direct sales. Customers select a monthly plan and are charged at the start of each billing cycle.",
+      "source_url": "https://trustmrr.com/startup/nice-catalogs.md",
+      "read_at": "2026-11-16T08:36:32.351343+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    },
+    {
+      "slug": "briefbasket",
+      "name": "briefbasket",
+      "function_original": "BriefBasket helps freelancers and agencies collect everything they need from clients in one simple link. Ask questions, request files and links, track progress, and avoid messy email chains or endless follow-ups.",
+      "source_url": "https://trustmrr.com/startup/briefbasket.md",
+      "read_at": "2026-11-16T08:36:43.259770+00:00",
+      "selection_hypothesis": "可讨论缩小核心重复任务的实现；开发/运营/API/获客费用均未知，需后续核验。",
+      "verified_replication_cost": null
+    }
+  ]
+}

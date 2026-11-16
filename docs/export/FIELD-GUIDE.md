@@ -1,0 +1,23 @@
+# 字段说明
+
+- `slug`, `trustmrr_url`：项目原站唯一身份；去重仅按此身份。
+- `name`：原始项目名；匿名占位保持原样。
+- `website_url`：来源明确给出的官网；未猜测域名，也未代表官网已访问。
+- `core_function_original`, `core_function_precision`：原始功能/简介；目录/推荐卡可能被源站截断。中文没有可靠来源则 core_function_zh=null。
+- `source_categories`：原站Markets/推荐category、原站类别URL及来源出处。不是研究者自创分类。
+- `metrics.mrr`, `metrics.revenue_30d`, `metrics.revenue_total`：各自包含 amount、currency、display、precision、synced_at、source_url、read_at。
+- `amount`：对发布文本的数值解析；`display`保留原文；`currency`仅对$展示记录USD，不擅自汇率换算。
+- `precision`：directory_display_rounded_or_unknown / public_recommendation_display_rounded_or_unknown 表示展示值可能四舍五入；public_profile_published_snapshot 表示档案发布值，也不是未舍入账本。
+- `metrics.gmv_30d` / `metrics.gmv_total`：仅来源明确展示GMV时出现；商品交易总额不是该平台营收，绝不替代收入。`metric_label_conflict`说明来源标签冲突和处理口径。
+- `revenue_synced_at`：支付数据最后同步时间；与采集read_at不同。
+- `founded_date`：成立日期。`launch_date`：有明确上线证据才填；`launch_evidence`包含原文引用、来源和未经独立核实标记。
+- `target_customers_original`, `pricing_original`, `distribution_channels_original`, `tech_stack_original`, `value_proposition_original`, `problem_solved_original`, `audience_type_original`, `additional_info_original`：公开档案原文，通常创始人自填；可能含Markdown链接。缺失就是null。
+- `payment_verification_provider`：原站公布支付数据来源；不表示我们拿到任何密钥。
+- `directory_present`, `directory_page`：在本次目录中是否出现及分页位置；位置不是排名。
+- `profile_read`, `verification_level`：是否读了档案和O/P/D/R来源级别。
+- `directory_snapshot`：即使另读档案，也保留目录描述和收入展示值，便于追溯差异。
+- `official_deep_check`：已有官网正文证据的清单；未发生本轮逐站深核。缓存文件路径是本机研究路径，不一定打包。
+- `source_url`, `read_at`：主来源；`sources`包含多来源及缓存时点说明。类别和收入还有逐字段来源。
+- `replication_cost`：未核实成本未知；`is_web_product`：未经核实不凭名判断；`analysis`：空，留给你的AI。
+- `missing_fields`：主要字段缺失清单；不等于项目质量低。
+- `metadata`：覆盖范围、公开目录标称数、原始卡片数、去重数、档案数、失败/中止、金额口径和限制。

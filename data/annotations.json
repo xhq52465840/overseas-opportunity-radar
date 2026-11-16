@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "warning": "人工信息与采集结果分离；本文件不被抓取器覆盖。此公开仓库的备注对所有人可见。浏览器收藏另存本机，不自动同步。",
+  "projects": {
+    "pdfbolt": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "doctotable": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "invoicesplitter": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "batch-studio": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "fontwise": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "lasso": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "specify": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "hyprfeed": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "linkazu-com": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "gpt-subtitler": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "sqlflow": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "screensnap": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "sitehaul": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "shotomatic": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "pdf-editify": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "ai-pdf-studio": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "orshot-com": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "imejis-io": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "pdf2epub": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "topsd": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "catalogohoy": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "nice-catalogs": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    },
+    "briefbasket": {
+      "watch": true,
+      "status": "待核验",
+      "note": "候选观察，不代表成本已验证；优先研究能否缩小核心重复任务。",
+      "tags": [
+        "人工观察"
+      ]
+    }
+  }
+}
