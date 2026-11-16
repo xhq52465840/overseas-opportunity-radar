@@ -28,7 +28,7 @@ test_nested_sensitive_field_names_omitted (test_redaction.URLSafetyTests.test_ne
 test_only_http_https_without_authentication (test_redaction.URLSafetyTests.test_only_http_https_without_authentication) ... ok
 
 ----------------------------------------------------------------------
-Ran 28 tests in 0.343s
+Ran 28 tests in 0.375s
 
 OK
-{"projects": 1, "detail_chunks": 1, "markdown_parts": 1, "index_bytes": 793, "zip_bytes": 1949}
+{"projects": 1, "detail_chunks": 1, "markdown_parts": 1, "index_bytes": 824, "zip_bytes": 1949}

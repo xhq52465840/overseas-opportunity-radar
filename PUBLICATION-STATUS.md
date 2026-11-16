@@ -16,7 +16,11 @@ Initial publication was rejected by GitHub push protection because an upstream W
 - Live site: https://xhq52465840.github.io/overseas-opportunity-radar/
 - GitHub secret scanning and secret-scanning push protection are enabled. No protection was bypassed or disabled; no rejected commit was republished.
 - Follow-up export check caught an embedded metadata version not updated after redaction. The exporter now synchronizes all fact hashes, with an offline regression test; no project facts were removed.
-- Manual cloud updater validation is still pending at this revision. Scheduled GitHub execution is best effort and upstream failure must be read separately from workflow success.
+- Manual cloud updater and its reusable Pages deployment succeeded: https://github.com/xhq52465840/overseas-opportunity-radar/actions/runs/43843890527
+- Actual source status: success, incremental, 3 public requests, 24 cache hits, 50 recent cards, 2 new projects/profiles; total 12,592 projects and 795 profile sources. This was not a full directory recrawl.
+- Export version consistency deployment also succeeded: https://github.com/xhq52465840/overseas-opportunity-radar/actions/runs/43843851646
+- Scheduled GitHub execution is best effort and upstream failure must be read separately from workflow success.
+- Rolling-year launch/payment filters are implemented and offline tested; their deployment will be verified separately. Existing evidence supports only 4 strict recent-paid projects, plus 316 recent-founded paid candidates awaiting actual launch evidence. The complete pool is retained.
 - Automated tests and live HTTP/data checks are complete; no real-browser visual QA is claimed.
 
 Repository: https://github.com/xhq52465840/overseas-opportunity-radar
