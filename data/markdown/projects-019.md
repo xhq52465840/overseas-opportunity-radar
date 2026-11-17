@@ -1,61 +1,61 @@
-# TrustMRR公开项目 4501–4750 / 12592
+# TrustMRR公开项目 4501–4750 / 12739
 无预筛；功能/类别为来源原文。收入非利润；目录值可能舍入；未知不等于0；新入池/成立日不代表上线。
 |slug / 产品|功能原文|原站类别|MRR / 30天 / 累计（USD）|来源级别|链接|
 |---|---|---|---|---|---|
 |hidden-business-55 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-55)|
-|hidden-business-56 / Anonymous startup|未知|未知|$14k / $34k / $106k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-56)|
-|hidden-business-57 / Anonymous startup|未知|Software|$257k / $671k / $14M|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-57)|
+|hidden-business-56 / Anonymous startup|未知|未知|$14k / $34k / $108k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-56)|
+|hidden-business-57 / Anonymous startup|未知|Software|$257k / $672k / $14.1M|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-57)|
 |hidden-business-58 / Anonymous startup|A consumer health app in a chronic-condition niche, live on iOS and Android and localized in 5 languages. Growth is fully organic from app store search, with no ad spend. There is no backend and no se|未知|$57 / $1k / $1.4k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-58)|
 |hidden-business-6 / Anonymous startup|未知|未知|$0 / $0 / $269|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-6)|
 |hidden-business-60 / Anonymous startup|未知|未知|$7 / $205 / $452|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-60)|
-|hidden-business-61 / Anonymous startup|未知|未知|$3k / $3.8k / $36k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-61)|
-|hidden-business-62 / Anonymous startup|未知|Services|$0 / $7.9k / $27k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-62)|
+|hidden-business-61 / Anonymous startup|未知|未知|$2.8k / $3.8k / $36k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-61)|
+|hidden-business-62 / Anonymous startup|未知|Services|$0 / $7k / $27k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-62)|
 |hidden-business-63 / Anonymous startup|未知|未知|$43 / $157 / $162|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-63)|
 |hidden-business-64 / Anonymous startup|未知|未知|$0 / $0 / $60|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-64)|
 |hidden-business-65 / Anonymous startup|未知|Other|$2k / $72k / $146k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-65)|
 |hidden-business-66 / Anonymous startup|未知|未知|$1.4k / $1.1k / $3.1k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-66)|
 |hidden-business-67 / Anonymous startup|未知|未知|$25 / $25 / $61|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-67)|
-|hidden-business-68 / Hidden Business|未知|未知|$53 / $57 / $608|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-68)|
+|hidden-business-68 / Hidden Business|未知|未知|$53 / $55 / $608|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-68)|
 |hidden-business-69 / Hidden Business|未知|未知|$21 / $9 / $259|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-69)|
 |hidden-business-7 / Anonymous startup|未知|未知|$41 / $77 / $88|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-7)|
 |hidden-business-70 / Anonymous startup|South Asian wedding vendor directory with verified, crowdsourced reviews across 7 US metros for 17 vendor categories. 14k+ niche Instagram following. ~20 paying vendors, rest listed free. Includes an|未知|$0 / $150 / $15k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-70)|
-|hidden-business-71 / Anonymous startup|Native iOS prep app for Turkey's KPSS — the national civil-service exam that draws ~2M+ candidates every year. Live subscription revenue (monthly + annual via RevenueCat), a 2,500+ question bank with|未知|$549 / $299 / $6.2k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-71)|
+|hidden-business-71 / Anonymous startup|Native iOS prep app for Turkey's KPSS — the national civil-service exam that draws ~2M+ candidates every year. Live subscription revenue (monthly + annual via RevenueCat), a 2,500+ question bank with|未知|$521 / $299 / $6.2k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-71)|
 |hidden-business-72 / Anonymous startup|未知|未知|$0 / $0 / $22|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-72)|
-|hidden-business-73 / Anonymous startup|未知|Mobile App|$5.9k / $6.4k / $69k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-73)|
-|hidden-business-74 / Anonymous startup|B2B multi-channel outreach for lead generation|未知|$438 / $512 / $5.5k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-74)|
-|hidden-business-75 / Anonymous startup|An AI-powered weekly meal planner for the market of european specific countries that automatically generates personalized dinner menus based on user preferences. Users set their dietary preferences, h|Mobile App|$2.8k / $7.1k / $18k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-75)|
+|hidden-business-73 / Anonymous startup|未知|Mobile App|$6k / $6.4k / $70k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-73)|
+|hidden-business-74 / Anonymous startup|B2B multi-channel outreach for lead generation|未知|$438 / $502 / $5.5k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-74)|
+|hidden-business-75 / Anonymous startup|An AI-powered weekly meal planner for the market of european specific countries that automatically generates personalized dinner menus based on user preferences. Users set their dietary preferences, h|Mobile App|$2.9k / $7.3k / $18k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-75)|
 |hidden-business-76 / Anonymous startup|P7|未知|$0 / $18 / $435|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-76)|
-|hidden-business-77 / Anonymous startup|未知|Software|$5.9k / $136k / $5M|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-77)|
-|hidden-business-78 / Anonymous startup|未知|未知|$108 / $328 / $591|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-78)|
-|hidden-business-79 / Anonymous startup|未知|未知|$1.7k / $8k / $10k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-79)|
+|hidden-business-77 / Anonymous startup|未知|Software|$5.9k / $160k / $5M|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-77)|
+|hidden-business-78 / Anonymous startup|未知|未知|$108 / $337 / $600|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-78)|
+|hidden-business-79 / Anonymous startup|未知|未知|$604 / $8k / $10k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-79)|
 |hidden-business-8 / Anonymous startup|Provides a simple way to scan your Shopify shop for Google Merchant Center compliance issues|E-commerce|$16k / $18k / $144k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-8)|
-|hidden-business-80 / Anonymous startup|未知|未知|$720 / $632 / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-80)|
+|hidden-business-80 / Anonymous startup|未知|未知|$763 / $650 / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-80)|
 |hidden-business-81 / Anonymous startup|Turns a short story idea into a narrated, animated kids’ video for YouTube.|未知|$113 / $215 / $961|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-81)|
 |hidden-business-82 / Anonymous startup|未知|未知|$108 / $110 / $110|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-82)|
 |hidden-business-83 / Anonymous startup|未知|未知|$29 / $29 / $29|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-83)|
 |hidden-business-84 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-84)|
-|hidden-business-86 / Anonymous startup|Real-time deal alerts for second-hand resellers. Users set search filters (brand, price, condition) and get new marketplace listings within seconds, with prices converted to EUR and one-click buying.|SaaS|$13k / $11k / $41k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-86)|
-|hidden-business-87 / Anonymous startup|未知|未知|$3.9k / $6k / $28k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-87)|
-|hidden-business-88 / Anonymous startup|未知|未知|$203 / $1.7k / $1.7k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-88)|
-|hidden-business-89 / Anonymous startup|未知|Other|$44k / $45k / $58k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-89)|
+|hidden-business-86 / Anonymous startup|Real-time deal alerts for second-hand resellers. Users set search filters (brand, price, condition) and get new marketplace listings within seconds, with prices converted to EUR and one-click buying.|SaaS|$13k / $12k / $42k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-86)|
+|hidden-business-87 / Anonymous startup|未知|未知|$3.9k / $6.1k / $28k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-87)|
+|hidden-business-88 / Anonymous startup|未知|未知|$186 / $1.6k / $1.8k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-88)|
+|hidden-business-89 / Anonymous startup|未知|Other|$44k / $45k / $60k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-89)|
 |hidden-business-9 / Anonymous startup|GLP-1 tracking mobile app with AI calorie tracking and shot schedules.|未知|$76 / $28 / $1k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-9)|
 |hidden-business-90 / Anonymous startup|Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no running costs. Not in|Mobile App|$4k / $4k / $67k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-90)|
-|hidden-business-91 / Anonymous startup|未知|未知|$0 / $153 / $153|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-91)|
+|hidden-business-91 / Anonymous startup|未知|未知|$0 / $183 / $183|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-91)|
 |hidden-business-92 / Anonymous startup|未知|未知|$2.5k / $1.4k / $8.6k|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-92)|
 |hidden-clicks / Hidden Clicks|A lightweight SEO opportunity and optimization tool that connects to Google Search Console to identify missed organic clicks, improve underperforming pages, discover backlink opportunities, and implem|未知|$0 / $0 / $57|D|[TrustMRR](https://trustmrr.com/startup/hidden-clicks)|
 |hidden-company / Anonymous startup|未知|未知|$0 / $0 / $1.9M|D|[TrustMRR](https://trustmrr.com/startup/hidden-company)|
-|hidden-digital-business / Anonymous startup|未知|未知|$955 / $1k / $459k|D|[TrustMRR](https://trustmrr.com/startup/hidden-digital-business)|
+|hidden-digital-business / Anonymous startup|未知|未知|$951 / $1.8k / $460k|D|[TrustMRR](https://trustmrr.com/startup/hidden-digital-business)|
 |hidden-gems / Hidden Gems|HiddenGems.lol is an online promotional platform for indie games. Game developers and publishers can pay to promote their game on a ranked leaderboard. Placement is determined by the cumulative promot|未知|$0 / $15 / $35|D|[TrustMRR](https://trustmrr.com/startup/hidden-gems)|
-|hidden-jobs / Hidden Jobs|Discover remote tech jobs. Browse software, AI, data and design jobs curated by Hidden Jobs.|未知|$187 / $208 / $1.5k|D|[TrustMRR](https://trustmrr.com/startup/hidden-jobs)|
+|hidden-jobs / Hidden Jobs|Discover remote tech jobs. Browse software, AI, data and design jobs curated by Hidden Jobs.|未知|$218 / $215 / $1.5k|D|[TrustMRR](https://trustmrr.com/startup/hidden-jobs)|
 |hidden-mobile-app / Anonymous startup|A mobile app in the identifier category currently making $200/month in revenue from ASO alone.|未知|$22 / $30 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/hidden-mobile-app)|
 |hidden-venture-12345 / Hidden Business|Launch your US Business from anywhere! Everything from Formation to accounting and taxes on the same platform.|未知|$12k / $55k / $4.4M|D|[TrustMRR](https://trustmrr.com/startup/hidden-venture-12345)|
 |hide-the-word-bible-memory / Hide The Word - Bible Memory|Grow closer to Christ through Scripture Memory. All in under 10 minutes a day.|未知|$3 / $0 / $42|D|[TrustMRR](https://trustmrr.com/startup/hide-the-word-bible-memory)|
 |highlander / Highlander|Building micro SaaS products.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/highlander)|
-|highlite / Highlite|Annotate and share any webpage in seconds: highlight text, sticky notes, drawings, arrows. Free Chrome &amp; Firefox extension — no account needed. Highlite transforms any webpage into an interactive|未知|$9 / $28 / $61|D|[TrustMRR](https://trustmrr.com/startup/highlite)|
+|highlite / Highlite|Annotate and share any webpage in seconds: highlight text, sticky notes, drawings, arrows. Free Chrome &amp; Firefox extension — no account needed. Highlite transforms any webpage into an interactive|未知|$14 / $33 / $66|D|[TrustMRR](https://trustmrr.com/startup/highlite)|
 |highseat / Highseat|Cookieless web analytics that shows which traffic makes money. Connect Stripe or Polar, and every sale joins the visit that made it, so each page, source and country shows revenue net of refunds. The|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/highseat)|
 |hightai / HightAI|Figma alternative for mobile app design|未知|$0 / $0 / $139|D|[TrustMRR](https://trustmrr.com/startup/hightai)|
 |hillchart / Hillchart|Hillchart is a Shape Up project management tool for teams who want honest project visibility, not another status spreadsheet. Freeze snapshots to capture a moment in time, scrub timeline history acros|未知|$0 / $0 / $1|D|[TrustMRR](https://trustmrr.com/startup/hillchart)|
-|himetrica / Himetrica|The analytics layer for modern SaaS.|未知|$0 / $361 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/himetrica)|
+|himetrica / Himetrica|The analytics layer for modern SaaS.|未知|$0 / $347 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/himetrica)|
 |hired / Hired|Hired automates your entire job search — from discovering opportunities and finding hiring managers to sending personalised applications and leveraging internal company networks it's feature rich and|未知|$0 / $226 / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/hired)|
 |hireeing / Hireeing|未知|未知|$0 / $0 / $11|D|[TrustMRR](https://trustmrr.com/startup/hireeing)|
 |hireflow / HireFlow|Professional AI-powered interview preparation platform delivering realistic simulation experiences with job-specific question generation, comprehensive performance analysis, and personalized coaching|未知|$0 / $0 / $148|D|[TrustMRR](https://trustmrr.com/startup/hireflow)|
@@ -64,7 +64,7 @@
 |hirescope / HireScope|HireScope is an online SaaS tool that delivers on-demand AI-generated company research reports, risk assessments, résumé-to-job matching, and interview-preparation materials. Users pay per-report (cre|未知|$0 / $0 / $35|D|[TrustMRR](https://trustmrr.com/startup/hirescope)|
 |hiretivo / Hiretivo|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hiretivo)|
 |hirevate / Hirevate|Find hidden jobs and turn them into stronger applications|未知|$0 / $0 / $69|D|[TrustMRR](https://trustmrr.com/startup/hirevate)|
-|hirevire / Hirevire|Hirevire replaces first-round phone screens with structured async video interviews. Candidates record responses on their own time, no login required. Supports 21 languages, AI-generated scorecards, an|未知|$14k / $17k / $288k|D|[TrustMRR](https://trustmrr.com/startup/hirevire)|
+|hirevire / Hirevire|Hirevire replaces first-round phone screens with structured async video interviews. Candidates record responses on their own time, no login required. Supports 21 languages, AI-generated scorecards, an|未知|$14k / $16k / $288k|D|[TrustMRR](https://trustmrr.com/startup/hirevire)|
 |hirohunt / HiroHunt|Put your job hunt on autopilot|未知|$0 / $0 / $39|D|[TrustMRR](https://trustmrr.com/startup/hirohunt)|
 |historai / Historai|I'm developing an application that generates custom podcast that are fine-tuned for each user. The podcast is interactive - you can ask questions and is narrated using TTS. The focus is history, but i|未知|$94 / $113 / $178|D|[TrustMRR](https://trustmrr.com/startup/historai)|
 |historyfactgenerator-xyz / HistoryFactGenerator.xyz|Travel through time with the AI-powered history fact generator. Generate a random fact and a watercolor rendering of it. Save, print or share the image.|未知|$0 / $0 / $2|D|[TrustMRR](https://trustmrr.com/startup/historyfactgenerator-xyz)|
@@ -87,7 +87,7 @@
 |holia / Holia|Holia is a wellness discovery platform and market intelligence solution connecting people with verified wellness practitioners across France. We combine practitioner directories, local wellness search|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/holia)|
 |holo-fit-max-yearly / HOLO·FIT|HOLO·FIT is an adaptive fitness coach for people who train on their own. Learn 81 exercises with interactive 3D demonstrations, reshape workouts around your time and equipment, and use an on-device ca|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/holo-fit-max-yearly)|
 |holospark / Holospark|Holospark turns your topic to study into a clear, structured course with summaries, tables, quizzes, and an AI tutor that helps you master the topic.|未知|$5 / $0 / $70|D|[TrustMRR](https://trustmrr.com/startup/holospark)|
-|holy-bible-ios-app / Holy Bible|High-margin iOS Holy Bible & Audio app built in SwiftUI. Currently maintains 40 DAU purely through organic App Store traffic with zero ad cost ($0 ad spend). Includes 7 offline translations, audio dev|未知|$8 / $5 / $218|D|[TrustMRR](https://trustmrr.com/startup/holy-bible-ios-app)|
+|holy-bible-ios-app / Holy Bible|High-margin iOS Holy Bible & Audio app built in SwiftUI. Currently maintains 40 DAU purely through organic App Store traffic with zero ad cost ($0 ad spend). Includes 7 offline translations, audio dev|未知|$13 / $10 / $223|D|[TrustMRR](https://trustmrr.com/startup/holy-bible-ios-app)|
 |holy-grail-e-u / holy grail e.U.|Onboarding SaaS|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/holy-grail-e-u)|
 |holyshot-ai / HolyShot.ai|HolyShot.ai transforms your photos into stunning AI portraits across 60+ artistic styles. Upload once and get professional-quality variations - from Cyberpunk and Dragon Ball to romantic Valentine's D|未知|$0 / $1 / $89|D|[TrustMRR](https://trustmrr.com/startup/holyshot-ai)|
 |home / My Home AI|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/home)|
@@ -97,10 +97,10 @@
 |homerecall / HomeRecall|The memory system for your home. HomeRecall keeps the small print of owning a home where you can actually find it, years later, in seconds.|未知|$0 / $0 / $18|D|[TrustMRR](https://trustmrr.com/startup/homerecall)|
 |homeschool-reports-australia / Homeschool Reports Australia|Prepares polished, ready-to-submit Queensland home education reports, registration applications, and learning programs from parents’ answers and work samples.|未知|$0 / $440 / $775|D|[TrustMRR](https://trustmrr.com/startup/homeschool-reports-australia)|
 |homestretch / HomeStretch|HomeStretch is an online platform for UK house buyers|未知|$21 / $22 / $45|D|[TrustMRR](https://trustmrr.com/startup/homestretch)|
-|homestyler / HomeStyler|Completely Organic & Profitable iOS App \| 10+ Month-Old iOS App \| $450+/Month \| $10K+ 10 Months Revenue \| 30K+ Users \| 50+ Subscribers|未知|$330 / $188 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/homestyler)|
+|homestyler / HomeStyler|Completely Organic & Profitable iOS App \| 10+ Month-Old iOS App \| $450+/Month \| $10K+ 10 Months Revenue \| 30K+ Users \| 50+ Subscribers|未知|$323 / $174 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/homestyler)|
 |homie / Homie|Homie is an AI-powered home design app for interior and exterior makeovers.|未知|$13 / $0 / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/homie)|
 |homing-club / Homing Club|未知|未知|$20 / $20 / $47|D|[TrustMRR](https://trustmrr.com/startup/homing-club)|
-|homy / Homy|A Mac app for better file searching|未知|$0 / $2k / $3.9k|D|[TrustMRR](https://trustmrr.com/startup/homy)|
+|homy / Homy|A Mac app for better file searching|未知|$0 / $1.8k / $3.9k|D|[TrustMRR](https://trustmrr.com/startup/homy)|
 |homzie / Homzie - Household Organizer|Homzie is an all-in-one household organizer for couples, roommates, and families, available on iOS and Android. The app combines shared calendars, recurring chores, real-time shopping lists, meal plan|未知|$967 / $1.9k / $11k|D|[TrustMRR](https://trustmrr.com/startup/homzie)|
 |honbako / Honbako|Honbako is a manga collection tracker with barcode/ISBN scanning, metadata lookup, and Notion sync. Users can track, organize, and manage their manga library — available as a freemium SaaS with monthl|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/honbako)|
 |honestly / Honestly|Honestly is a free journaling ritual for people who want to start the day with a clear head instead of a feed.|未知|$4 / $55 / $238|D|[TrustMRR](https://trustmrr.com/startup/honestly)|
@@ -121,7 +121,7 @@
 |hopup / HopUp|HopUp is a purely pay-to-win leaderboard. List your product, set a bid, and claim your spot. But beware—anyone can pay more to take your rank. It's cutthroat, chaotic, and completely live.|未知|$0 / $2 / $827|D|[TrustMRR](https://trustmrr.com/startup/hopup)|
 |horigence / Lethimcookai.com|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/horigence)|
 |hospitalityjobs-com / HospitalityJobs.com|We specialize in connecting hospitality talent to global recruiters.|未知|$0 / $0 / $27|D|[TrustMRR](https://trustmrr.com/startup/hospitalityjobs-com)|
-|host0 / Host0.AI|Host whatever your agent has created|未知|$282 / $418 / $18k|D|[TrustMRR](https://trustmrr.com/startup/host0)|
+|host0 / Host0.AI|Host whatever your agent has created|未知|$282 / $398 / $18k|D|[TrustMRR](https://trustmrr.com/startup/host0)|
 |hostdesk-co / HostDesk.co|Simpler than a channel manager, cleaner than a spreadsheet. The ultimate alternative for owners who refuse overpriced, complex channel managers. Tailored for 1-4 properties, it centralizes Airbnb, Boo|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hostdesk-co)|
 |hosted-status-page / Hosted Status Page|Hosted Status Page - A SaaS status page platform built with Go and PostgreSQL. Customers get branded, multi-region status pages with uptime monitoring, incident management, scheduled maintenance windo|未知|$117 / $94 / $1k|D|[TrustMRR](https://trustmrr.com/startup/hosted-status-page)|
 |hostrepute / HostRepute|Monitor IP and domain reputation across 80+ sources, SNDS, Google Postmaster, and team alert channels before deliverability issues impact revenue.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hostrepute)|
@@ -141,14 +141,14 @@
 |hoverqr / HoverQR|The fastest way to work with QR right in your browser|未知|$0 / $0 / $14|D|[TrustMRR](https://trustmrr.com/startup/hoverqr)|
 |hovers / Hovers|Get a ready-to-publish 30-day content calendar with SEO-friendly articles - designed for founders, small teams & Agencies who want consistency without burnout.|未知|$0 / $0 / $246|D|[TrustMRR](https://trustmrr.com/startup/hovers)|
 |how-cooked-is-your-major / How Cooked Is Your Major?|Type your college major, get a 0-100 score for how exposed it is to AI, a roast and a share card. The scan is free. An optional Survival Plan (one payment) gives a 30/60/90-day roadmap, real jobs with|未知|$0 / $14 / $14|D|[TrustMRR](https://trustmrr.com/startup/how-cooked-is-your-major)|
-|how-to-convert / How to Convert|An app to convert almost any file to any other file locally|未知|$0 / $632 / $61k|D|[TrustMRR](https://trustmrr.com/startup/how-to-convert)|
+|how-to-convert / How to Convert|An app to convert almost any file to any other file locally|未知|$0 / $588 / $61k|D|[TrustMRR](https://trustmrr.com/startup/how-to-convert)|
 |howditgo-ai / Howditgo.ai|Real estate testimonial automation. Agents are pretty bad at remembering to ask for testimonials and clients often get writers block trying to write them. The goal of my platform is to empower both pa|未知|$24 / $24 / $216|D|[TrustMRR](https://trustmrr.com/startup/howditgo-ai)|
 |howsthisgoing / HowsThisGoing|AI Project Manager for Slack.|未知|$0 / $0 / $452|D|[TrustMRR](https://trustmrr.com/startup/howsthisgoing)|
 |howtodistribute / HowToDistribute|Monthly sponsorship slots on howtodistribute.com, an editorial database of how software products acquired their users. Sponsors pay a recurring monthly fee to display their product name, logo, a one-l|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/howtodistribute)|
 |howzit-surf / Howzit Surf|A surf forecasting app covering 76 spots on the East Coast of the USA.|未知|$5 / $5 / $50|D|[TrustMRR](https://trustmrr.com/startup/howzit-surf)|
-|hrcn / Anonymous startup|未知|Games|$4.4k / $4.6k / $58k|D|[TrustMRR](https://trustmrr.com/startup/hrcn)|
+|hrcn / Anonymous startup|未知|Games|$4.3k / $4.7k / $58k|D|[TrustMRR](https://trustmrr.com/startup/hrcn)|
 |hrefstack / HrefStack|HrefStack is an AI SEO tool that does the job of a full content team. One agent finds keywords worth ranking for, writes articles built for Google, AI Mode and ChatGPT, publishes them straight to Word|未知|$0 / $0 / $1|D|[TrustMRR](https://trustmrr.com/startup/hrefstack)|
-|hrgit / Anonymous startup|未知|Artificial Intelligence|$18k / $8.4k / $203k|D|[TrustMRR](https://trustmrr.com/startup/hrgit)|
+|hrgit / Anonymous startup|未知|Artificial Intelligence|$20k / $8.9k / $204k|D|[TrustMRR](https://trustmrr.com/startup/hrgit)|
 |hsklord / HSKLord|HSK Chinese Language Learning flashcards|未知|$282 / $356 / $3.4k|D|[TrustMRR](https://trustmrr.com/startup/hsklord)|
 |hsr / Anonymous startup|未知|未知|$0 / $58 / $303|D|[TrustMRR](https://trustmrr.com/startup/hsr)|
 |html-design / HTML Design — Free HTML Templates + AI Website Editor|HTML Design gives away 848 production-ready HTML templates across 48 categories — completely free, no paywall and no signup to browse. Every template opens in a built-in AI website editor where users|未知|$0 / $16 / $32|D|[TrustMRR](https://trustmrr.com/startup/html-design)|
@@ -157,8 +157,8 @@
 |httpstheinternethotelcom / The Internet Hotel|A 100-room digital hotel where websites compete for visibility.|未知|$0 / $0 / $1|D|[TrustMRR](https://trustmrr.com/startup/httpstheinternethotelcom)|
 |httpswwwn0pub / N0.PUB|FREE YOUTUBE PREMIUM|未知|$0 / $0 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/httpswwwn0pub)|
 |hubcast / Hubcast|Your social channels, run from one place.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hubcast)|
-|hubertino / Hubertino|Find local business leads from Google Maps with contact details in minutes|未知|$95 / $76 / $238|D|[TrustMRR](https://trustmrr.com/startup/hubertino)|
-|hubtersai-llc / HubtersAI, LLC|We are developing a SaaS platform that streamlines the integration of WebAI for developers.|未知|$498 / $589 / $11k|D|[TrustMRR](https://trustmrr.com/startup/hubtersai-llc)|
+|hubertino / Hubertino|Find local business leads from Google Maps with contact details in minutes|未知|$95 / $76 / $257|D|[TrustMRR](https://trustmrr.com/startup/hubertino)|
+|hubtersai-llc / HubtersAI, LLC|We are developing a SaaS platform that streamlines the integration of WebAI for developers.|未知|$490 / $571 / $11k|D|[TrustMRR](https://trustmrr.com/startup/hubtersai-llc)|
 |hue / Hue|Hue is a color identifier and picker app for iPhone and iPad. Built for ASO and keywoard search.|未知|$12 / $12 / $352|D|[TrustMRR](https://trustmrr.com/startup/hue)|
 |hue-clip / HueClip|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hue-clip)|
 |huebert / Huebert|Huebert is a professional color toolkit for web creatives. It helps you to create prettier designs with less effort using tools like the powerful color palette generator, the high contrast generator,|未知|$0 / $0 / $16|D|[TrustMRR](https://trustmrr.com/startup/huebert)|
@@ -166,20 +166,20 @@
 |huge-ai-inc / Huge AI, Inc.|Huge AI provides AI-powered automation consulting and managed services to small and mid-sized businesses, helping them streamline operations, reduce costs, and scale efficiently.|未知|$497 / $505 / $2.1k|D|[TrustMRR](https://trustmrr.com/startup/huge-ai-inc)|
 |hugebouquets-com / Hugebouquets.com|All orders come through Google organic search. The site’s average position on Google is 7.2. Dropshipping-style fulfillment: orders are forwarded to florists who assemble and deliver bouquets. ~30 min|未知|$0 / $618 / $51k|D|[TrustMRR](https://trustmrr.com/startup/hugebouquets-com)|
 |huginnova / Huginnova|Huginnova tracks how ChatGPT, Perplexity, Gemini and Google AI talk about your brand and competitors—with statistical confidence intervals, evidence-backed action plans, measured impact and white-labe|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/huginnova)|
-|hugo-mobile-app-01 / Anonymous startup|未知|未知|$399 / $2.4k / $23k|D|[TrustMRR](https://trustmrr.com/startup/hugo-mobile-app-01)|
-|hugo-mobile-app-02 / Anonymous startup|未知|未知|$1.2k / $2.4k / $30k|D|[TrustMRR](https://trustmrr.com/startup/hugo-mobile-app-02)|
+|hugo-mobile-app-01 / Anonymous startup|未知|未知|$399 / $2.3k / $23k|D|[TrustMRR](https://trustmrr.com/startup/hugo-mobile-app-01)|
+|hugo-mobile-app-02 / Anonymous startup|未知|未知|$1.2k / $2.3k / $30k|D|[TrustMRR](https://trustmrr.com/startup/hugo-mobile-app-02)|
 |hugo-mobile-app-03 / Anonymous startup|未知|未知|$3 / $2 / $107|D|[TrustMRR](https://trustmrr.com/startup/hugo-mobile-app-03)|
 |hugo-mobile-app-04 / Anonymous startup|未知|未知|$0 / $16 / $44|D|[TrustMRR](https://trustmrr.com/startup/hugo-mobile-app-04)|
 |humanfound-app / humanfound.app|HumanFound is a human-curated directory of software tools and resources where every listing is reviewed by a real person before going live. Customers discover us through organic search and word of mou|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/humanfound-app)|
 |humanise / HUMANISE|ot an essay to finish? A paragraph that just doesn't sound right? HUMANISE helps turn awkward, robotic writing into clear, natural-sounding text. Less overthinking, better writing, and words that actu|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/humanise)|
-|humanize-ai / Humanize AI|Humaniza|Artificial Intelligence|$9.6k / $9.6k / $195k|D|[TrustMRR](https://trustmrr.com/startup/humanize-ai)|
-|humanizer-pro / Humanizer PRO|Humanizer PRO transforms AI content into natural, human-like writing that bypasses all AI detection. Our advanced AI humanizer ensures perfect authenticity while preserving your message. Try it now!|未知|$814 / $922 / $15k|D|[TrustMRR](https://trustmrr.com/startup/humanizer-pro)|
+|humanize-ai / Humanize AI|Humaniza|Artificial Intelligence|$9.5k / $9.7k / $195k|D|[TrustMRR](https://trustmrr.com/startup/humanize-ai)|
+|humanizer-pro / Humanizer PRO|Humanizer PRO transforms AI content into natural, human-like writing that bypasses all AI detection. Our advanced AI humanizer ensures perfect authenticity while preserving your message. Try it now!|未知|$829 / $889 / $15k|D|[TrustMRR](https://trustmrr.com/startup/humanizer-pro)|
 |humanizer-pro-1 / Humanizer Pro|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/humanizer-pro-1)|
 |humanpost / HumanPost|AI-powered Chrome extension for X/Twitter growth. Reply scoring, algorithm analysis, content generation, and growth tracking|未知|$16 / $17 / $118|D|[TrustMRR](https://trustmrr.com/startup/humanpost)|
 |humanproved / HumanProved|AI-free certification badge to verify your content authenticity.|未知|$0 / $0 / $9|D|[TrustMRR](https://trustmrr.com/startup/humanproved)|
 |humans-fix-ai / humans fix ai|platform where experienced developers help non-technical vibecoders|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/humans-fix-ai)|
 |humantext-click / HumanText.click|AI Humanizer.Make AI Text Human-Like. Bypass AI detection with the world's most powerful AI text Humanizer and AI-generated content detector! HumanText helps you to bypass AI Detectors like GPTZero, C|未知|$10 / $0 / $768|D|[TrustMRR](https://trustmrr.com/startup/humantext-click)|
-|humanwrite-co-uk / HumanWrite.co.uk|AI humanizer with English and United states customers. Almost with 0 marketing and it's already at 1k revenue so if u have time for the tiktok marketing you can easily pump this up!|未知|$219 / $191 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/humanwrite-co-uk)|
+|humanwrite-co-uk / HumanWrite.co.uk|AI humanizer with English and United states customers. Almost with 0 marketing and it's already at 1k revenue so if u have time for the tiktok marketing you can easily pump this up!|未知|$219 / $230 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/humanwrite-co-uk)|
 |humblehaus / Anonymous startup|over 50 something building out experiments and apps that are time savers for content creators who live and breathe the internet|未知|$0 / $0 / $16|D|[TrustMRR](https://trustmrr.com/startup/humblehaus)|
 |humifi / Humifi|Humifi is a tool that humanizes AI text, to make your writing sound natural, authentic and bypass AI-Detectors. You can choose from 6 different writing styles.|未知|$0 / $0 / $310|D|[TrustMRR](https://trustmrr.com/startup/humifi)|
 |hummingbytes-llc / HummingBytes, LLC|Pay one subscription to access SOTA image and video models. Nano Banana 2, Nano Banana Pro, Veo 3.1, Seedream 4.5/5.0 Lite, Flux.2 Flex, and many more. Batch image generation, image upscaling, image c|未知|$89 / $89 / $835|D|[TrustMRR](https://trustmrr.com/startup/hummingbytes-llc)|
@@ -190,8 +190,8 @@
 |hunt0 / HUNT0|Ship Early. Hunt Early.|未知|$0 / $0 / $392|D|[TrustMRR](https://trustmrr.com/startup/hunt0)|
 |huntd / Huntd|Huntd is a GPS-based multiplayer outdoor game (tag/hide-and-seek style) for iOS and Android. Live since May 2026, grown organically via TikTok to 600+ registered players with zero ad spend. Full Next.|未知|$0 / $9 / $9|D|[TrustMRR](https://trustmrr.com/startup/huntd)|
 |huntgap / HuntGap|HuntGap is an evidence-backed demand discovery platform for founders.Before spending weeks building a SaaS idea, founders can use HuntGap to search real public conversations, identify repeated custome|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/huntgap)|
-|huntifyai / HuntifyAI|HuntifyAI is a curated AI tools directory and alternatives hub with 448 listed tools, daily updates, Ahrefs DR 53, and paid listing products for AI startups.|未知|$0 / $524 / $1.5k|D|[TrustMRR](https://trustmrr.com/startup/huntifyai)|
-|huntly / Huntly|Lead generation SaaS that helps web builders find local businesses without websites.|未知|$118 / $109 / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/huntly)|
+|huntifyai / HuntifyAI|HuntifyAI is a curated AI tools directory and alternatives hub with 448 listed tools, daily updates, Ahrefs DR 53, and paid listing products for AI startups.|未知|$0 / $554 / $1.6k|D|[TrustMRR](https://trustmrr.com/startup/huntifyai)|
+|huntly / Huntly|Lead generation SaaS that helps web builders find local businesses without websites.|未知|$127 / $118 / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/huntly)|
 |huntmeleads / HuntMeLeads|Lead Generation and Cold Email Marketing Automation Software|未知|$489 / $417 / $30k|D|[TrustMRR](https://trustmrr.com/startup/huntmeleads)|
 |huntris / Huntris|未知|未知|$0 / $4 / $4|D|[TrustMRR](https://trustmrr.com/startup/huntris)|
 |huntscout / HuntScout|Hunting land scouting website and forums|未知|$0 / $69 / $241|D|[TrustMRR](https://trustmrr.com/startup/huntscout)|
@@ -202,20 +202,20 @@
 |hydranode-ai / hydranode.ai|AI based Certification|未知|$0 / $0 / $145|D|[TrustMRR](https://trustmrr.com/startup/hydranode-ai)|
 |hydrantapi / HydrantAPI|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hydrantapi)|
 |hydro-sh / Hydro.sh|Connect your smart water bottle and automatically track every sip. Set daily goals, view your progress, and build healthier hydration habits.|未知|$0 / $0 / $14|D|[TrustMRR](https://trustmrr.com/startup/hydro-sh)|
-|hydrofypt / Hydrofy|Hydrofy helps home hydroponic growers plan gardens, log pH and nutrient readings, track plants from seed to harvest, and spot problems with AI-assisted diagnosis on iPhone and iPad.|未知|$238 / $294 / $6.7k|D|[TrustMRR](https://trustmrr.com/startup/hydrofypt)|
+|hydrofypt / Hydrofy|Hydrofy helps home hydroponic growers plan gardens, log pH and nutrient readings, track plants from seed to harvest, and spot problems with AI-assisted diagnosis on iPhone and iPad.|未知|$242 / $279 / $6.7k|D|[TrustMRR](https://trustmrr.com/startup/hydrofypt)|
 |hype / HypeSpot,lol|A discovery platform for products, businesses, creators, and services. HypeSpot combines sponsored visibility with relevance and reputation to help people discover what’s worth knowing about. Early st|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hype)|
 |hype-city / Hype City|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hype-city)|
 |hype-my-hustle / Hype My Hustle|Get from Idea to MVP with Audience in 2 Weeks. Get Detailed Roadmap, Daily Tasks, and Content Ideas(No AI Slop) for Major Social Media Platforms completely contextual to the builder, project and task|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hype-my-hustle)|
-|hype-social-media-strategy / Anonymous startup|Marketing platform connected to SMM panels. Offers engagement services, followers, and press articles to customers worldwide. The platform has a base of 500 registered customers. From August 2024 to F|Marketing|$6.6k / $35k / $600k|D|[TrustMRR](https://trustmrr.com/startup/hype-social-media-strategy)|
+|hype-social-media-strategy / Anonymous startup|Marketing platform connected to SMM panels. Offers engagement services, followers, and press articles to customers worldwide. The platform has a base of 500 registered customers. From August 2024 to F|Marketing|$6.6k / $35k / $602k|D|[TrustMRR](https://trustmrr.com/startup/hype-social-media-strategy)|
 |hypeclip-ai / Hypeclip AI|Hypeclip AI provides AI-powered tools and machine learning applications.|未知|$0 / $0 / $313|D|[TrustMRR](https://trustmrr.com/startup/hypeclip-ai)|
 |hypeflare / Hypeflare|AI agents for paid media and creatives (can be spun off into 4 different startups) 1. Node-based AI workflows (think Figma Weave or Flora AI) 2. Layer-based Graphic Design (think Canva) 3. Video-edito|未知|$0 / $0 / $24|D|[TrustMRR](https://trustmrr.com/startup/hypeflare)|
-|hypeproxies / HypeProxies|The fastest proxy infrastructure with unlimited bandwidth. Purpose-built for data collection and web scraping at scale. Over $100M in e-commerce purchases through our proxy software.|未知|$0 / $239k / $12M|D|[TrustMRR](https://trustmrr.com/startup/hypeproxies)|
+|hypeproxies / HypeProxies|The fastest proxy infrastructure with unlimited bandwidth. Purpose-built for data collection and web scraping at scale. Over $100M in e-commerce purchases through our proxy software.|未知|$0 / $245k / $12.1M|D|[TrustMRR](https://trustmrr.com/startup/hypeproxies)|
 |hypeq / HypeQ|HypeQ provides AI-powered viral waitlists for product launches.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hypeq)|
 |hyperbach-services-o / Pitch Pilot: Upwork jobs tracker|AI-Powered Upwork Jobs Feed Tracker – Get Alerts & Generate Proposals. Track the best Upwork job listings in real-time, filter opportunities with AI insights, and send winning proposals instantly from|未知|$0 / $0 / $855|D|[TrustMRR](https://trustmrr.com/startup/hyperbach-services-o)|
-|hyperfocal / Hyperfocal|Hyperfocal is a SaaS product that helps photographers generate Lightroom and Photoshop ACR presets as well as video LUTs to use on their photos and videos to kick start their editing workflow.|未知|$122 / $72 / $1.6k|D|[TrustMRR](https://trustmrr.com/startup/hyperfocal)|
+|hyperfocal / Hyperfocal|Hyperfocal is a SaaS product that helps photographers generate Lightroom and Photoshop ACR presets as well as video LUTs to use on their photos and videos to kick start their editing workflow.|未知|$122 / $84 / $1.6k|D|[TrustMRR](https://trustmrr.com/startup/hyperfocal)|
 |hypertxt / Hypertxt|Hypertxt helps create content that naturally sells your products and services.|未知|$0 / $0 / $35k|D|[TrustMRR](https://trustmrr.com/startup/hypertxt)|
 |hyperurls / HyperURLs|HyperURLs is built for people who save great content and then forget where it went. Instead of messy bookmarks and endless scrolling, HyperURLs keeps all your links in one clean, searchable place. Tag|未知|$0 / $0 / $137|D|[TrustMRR](https://trustmrr.com/startup/hyperurls)|
-|hypit-ai / Hypit-AI|Hypit gives AI coding agents (Claude Code, Codex) a language and runtime for making video. Drop in a viral video and your agent clones the whole workflow — footage, word-anchored captions, B-roll and|未知|$17k / $50k / $102k|D|[TrustMRR](https://trustmrr.com/startup/hypit-ai)|
+|hypit-ai / Hypit-AI|Hypit gives AI coding agents (Claude Code, Codex) a language and runtime for making video. Drop in a viral video and your agent clones the whole workflow — footage, word-anchored captions, B-roll and|未知|$17k / $51k / $104k|D|[TrustMRR](https://trustmrr.com/startup/hypit-ai)|
 |hyprfeed / Hyprfeed|HYPRFEED is a minimalist RSS reader powered by AI. It gives you back control over fragmented web content, synthesizing it for speed and relevance.|AI/Mobile Apps/Productivity/Content Creation|$0.00 / $0.00 / $5.94|P|[TrustMRR](https://trustmrr.com/startup/hyprfeed) [官网](https://apps.apple.com/app/id6761769939)|
 |i-can-affirm-share / I can affirm & share|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/i-can-affirm-share)|
 |i-cannot-speak / I Cannot Speak|I Cannot Speak turns what you type into something you can hold up or hear out loud. Built for anyone who can't rely on speech — in a shop, a taxi, a hospital, or at home.|未知|$5 / $5 / $5|D|[TrustMRR](https://trustmrr.com/startup/i-cannot-speak)|
@@ -226,11 +226,11 @@
 |ia-en-francais / Ia-en-francais|ia-en-francais.com est une plateforme d'intelligence artificielle en français, conçue pour rendre accessibles à tous — notamment aux utilisateurs de plus de 50 ans — des outils comme le chat IA, le gé|未知|$131 / $133 / $1.8k|D|[TrustMRR](https://trustmrr.com/startup/ia-en-francais)|
 |ib-learn / Anonymous startup|IB elearning platform in spanish|未知|$130 / $391 / $1.7k|D|[TrustMRR](https://trustmrr.com/startup/ib-learn)|
 |ibau / iBau|Il nostro marketplace permette ai padroni di Bau in Italia di prenotare pacchetti di ingresso agli asili diurni, servizi di toelettatura, servizi di consulenza ed educazione canina etc.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/ibau)|
-|ibergour / IBERGOUR|IberGour is an online shop of Spanish jamon iberico. We are the shop with the largest experience in selling jamon online (since 2005) with +30,000 customers in the EU and UK. We offer a wide variety o|未知|$0 / $149k / $1M|D|[TrustMRR](https://trustmrr.com/startup/ibergour)|
+|ibergour / IBERGOUR|IberGour is an online shop of Spanish jamon iberico. We are the shop with the largest experience in selling jamon online (since 2005) with +30,000 customers in the EU and UK. We offer a wide variety o|未知|$0 / $151k / $1.1M|D|[TrustMRR](https://trustmrr.com/startup/ibergour)|
 |icalsync / icalSync|iCalSync is a calendar-sync tool for short-term rental hosts. You connect each property's calendars from Airbnb, Vrbo, Booking.com, or any other platform that exports iCal, and it automatically pulls|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/icalsync)|
 |icandrivers / iCANDrivers|iCANDrivers offers custom drivers for running Holley EFI on M-Series Mac devices.|未知|$0 / $220 / $4.2k|D|[TrustMRR](https://trustmrr.com/startup/icandrivers)|
 |icdb / Anonymous startup|未知|未知|$0 / $30 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/icdb)|
-|ick / Ick|未知|未知|$133 / $324 / $632|D|[TrustMRR](https://trustmrr.com/startup/ick)|
+|ick / Ick|未知|未知|$133 / $246 / $642|D|[TrustMRR](https://trustmrr.com/startup/ick)|
 |iclawd / iclawd|we provide cloud hosting of openclaw, an AI agent assitant|未知|$0 / $0 / $5|D|[TrustMRR](https://trustmrr.com/startup/iclawd)|
 |icodethis / iCodeThis|Coding tutorials and projects|未知|$0 / $0 / $66k|D|[TrustMRR](https://trustmrr.com/startup/icodethis)|
 |icon-ai / icon--ai|Experience automated customer success. Stop losing leads while you sleep. We train, customize, and deploy a smart AI agent for your business. 100% Done-For-You.|未知|$0 / $0 / $19|D|[TrustMRR](https://trustmrr.com/startup/icon-ai)|
@@ -239,7 +239,7 @@
 |icoon-co / Icoon.co|3D icons, Illustrations & Creative Design Assets. Discover AI-generated 3D icons, illustrations, and images. Boost your design with high-quality assets for websites, apps, and print.|未知|$0 / $166 / $5.2k|D|[TrustMRR](https://trustmrr.com/startup/icoon-co)|
 |idea-mill / Idea Mill|I provide generative AI insights about current opportunities in the world based on current events in the news. Users are able to use the application with a limited free plan and I charge for full acce|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/idea-mill)|
 |idea-to-motion / Idea to Motion|Idea to Motion turns an idea - or your own recording - into a finished animated video. Describe a topic and it writes the script, generates the voiceover, directs the scenes and renders an MP4. Connec|未知|$0 / $20 / $20|D|[TrustMRR](https://trustmrr.com/startup/idea-to-motion)|
-|ideacheck / IdeaCheck|Would Hacker News fund it or roast it? Brutal, honest feedback backed by 28,000+ real Hacker News discussions|未知|$23 / $129 / $152|D|[TrustMRR](https://trustmrr.com/startup/ideacheck)|
+|ideacheck / IdeaCheck|Would Hacker News fund it or roast it? Brutal, honest feedback backed by 28,000+ real Hacker News discussions|未知|$23 / $119 / $152|D|[TrustMRR](https://trustmrr.com/startup/ideacheck)|
 |ideadope / ideadope|IdeaDope is a project planning and roadmap tool for developers. It allows creating, managing, and visualizing tech-stack architecture.|未知|$0 / $0 / $94|D|[TrustMRR](https://trustmrr.com/startup/ideadope)|
 |ideafast / IdeaFast|Build products people want, backed by real pain on Reddit.|未知|$0 / $155 / $345|D|[TrustMRR](https://trustmrr.com/startup/ideafast)|
 |ideakiln / IdeaKiln|IdeaKiln is a vibrant community platform where innovators, creators, and entrepreneurs can showcase their ideas, prototypes, and MVPs to a global audience of early adopters, investors, and collaborato|未知|$3 / $0 / $669|D|[TrustMRR](https://trustmrr.com/startup/ideakiln)|
