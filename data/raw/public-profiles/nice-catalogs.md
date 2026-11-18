@@ -1,5 +1,5 @@
 # Nice Catalogs
-> Cached snapshot — next refresh expected around 2026-11-17T08:22:30.618Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:44:53.186Z.
 Public AI-agent Markdown profile for [Nice Catalogs](https://trustmrr.com/startup/nice-catalogs) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T05:02:21.059Z
+- Revenue last synced: 2026-11-18T04:56:17.454Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -38,21 +38,19 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | --- | ---: |
 | Last 24 hours | $0.00 |
 | Last 7 days | $15.00 |
-| Last 30 days | $50.00 |
-| Last 3 months | $170 |
+| Last 30 days | $40.00 |
+| Last 3 months | $160 |
 | Last 6 months | $325 |
 | Last 12 months | $385 |
 | All time | $385 |
-- Last 30 days revenue snapshot: $50.00
-- Last 30 days revenue growth: -16.7%
+- Last 30 days revenue snapshot: $40.00
+- Last 30 days revenue growth: -33.3%
 - All-time revenue snapshot: $385
-- Revenue data last synced: 2026-11-16T05:02:21.059Z
+- Revenue data last synced: 2026-11-18T04:56:17.454Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $10.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $5.00 |
 | 2026-10-22 | $10.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -136,8 +136,8 @@ Full startup page: [https://trustmrr.com/startup/nice-catalogs](https://trustmrr
 ## SEO Domain Data
 
 - Domain: nicecatalogs.com
-- Domain rating: 12.0
-- Last synced: 2026-11-10T06:30:40.797Z
+- Domain rating: 11.0
+- Last synced: 2026-11-18T06:30:41.056Z
 
 
 ## Screenshots
@@ -164,14 +164,14 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "category": "Mobile App",
     "categoryUrl": "https://trustmrr.com/category/mobile-apps",
     "isForSale": true,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 367,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,023",
-    "revenueGrowthLast30Days": "+107.1%",
+    "listingTier": "premium",
+    "listingTierName": "Scale",
+    "cardBackgroundColor": "#e5f6fe",
+    "cardBackgroundColorDark": "#1a2d3a",
+    "cachedUniquePageviews": 1042,
+    "cachedOfferCount": 3,
+    "revenueLast30Days": "$4,019",
+    "revenueGrowthLast30Days": "+84.8%",
     "askingPrice": "$75,000",
     "revenueMultiple": "1.6x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
@@ -190,8 +190,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,976",
-    "revenueGrowthLast30Days": "+6.1%",
+    "revenueLast30Days": "$4,046",
+    "revenueGrowthLast30Days": "+10.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -210,8 +210,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,595",
-    "revenueGrowthLast30Days": "-20.2%",
+    "revenueLast30Days": "$4,158",
+    "revenueGrowthLast30Days": "+0.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Leverage combines property search, deal analysis, and AI-powered valuation into a clear result: Within minutes, you’ll know whether a property is worth pursuing—and what to do next",
@@ -228,10 +228,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1789,
+    "cachedUniquePageviews": 1795,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$4,756",
-    "revenueGrowthLast30Days": "-6.3%",
+    "revenueLast30Days": "$4,725",
+    "revenueGrowthLast30Days": "-4.8%",
     "askingPrice": "$500,000",
     "revenueMultiple": "8.8x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
@@ -248,12 +248,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 1980,
+    "cachedUniquePageviews": 1987,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$5,016",
-    "revenueGrowthLast30Days": "+30.6%",
+    "revenueLast30Days": "$4,741",
+    "revenueGrowthLast30Days": "+12.6%",
     "askingPrice": "$199,000",
-    "revenueMultiple": "3.3x",
+    "revenueMultiple": "3.5x",
     "description": "NETTIFY is a full-stack website builder that lets small businesses launch complete, professional sites in minutes - no coding needed. Choose AI editor or edit manually, start from ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTnZjdkxGc2h3NmRmbEp2fGZsX2xpdmVfdUdEQWdnQW90TU5SU3M1UmtEV3RFZTRJ001IwwAk8V",
     "startupUrl": "https://trustmrr.com/startup/nettify"

@@ -1,5 +1,5 @@
 # CatalogoHoy
-> Cached snapshot — next refresh expected around 2026-11-17T07:50:34.107Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:33:27.788Z.
 Public AI-agent Markdown profile for [CatalogoHoy](https://trustmrr.com/startup/catalogohoy) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -18,7 +18,7 @@ Public AI-agent Markdown profile for [CatalogoHoy](https://trustmrr.com/startup/
 - Founded date: 2026-03-05
 - Founder: [Nicolás Soto](https://trustmrr.com/founder/so_tic0)
 - Founder image: [https://pbs.twimg.com/profile_images/2025308179920203776/OuxWy7Oe.jpg](https://pbs.twimg.com/profile_images/2025308179920203776/OuxWy7Oe.jpg)
-- X followers: 10
+- X followers: 11
 
 
 ## Verification Sources
@@ -27,7 +27,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: RevenueCat (API key), Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T06:49:29.921Z
+- Revenue last synced: 2026-11-18T06:38:58.438Z
 - Google Analytics API connected: Yes
 - DataFast API key connected: No
 - Google Search Console API connected: Yes
@@ -38,23 +38,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $11.93 |
-| Last 7 days | $556 |
-| Last 30 days | $2,144 |
-| Last 3 months | $4,629 |
-| Last 6 months | $6,453 |
-| Last 12 months | $6,585 |
-| All time | $6,585 |
-- Last 30 days revenue snapshot: $2,144
-- Last 30 days revenue growth: +94.4%
-- All-time revenue snapshot: $6,585
-- Revenue data last synced: 2026-11-16T06:49:29.921Z
+| Last 24 hours | $76.73 |
+| Last 7 days | $369 |
+| Last 30 days | $2,110 |
+| Last 3 months | $4,574 |
+| Last 6 months | $6,541 |
+| Last 12 months | $6,708 |
+| All time | $6,708 |
+- Last 30 days revenue snapshot: $2,110
+- Last 30 days revenue growth: +99.8%
+- All-time revenue snapshot: $6,708
+- Revenue data last synced: 2026-11-18T06:38:58.438Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $45.90 |
-| 2026-10-19 | $121 |
 | 2026-10-20 | $62.45 |
 | 2026-10-21 | $56.21 |
 | 2026-10-22 | $176 |
@@ -82,7 +80,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-13 | $64.45 |
 | 2026-11-14 | $127 |
 | 2026-11-15 | $0.00 |
-| 2026-11-16 | $11.93 |
+| 2026-11-16 | $44.93 |
+| 2026-11-17 | $46.75 |
+| 2026-11-18 | $43.42 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -93,16 +93,16 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $920 |
 | 2026-09 | $1,438 |
 | 2026-10 | $1,425 |
-| 2026-11 | $1,209 |
+| 2026-11 | $1,332 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $467
-- Last 30 days MRR growth: +100.0%
-- Current active subscriptions: 31
-- Last 30 days traffic or visitors: 77,202
+- Current MRR: $504
+- Last 30 days MRR growth: +7805.2%
+- Current active subscriptions: 34
+- Last 30 days traffic or visitors: 79,130
 - Last 30 days revenue per visitor: $0.03
 - Last 30 days profit margin: 88.0%
 
@@ -156,9 +156,9 @@ App metadata is refreshed weekly from Apple's public lookup API. Ratings are sto
 
 GitHub metrics are verified from the connected GitHub repository when available. Repository names and private repository details are not exposed in this public Markdown file.
 - GitHub connected: Yes
-- Contributions in last 7 days: 8
-- Contributions in last 30 days: 119
-- Contributions in last year: 1,178
+- Contributions in last 7 days: 13
+- Contributions in last 30 days: 72
+- Contributions in last year: 1,183
 
 
 ## Screenshots
@@ -172,9 +172,9 @@ GitHub metrics are verified from the connected GitHub repository when available.
 - Listing tier: starter
 - Listing tier name: Starter
 - First listed for sale: 2026-11-08
-- Asking price: $66,000
-- Revenue multiple: 2.6x
-- Interested buyers who saw this recently: 883
+- Asking price: $56,000
+- Revenue multiple: 2.2x
+- Interested buyers who saw this recently: 934
 - Acquisition offers received: 0
 - Message from the seller: Nicolás Soto — "I’m selling CatalogoHoy because I’m now fully focused on a new project that aims to transform fitness training and community in Venezuela. CatalogoHoy is close to passive income: everything is built, automated and running on its own. [Private metric reference available after login.] Customers are very loyal, and the main lever for growth is simply more marketing."
 - Make an offer: [CatalogoHoy offer page](https://trustmrr.com/startup/catalogohoy?offer=1)
@@ -197,7 +197,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 10012,
+    "cachedUniquePageviews": 10187,
     "cachedOfferCount": 26,
     "revenueLast30Days": "$386",
     "revenueGrowthLast30Days": "-44.2%",
@@ -208,24 +208,24 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/gehirn-md"
   },
   {
-    "name": "PDF Vault",
-    "slug": "pdf-vault",
-    "category": "Marketplace",
-    "categoryUrl": "https://trustmrr.com/category/marketplace",
+    "name": "Stealth Company",
+    "slug": "hidden-business-90",
+    "category": "Mobile App",
+    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
     "isForSale": true,
     "listingTier": "premium",
     "listingTierName": "Scale",
-    "cardBackgroundColor": "#e6fff0",
-    "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 6847,
-    "cachedOfferCount": 10,
-    "revenueLast30Days": "$8,822",
-    "revenueGrowthLast30Days": "-12.3%",
-    "askingPrice": "$120,000",
-    "revenueMultiple": "1.1x",
-    "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
-    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVDhTbVA1QVdQTEozb085fGZsX2xpdmVfVUZ5NURIbUZaUGU0b0pqZ3BSS0ptVFJz00zakZSvK5",
-    "startupUrl": "https://trustmrr.com/startup/pdf-vault"
+    "cardBackgroundColor": "#e5f6fe",
+    "cardBackgroundColorDark": "#1a2d3a",
+    "cachedUniquePageviews": 1040,
+    "cachedOfferCount": 3,
+    "revenueLast30Days": "$4,019",
+    "revenueGrowthLast30Days": "+84.8%",
+    "askingPrice": "$75,000",
+    "revenueMultiple": "1.6x",
+    "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/hidden-business-90"
   },
   {
     "name": "VoiceBrief",
@@ -237,15 +237,55 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 5821,
+    "cachedUniquePageviews": 5945,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$25.85",
-    "revenueGrowthLast30Days": "-90.2%",
+    "revenueLast30Days": "$9.99",
+    "revenueGrowthLast30Days": "-96.0%",
     "askingPrice": "$12,000",
-    "revenueMultiple": "38.7x",
+    "revenueMultiple": "100.1x",
     "description": "VoiceBrief is a SaaS learning platform that turns PDFs, web pages, and text into original-document audio, synced read-along, summaries, quizzes, flashcards, and slides. Customers d",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/voicebrief"
+  },
+  {
+    "name": "PDF Vault",
+    "slug": "pdf-vault",
+    "category": "Marketplace",
+    "categoryUrl": "https://trustmrr.com/category/marketplace",
+    "isForSale": true,
+    "listingTier": "premium",
+    "listingTierName": "Scale",
+    "cardBackgroundColor": "#e6fff0",
+    "cardBackgroundColorDark": "#1a3a2a",
+    "cachedUniquePageviews": 7325,
+    "cachedOfferCount": 10,
+    "revenueLast30Days": "$8,862",
+    "revenueGrowthLast30Days": "-3.9%",
+    "askingPrice": "$75,000",
+    "revenueMultiple": "0.7x",
+    "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVDhTbVA1QVdQTEozb085fGZsX2xpdmVfVUZ5NURIbUZaUGU0b0pqZ3BSS0ptVFJz00zakZSvK5",
+    "startupUrl": "https://trustmrr.com/startup/pdf-vault"
+  },
+  {
+    "name": "AIRIX",
+    "slug": "airix",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": true,
+    "listingTier": "premium",
+    "listingTierName": "Scale",
+    "cardBackgroundColor": "#fff7e4",
+    "cardBackgroundColorDark": "#3a2f1f",
+    "cachedUniquePageviews": 5922,
+    "cachedOfferCount": 21,
+    "revenueLast30Days": "$904",
+    "revenueGrowthLast30Days": "-4.1%",
+    "askingPrice": "$17,500",
+    "revenueMultiple": "1.6x",
+    "description": "AIRIX is an AI visibility platform for small and local businesses, and for the agencies that serve them. People increasingly ask AI chatbots for recommendations (\"best dentist in L",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/startup-afcea017cd03-555695bb-46d5-4f4a-a247-56992d6f2e2f.png",
+    "startupUrl": "https://trustmrr.com/startup/airix"
   },
   {
     "name": "Stealth Company",
@@ -257,55 +297,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 6457,
+    "cachedUniquePageviews": 6581,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$5,380",
-    "revenueGrowthLast30Days": "+110.2%",
+    "revenueLast30Days": "$5,594",
+    "revenueGrowthLast30Days": "+106.9%",
     "askingPrice": "$95,000",
-    "revenueMultiple": "1.5x",
+    "revenueMultiple": "1.4x",
     "description": "AI Social Media",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/startup-0e18ebf4e600"
-  },
-  {
-    "name": "Chart Scanner AI",
-    "slug": "chart-scanner-ai",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
-    "isForSale": true,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1364,
-    "cachedOfferCount": 1,
-    "revenueLast30Days": "$3,588",
-    "revenueGrowthLast30Days": "+45719.2%",
-    "askingPrice": "$39,500",
-    "revenueMultiple": "0.9x",
-    "description": "Chart Scanner AI is an AI-powered fintech startup focused on making financial market analysis accessible to everyone. Our mobile app uses artificial intelligence to analyze trading",
-    "iconUrl": "https://www.appatar.io/com.chartscannerai.app/large?store=app_store",
-    "startupUrl": "https://trustmrr.com/startup/chart-scanner-ai"
-  },
-  {
-    "name": "Scalereach.ai",
-    "slug": "scalereach",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
-    "isForSale": true,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1797,
-    "cachedOfferCount": 8,
-    "revenueLast30Days": "$6,585",
-    "revenueGrowthLast30Days": "+5649.2%",
-    "askingPrice": "$75,000",
-    "revenueMultiple": "0.9x",
-    "description": "AI video repurposing tool that turns long videos into viral short clips for TikTok, Reels and YouTube Shorts. Paste a YouTube, Twitch, Kick, Drive or Loom link and ScaleReach finds",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/anonymous-startup-78-ed3c5683-1c4d-431d-9906-0101d666a54a.png",
-    "startupUrl": "https://trustmrr.com/startup/scalereach"
   }
 ]
 ```

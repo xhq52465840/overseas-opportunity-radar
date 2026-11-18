@@ -1,5 +1,5 @@
 # PDF Editify
-> Cached snapshot — next refresh expected around 2026-11-17T07:42:39.804Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:13.859Z.
 Public AI-agent Markdown profile for [PDF Editify](https://trustmrr.com/startup/pdf-editify) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T02:36:02.783Z
+- Revenue last synced: 2026-11-18T02:34:53.076Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $3.00 |
-| Last 7 days | $25.00 |
-| Last 30 days | $205 |
-| Last 3 months | $319 |
-| Last 6 months | $519 |
-| Last 12 months | $1,230 |
+| Last 24 hours | $0.00 |
+| Last 7 days | $19.00 |
+| Last 30 days | $202 |
+| Last 3 months | $313 |
+| Last 6 months | $509 |
+| Last 12 months | $1,224 |
 | All time | $3,661 |
-- Last 30 days revenue snapshot: $205
-- Last 30 days revenue growth: +259.6%
+- Last 30 days revenue snapshot: $202
+- Last 30 days revenue growth: +236.7%
 - All-time revenue snapshot: $3,661
-- Revenue data last synced: 2026-11-16T02:36:02.783Z
+- Revenue data last synced: 2026-11-18T02:34:53.076Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $10.00 |
 | 2026-10-21 | $99.00 |
 | 2026-10-22 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $3.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -130,8 +130,8 @@ Full startup page: [https://trustmrr.com/startup/pdf-editify](https://trustmrr.c
 ## SEO Domain Data
 
 - Domain: pdfeditify.com
-- Domain rating: 24.0
-- Last synced: 2026-11-10T06:33:39.743Z
+- Domain rating: 25.0
+- Last synced: 2026-11-18T06:32:43.271Z
 
 
 ## Screenshots
@@ -164,8 +164,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,184",
-    "revenueGrowthLast30Days": "-19.1%",
+    "revenueLast30Days": "$5,960",
+    "revenueGrowthLast30Days": "-15.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Scritches is modern pet sitting and dog walking software built to help solo and small-team providers keep their business organized without the stress of spreadsheets and text threa",
@@ -182,12 +182,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 582,
+    "cachedUniquePageviews": 605,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$155,051",
-    "revenueGrowthLast30Days": "-47.9%",
+    "revenueLast30Days": "$152,892",
+    "revenueGrowthLast30Days": "-46.7%",
     "askingPrice": "$11,000,000",
-    "revenueMultiple": "5.9x",
+    "revenueMultiple": "6.0x",
     "description": "we are an online collectibles platform that combines the excitement of digital pack openings with physical Pokémon and One Piece trading cards. Collectors can open packs, manage th",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/startup-08db11993c57"
@@ -204,7 +204,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$5,036",
+    "revenueLast30Days": "$5,033",
     "revenueGrowthLast30Days": "+7.5%",
     "askingPrice": null,
     "revenueMultiple": null,
@@ -222,10 +222,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1114,
+    "cachedUniquePageviews": 1127,
     "cachedOfferCount": 4,
-    "revenueLast30Days": "$9,870",
-    "revenueGrowthLast30Days": "-3.6%",
+    "revenueLast30Days": "$9,411",
+    "revenueGrowthLast30Days": "-7.7%",
     "askingPrice": "$150,000",
     "revenueMultiple": "1.3x",
     "description": "Dual is an app that lets people take both vertical and horizontal videos and photos at the same time.",
@@ -242,12 +242,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 6057,
+    "cachedUniquePageviews": 6075,
     "cachedOfferCount": 33,
-    "revenueLast30Days": "$13,801",
-    "revenueGrowthLast30Days": "-34.3%",
+    "revenueLast30Days": "$13,437",
+    "revenueGrowthLast30Days": "-37.1%",
     "askingPrice": "$250,000",
-    "revenueMultiple": "1.5x",
+    "revenueMultiple": "1.6x",
     "description": "Stat AI is a sports analysis app that uses AI to provide data-driven decisions and insights.",
     "iconUrl": "https://www.appatar.io/com.statai.statai/small",
     "startupUrl": "https://trustmrr.com/startup/stat-ai"
@@ -264,8 +264,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$8,591",
-    "revenueGrowthLast30Days": "-8.5%",
+    "revenueLast30Days": "$4,610",
+    "revenueGrowthLast30Days": "-66.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI agent that works as a content engine that helps creators generate viral videos. It handles from researching to ready-to-publish videos.",

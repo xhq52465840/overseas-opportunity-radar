@@ -1,5 +1,5 @@
 # Batch Studio
-> Cached snapshot — next refresh expected around 2026-11-17T08:16:32.983Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:22:57.414Z.
 Public AI-agent Markdown profile for [Batch Studio](https://trustmrr.com/startup/batch-studio) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -51,8 +51,6 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -118,7 +118,7 @@ Full startup page: [https://trustmrr.com/startup/batch-studio](https://trustmrr.
 
 - Domain: batchstudio.ai
 - Domain rating: 0.0
-- Last synced: 2026-11-09T06:31:40.290Z
+- Last synced: 2026-11-17T06:31:41.728Z
 
 
 ## Screenshots
@@ -152,7 +152,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
     "revenueLast30Days": "$6,649",
-    "revenueGrowthLast30Days": "-11.7%",
+    "revenueGrowthLast30Days": "-2.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Perfect Little Business is an AI agency for expert-led businesses: coaches, consultants, authors and SaaS founders. We take companies from legacy systems to AI-native through three",
@@ -171,8 +171,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,317",
-    "revenueGrowthLast30Days": "-13.0%",
+    "revenueLast30Days": "$3,376",
+    "revenueGrowthLast30Days": "-3.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established in 2021, this profitable WordPress and WooCommerce maintenance business serves 23 recurring U.S. clients. Billing moved to Stripe in June 2024; can share earlier revenu",
@@ -211,8 +211,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,627",
-    "revenueGrowthLast30Days": "-3.2%",
+    "revenueLast30Days": "$7,617",
+    "revenueGrowthLast30Days": "+0.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Popular Shopify Discount App",
@@ -229,10 +229,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 902,
+    "cachedUniquePageviews": 913,
     "cachedOfferCount": 5,
     "revenueLast30Days": "$4,398",
-    "revenueGrowthLast30Days": "+54.5%",
+    "revenueGrowthLast30Days": "+60.1%",
     "askingPrice": "$125,000",
     "revenueMultiple": "2.4x",
     "description": "Helping electrical and computer engineers find hardware roles through company-specific interview question banks, exercises, resume-tools, and behavioral questions",
@@ -249,10 +249,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 1997,
+    "cachedUniquePageviews": 2069,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$36,918",
-    "revenueGrowthLast30Days": "+4.0%",
+    "revenueLast30Days": "$37,177",
+    "revenueGrowthLast30Days": "+7.3%",
     "askingPrice": "$250,000",
     "revenueMultiple": "0.6x",
     "description": "AI-image & video-generation platform.",

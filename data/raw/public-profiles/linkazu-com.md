@@ -1,5 +1,5 @@
 # Linkazu.com
-> Cached snapshot — next refresh expected around 2026-11-17T08:20:40.999Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:08.465Z.
 Public AI-agent Markdown profile for [Linkazu.com](https://trustmrr.com/startup/linkazu-com) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T02:36:30.483Z
+- Revenue last synced: 2026-11-18T02:35:20.085Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $42.14
-- Revenue data last synced: 2026-11-16T02:36:30.483Z
+- Revenue data last synced: 2026-11-18T02:35:20.085Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -124,7 +124,7 @@ Full startup page: [https://trustmrr.com/startup/linkazu-com](https://trustmrr.c
 
 - Domain: linkazu.com
 - Domain rating: 27.0
-- Last synced: 2026-11-10T06:33:39.774Z
+- Last synced: 2026-11-18T06:32:43.309Z
 
 
 ## Screenshots
@@ -157,8 +157,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,958",
-    "revenueGrowthLast30Days": "+244.9%",
+    "revenueLast30Days": "$3,795",
+    "revenueGrowthLast30Days": "+188.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Premium and free Astro themes - production-ready Astro + Tailwind website templates. Browse the collection, or edit any theme visually in our no-code builder.",
@@ -177,8 +177,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$51,106",
-    "revenueGrowthLast30Days": "-13.4%",
+    "revenueLast30Days": "$51,508",
+    "revenueGrowthLast30Days": "-13.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -197,8 +197,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,317",
-    "revenueGrowthLast30Days": "-13.0%",
+    "revenueLast30Days": "$3,376",
+    "revenueGrowthLast30Days": "-3.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established in 2021, this profitable WordPress and WooCommerce maintenance business serves 23 recurring U.S. clients. Billing moved to Stripe in June 2024; can share earlier revenu",
@@ -215,7 +215,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1385,
+    "cachedUniquePageviews": 1387,
     "cachedOfferCount": 21,
     "revenueLast30Days": "$5,789",
     "revenueGrowthLast30Days": "+18.5%",
@@ -237,8 +237,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$15,600",
-    "revenueGrowthLast30Days": "-2.7%",
+    "revenueLast30Days": "$15,341",
+    "revenueGrowthLast30Days": "-5.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Photography app.",
@@ -255,10 +255,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 201,
+    "cachedUniquePageviews": 205,
     "cachedOfferCount": 4,
-    "revenueLast30Days": "$3,353",
-    "revenueGrowthLast30Days": "+99.9%",
+    "revenueLast30Days": "$3,383",
+    "revenueGrowthLast30Days": "+101.7%",
     "askingPrice": "$35,000",
     "revenueMultiple": "0.9x",
     "description": "an all-in-one AI video and image creation platform for creators, marketers, and businesses. Turn text prompts and reference images into videos, product visuals, and social content ",

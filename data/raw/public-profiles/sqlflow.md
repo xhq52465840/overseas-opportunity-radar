@@ -1,5 +1,5 @@
 # SQLFlow
-> Cached snapshot — next refresh expected around 2026-11-17T08:20:42.758Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:10.258Z.
 Public AI-agent Markdown profile for [SQLFlow](https://trustmrr.com/startup/sqlflow) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T04:15:41.594Z
+- Revenue last synced: 2026-11-18T04:10:46.380Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -43,13 +43,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $0.00
-- Revenue data last synced: 2026-11-16T04:15:41.594Z
+- Revenue data last synced: 2026-11-18T04:10:46.380Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
@@ -78,6 +76,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 
 
 ## Metric Snapshots
@@ -120,7 +120,7 @@ No screenshots are available in the public data for this startup.
 - First listed for sale: 2026-05-15
 - Asking price: $400
 - Revenue multiple: 0.0x
-- Interested buyers who saw this recently: 131
+- Interested buyers who saw this recently: 132
 - Acquisition offers received: 0
 - Message from the seller: Seller — "Selling this to make way for more ideas to come to life. The system works and I feel another individual can take it to the next level."
 - Make an offer: [SQLFlow offer page](https://trustmrr.com/startup/sqlflow?offer=1)
@@ -143,12 +143,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 718,
+    "cachedUniquePageviews": 732,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$338",
-    "revenueGrowthLast30Days": "+8.3%",
+    "revenueLast30Days": "$357",
+    "revenueGrowthLast30Days": "+21.8%",
     "askingPrice": "$4,000",
-    "revenueMultiple": "1.0x",
+    "revenueMultiple": "0.9x",
     "description": "This saas analyzes text to determine whether it was written by AI - such as ChatGPT, Claude, Gemini, or any other LLM. It’s also the perfect tool to humanize AI-generated content, ",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/startup-c9231495860e"
@@ -163,35 +163,55 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 768,
-    "cachedOfferCount": 10,
-    "revenueLast30Days": "$225",
-    "revenueGrowthLast30Days": "+53.1%",
+    "cachedUniquePageviews": 814,
+    "cachedOfferCount": 11,
+    "revenueLast30Days": "$274",
+    "revenueGrowthLast30Days": "+86.4%",
     "askingPrice": "$1,800",
-    "revenueMultiple": "0.7x",
+    "revenueMultiple": "0.5x",
     "description": "ReplyCurrent is an AI customer support SaaS I built to help businesses answer customer questions automatically. You connect your website, help center, or documents, and it creates ",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/replycurrent-73edb7dd-dede-4fc5-9611-344a6f51535e.png",
     "startupUrl": "https://trustmrr.com/startup/replycurrent"
   },
   {
-    "name": "Cooksync",
-    "slug": "cooksync",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
+    "name": "ANI Comics",
+    "slug": "startup-27de72730f9a",
+    "category": "Mobile Apps",
+    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
     "isForSale": true,
     "listingTier": "starter",
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 335,
+    "cachedUniquePageviews": 204,
+    "cachedOfferCount": 2,
+    "revenueLast30Days": "$162",
+    "revenueGrowthLast30Days": "-22.5%",
+    "askingPrice": "$3,000",
+    "revenueMultiple": "1.5x",
+    "description": "Comics & Manga Maker. Grew organically on App Store, Google Play and Web (Web revenue is not listed here). Google Play 10k+ download. There's clear room to grow: ASA, Meta, paid UG",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/startup-27de72730f9a-b4ecdb8a-b784-4480-9042-05cec02c182e.png",
+    "startupUrl": "https://trustmrr.com/startup/startup-27de72730f9a"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "hidden-business-90",
+    "category": "Mobile App",
+    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
+    "isForSale": true,
+    "listingTier": "premium",
+    "listingTierName": "Scale",
+    "cardBackgroundColor": "#e5f6fe",
+    "cardBackgroundColorDark": "#1a2d3a",
+    "cachedUniquePageviews": 1042,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$46.94",
-    "revenueGrowthLast30Days": "+292.5%",
-    "askingPrice": "$2,500",
-    "revenueMultiple": "4.4x",
-    "description": "Collect recipes from anywhere - store them your way. Build your own cookbook by collecting recipes from social media, websites, and more - then sync them automatically to your favo",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/cooksync-7eb108ef-70e8-4409-b5ad-3f37ca41e0b0.png",
-    "startupUrl": "https://trustmrr.com/startup/cooksync"
+    "revenueLast30Days": "$4,019",
+    "revenueGrowthLast30Days": "+84.8%",
+    "askingPrice": "$75,000",
+    "revenueMultiple": "1.6x",
+    "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/hidden-business-90"
   },
   {
     "name": "PDF Vault",
@@ -203,12 +223,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 6855,
+    "cachedUniquePageviews": 7327,
     "cachedOfferCount": 10,
-    "revenueLast30Days": "$8,822",
-    "revenueGrowthLast30Days": "-12.3%",
-    "askingPrice": "$120,000",
-    "revenueMultiple": "1.1x",
+    "revenueLast30Days": "$8,862",
+    "revenueGrowthLast30Days": "-3.9%",
+    "askingPrice": "$75,000",
+    "revenueMultiple": "0.7x",
     "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVDhTbVA1QVdQTEozb085fGZsX2xpdmVfVUZ5NURIbUZaUGU0b0pqZ3BSS0ptVFJz00zakZSvK5",
     "startupUrl": "https://trustmrr.com/startup/pdf-vault"
@@ -223,35 +243,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 29631,
+    "cachedUniquePageviews": 30069,
     "cachedOfferCount": 53,
-    "revenueLast30Days": "$38,821",
-    "revenueGrowthLast30Days": "+0.9%",
+    "revenueLast30Days": "$39,686",
+    "revenueGrowthLast30Days": "+3.7%",
     "askingPrice": "$1,500,000",
-    "revenueMultiple": "3.2x",
+    "revenueMultiple": "3.1x",
     "description": "Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUTJONEdDZXRFWlo2R3ZPfGZsX2xpdmVfa1NER2dadXBGY0FBQWJLMVBUYkRWN21m00QLSX2GfH",
     "startupUrl": "https://trustmrr.com/startup/vidai-llc"
-  },
-  {
-    "name": "Stealth Company",
-    "slug": "startup-0e18ebf4e600",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
-    "isForSale": true,
-    "listingTier": "premium",
-    "listingTierName": "Scale",
-    "cardBackgroundColor": "#e5f6fe",
-    "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 6457,
-    "cachedOfferCount": 8,
-    "revenueLast30Days": "$5,488",
-    "revenueGrowthLast30Days": "+110.2%",
-    "askingPrice": "$95,000",
-    "revenueMultiple": "1.5x",
-    "description": "AI Social Media",
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/startup-0e18ebf4e600"
   }
 ]
 ```

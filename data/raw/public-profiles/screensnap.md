@@ -1,5 +1,5 @@
 # ScreenSnap
-> Cached snapshot — next refresh expected around 2026-11-17T08:01:05.867Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:11.123Z.
 Public AI-agent Markdown profile for [ScreenSnap](https://trustmrr.com/startup/screensnap) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [ScreenSnap](https://trustmrr.com/startup/s
 - Founded date: 2026-06-08
 - Founder: [Charles Nguyen](https://trustmrr.com/founder/charlesng116)
 - Founder image: [https://pbs.twimg.com/profile_images/2050968173164593152/Kl3zpVvU.jpg](https://pbs.twimg.com/profile_images/2050968173164593152/Kl3zpVvU.jpg)
-- X followers: 501
+- X followers: 502
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T04:40:19.023Z
+- Revenue last synced: 2026-11-18T04:34:58.027Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $3.00
-- Revenue data last synced: 2026-11-16T04:40:19.023Z
+- Revenue data last synced: 2026-11-18T04:34:58.027Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -129,7 +129,7 @@ Full startup page: [https://trustmrr.com/startup/screensnap](https://trustmrr.co
 
 - Domain: screensnap.site
 - Domain rating: 0.0
-- Last synced: 2026-11-09T06:34:41.607Z
+- Last synced: 2026-11-17T06:34:43.041Z
 
 
 ## Screenshots
@@ -162,8 +162,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,574",
-    "revenueGrowthLast30Days": "+5452.1%",
+    "revenueLast30Days": "$3,736",
+    "revenueGrowthLast30Days": "+5703.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A suite of marketing and lead generation products to grow your business.",
@@ -182,8 +182,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,413",
-    "revenueGrowthLast30Days": "+93.1%",
+    "revenueLast30Days": "$3,455",
+    "revenueGrowthLast30Days": "+91.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -200,10 +200,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1222,
+    "cachedUniquePageviews": 1256,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$13,557",
-    "revenueGrowthLast30Days": "+36.1%",
+    "revenueLast30Days": "$13,156",
+    "revenueGrowthLast30Days": "+23.1%",
     "askingPrice": "$50,000",
     "revenueMultiple": "0.3x",
     "description": "Four live AI video products sold as one deal: Vidko (an idea becomes a finished 5-30 min YouTube documentary), Mamox (a website becomes a motion-graphics ad), Kidzi (cartoon films ",
@@ -222,8 +222,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,738",
-    "revenueGrowthLast30Days": "-8.1%",
+    "revenueLast30Days": "$3,446",
+    "revenueGrowthLast30Days": "-14.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Indie Hacker",
@@ -242,7 +242,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,490",
+    "revenueLast30Days": "$3,515",
     "revenueGrowthLast30Days": "+96.5%",
     "askingPrice": null,
     "revenueMultiple": null,
@@ -262,8 +262,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$8,591",
-    "revenueGrowthLast30Days": "-8.5%",
+    "revenueLast30Days": "$4,610",
+    "revenueGrowthLast30Days": "-66.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI agent that works as a content engine that helps creators generate viral videos. It handles from researching to ready-to-publish videos.",

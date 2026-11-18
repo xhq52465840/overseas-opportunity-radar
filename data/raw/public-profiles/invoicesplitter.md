@@ -1,5 +1,5 @@
 # InvoiceSplitter
-> Cached snapshot — next refresh expected around 2026-11-17T07:25:12.241Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:03.278Z.
 Public AI-agent Markdown profile for [InvoiceSplitter](https://trustmrr.com/startup/invoicesplitter) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Dodo Payments (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T03:39:07.715Z
+- Revenue last synced: 2026-11-18T03:35:22.829Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $86.13
-- Revenue data last synced: 2026-11-16T03:39:07.715Z
+- Revenue data last synced: 2026-11-18T03:35:22.829Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -121,7 +121,7 @@ Full startup page: [https://trustmrr.com/startup/invoicesplitter](https://trustm
 
 - Domain: invoicesplitter.com
 - Domain rating: 0.0
-- Last synced: 2026-11-09T06:31:41.795Z
+- Last synced: 2026-11-17T06:31:43.353Z
 
 
 ## Screenshots
@@ -152,35 +152,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2015,
+    "cachedUniquePageviews": 2026,
     "cachedOfferCount": 9,
-    "revenueLast30Days": "$5,647",
-    "revenueGrowthLast30Days": "-39.8%",
+    "revenueLast30Days": "$6,134",
+    "revenueGrowthLast30Days": "+2.4%",
     "askingPrice": "$100,552",
-    "revenueMultiple": "1.5x",
+    "revenueMultiple": "1.4x",
     "description": "Upwork Jobs Auto-Responder How it works: 1) Filters relevant jobs 2) Drafts human like proposals according your case-studies 3) Sends proposals automatically",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/hi-no-code-inc-42cac4b4-70f6-434e-98fa-13f28a745302.png",
     "startupUrl": "https://trustmrr.com/startup/u-never-sleep"
-  },
-  {
-    "name": "Klupt",
-    "slug": "klupt",
-    "category": "Social Media",
-    "categoryUrl": "https://trustmrr.com/category/social-media",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,179",
-    "revenueGrowthLast30Days": "+190.9%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "Klupt is an anonymous Instagram tracker for both followings and followers: see who anyone recently followed and who recently followed them, newest first. Get a Telegram alert the m",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/klupt-ae29ee68-e848-4b41-aa59-861b54253cb8.png",
-    "startupUrl": "https://trustmrr.com/startup/klupt"
   },
   {
     "name": "colorize.cc",
@@ -194,53 +174,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,395",
-    "revenueGrowthLast30Days": "-21.8%",
+    "revenueLast30Days": "$3,346",
+    "revenueGrowthLast30Days": "-25.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "It's AI service for photo colorization and restoration",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTUdRTnlHcVRhSkgwRnAxfGZsX2xpdmVfSEpjWlNFUzM1UjZnRXlaUFZCR3psUVRT00t7srt0Qv",
     "startupUrl": "https://trustmrr.com/startup/colorize-cc"
-  },
-  {
-    "name": "Blawgy.com",
-    "slug": "blawgy-com",
-    "category": "Marketing",
-    "categoryUrl": "https://trustmrr.com/category/marketing",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,880",
-    "revenueGrowthLast30Days": "+142.9%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "Traffic on autopilot. Daily blog articles published to your website.",
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/blawgy-com"
-  },
-  {
-    "name": "Stealth Company",
-    "slug": "unnamed-company-49",
-    "category": "Software",
-    "categoryUrl": "https://trustmrr.com/category/software",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$81,389",
-    "revenueGrowthLast30Days": "-15.0%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": null,
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/unnamed-company-49"
   },
   {
     "name": "EmailEngine",
@@ -254,13 +194,73 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$29,191",
-    "revenueGrowthLast30Days": "-16.3%",
+    "revenueLast30Days": "$29,016",
+    "revenueGrowthLast30Days": "-16.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "EmailEngine is a self-hosted email API. It connects to any email account over IMAP/SMTP, the Gmail API or Microsoft Graph and exposes all of them through one REST API, with real-ti",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xR2s1SkdBUjhnMFY5bmxYfGZsX2xpdmVfV2dIRDl1bzlVZXp4bFF5M2kwS3U0UDJT00FNtWx1gD",
     "startupUrl": "https://trustmrr.com/startup/emailengine"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "dearest",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$11,452",
+    "revenueGrowthLast30Days": "+19.6%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": null,
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/dearest"
+  },
+  {
+    "name": "Dena AI",
+    "slug": "dena-ai",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": true,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 856,
+    "cachedOfferCount": 5,
+    "revenueLast30Days": "$3,327",
+    "revenueGrowthLast30Days": "+2.4%",
+    "askingPrice": "$390,000",
+    "revenueMultiple": "9.8x",
+    "description": "AI business phone system.",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/dena-ai"
+  },
+  {
+    "name": "Avium",
+    "slug": "avium",
+    "category": "Marketing",
+    "categoryUrl": "https://trustmrr.com/category/marketing",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$21,990",
+    "revenueGrowthLast30Days": "+124.8%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/bdm-business-58201603-797d-4cf3-a713-289b74e0e871.jpg",
+    "startupUrl": "https://trustmrr.com/startup/avium"
   }
 ]
 ```

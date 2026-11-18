@@ -1,5 +1,5 @@
 # Imejis.io
-> Cached snapshot — next refresh expected around 2026-11-17T08:20:30.137Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:16.576Z.
 Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/imejis-io) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/im
 - Founded date: 2023-11-09
 - Founder: [Dharmik \\| MakerRadar](https://trustmrr.com/founder/dharmikjagodana)
 - Founder image: [https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg](https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg)
-- X followers: 329
+- X followers: 325
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T03:19:39.704Z
+- Revenue last synced: 2026-11-18T03:17:03.513Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -37,22 +37,20 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $29.98 |
+| Last 7 days | $14.99 |
 | Last 30 days | $160 |
-| Last 3 months | $585 |
+| Last 3 months | $560 |
 | Last 6 months | $1,020 |
 | Last 12 months | $1,589 |
 | All time | $2,059 |
 - Last 30 days revenue snapshot: $160
 - Last 30 days revenue growth: -31.9%
 - All-time revenue snapshot: $2,059
-- Revenue data last synced: 2026-11-16T03:19:39.704Z
+- Revenue data last synced: 2026-11-18T03:17:03.513Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $14.99 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $14.99 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $14.99 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -102,7 +102,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
 - Current MRR: $350
-- Last 30 days MRR growth: +7.7%
+- Last 30 days MRR growth: +3.0%
 - Current active subscriptions: 12
 - Last 30 days profit margin: 78.0%
 
@@ -116,13 +116,14 @@ Full startup page: [https://trustmrr.com/startup/imejis-io](https://trustmrr.com
 
 ## Startup Insights
 
-- Value proposition: Generate social media images, e-commerce banners, and more from one simple API. Or let an AI agent design and render them for you over MCP. Scale your visual content without limits.
-- Problem solved: Automate and scale visual content creation without extensive design skills or hiring more designers.
-- Pricing model: Free tier available
-- Target persona: Marketing Managers, E-commerce Brands, Developers, Content Leads, Digital Agencies
-- Audience type: [B2B](https://trustmrr.com/search?targetAudience=B2B)
-- Estimated user count: 1,500
-- Markets: [Dev Tools](https://trustmrr.com/category/developer-tools), [AI](https://trustmrr.com/category/ai), [Marketing](https://trustmrr.com/category/marketing), [Content Creation](https://trustmrr.com/category/content-creation), [SaaS](https://trustmrr.com/category/saas), [Design Tools](https://trustmrr.com/category/design-tools)
+- Value proposition: AI-powered design studio that creates branded, accurate images from prompts or templates and automatically adapts them to multiple sizes for export or automation.
+- Problem solved: Producing consistent, on-brand images at scale is time-consuming; image generators often misspell text and fail to preserve reliable layouts across versions and sizes.
+- Pricing model: Free: $0/month for 100 renders; Basic: $14.99/month for 1,000 renders; Pro: $24.99/month for 5,000 renders; Unlimited: $69.99/month for 25,000 renders. Annual billing offers about two months free.
+- Target persona: Marketing and content teams, ecommerce businesses, and developers or AI-agent users who need to generate branded images at scale.
+- Audience type: [Both](https://trustmrr.com/search?targetAudience=Both)
+- Estimated user count: 0
+- Additional info: Integrates with Claude, ChatGPT, Gemini, Cursor, Google Antigravity, Zapier, Make, and n8n. Exports PNG, JPEG, WebP, and PDF; video export is coming soon.
+- Markets: [Dev Tools](https://trustmrr.com/category/developer-tools), [AI](https://trustmrr.com/category/ai), [Design Tools](https://trustmrr.com/category/design-tools), [Marketing](https://trustmrr.com/category/marketing), [SaaS](https://trustmrr.com/category/saas)
 
 
 ## Tech Stack
@@ -140,7 +141,7 @@ Full startup page: [https://trustmrr.com/startup/imejis-io](https://trustmrr.com
 
 ## Screenshots
 
-![Landing page (1920x10815)](https://d21oz30g4w22sz.cloudfront.net/startup-screenshots/imejis-io/1786950215005-498cd5c8-4abb-4128-884f-0bcb8df8d889-landing-page.webp)
+![Landing page (1920x16685)](https://d21oz30g4w22sz.cloudfront.net/startup-screenshots/imejis-io/1794985811792-853b0d23-9f56-424a-8daa-206eb5af2f77-landing-page.jpg)
 
 
 ## Acquisition
@@ -168,7 +169,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$19,838",
+    "revenueLast30Days": "$20,333",
     "revenueGrowthLast30Days": "0.0%",
     "askingPrice": null,
     "revenueMultiple": null,
@@ -186,10 +187,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1408,
+    "cachedUniquePageviews": 1415,
     "cachedOfferCount": 7,
-    "revenueLast30Days": "$5,853",
-    "revenueGrowthLast30Days": "+1.4%",
+    "revenueLast30Days": "$6,110",
+    "revenueGrowthLast30Days": "+11.5%",
     "askingPrice": "$100,000",
     "revenueMultiple": "1.4x",
     "description": "This cross-platform AI photo app democratizes pro-level editing without complex prompts or login friction. Growth: Revenue surged from $3k to $6k in 3 months (65% margin). Assets: ",
@@ -208,8 +209,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,578",
-    "revenueGrowthLast30Days": "-20.5%",
+    "revenueLast30Days": "$5,579",
+    "revenueGrowthLast30Days": "-16.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Ofrecemos diferentes tipos de Saas por suscripción, como herramientas para crear agentes de IA para whatsapp",
@@ -228,8 +229,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$630,784",
-    "revenueGrowthLast30Days": "+85.6%",
+    "revenueLast30Days": "$613,485",
+    "revenueGrowthLast30Days": "+81.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Discover the events worth showing up for, grab your tickets in seconds, and host your own — all on the platform built for real-life moments.",
@@ -246,10 +247,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 17607,
+    "cachedUniquePageviews": 17645,
     "cachedOfferCount": 44,
-    "revenueLast30Days": "$18,772",
-    "revenueGrowthLast30Days": "+8.3%",
+    "revenueLast30Days": "$18,502",
+    "revenueGrowthLast30Days": "+5.1%",
     "askingPrice": "$350,000",
     "revenueMultiple": "1.6x",
     "description": "Backlinker AI automates backlink acquisition through AI-powered reporter and editorial outreach. Built for agencies, founders, and SEO teams, it finds relevant opportunities, draft",
@@ -257,10 +258,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/backlinker-ai"
   },
   {
-    "name": "Stealth Company",
-    "slug": "startup-f5208a0753ad",
-    "category": "Mobile Apps",
-    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
+    "name": "Supergrow",
+    "slug": "supergrow",
+    "category": "Social Media",
+    "categoryUrl": "https://trustmrr.com/category/social-media",
     "isForSale": false,
     "listingTier": "free",
     "listingTierName": "Free",
@@ -268,13 +269,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$10,475",
-    "revenueGrowthLast30Days": "+9.6%",
+    "revenueLast30Days": "$32,216",
+    "revenueGrowthLast30Days": "+14.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/startup-f5208a0753ad"
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/stealth-company-4-39f68695-e82a-410e-89fe-3dec65e9e2bd.png",
+    "startupUrl": "https://trustmrr.com/startup/supergrow"
   }
 ]
 ```

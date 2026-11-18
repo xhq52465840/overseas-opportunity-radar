@@ -1,5 +1,5 @@
 # Shotomatic
-> Cached snapshot — next refresh expected around 2026-11-17T08:22:27.964Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:12.980Z.
 Public AI-agent Markdown profile for [Shotomatic](https://trustmrr.com/startup/shotomatic) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Lemon Squeezy (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T08:19:02.404Z
+- Revenue last synced: 2026-11-18T02:18:56.070Z
 - Google Analytics API connected: Yes
 - DataFast API key connected: Yes
 - Google Search Console API connected: Yes
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $9.75 |
-| Last 7 days | $162 |
-| Last 30 days | $802 |
-| Last 3 months | $3,029 |
-| Last 6 months | $5,757 |
-| Last 12 months | $11,930 |
+| Last 24 hours | $0.00 |
+| Last 7 days | $94.05 |
+| Last 30 days | $753 |
+| Last 3 months | $2,994 |
+| Last 6 months | $5,715 |
+| Last 12 months | $11,881 |
 | All time | $16,834 |
-- Last 30 days revenue snapshot: $802
-- Last 30 days revenue growth: -31.7%
+- Last 30 days revenue snapshot: $753
+- Last 30 days revenue growth: -33.6%
 - All-time revenue snapshot: $16,834
-- Revenue data last synced: 2026-11-16T08:19:02.404Z
+- Revenue data last synced: 2026-11-18T02:18:56.070Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $49.49 |
-| 2026-10-19 | $8.79 |
 | 2026-10-20 | $0.00 |
 | 2026-10-21 | $41.83 |
 | 2026-10-22 | $8.68 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $9.75 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $0.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -102,9 +102,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
 - Current MRR: $218
-- Last 30 days MRR growth: -5.1%
+- Last 30 days MRR growth: -2.2%
 - Current active subscriptions: 23
-- Last 30 days traffic or visitors: 14,727
+- Last 30 days traffic or visitors: 15,363
 - Last 30 days revenue per visitor: $0.05
 
 
@@ -134,8 +134,8 @@ Full startup page: [https://trustmrr.com/startup/shotomatic](https://trustmrr.co
 ## SEO Domain Data
 
 - Domain: shotomatic.com
-- Domain rating: 23.0
-- Last synced: 2026-11-10T06:30:39.742Z
+- Domain rating: 22.0
+- Last synced: 2026-11-17T06:38:41.223Z
 
 
 ## Screenshots
@@ -166,12 +166,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2888,
+    "cachedUniquePageviews": 2889,
     "cachedOfferCount": 14,
-    "revenueLast30Days": "$14,729",
-    "revenueGrowthLast30Days": "-16.0%",
+    "revenueLast30Days": "$14,211",
+    "revenueGrowthLast30Days": "-18.7%",
     "askingPrice": "$200,000",
-    "revenueMultiple": "1.1x",
+    "revenueMultiple": "1.2x",
     "description": "Linkar offers mechanical warranty for vehicles, covering repair costs up to 15,000€ per year.",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/startup-9f7468483864"
@@ -198,6 +198,26 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
   },
   {
     "name": "Stealth Company",
+    "slug": "unnamed-company-54",
+    "category": "Legal",
+    "categoryUrl": "https://trustmrr.com/category/legal",
+    "isForSale": true,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 707,
+    "cachedOfferCount": 1,
+    "revenueLast30Days": "$4,211",
+    "revenueGrowthLast30Days": "+2993.4%",
+    "askingPrice": "$45,000",
+    "revenueMultiple": "0.9x",
+    "description": null,
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/unnamed-company-54"
+  },
+  {
+    "name": "Stealth Company",
     "slug": "iptv-player-vpn-app-bundle",
     "category": "Mobile Apps",
     "categoryUrl": "https://trustmrr.com/category/mobile-apps",
@@ -206,10 +226,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1906,
+    "cachedUniquePageviews": 1923,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$14,521",
-    "revenueGrowthLast30Days": "-7.4%",
+    "revenueLast30Days": "$14,332",
+    "revenueGrowthLast30Days": "-6.4%",
     "askingPrice": "$500,000",
     "revenueMultiple": "2.9x",
     "description": "Profitable IPTV Player and VPN app portfolio with $238K TTM profit and approximately 90% margin. This listing includes two cross-platform apps under the same brand: an IPTV Player",
@@ -226,21 +246,21 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 614,
-    "cachedOfferCount": 5,
-    "revenueLast30Days": "$11,015",
-    "revenueGrowthLast30Days": "-49.1%",
-    "askingPrice": "$220,000",
-    "revenueMultiple": "1.7x",
-    "description": "Growing, profitable niche social networking app. - 4.8 stars 3k+ stars across App / Play Store - 100k+ users all time - 12-20k MAU - 4-5k DAU - Generally in top 20-50 for Social N",
+    "cachedUniquePageviews": 628,
+    "cachedOfferCount": 6,
+    "revenueLast30Days": "$10,445",
+    "revenueGrowthLast30Days": "-51.9%",
+    "askingPrice": "$150,000",
+    "revenueMultiple": "1.2x",
+    "description": "Growing, profitable niche social networking app. - 4.8 stars 3k+ stars across App / Play Store - 160k+ users all time - 12-20k MAU - 4-5k DAU - Generally in top 20-50 for Social N",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/unnamed-company-25"
   },
   {
-    "name": "3D-AGENT",
-    "slug": "3d-agent",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
+    "name": "Stealth Company",
+    "slug": "unnamed-company-55",
+    "category": "Mail Order",
+    "categoryUrl": "https://trustmrr.com/category/mail-order",
     "isForSale": false,
     "listingTier": "free",
     "listingTierName": "Free",
@@ -248,33 +268,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,212",
-    "revenueGrowthLast30Days": "+34.1%",
+    "revenueLast30Days": "$3,418",
+    "revenueGrowthLast30Days": "-44.0%",
     "askingPrice": null,
     "revenueMultiple": null,
-    "description": "AI for Blender",
+    "description": null,
     "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/3d-agent"
-  },
-  {
-    "name": "AI Baby Generator",
-    "slug": "aibabygenerator",
-    "category": "SaaS",
-    "categoryUrl": "https://trustmrr.com/category/saas",
-    "isForSale": true,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1488,
-    "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,768",
-    "revenueGrowthLast30Days": "+1.4%",
-    "askingPrice": "$100,000",
-    "revenueMultiple": "1.7x",
-    "description": "AI Baby Generator predicts what your baby will look like from two parent photos, providing a realistic baby portrait in seconds.",
-    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xU1ZVT25MZ20wYXlrWjdpfGZsX2xpdmVfNDdHdFRTREV4ZGxTVkpSRUZpemJ4S0w100obKwvNg1",
-    "startupUrl": "https://trustmrr.com/startup/aibabygenerator"
+    "startupUrl": "https://trustmrr.com/startup/unnamed-company-55"
   }
 ]
 ```

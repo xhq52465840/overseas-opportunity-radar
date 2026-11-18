@@ -1,5 +1,5 @@
 # DocToTable
-> Cached snapshot — next refresh expected around 2026-11-17T08:22:26.078Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:02.113Z.
 Public AI-agent Markdown profile for [DocToTable](https://trustmrr.com/startup/doctotable) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T05:28:21.533Z
+- Revenue last synced: 2026-11-18T05:20:59.831Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -33,23 +33,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $0.00 |
-| Last 7 days | $9.99 |
+| Last 24 hours | $29.00 |
+| Last 7 days | $29.00 |
 | Last 30 days | $83.15 |
-| Last 3 months | $200 |
-| Last 6 months | $287 |
-| Last 12 months | $287 |
-| All time | $287 |
+| Last 3 months | $229 |
+| Last 6 months | $316 |
+| Last 12 months | $316 |
+| All time | $316 |
 - Last 30 days revenue snapshot: $83.15
 - Last 30 days revenue growth: -7.6%
-- All-time revenue snapshot: $287
-- Revenue data last synced: 2026-11-16T05:28:21.533Z
+- All-time revenue snapshot: $316
+- Revenue data last synced: 2026-11-18T05:20:59.831Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $0.00 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $4.00 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
@@ -78,6 +76,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $0.00 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $29.00 |
+| 2026-11-18 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -85,7 +85,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $43.08 |
 | 2026-09 | $83.64 |
 | 2026-10 | $70.51 |
-| 2026-11 | $45.63 |
+| 2026-11 | $74.63 |
 
 
 ## Metric Snapshots
@@ -154,9 +154,9 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 314,
+    "cachedUniquePageviews": 342,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$9,384",
+    "revenueLast30Days": "$9,197",
     "revenueGrowthLast30Days": "-6.1%",
     "askingPrice": "$190,000",
     "revenueMultiple": "1.7x",
@@ -176,8 +176,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$15,606",
-    "revenueGrowthLast30Days": "-0.5%",
+    "revenueLast30Days": "$16,253",
+    "revenueGrowthLast30Days": "+7.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "I want to process payments through Stripe, using Stripe's API. I also want to create tools for stripe, like a dashboard.",
@@ -196,8 +196,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,695",
-    "revenueGrowthLast30Days": "-14.8%",
+    "revenueLast30Days": "$3,929",
+    "revenueGrowthLast30Days": "-4.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Washer and dryer rentals. Customers will be billed monthly",
@@ -236,8 +236,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,293",
-    "revenueGrowthLast30Days": "-50.9%",
+    "revenueLast30Days": "$3,050",
+    "revenueGrowthLast30Days": "-53.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "The visibility platform for brands and local businesses. Be found everywhere your customers search.",
@@ -254,10 +254,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1789,
+    "cachedUniquePageviews": 1795,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$4,756",
-    "revenueGrowthLast30Days": "-6.3%",
+    "revenueLast30Days": "$4,725",
+    "revenueGrowthLast30Days": "-4.8%",
     "askingPrice": "$500,000",
     "revenueMultiple": "8.8x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",

@@ -1,13 +1,13 @@
 # TrustMRR 最近24小时变化汇总
-生成：2026-11-17 16:11 北京时间（UTC+8）
-运行记录 2 次；事件 4151 条；需人工判断的实质候选事件 192 条。
-当前状态：success；版本：a97def86c7b1071acffbfdfbfe3cdd3ca9bf825ae0be17a7771785836af12ba3
+生成：2026-11-18 15:45 北京时间（UTC+8）
+运行记录 2 次；事件 8508 条；需人工判断的实质候选事件 376 条。
+当前状态：success；版本：f2932e288fa108136402cfc20f89ce9ad713daf9ccc02d282b2a02ba8ba2b2d0
 新入池≠刚上线；首次观察正值≠实际首单；目录舍入展示变化≠确认增长；滚动收入下降≠流失；收入≠利润。
-- new_project: 149
-- display_change: 3959
-- first_observed_positive: 43
-- superclip | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
-- gpt-scrambler | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
+- display_change: 8112
+- first_observed_positive: 98
+- new_project: 276
+- metric_increase: 13
+- metric_decrease: 9
 - 0sec | display_change | mrr 111.0 → 99.0 | Public display changed; may reflect rounding, not confirmed economic growth.
 - 10015-io | display_change | revenue_30d 322.0 → 363.0 | Public display changed; may reflect rounding, not confirmed economic growth.
 - 10015-io | display_change | revenue_total 2600.0 → 2700.0 | Public display changed; may reflect rounding, not confirmed economic growth.
@@ -106,4 +106,6 @@
 - ai-image-playground | display_change | revenue_30d 51.0 → 41.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
 - ai-interview-copilot | display_change | revenue_30d 19000.0 → 20000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
 - ai-lip-sync | display_change | revenue_30d 692.0 → 712.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-math-solver | display_change | mrr 321.0 → 319.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-math-solver | display_change | revenue_30d 304.0 → 277.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
 完整事件见同名JSON，Markdown只列前100条，不是原池筛除。

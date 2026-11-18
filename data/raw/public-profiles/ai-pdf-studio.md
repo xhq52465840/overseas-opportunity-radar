@@ -1,5 +1,5 @@
 # AI PDF STUDIO
-> Cached snapshot — next refresh expected around 2026-11-17T07:55:45.833Z.
+> Cached snapshot — next refresh expected around 2026-11-19T07:45:14.724Z.
 Public AI-agent Markdown profile for [AI PDF STUDIO](https://trustmrr.com/startup/ai-pdf-studio) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -23,7 +23,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-16T06:03:57.885Z
+- Revenue last synced: 2026-11-18T05:55:23.126Z
 - Google Analytics API connected: No
 - DataFast API key connected: Yes
 - Google Search Console API connected: No
@@ -34,23 +34,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $0.00 |
-| Last 7 days | $12.99 |
-| Last 30 days | $195 |
-| Last 3 months | $714 |
-| Last 6 months | $2,022 |
-| Last 12 months | $3,334 |
-| All time | $3,334 |
-- Last 30 days revenue snapshot: $195
-- Last 30 days revenue growth: -21.1%
-- All-time revenue snapshot: $3,334
-- Revenue data last synced: 2026-11-16T06:03:57.885Z
+| Last 24 hours | $12.99 |
+| Last 7 days | $38.97 |
+| Last 30 days | $208 |
+| Last 3 months | $740 |
+| Last 6 months | $2,009 |
+| Last 12 months | $3,360 |
+| All time | $3,360 |
+- Last 30 days revenue snapshot: $208
+- Last 30 days revenue growth: -15.8%
+- All-time revenue snapshot: $3,360
+- Revenue data last synced: 2026-11-18T05:55:23.126Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-18 | $12.99 |
-| 2026-10-19 | $0.00 |
 | 2026-10-20 | $12.99 |
 | 2026-10-21 | $0.00 |
 | 2026-10-22 | $12.99 |
@@ -79,6 +77,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-14 | $12.99 |
 | 2026-11-15 | $0.00 |
 | 2026-11-16 | $0.00 |
+| 2026-11-17 | $12.99 |
+| 2026-11-18 | $12.99 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -90,7 +90,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $299 |
 | 2026-09 | $286 |
 | 2026-10 | $247 |
-| 2026-11 | $90.93 |
+| 2026-11 | $117 |
 
 
 ## Metric Snapshots
@@ -99,8 +99,8 @@ These are current or last-30-day snapshots stored on the startup profile. Full t
 - Current MRR: $212
 - Last 30 days MRR growth: -15.5%
 - Current active subscriptions: 17
-- Last 30 days traffic or visitors: 82
-- Last 30 days revenue per visitor: $2.38
+- Last 30 days traffic or visitors: 81
+- Last 30 days revenue per visitor: $2.41
 - Last 30 days profit margin: 90.0%
 
 
@@ -164,8 +164,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,204",
-    "revenueGrowthLast30Days": "+1.1%",
+    "revenueLast30Days": "$3,087",
+    "revenueGrowthLast30Days": "+3.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Beautiful iOS native budget app",
@@ -184,8 +184,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,668",
-    "revenueGrowthLast30Days": "+172.5%",
+    "revenueLast30Days": "$3,926",
+    "revenueGrowthLast30Days": "+219.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "At All Love Here, we turn meaningful words into gifts they’ll never forget. Our personalized jewelry and message cards are thoughtfully designed to celebrate love, family, and life",
@@ -204,8 +204,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$85,641",
-    "revenueGrowthLast30Days": "-13.8%",
+    "revenueLast30Days": "$87,675",
+    "revenueGrowthLast30Days": "-6.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI voice and chat agents for SMB.",
@@ -224,8 +224,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$36,538",
-    "revenueGrowthLast30Days": "-15.7%",
+    "revenueLast30Days": "$35,433",
+    "revenueGrowthLast30Days": "-18.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "The easiest to use and fastest growing AI powered YouTube thumbnail generation loved by thousands of creators.",
@@ -264,8 +264,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,215",
-    "revenueGrowthLast30Days": "+45.2%",
+    "revenueLast30Days": "$4,019",
+    "revenueGrowthLast30Days": "+40.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI image generator and editor for creating consistent characters and professional style transfer",
