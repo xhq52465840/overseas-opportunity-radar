@@ -1,5 +1,5 @@
 # PDFBolt
-> Cached snapshot — next refresh expected around 2026-11-19T07:01:33.037Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:07:16.823Z.
 Public AI-agent Markdown profile for [PDFBolt](https://trustmrr.com/startup/pdfbolt) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T02:17:55.060Z
+- Revenue last synced: 2026-11-20T02:17:55.447Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $65.74 |
-| Last 7 days | $549 |
-| Last 30 days | $2,422 |
-| Last 3 months | $7,513 |
-| Last 6 months | $14,716 |
-| Last 12 months | $21,299 |
-| All time | $23,190 |
-- Last 30 days revenue snapshot: $2,422
-- Last 30 days revenue growth: +1.1%
-- All-time revenue snapshot: $23,190
-- Revenue data last synced: 2026-11-18T02:17:55.060Z
+| Last 24 hours | $0.00 |
+| Last 7 days | $372 |
+| Last 30 days | $2,333 |
+| Last 3 months | $7,400 |
+| Last 6 months | $14,477 |
+| Last 12 months | $21,341 |
+| All time | $23,279 |
+- Last 30 days revenue snapshot: $2,352
+- Last 30 days revenue growth: -1.8%
+- All-time revenue snapshot: $23,279
+- Revenue data last synced: 2026-11-20T02:17:55.447Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $159 |
-| 2026-10-21 | $42.37 |
 | 2026-10-22 | $42.37 |
 | 2026-10-23 | $313 |
 | 2026-10-24 | $23.37 |
@@ -80,7 +78,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-15 | $65.74 |
 | 2026-11-16 | $38.37 |
 | 2026-11-17 | $65.74 |
-| 2026-11-18 | $0.00 |
+| 2026-11-18 | $65.74 |
+| 2026-11-19 | $23.37 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,15 +95,15 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $2,570 |
 | 2026-09 | $2,503 |
 | 2026-10 | $2,359 |
-| 2026-11 | $1,088 |
+| 2026-11 | $1,178 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $2,249
-- Last 30 days MRR growth: +4.4%
-- Current active subscriptions: 63
+- Current MRR: $2,268
+- Last 30 days MRR growth: +5.3%
+- Current active subscriptions: 64
 
 
 ## Metrics Available After Login
@@ -185,10 +185,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1266,
-    "cachedOfferCount": 11,
-    "revenueLast30Days": "$11,175",
-    "revenueGrowthLast30Days": "-28.8%",
+    "cachedUniquePageviews": 1275,
+    "cachedOfferCount": 12,
+    "revenueLast30Days": "$10,642",
+    "revenueGrowthLast30Days": "-26.7%",
     "askingPrice": "$65,000",
     "revenueMultiple": "0.5x",
     "description": "A profitable organically grown subscription-based iPhone Japanese learning app with no costs except Apple Proceeds and a differentiated Lock Screen learning experience. The product",
@@ -207,8 +207,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": "#3a1f1f",
     "cachedUniquePageviews": 2163,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$10,891",
-    "revenueGrowthLast30Days": "+77.6%",
+    "revenueLast30Days": "$10,924",
+    "revenueGrowthLast30Days": "+65.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "BLOXG is a rapidly growing influencer marketplace built for Roblox, one of the world's largest gaming platforms with 100M+ daily active users. Launched in 2026, BLOXG has already p",
@@ -227,8 +227,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,875",
-    "revenueGrowthLast30Days": "0.0%",
+    "revenueLast30Days": "$5,252",
+    "revenueGrowthLast30Days": "+9704.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "UK Pokémon card restoration workshop with a free AI Pre-grading iPhone app. Photograph a card's front and back in the YIAN app or on yian.uk and get a Pre-grading Report: centering",
@@ -245,12 +245,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2669,
+    "cachedUniquePageviews": 2680,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$10,765",
-    "revenueGrowthLast30Days": "-57.7%",
+    "revenueLast30Days": "$10,492",
+    "revenueGrowthLast30Days": "-56.4%",
     "askingPrice": "$1,500,000",
-    "revenueMultiple": "11.6x",
+    "revenueMultiple": "11.9x",
     "description": "Photo sharing app for events",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/photo-sharing"
@@ -267,8 +267,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 743,
     "cachedOfferCount": 5,
-    "revenueLast30Days": "$5,057",
-    "revenueGrowthLast30Days": "-26.8%",
+    "revenueLast30Days": "$4,912",
+    "revenueGrowthLast30Days": "-27.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Fast-growing AI video & photo generation app for iOS & Android. 100% organic growth, 4.5★ from 2,050 reviews, ready for paid user acquisition.",

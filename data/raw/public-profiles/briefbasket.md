@@ -1,5 +1,5 @@
 # briefbasket
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:21.030Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:32:45.410Z.
 Public AI-agent Markdown profile for [briefbasket](https://trustmrr.com/startup/briefbasket) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [briefbasket](https://trustmrr.com/startup/
 - Founded date: 2026-06-17
 - Founder: [Shaunbuilds](https://trustmrr.com/founder/poweroverthink)
 - Founder image: [https://pbs.twimg.com/profile_images/2122558116101255168/qVb3h6Nw.jpg](https://pbs.twimg.com/profile_images/2122558116101255168/qVb3h6Nw.jpg)
-- X followers: 950
+- X followers: 948
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Paddle (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T05:00:36.359Z
+- Revenue last synced: 2026-11-20T05:00:37.125Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $16.07
-- Revenue data last synced: 2026-11-18T05:00:36.359Z
+- Revenue data last synced: 2026-11-20T05:00:37.125Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $0.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -161,8 +161,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 743,
     "cachedOfferCount": 5,
-    "revenueLast30Days": "$5,057",
-    "revenueGrowthLast30Days": "-26.8%",
+    "revenueLast30Days": "$4,912",
+    "revenueGrowthLast30Days": "-27.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Fast-growing AI video & photo generation app for iOS & Android. 100% organic growth, 4.5★ from 2,050 reviews, ready for paid user acquisition.",
@@ -181,8 +181,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$762,691",
-    "revenueGrowthLast30Days": "+16.8%",
+    "revenueLast30Days": "$778,985",
+    "revenueGrowthLast30Days": "+17.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -201,13 +201,33 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$83,432",
-    "revenueGrowthLast30Days": "-12.0%",
+    "revenueLast30Days": "$80,950",
+    "revenueGrowthLast30Days": "-15.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/infinity"
+  },
+  {
+    "name": "Christian Tech Jobs",
+    "slug": "christian-tech-jobs",
+    "category": "Recruiting & HR",
+    "categoryUrl": "https://trustmrr.com/category/recruiting",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$3,165",
+    "revenueGrowthLast30Days": "-17.7%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "A job board for blockchain companies, with a focus on DeFi",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xSlpMbWVCdkRxVURQbFlufGZsX2xpdmVfSk9FN2xLeVJ2akd6YjB5NFJaS0hoRVFx001R0jBtyC",
+    "startupUrl": "https://trustmrr.com/startup/christian-tech-jobs"
   },
   {
     "name": "DodgePrint",
@@ -219,12 +239,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1906,
+    "cachedUniquePageviews": 1921,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$6,842",
-    "revenueGrowthLast30Days": "-0.6%",
+    "revenueLast30Days": "$6,907",
+    "revenueGrowthLast30Days": "-0.7%",
     "askingPrice": "$1,200,000",
-    "revenueMultiple": "14.6x",
+    "revenueMultiple": "14.5x",
     "description": "DodgePrint is a multi‑channel SaaS platform for managing product listings, orders, and analytics on Etsy, Amazon, TikTok, and Shopify. It automates tasks like order fulfillment, in",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUmw1bVJMWng5SGg2TGZTfGZsX2xpdmVfZUxOalNvVjRUZGQyS2pUNEhaUFM3RHdL00PS3mgQwP",
     "startupUrl": "https://trustmrr.com/startup/dodgeprint"
@@ -248,26 +268,6 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "description": "Outbound sales, built inside your company.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xU1A2ZGlGdFpXM0Q4VE5mfGZsX2xpdmVfWmpOcFNObkZscnE3R0thYjBTM0VVVVE4001xvYFl15",
     "startupUrl": "https://trustmrr.com/startup/directb2bleads"
-  },
-  {
-    "name": "Dalea AI",
-    "slug": "dalea-ai",
-    "category": "Marketing",
-    "categoryUrl": "https://trustmrr.com/category/marketing",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,738",
-    "revenueGrowthLast30Days": "-65.5%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "Social media agent to help small businesses and personal brands grow their audiences faster. Explore and remix +10.000 viral contents and creators.",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/saga-ai-74ddbaf9-b152-4854-8538-9db41167dcaa.png",
-    "startupUrl": "https://trustmrr.com/startup/dalea-ai"
   }
 ]
 ```

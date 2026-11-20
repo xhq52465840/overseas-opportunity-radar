@@ -1,5 +1,5 @@
 # Shotomatic
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:12.980Z.
+> Cached snapshot — next refresh expected around 2026-11-21T06:17:22.437Z.
 Public AI-agent Markdown profile for [Shotomatic](https://trustmrr.com/startup/shotomatic) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Lemon Squeezy (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T02:18:56.070Z
+- Revenue last synced: 2026-11-20T02:18:54.872Z
 - Google Analytics API connected: Yes
 - DataFast API key connected: Yes
 - Google Search Console API connected: Yes
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $0.00 |
-| Last 7 days | $94.05 |
-| Last 30 days | $753 |
-| Last 3 months | $2,994 |
-| Last 6 months | $5,715 |
-| Last 12 months | $11,881 |
-| All time | $16,834 |
-- Last 30 days revenue snapshot: $753
-- Last 30 days revenue growth: -33.6%
-- All-time revenue snapshot: $16,834
-- Revenue data last synced: 2026-11-18T02:18:56.070Z
+| Last 24 hours | $32.19 |
+| Last 7 days | $49.93 |
+| Last 30 days | $742 |
+| Last 3 months | $2,949 |
+| Last 6 months | $5,755 |
+| Last 12 months | $11,826 |
+| All time | $16,874 |
+- Last 30 days revenue snapshot: $742
+- Last 30 days revenue growth: -25.9%
+- All-time revenue snapshot: $16,874
+- Revenue data last synced: 2026-11-20T02:18:54.872Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $41.83 |
 | 2026-10-22 | $8.68 |
 | 2026-10-23 | $9.59 |
 | 2026-10-24 | $0.00 |
@@ -80,7 +78,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-15 | $9.75 |
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $0.00 |
-| 2026-11-18 | $0.00 |
+| 2026-11-18 | $7.99 |
+| 2026-11-19 | $32.19 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,7 +95,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $1,118 |
 | 2026-09 | $1,313 |
 | 2026-10 | $790 |
-| 2026-11 | $451 |
+| 2026-11 | $492 |
 
 
 ## Metric Snapshots
@@ -104,7 +104,7 @@ These are current or last-30-day snapshots stored on the startup profile. Full t
 - Current MRR: $218
 - Last 30 days MRR growth: -2.2%
 - Current active subscriptions: 23
-- Last 30 days traffic or visitors: 15,363
+- Last 30 days traffic or visitors: 16,189
 - Last 30 days revenue per visitor: $0.05
 
 
@@ -166,10 +166,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2889,
+    "cachedUniquePageviews": 2892,
     "cachedOfferCount": 14,
-    "revenueLast30Days": "$14,211",
-    "revenueGrowthLast30Days": "-18.7%",
+    "revenueLast30Days": "$14,203",
+    "revenueGrowthLast30Days": "-19.2%",
     "askingPrice": "$200,000",
     "revenueMultiple": "1.2x",
     "description": "Linkar offers mechanical warranty for vehicles, covering repair costs up to 15,000€ per year.",
@@ -206,7 +206,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 707,
+    "cachedUniquePageviews": 741,
     "cachedOfferCount": 1,
     "revenueLast30Days": "$4,211",
     "revenueGrowthLast30Days": "+2993.4%",
@@ -226,10 +226,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1923,
+    "cachedUniquePageviews": 1928,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$14,332",
-    "revenueGrowthLast30Days": "-6.4%",
+    "revenueLast30Days": "$14,306",
+    "revenueGrowthLast30Days": "-7.4%",
     "askingPrice": "$500,000",
     "revenueMultiple": "2.9x",
     "description": "Profitable IPTV Player and VPN app portfolio with $238K TTM profit and approximately 90% margin. This listing includes two cross-platform apps under the same brand: an IPTV Player",
@@ -246,12 +246,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 628,
+    "cachedUniquePageviews": 630,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$10,445",
-    "revenueGrowthLast30Days": "-51.9%",
+    "revenueLast30Days": "$9,835",
+    "revenueGrowthLast30Days": "-55.3%",
     "askingPrice": "$150,000",
-    "revenueMultiple": "1.2x",
+    "revenueMultiple": "1.3x",
     "description": "Growing, profitable niche social networking app. - 4.8 stars 3k+ stars across App / Play Store - 160k+ users all time - 12-20k MAU - 4-5k DAU - Generally in top 20-50 for Social N",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/unnamed-company-25"
@@ -268,8 +268,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,418",
-    "revenueGrowthLast30Days": "-44.0%",
+    "revenueLast30Days": "$3,430",
+    "revenueGrowthLast30Days": "-43.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,

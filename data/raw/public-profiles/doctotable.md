@@ -1,5 +1,5 @@
 # DocToTable
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:02.113Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:22:18.929Z.
 Public AI-agent Markdown profile for [DocToTable](https://trustmrr.com/startup/doctotable) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T05:20:59.831Z
+- Revenue last synced: 2026-11-20T05:20:30.511Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -33,23 +33,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $29.00 |
+| Last 24 hours | $0.00 |
 | Last 7 days | $29.00 |
-| Last 30 days | $83.15 |
+| Last 30 days | $79.15 |
 | Last 3 months | $229 |
 | Last 6 months | $316 |
 | Last 12 months | $316 |
 | All time | $316 |
-- Last 30 days revenue snapshot: $83.15
-- Last 30 days revenue growth: -7.6%
+- Last 30 days revenue snapshot: $79.15
+- Last 30 days revenue growth: -15.8%
 - All-time revenue snapshot: $316
-- Revenue data last synced: 2026-11-18T05:20:59.831Z
+- Revenue data last synced: 2026-11-20T05:20:30.511Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $4.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -78,6 +76,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $29.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -123,7 +123,7 @@ Full startup page: [https://trustmrr.com/startup/doctotable](https://trustmrr.co
 
 - Domain: doctotable.com
 - Domain rating: 0.0
-- Last synced: 2026-11-11T06:30:41.166Z
+- Last synced: 2026-11-19T06:30:42.411Z
 
 
 ## Screenshots
@@ -154,12 +154,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 342,
+    "cachedUniquePageviews": 357,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$9,197",
-    "revenueGrowthLast30Days": "-6.1%",
+    "revenueLast30Days": "$8,100",
+    "revenueGrowthLast30Days": "-15.6%",
     "askingPrice": "$190,000",
-    "revenueMultiple": "1.7x",
+    "revenueMultiple": "2.0x",
     "description": "Profitable, bootstrapped dynamic QR SaaS with $118K TTM revenue and 30% YoY growth. 38,492 customers use it to edit QR codes after printing, changing links or campaigns anytime wit",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-venture-31"
@@ -176,8 +176,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$16,253",
-    "revenueGrowthLast30Days": "+7.9%",
+    "revenueLast30Days": "$15,382",
+    "revenueGrowthLast30Days": "+10.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "I want to process payments through Stripe, using Stripe's API. I also want to create tools for stripe, like a dashboard.",
@@ -196,8 +196,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,929",
-    "revenueGrowthLast30Days": "-4.4%",
+    "revenueLast30Days": "$4,102",
+    "revenueGrowthLast30Days": "+4.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Washer and dryer rentals. Customers will be billed monthly",
@@ -225,26 +225,6 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/avium"
   },
   {
-    "name": "AuthorityStack.ai",
-    "slug": "authoritystack-ai",
-    "category": "Marketing",
-    "categoryUrl": "https://trustmrr.com/category/marketing",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,050",
-    "revenueGrowthLast30Days": "-53.0%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "The visibility platform for brands and local businesses. Be found everywhere your customers search.",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/starterhub-4cc53e90-2713-4838-9599-71a773689da9.png",
-    "startupUrl": "https://trustmrr.com/startup/authoritystack-ai"
-  },
-  {
     "name": "Stealth Company",
     "slug": "stealth-company-global-job-board",
     "category": "Recruiting & HR",
@@ -254,15 +234,35 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1795,
+    "cachedUniquePageviews": 1797,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$4,725",
-    "revenueGrowthLast30Days": "-4.8%",
+    "revenueLast30Days": "$4,742",
+    "revenueGrowthLast30Days": "-4.0%",
     "askingPrice": "$500,000",
     "revenueMultiple": "8.8x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-global-job-board"
+  },
+  {
+    "name": "1clickwebsite.ai",
+    "slug": "1clickwebsite-ai",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$13,905",
+    "revenueGrowthLast30Days": "-9.0%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Generate SEO optimized Wordpress sites in 1 click.",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUlpsTjFLNTNLWXhBODBLfGZsX2xpdmVfbnZDekhYVlpnVG9Td1NuWFVyVDE2Vk1P00YI7q3PuT",
+    "startupUrl": "https://trustmrr.com/startup/1clickwebsite-ai"
   }
 ]
 ```

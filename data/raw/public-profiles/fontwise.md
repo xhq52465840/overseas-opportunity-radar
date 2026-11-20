@@ -1,5 +1,5 @@
 # Fontwise
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:04.867Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:32:29.224Z.
 Public AI-agent Markdown profile for [Fontwise](https://trustmrr.com/startup/fontwise) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Fontwise](https://trustmrr.com/startup/fon
 - Founded date: 2025-11-21
 - Founder: [Saeef](https://trustmrr.com/founder/saeefam)
 - Founder image: [https://pbs.twimg.com/profile_images/1446039825019068416/e1NHywcK.jpg](https://pbs.twimg.com/profile_images/1446039825019068416/e1NHywcK.jpg)
-- X followers: 7,946
+- X followers: 7,942
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Lemon Squeezy (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T05:35:02.341Z
+- Revenue last synced: 2026-11-20T05:34:33.879Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $236
 - Last 30 days revenue growth: +31.4%
 - All-time revenue snapshot: $1,349
-- Revenue data last synced: 2026-11-18T05:35:02.341Z
+- Revenue data last synced: 2026-11-20T05:34:33.879Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $36.58 |
 | 2026-11-17 | $0.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -164,8 +164,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 407,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$48,463",
-    "revenueGrowthLast30Days": "+267.1%",
+    "revenueLast30Days": "$52,717",
+    "revenueGrowthLast30Days": "+301.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Runcrate is a developer-friendly AI cloud platform and GPU provider founded in 2025 that combines raw on-demand GPU infrastructure with an OpenAI-compatible inference API",
@@ -204,8 +204,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 40,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,736",
-    "revenueGrowthLast30Days": "-39.1%",
+    "revenueLast30Days": "$3,576",
+    "revenueGrowthLast30Days": "-40.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Track bowel movements, food, symptoms, meds, labs, and flare notes with FlareCare, a gut health app for IBS, IBD, Crohn disease, and colitis.",
@@ -224,8 +224,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,615",
-    "revenueGrowthLast30Days": "-35.9%",
+    "revenueLast30Days": "$4,343",
+    "revenueGrowthLast30Days": "-39.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI-powered study app that turns learning materials into color-coded notes, quizzes, and flashcards to make studying more engaging and effective.",
@@ -242,10 +242,10 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1773,
+    "cachedUniquePageviews": 1784,
     "cachedOfferCount": 18,
-    "revenueLast30Days": "$6,836",
-    "revenueGrowthLast30Days": "+35.9%",
+    "revenueLast30Days": "$6,878",
+    "revenueGrowthLast30Days": "+30.6%",
     "askingPrice": "$100,000",
     "revenueMultiple": "1.2x",
     "description": "SaaS helping students and young professionals train for consulting case interviews.",
@@ -264,8 +264,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$51,625",
-    "revenueGrowthLast30Days": "+9.7%",
+    "revenueLast30Days": "$53,016",
+    "revenueGrowthLast30Days": "+10.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI music mastering with text prompts, guide the AI with words and hear the magic. Includes a free stem splitter as well.",

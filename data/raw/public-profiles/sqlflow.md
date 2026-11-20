@@ -1,5 +1,5 @@
 # SQLFlow
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:10.258Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:32:34.640Z.
 Public AI-agent Markdown profile for [SQLFlow](https://trustmrr.com/startup/sqlflow) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T04:10:46.380Z
+- Revenue last synced: 2026-11-20T04:10:43.857Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -43,13 +43,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $0.00
-- Revenue data last synced: 2026-11-18T04:10:46.380Z
+- Revenue data last synced: 2026-11-20T04:10:43.857Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -78,6 +76,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $0.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 
 
 ## Metric Snapshots
@@ -143,12 +143,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 732,
+    "cachedUniquePageviews": 743,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$357",
-    "revenueGrowthLast30Days": "+21.8%",
+    "revenueLast30Days": "$318",
+    "revenueGrowthLast30Days": "-1.5%",
     "askingPrice": "$4,000",
-    "revenueMultiple": "0.9x",
+    "revenueMultiple": "1.0x",
     "description": "This saas analyzes text to determine whether it was written by AI - such as ChatGPT, Claude, Gemini, or any other LLM. It’s also the perfect tool to humanize AI-generated content, ",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/startup-c9231495860e"
@@ -163,10 +163,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 814,
+    "cachedUniquePageviews": 861,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$274",
-    "revenueGrowthLast30Days": "+86.4%",
+    "revenueLast30Days": "$323",
+    "revenueGrowthLast30Days": "+229.6%",
     "askingPrice": "$1,800",
     "revenueMultiple": "0.5x",
     "description": "ReplyCurrent is an AI customer support SaaS I built to help businesses answer customer questions automatically. You connect your website, help center, or documents, and it creates ",
@@ -174,24 +174,24 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/replycurrent"
   },
   {
-    "name": "ANI Comics",
-    "slug": "startup-27de72730f9a",
-    "category": "Mobile Apps",
-    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
+    "name": "Regiere Deutschland",
+    "slug": "regiere-deutschland",
+    "category": "Entertainment",
+    "categoryUrl": "https://trustmrr.com/category/entertainment",
     "isForSale": true,
     "listingTier": "starter",
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 204,
+    "cachedUniquePageviews": 455,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$162",
-    "revenueGrowthLast30Days": "-22.5%",
+    "revenueLast30Days": "$384",
+    "revenueGrowthLast30Days": "+1035.1%",
     "askingPrice": "$3,000",
-    "revenueMultiple": "1.5x",
-    "description": "Comics & Manga Maker. Grew organically on App Store, Google Play and Web (Web revenue is not listed here). Google Play 10k+ download. There's clear room to grow: ASA, Meta, paid UG",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/startup-27de72730f9a-b4ecdb8a-b784-4480-9042-05cec02c182e.png",
-    "startupUrl": "https://trustmrr.com/startup/startup-27de72730f9a"
+    "revenueMultiple": "0.7x",
+    "description": "Become the chancellor, win elections, and govern Germany in this political simulation game.",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/regiere-deutschland-1c0d6be5-f918-4094-8b6c-b69f2652fa4e.jpg",
+    "startupUrl": "https://trustmrr.com/startup/regiere-deutschland"
   },
   {
     "name": "Stealth Company",
@@ -203,12 +203,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 1042,
-    "cachedOfferCount": 3,
-    "revenueLast30Days": "$4,019",
-    "revenueGrowthLast30Days": "+84.8%",
-    "askingPrice": "$75,000",
-    "revenueMultiple": "1.6x",
+    "cachedUniquePageviews": 1447,
+    "cachedOfferCount": 4,
+    "revenueLast30Days": "$4,147",
+    "revenueGrowthLast30Days": "+89.6%",
+    "askingPrice": "$70,000",
+    "revenueMultiple": "1.4x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/hidden-business-90"
@@ -221,14 +221,14 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "isForSale": true,
     "listingTier": "premium",
     "listingTierName": "Scale",
-    "cardBackgroundColor": "#e6fff0",
-    "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 7327,
-    "cachedOfferCount": 10,
-    "revenueLast30Days": "$8,862",
-    "revenueGrowthLast30Days": "-3.9%",
-    "askingPrice": "$75,000",
-    "revenueMultiple": "0.7x",
+    "cardBackgroundColor": "#e5ecfe",
+    "cardBackgroundColorDark": "#1a223a",
+    "cachedUniquePageviews": 7769,
+    "cachedOfferCount": 11,
+    "revenueLast30Days": "$11,082",
+    "revenueGrowthLast30Days": "+20.4%",
+    "askingPrice": "$105,000",
+    "revenueMultiple": "0.8x",
     "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVDhTbVA1QVdQTEozb085fGZsX2xpdmVfVUZ5NURIbUZaUGU0b0pqZ3BSS0ptVFJz00zakZSvK5",
     "startupUrl": "https://trustmrr.com/startup/pdf-vault"
@@ -243,12 +243,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 30069,
-    "cachedOfferCount": 53,
-    "revenueLast30Days": "$39,686",
-    "revenueGrowthLast30Days": "+3.7%",
+    "cachedUniquePageviews": 30505,
+    "cachedOfferCount": 54,
+    "revenueLast30Days": "$39,364",
+    "revenueGrowthLast30Days": "+3.1%",
     "askingPrice": "$1,500,000",
-    "revenueMultiple": "3.1x",
+    "revenueMultiple": "3.2x",
     "description": "Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUTJONEdDZXRFWlo2R3ZPfGZsX2xpdmVfa1NER2dadXBGY0FBQWJLMVBUYkRWN21m00QLSX2GfH",
     "startupUrl": "https://trustmrr.com/startup/vidai-llc"

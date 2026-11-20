@@ -1,5 +1,5 @@
 # Specify
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:06.833Z.
+> Cached snapshot — next refresh expected around 2026-11-21T06:50:55.038Z.
 Public AI-agent Markdown profile for [Specify](https://trustmrr.com/startup/specify) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -21,7 +21,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T02:20:21.317Z
+- Revenue last synced: 2026-11-20T02:20:19.598Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,19 +36,17 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Last 7 days | $0.00 |
 | Last 30 days | $0.00 |
 | Last 3 months | $0.00 |
-| Last 6 months | $3,532 |
+| Last 6 months | $3,460 |
 | Last 12 months | $17,245 |
 | All time | $22,276 |
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: +29.2%
 - All-time revenue snapshot: $22,276
-- Revenue data last synced: 2026-11-18T02:20:21.317Z
+- Revenue data last synced: 2026-11-20T02:20:19.598Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -77,6 +75,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $0.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -93,8 +93,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $28.81
-- Last 30 days MRR growth: -2.4%
+- Current MRR: $28.73
+- Last 30 days MRR growth: -2.6%
 - Current active subscriptions: 1
 
 
@@ -158,8 +158,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,910",
-    "revenueGrowthLast30Days": "+52.1%",
+    "revenueLast30Days": "$5,144",
+    "revenueGrowthLast30Days": "+61.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -198,8 +198,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$76,503",
-    "revenueGrowthLast30Days": "+2.2%",
+    "revenueLast30Days": "$75,415",
+    "revenueGrowthLast30Days": "+0.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Digidoktor erbjuder digital, läkarbedömd behandling för viktnedgång. I appen kan patienter följa sin vikt, registrera kost och hålla koll på behandlingen över tid. De får också upp",
@@ -219,7 +219,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
     "revenueLast30Days": "$4,370",
-    "revenueGrowthLast30Days": "-42.0%",
+    "revenueGrowthLast30Days": "-33.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "With a focus on quality and design we display products that enhance your everyday life at the best prices possible",
@@ -238,8 +238,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$8,705",
-    "revenueGrowthLast30Days": "-41.0%",
+    "revenueLast30Days": "$9,626",
+    "revenueGrowthLast30Days": "-34.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "With the support of our experts and custom Data & AI tools, boost every lever of your e-commerce.",
@@ -258,8 +258,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$48,130",
-    "revenueGrowthLast30Days": "+6.9%",
+    "revenueLast30Days": "$47,840",
+    "revenueGrowthLast30Days": "+6.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,

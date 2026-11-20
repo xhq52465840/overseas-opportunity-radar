@@ -1,5 +1,5 @@
 # SiteHaul
-> Cached snapshot — next refresh expected around 2026-11-19T07:45:12.036Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:32:36.414Z.
 Public AI-agent Markdown profile for [SiteHaul](https://trustmrr.com/startup/sitehaul) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -15,7 +15,7 @@ Public AI-agent Markdown profile for [SiteHaul](https://trustmrr.com/startup/sit
 - Founded date: 2026-07-15
 - Founder: [Dave Ships](https://trustmrr.com/founder/davetookthese)
 - Founder image: [https://pbs.twimg.com/profile_images/2061017976644743168/kf0yE8Ur.jpg](https://pbs.twimg.com/profile_images/2061017976644743168/kf0yE8Ur.jpg)
-- X followers: 10,802
+- X followers: 10,800
 
 
 ## Verification Sources
@@ -24,7 +24,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-18T04:56:43.813Z
+- Revenue last synced: 2026-11-20T04:56:15.797Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -45,13 +45,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: -100.0%
 - All-time revenue snapshot: $49.00
-- Revenue data last synced: 2026-11-18T04:56:43.813Z
+- Revenue data last synced: 2026-11-20T04:56:15.797Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -80,6 +78,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $0.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -190,6 +190,26 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/michael-veail"
   },
   {
+    "name": "Stealth Company",
+    "slug": "private-venture-88",
+    "category": "Software",
+    "categoryUrl": "https://trustmrr.com/category/software",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$3,057",
+    "revenueGrowthLast30Days": "+351.5%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": null,
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/private-venture-88"
+  },
+  {
     "name": "DPack",
     "slug": "dpack",
     "category": "E-commerce",
@@ -201,8 +221,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$23,130",
-    "revenueGrowthLast30Days": "+11.9%",
+    "revenueLast30Days": "$23,953",
+    "revenueGrowthLast30Days": "+12.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Australian owned wholesale supplier. 3,800+ disposable cups, food packaging, cleaning supplies & eco-friendly products. Free Melbourne Metro delivery $150+ ex GST.",
@@ -221,8 +241,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$30,358",
-    "revenueGrowthLast30Days": "-5.3%",
+    "revenueLast30Days": "$29,779",
+    "revenueGrowthLast30Days": "-7.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -239,35 +259,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1548,
-    "cachedOfferCount": 10,
-    "revenueLast30Days": "$6,159",
-    "revenueGrowthLast30Days": "+68.8%",
+    "cachedUniquePageviews": 1553,
+    "cachedOfferCount": 11,
+    "revenueLast30Days": "$5,205",
+    "revenueGrowthLast30Days": "+7.8%",
     "askingPrice": "$65,000",
-    "revenueMultiple": "0.9x",
+    "revenueMultiple": "1.0x",
     "description": "Available on the App Store, the app monetizes through premium access and credit purchases, with RevenueCat providing purchase analytics. Growth opportunities include user acquisiti",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/private-venture-86"
-  },
-  {
-    "name": "JourneyFuse",
-    "slug": "journeyfuse",
-    "category": "Travel",
-    "categoryUrl": "https://trustmrr.com/category/travel",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$24,359",
-    "revenueGrowthLast30Days": "+29.0%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "We develop CRM solutions for Travel Agents and agencies",
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/journeyfuse"
   }
 ]
 ```

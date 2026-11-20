@@ -1,5 +1,5 @@
 # Batch Studio
-> Cached snapshot — next refresh expected around 2026-11-19T07:22:57.414Z.
+> Cached snapshot — next refresh expected around 2026-11-21T07:32:28.414Z.
 Public AI-agent Markdown profile for [Batch Studio](https://trustmrr.com/startup/batch-studio) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -51,8 +51,6 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-20 | $0.00 |
-| 2026-10-21 | $0.00 |
 | 2026-10-22 | $0.00 |
 | 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-16 | $0.00 |
 | 2026-11-17 | $0.00 |
 | 2026-11-18 | $0.00 |
+| 2026-11-19 | $0.00 |
+| 2026-11-20 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -151,8 +151,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,649",
-    "revenueGrowthLast30Days": "-2.0%",
+    "revenueLast30Days": "$7,659",
+    "revenueGrowthLast30Days": "+12.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Perfect Little Business is an AI agency for expert-led businesses: coaches, consultants, authors and SaaS founders. We take companies from legacy systems to AI-native through three",
@@ -171,8 +171,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,376",
-    "revenueGrowthLast30Days": "-3.7%",
+    "revenueLast30Days": "$3,258",
+    "revenueGrowthLast30Days": "-7.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established in 2021, this profitable WordPress and WooCommerce maintenance business serves 23 recurring U.S. clients. Billing moved to Stripe in June 2024; can share earlier revenu",
@@ -211,8 +211,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,617",
-    "revenueGrowthLast30Days": "+0.7%",
+    "revenueLast30Days": "$7,814",
+    "revenueGrowthLast30Days": "-0.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Popular Shopify Discount App",
@@ -229,12 +229,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 913,
+    "cachedUniquePageviews": 921,
     "cachedOfferCount": 5,
-    "revenueLast30Days": "$4,398",
-    "revenueGrowthLast30Days": "+60.1%",
+    "revenueLast30Days": "$4,181",
+    "revenueGrowthLast30Days": "+36.5%",
     "askingPrice": "$125,000",
-    "revenueMultiple": "2.4x",
+    "revenueMultiple": "2.5x",
     "description": "Helping electrical and computer engineers find hardware roles through company-specific interview question banks, exercises, resume-tools, and behavioral questions",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/voltage-learning-13951c4f-e76c-4b21-83e7-7439974c6c52.png",
     "startupUrl": "https://trustmrr.com/startup/voltage-learning"
@@ -249,12 +249,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 2069,
+    "cachedUniquePageviews": 2102,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$37,177",
-    "revenueGrowthLast30Days": "+7.3%",
+    "revenueLast30Days": "$38,315",
+    "revenueGrowthLast30Days": "+7.5%",
     "askingPrice": "$250,000",
-    "revenueMultiple": "0.6x",
+    "revenueMultiple": "0.5x",
     "description": "AI-image & video-generation platform.",
     "iconUrl": "https://img-v2-prod.whop.com/oJ1aTNkLIWXEbSH0qVpRDL55Ch-Gow5B7-Od6dtZxRs/mb:180000/plain/https://assets-2-prod.whop.com/public/uploads/user_9064364/image/bots/2026-03-22/644ee5a9-f86c-4a13-ab66-3686a2c6be8a.png",
     "startupUrl": "https://trustmrr.com/startup/knightvision"
