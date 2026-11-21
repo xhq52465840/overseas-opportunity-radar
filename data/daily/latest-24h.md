@@ -1,111 +1,111 @@
 # TrustMRR 最近24小时变化汇总
-生成：2026-11-20 15:33 北京时间（UTC+8）
-运行记录 2 次；事件 8754 条；需人工判断的实质候选事件 298 条。
-当前状态：success；版本：19cef6b2a45bf8bee5e6e487dd655d11bed94c8faf54473f366506b8d7d10eaf
+生成：2026-11-21 15:28 北京时间（UTC+8）
+运行记录 2 次；事件 8554 条；需人工判断的实质候选事件 326 条。
+当前状态：success；版本：49039569eaafc36b952468bc5efcdbcd89c8d53e6149ba44b3fcc977b87cd228
 新入池≠刚上线；首次观察正值≠实际首单；目录舍入展示变化≠确认增长；滚动收入下降≠流失；收入≠利润。
-- display_change: 8434
-- new_project: 187
-- first_observed_positive: 109
+- display_change: 8206
+- new_project: 206
+- first_observed_positive: 118
 - metric_increase: 15
 - metric_decrease: 9
-- 0sec | display_change | mrr 111.0 → 99.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 0sec | display_change | revenue_30d 112.0 → 115.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 0sec | display_change | revenue_total 937.0 → 940.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 10015-io | display_change | revenue_30d 373.0 → 403.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 1explain-com | display_change | mrr 19.0 → 0.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 1lookup | display_change | mrr 256000.0 → 255000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 1lookup | display_change | revenue_30d 540000.0 → 547000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 20-0 | display_change | mrr 932.0 → 927.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 20-0 | display_change | revenue_30d 1800.0 → 1700.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- 20-0 | display_change | revenue_total 6800.0 → 6900.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 24bisous | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
-- 24littlegifts | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
-- 2fa-authenticator | display_change | revenue_30d 265.0 → 271.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 2fa-authenticator | display_change | revenue_total 483.0 → 488.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 360cruising-ai | display_change | revenue_30d 20.0 → 30.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 360cruising-ai | display_change | revenue_total 405.0 → 415.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 3am-texts | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
-- 3d-agent | display_change | revenue_30d 7600.0 → 7800.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 3dplotter | display_change | revenue_30d 2000.0 → 1900.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- 3k-mrr-organic-app | display_change | mrr 5900.0 → 6000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 7running | display_change | mrr 533.0 → 531.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 90fix | display_change | mrr 32.0 → 38.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 90fix | display_change | revenue_30d 61.0 → 127.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- 90fix | display_change | revenue_total 670.0 → 736.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- a | display_change | revenue_30d 39.0 → 12.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- a-venture | display_change | mrr 437.0 → 423.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- a-venture | display_change | revenue_30d 333.0 → 370.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aaiyega | display_change | revenue_30d 29.0 → 32.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aaiyega | display_change | revenue_total 29.0 → 32.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aarivi | display_change | revenue_30d 1900.0 → 1800.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- abmaxx | display_change | mrr 22000.0 → 23000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- abmaxx | display_change | revenue_total 210000.0 → 211000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- abre-bio | display_change | mrr 131.0 → 129.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- abstract27-ltd-1 | display_change | mrr 395.0 → 394.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- abstract27-ltd-1 | display_change | revenue_30d 525.0 → 583.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- acarson-llc | display_change | mrr 34.0 → 10.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- accaagent | display_change | mrr 26.0 → 20.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- account-expense-manager | display_change | mrr 638.0 → 635.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- account-expense-manager | display_change | revenue_30d 787.0 → 766.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- ace-pitcher | display_change | revenue_30d 1600.0 → 1700.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- acsperf | display_change | revenue_30d 28000.0 → 29000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- acsperf | display_change | revenue_total 300000.0 → 301000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- actionclip | display_change | revenue_30d 2800.0 → 3000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- actionclip | display_change | revenue_total 8400.0 → 8600.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- actrun-ai | display_change | mrr 100.0 → 200.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- actrun-ai | display_change | revenue_30d 100.0 → 200.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- actrun-ai | display_change | revenue_total 2400.0 → 2500.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ad-machine | display_change | revenue_30d 2200.0 → 2100.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- add-more-colors-to-calendar | display_change | mrr 41.0 → 38.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- addinvoices | display_change | revenue_30d 36.0 → 24.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- adlibrary-com-1 | display_change | mrr 19000.0 → 20000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- adlibrary-com-1 | display_change | revenue_30d 15000.0 → 16000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- adlibrary-com-1 | display_change | revenue_total 78000.0 → 80000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- adriselab | display_change | revenue_30d 177.0 → 216.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- adstellar | display_change | revenue_30d 8900.0 → 8000.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- adstellar | display_change | revenue_total 119000.0 → 120000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- advise-so | display_change | revenue_30d 18000.0 → 17000.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- ae-intelligence | display_change | revenue_total 875000.0 → 876000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aecharts | display_change | mrr 44.0 → 43.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aeo-checker | display_change | mrr 1200.0 → 1000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aeo-checker | display_change | revenue_30d 929.0 → 877.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- aeo-engine | display_change | mrr 195000.0 → 191000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aera-browser | display_change | revenue_30d 80.0 → 280.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aera-browser | display_change | revenue_total 4300.0 → 4500.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aerolaunch | display_change | revenue_30d 3800.0 → 3700.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- affililist | display_change | revenue_30d 766.0 → 727.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- afrovibrations | display_change | revenue_30d 1200.0 → 1300.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aftersora | display_change | revenue_30d 1400.0 → 1500.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- aftersora | display_change | revenue_total 7200.0 → 7300.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agence-web-abstract27 | display_change | mrr 934.0 → 964.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agence-web-abstract27 | display_change | revenue_30d 1000.0 → 1300.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agenkit | display_change | mrr 607.0 → 611.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agenkit | display_change | revenue_total 7600.0 → 7700.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agentedseo | display_change | revenue_30d 390.0 → 486.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agentedseo | display_change | revenue_total 390.0 → 486.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agentic-aquarium | display_change | mrr 0.0 → 8.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agentic-aquarium | first_observed_positive | mrr 0.0 → 8.0 | First observed positive value after a comparable observed zero; NOT proof of the actual first sale or product launch.
-- agentic-aquarium | display_change | revenue_30d 0.0 → 8.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agentic-aquarium | first_observed_positive | revenue_30d 0.0 → 8.0 | First observed positive value after a comparable observed zero; NOT proof of the actual first sale or product launch.
-- agentic-aquarium | display_change | revenue_total 0.0 → 8.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agentic-aquarium | first_observed_positive | revenue_total 0.0 → 8.0 | First observed positive value after a comparable observed zero; NOT proof of the actual first sale or product launch.
-- agentline | display_change | revenue_30d 1400.0 → 1200.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- agoravai | display_change | mrr 215.0 → 224.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- agoravai | display_change | revenue_30d 278.0 → 286.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-baby-generator | display_change | mrr 237.0 → 236.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-baby-generator | display_change | revenue_30d 254.0 → 272.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-content-marketing-agent | display_change | revenue_30d 4600.0 → 4500.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- ai-cover-music-video | display_change | mrr 951.0 → 890.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-cover-music-video | display_change | revenue_30d 785.0 → 834.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-cover-music-video | display_change | revenue_total 5600.0 → 5700.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-dating-assistant-1 | display_change | mrr 106.0 → 138.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-dating-assistant-1 | display_change | revenue_30d 115.0 → 123.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-decorator | display_change | revenue_30d 112.0 → 119.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-designer | display_change | mrr 8100.0 → 8000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-designer | display_change | revenue_30d 8100.0 → 8000.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- ai-detector-image-checker | display_change | mrr 661.0 → 633.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-detector-image-checker | display_change | revenue_30d 413.0 → 441.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-detector-plagiarism-checker | display_change | mrr 40.0 → 22.0 | Public display changed; may reflect rounding, not confirmed economic growth.
-- ai-detector-plagiarism-checker | display_change | revenue_30d 50.0 → 18.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
-- ai-directories | display_change | mrr 683.0 → 673.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 0sec | display_change | mrr 99.0 → 111.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 0sec | display_change | revenue_30d 115.0 → 112.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 0sec | display_change | revenue_total 940.0 → 943.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 10015-io | display_change | revenue_30d 403.0 → 376.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 100xglow | display_change | revenue_30d 30.0 → 0.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 12testers14day | display_change | revenue_30d 122.0 → 129.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 12testers14day | display_change | revenue_total 128.0 → 150.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 140-6 | display_change | revenue_30d 293.0 → 285.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 1alexander | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
+- 1lookup | display_change | mrr 255000.0 → 256000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 1lookup | display_change | revenue_30d 547000.0 → 553000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 20-0 | display_change | mrr 927.0 → 932.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 20-0 | display_change | revenue_30d 1700.0 → 1600.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 2fa-authenticator | display_change | revenue_30d 271.0 → 278.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 2fa-authenticator | display_change | revenue_total 488.0 → 512.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 360cruising-ai | display_change | revenue_30d 30.0 → 20.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 3dplotter | display_change | revenue_30d 1900.0 → 2000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 3k-mrr-organic-app | display_change | mrr 6000.0 → 5800.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 3k-mrr-organic-app | display_change | revenue_30d 5900.0 → 5800.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- 3k-mrr-organic-app | display_change | revenue_total 71000.0 → 72000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- 7running | display_change | mrr 531.0 → 521.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- a | display_change | mrr 15.0 → 0.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- a-venture | display_change | revenue_30d 370.0 → 387.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- aarivi | display_change | mrr 1700.0 → 1600.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- aarivi | display_change | revenue_30d 1800.0 → 1600.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- aarivi | display_change | revenue_total 3000.0 → 3100.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- abmaxx | display_change | revenue_total 211000.0 → 213000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- abre-bio | display_change | mrr 129.0 → 128.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- abre-bio | display_change | revenue_30d 115.0 → 114.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- abstract27-ltd-1 | display_change | mrr 394.0 → 392.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- abun-com | display_change | mrr 125.0 → 126.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- account-expense-manager | display_change | mrr 635.0 → 632.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- account-expense-manager | display_change | revenue_30d 766.0 → 742.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- ace-pitcher | display_change | mrr 935.0 → 925.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ace-pitcher | display_change | revenue_30d 1700.0 → 1600.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- acsperf | display_change | revenue_30d 29000.0 → 28000.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- acsperf | display_change | revenue_total 301000.0 → 302000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- actionclip | display_change | revenue_30d 3000.0 → 3200.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- actionclip | display_change | revenue_total 8600.0 → 8800.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ad-machine | display_change | revenue_30d 2100.0 → 2200.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- adaptmycv | display_change | revenue_30d 37.0 → 33.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- adelante-ltd | display_change | revenue_30d 14000.0 → 13000.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- adlibrary-com-1 | display_change | mrr 20000.0 → 19000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- adlibrary-com-1 | display_change | revenue_30d 16000.0 → 17000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- adriselab | display_change | revenue_30d 216.0 → 177.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- adstellar | display_change | mrr 9400.0 → 9000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- adstellar | display_change | revenue_30d 8000.0 → 8200.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- advise-so | display_change | revenue_30d 17000.0 → 18000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ae-intelligence | display_change | revenue_total 876000.0 → 877000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- aeo-checker | display_change | revenue_30d 877.0 → 933.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- aeo-engine | display_change | mrr 191000.0 → 194000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- aeo-engine | display_change | revenue_30d 184000.0 → 176000.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- aerolaunch | display_change | revenue_30d 3700.0 → 3600.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- affililist | display_change | revenue_30d 727.0 → 766.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- afrovibrations | display_change | revenue_30d 1300.0 → 1400.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- afrovibrations | display_change | revenue_total 38000.0 → 39000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- aftersora | display_change | revenue_30d 1500.0 → 1400.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- agence-web-abstract27 | display_change | mrr 964.0 → 961.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agenkit | display_change | mrr 611.0 → 618.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agenkit | display_change | revenue_30d 2400.0 → 2500.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agenkit | display_change | revenue_total 7700.0 → 7800.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agent-grown | display_change | mrr 0.0 → 149.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agent-grown | first_observed_positive | mrr 0.0 → 149.0 | First observed positive value after a comparable observed zero; NOT proof of the actual first sale or product launch.
+- agent-grown | display_change | revenue_30d 0.0 → 149.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agent-grown | first_observed_positive | revenue_30d 0.0 → 149.0 | First observed positive value after a comparable observed zero; NOT proof of the actual first sale or product launch.
+- agent-grown | display_change | revenue_total 55.0 → 204.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agent-one | display_change | mrr 176.0 → 184.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agent-one | display_change | revenue_30d 189.0 → 197.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agentedseo | display_change | revenue_30d 486.0 → 685.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agentedseo | display_change | revenue_total 486.0 → 685.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agentinbox-1 | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
+- agentline | display_change | revenue_30d 1200.0 → 1400.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agentline | display_change | revenue_total 2700.0 → 2900.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agoravai | display_change | mrr 224.0 → 231.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- agoravai | display_change | revenue_30d 286.0 → 288.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-apps-that-work | new_project |   →  | New to our observed pool, NOT proof of recent product launch or first sale.
+- ai-baby-generator | display_change | mrr 236.0 → 235.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-baby-generator | display_change | revenue_30d 272.0 → 265.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- ai-cover-music-video | display_change | mrr 890.0 → 862.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-cover-music-video | display_change | revenue_30d 834.0 → 901.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-cover-music-video | display_change | revenue_total 5700.0 → 5800.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-dating-assistant-1 | display_change | mrr 138.0 → 162.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-dating-assistant-1 | display_change | revenue_30d 123.0 → 130.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-designer | display_change | revenue_30d 8000.0 → 8100.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-detector-image-checker | display_change | mrr 633.0 → 605.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-directories | display_change | revenue_30d 7700.0 → 7600.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- ai-directories | display_change | revenue_total 180000.0 → 181000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-home-design | display_change | mrr 5.0 → 8.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-humanizer | display_change | revenue_30d 30.0 → 40.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-image-editor | display_change | mrr 3900.0 → 4000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-image-editor | display_change | revenue_30d 6100.0 → 6200.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-image-editor | display_change | revenue_total 73000.0 → 74000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-influencer-generator | display_change | revenue_30d 394.0 → 384.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- ai-interview-copilot | display_change | revenue_30d 20000.0 → 21000.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-kitchendesign | display_change | revenue_30d 2300.0 → 2200.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- ai-lip-sync | display_change | revenue_30d 692.0 → 693.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-math-solver | display_change | revenue_30d 299.0 → 289.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.
+- ai-money-vault | display_change | mrr 78.0 → 86.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-money-vault | display_change | revenue_30d 98.0 → 106.0 | Public display changed; may reflect rounding, not confirmed economic growth.
+- ai-money-vault | display_change | revenue_total 896.0 → 903.0 | Public display changed; may reflect rounding, not confirmed economic growth.
 完整事件见同名JSON，Markdown只列前100条，不是原池筛除。
