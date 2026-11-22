@@ -1,5 +1,5 @@
 # Nice Catalogs
-> Cached snapshot — next refresh expected around 2026-11-21T07:32:44.497Z.
+> Cached snapshot — next refresh expected around 2026-11-23T07:09:00.631Z.
 Public AI-agent Markdown profile for [Nice Catalogs](https://trustmrr.com/startup/nice-catalogs) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-20T04:55:50.597Z
+- Revenue last synced: 2026-11-22T04:55:20.955Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $0.00 |
-| Last 7 days | $15.00 |
-| Last 30 days | $55.00 |
-| Last 3 months | $170 |
-| Last 6 months | $330 |
-| Last 12 months | $400 |
-| All time | $400 |
-- Last 30 days revenue snapshot: $55.00
-- Last 30 days revenue growth: -8.3%
-- All-time revenue snapshot: $400
-- Revenue data last synced: 2026-11-20T04:55:50.597Z
+| Last 24 hours | $5.00 |
+| Last 7 days | $20.00 |
+| Last 30 days | $45.00 |
+| Last 3 months | $165 |
+| Last 6 months | $335 |
+| Last 12 months | $405 |
+| All time | $405 |
+- Last 30 days revenue snapshot: $45.00
+- Last 30 days revenue growth: -25.0%
+- All-time revenue snapshot: $405
+- Revenue data last synced: 2026-11-22T04:55:20.955Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-22 | $10.00 |
-| 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $10.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-18 | $15.00 |
 | 2026-11-19 | $0.00 |
 | 2026-11-20 | $0.00 |
+| 2026-11-21 | $5.00 |
+| 2026-11-22 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -92,14 +92,14 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $65.00 |
 | 2026-09 | $60.00 |
 | 2026-10 | $55.00 |
-| 2026-11 | $30.00 |
+| 2026-11 | $35.00 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
 - Current MRR: $55.00
-- Last 30 days MRR growth: -8.3%
+- Last 30 days MRR growth: 0.0%
 - Current active subscriptions: 7
 
 
@@ -168,12 +168,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 1447,
-    "cachedOfferCount": 4,
-    "revenueLast30Days": "$4,147",
-    "revenueGrowthLast30Days": "+89.6%",
+    "cachedUniquePageviews": 1938,
+    "cachedOfferCount": 7,
+    "revenueLast30Days": "$4,483",
+    "revenueGrowthLast30Days": "+87.3%",
     "askingPrice": "$70,000",
-    "revenueMultiple": "1.4x",
+    "revenueMultiple": "1.3x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/hidden-business-90"
@@ -190,8 +190,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,220",
-    "revenueGrowthLast30Days": "+12.3%",
+    "revenueLast30Days": "$4,388",
+    "revenueGrowthLast30Days": "+26.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -210,8 +210,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,144",
-    "revenueGrowthLast30Days": "+3.0%",
+    "revenueLast30Days": "$4,042",
+    "revenueGrowthLast30Days": "-7.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Leverage combines property search, deal analysis, and AI-powered valuation into a clear result: Within minutes, you’ll know whether a property is worth pursuing—and what to do next",
@@ -228,10 +228,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1797,
-    "cachedOfferCount": 11,
-    "revenueLast30Days": "$4,742",
-    "revenueGrowthLast30Days": "-4.0%",
+    "cachedUniquePageviews": 1801,
+    "cachedOfferCount": 12,
+    "revenueLast30Days": "$4,744",
+    "revenueGrowthLast30Days": "-5.9%",
     "askingPrice": "$500,000",
     "revenueMultiple": "8.8x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
@@ -248,12 +248,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 1996,
+    "cachedUniquePageviews": 2002,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,777",
-    "revenueGrowthLast30Days": "+13.6%",
+    "revenueLast30Days": "$4,392",
+    "revenueGrowthLast30Days": "-5.0%",
     "askingPrice": "$199,000",
-    "revenueMultiple": "3.5x",
+    "revenueMultiple": "3.8x",
     "description": "NETTIFY is a full-stack website builder that lets small businesses launch complete, professional sites in minutes - no coding needed. Choose AI editor or edit manually, start from ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTnZjdkxGc2h3NmRmbEp2fGZsX2xpdmVfdUdEQWdnQW90TU5SU3M1UmtEV3RFZTRJ001IwwAk8V",
     "startupUrl": "https://trustmrr.com/startup/nettify"

@@ -1,4 +1,4 @@
-# TrustMRR公开项目 501–750 / 13170
+# TrustMRR公开项目 501–750 / 13241
 无预筛；功能/类别为来源原文。收入非利润；目录值可能舍入；未知不等于0；新入池/成立日不代表上线。
 |slug / 产品|功能原文|原站类别|MRR / 30天 / 累计（USD）|来源级别|链接|
 |---|---|---|---|---|---|
@@ -11,9 +11,9 @@
 |amplifresh / Amplifresh|One-click AI replies and personalized DMs that help indie hackers and solopreneurs build real connections, grow their audience, and land their first customers on X.|未知|$72 / $65 / $2.6k|D|[TrustMRR](https://trustmrr.com/startup/amplifresh)|
 |amtsprache / AmtSprache|Real Time call transcription and translation for bureaucratic calls in Germany. If you have to talk with the Finanzamt or Burgeramt via phone on the phone but you are still shy in german this is your|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/amtsprache)|
 |amzexpire / AMZEXPIRE|Stop Losing Money on Expired Inventory. AmzExpire tracks your product expiry dates, highlights urgent items with color-coded badges, and helps you avoid costly Amazon FBA removal fees.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/amzexpire)|
-|anaisaaswebsitebygefei / Anonymous startup|AN AI SaaS Website By GeFei|未知|$901 / $6.2k / $7.4k|D|[TrustMRR](https://trustmrr.com/startup/anaisaaswebsitebygefei)|
+|anaisaaswebsitebygefei / Anonymous startup|AN AI SaaS Website By GeFei|未知|$931 / $6k / $7.4k|D|[TrustMRR](https://trustmrr.com/startup/anaisaaswebsitebygefei)|
 |analizakolorystyczna-online / AnalizaKolorystyczna.Online|AI-powered personal color analysis service. Customers upload photos and receive a personalized color season report (PDF) with clothing and styling recommendations based on their skin tone, hair, and e|未知|$0 / $0 / $4.7k|D|[TrustMRR](https://trustmrr.com/startup/analizakolorystyczna-online)|
-|analyse / Analyse|Analyse is your whole growth stack in one tab: web analytics, an AI SEO content engine, and a data copilot in a single subscription. Track funnels, retention and cohorts without SQL. Generate SEO blog|未知|$236 / $171 / $1.9k|D|[TrustMRR](https://trustmrr.com/startup/analyse)|
+|analyse / Analyse|Analyse is your whole growth stack in one tab: web analytics, an AI SEO content engine, and a data copilot in a single subscription. Track funnels, retention and cohorts without SQL. Generate SEO blog|未知|$227 / $171 / $1.9k|D|[TrustMRR](https://trustmrr.com/startup/analyse)|
 |analythos / Analythos|Analythos is an Answer Engine Intelligence platform — built beyond what Profound and Peec AI track. Where they show dashboards, Analythos tells you which brands AI recommends, why, and who you're losi|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/analythos)|
 |analytics-mates / Analytics Mates|Analytics Mates is the company behind The Helm, an AI-powered analytics platform designed to help teams reason about their Google Analytics data. We combine automation with practical experience workin|Analytics|$4.6k / $20k / $733k|D|[TrustMRR](https://trustmrr.com/startup/analytics-mates)|
 |analytics-sports-jobs / Analytics Sports Jobs|Job board connecting data-driven professionals with opportunities in professional sports and sport betting.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/analytics-sports-jobs)|
@@ -34,7 +34,7 @@
 |andy-maymay / Andy&MayMay|daily software tools like Wiki, language learning tools, etc.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/andy-maymay)|
 |andyflow-ai / Andyflow AI|AndyFlow is an AI agent SaaS platform helping businesses automate customer support, lead generation, marketing, and daily operations. The platform runs with a team of specialized AI agents able to int|未知|$0 / $0 / $174|D|[TrustMRR](https://trustmrr.com/startup/andyflow-ai)|
 |anelceliko / Annotator|Draw on anything on your screen — live. Windows Edition|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anelceliko)|
-|angel-match / Angel Match|Angel Match is a database of 124,000 angels and VCs to raise your seed round.|未知|$23k / $23k / $1M|D|[TrustMRR](https://trustmrr.com/startup/angel-match)|
+|angel-match / Angel Match|Angel Match is a database of 124,000 angels and VCs to raise your seed round.|未知|$23k / $24k / $1M|D|[TrustMRR](https://trustmrr.com/startup/angel-match)|
 |angelsphoto / AngelsPhoto|当社のサービスは、古い写真に秘められたたくさんの物語を蘇らせることを目的としています。AI技術と人工精細化調整を駆使し、写真の修復と映像化を行います。これにより、大切な思い出を新しい形で保存し、未来に伝えることができます。ユーザーは、劣化した古い写真を送るだけで、かつての鮮やかな瞬間を再び楽しむことができます。このサービスは、個人の大切な思い出を守り、家族や友人と共有するための理想的な手段です。|未知|$21 / $25 / $1.4k|D|[TrustMRR](https://trustmrr.com/startup/angelsphoto)|
 |angular-material-blocks / Angular Material Blocks|Rapid Angular UI Development. With Pre-built Blocks, Beautiful Templates & Powerful CLI. Also includes revenues from angular-ui.com (25%), angular-material.dev (14%), themes.angular-material.dev (5%)|未知|$0 / $75 / $9.6k|D|[TrustMRR](https://trustmrr.com/startup/angular-material-blocks)|
 |anicca / anicca|Anicca: AI Agent for Behavior Change.|未知|$0 / $0 / $36|D|[TrustMRR](https://trustmrr.com/startup/anicca)|
@@ -44,118 +44,118 @@
 |anime-chibi-art / Anime Chibi Art|Dream up a chibi. Give it a personality. Take it everywhere your imagination goes.|未知|$0 / $0 / $1|D|[TrustMRR](https://trustmrr.com/startup/anime-chibi-art)|
 |animo / Anonymous startup|未知|未知|$0 / $380 / $4.1k|D|[TrustMRR](https://trustmrr.com/startup/animo)|
 |animovamos / AnimoVamos|Football pitch search and booking. 120k+ fields across Europe. Find what's near you, check availability, book online. For players who just want to get a game going.|未知|$0 / $0 / $34|D|[TrustMRR](https://trustmrr.com/startup/animovamos)|
-|ankan-systems / Ankan Systems|Ankan Systems develops and sells software products and mobile apps. We charge our customers during checkout.|未知|$74 / $540 / $3.2k|D|[TrustMRR](https://trustmrr.com/startup/ankan-systems)|
+|ankan-systems / Ankan Systems|Ankan Systems develops and sells software products and mobile apps. We charge our customers during checkout.|未知|$74 / $410 / $3.2k|D|[TrustMRR](https://trustmrr.com/startup/ankan-systems)|
 |anniversary-reminder / Anniversary Reminder|Never forget a birthday, anniversary, or special event again with Anniversaries, the app that makes it easy to keep track of all the important events in your life.|未知|$5 / $4 / $103|D|[TrustMRR](https://trustmrr.com/startup/anniversary-reminder)|
-|annonymus-333 / Anonymous startup|A modern video game tracker that helps you organize your library, track your gaming progress, discover what to play next, and manage your backlog with rich game information and personalized recommenda|未知|$97 / $209 / $1.8k|D|[TrustMRR](https://trustmrr.com/startup/annonymus-333)|
+|annonymus-333 / Anonymous startup|A modern video game tracker that helps you organize your library, track your gaming progress, discover what to play next, and manage your backlog with rich game information and personalized recommenda|未知|$97 / $208 / $1.8k|D|[TrustMRR](https://trustmrr.com/startup/annonymus-333)|
 |annot8 / Annot8|Annot8 is a website feedback and bug reporting tool for product teams, agencies and clients. Collect annotated screenshots, screen recordings and technical context through an embeddable widget, then m|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/annot8)|
 |annotate-foo / annotate.foo|Annotate is an website which enables you to save your annotations across all the websites. It has a chrome extension which enables you to highlight website and PDF's|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/annotate-foo)|
 |announcify / announcify|Announcify is an embeddable changelog widget designed to help SaaS companies effectively communicate product updates, boost feature adoption, and engage users directly within their application.|未知|$0 / $0 / $75|D|[TrustMRR](https://trustmrr.com/startup/announcify)|
-|anon-1 / anon-1|scale mode 🚀|未知|$0 / $3k / $524k|D|[TrustMRR](https://trustmrr.com/startup/anon-1)|
-|anon-2 / anon-2|Tool for agencies to sell chatbots to local businesses|Artificial Intelligence|$4.9k / $4.7k / $447k|D|[TrustMRR](https://trustmrr.com/startup/anon-2)|
+|anon-1 / anon-1|scale mode 🚀|未知|$0 / $2.8k / $524k|D|[TrustMRR](https://trustmrr.com/startup/anon-1)|
+|anon-2 / anon-2|Tool for agencies to sell chatbots to local businesses|Artificial Intelligence|$4.8k / $4.6k / $447k|D|[TrustMRR](https://trustmrr.com/startup/anon-2)|
 |anon-3 / anon-3|testing something new no mrr.|未知|$0 / $614 / $3.7k|D|[TrustMRR](https://trustmrr.com/startup/anon-3)|
 |anon-insta-viewer / Anon Insta Viewer|View instagram stories|未知|$30 / $30 / $30|D|[TrustMRR](https://trustmrr.com/startup/anon-insta-viewer)|
 |anon-mobile-app / Anonymous startup|未知|未知|$0 / $0 / $61|D|[TrustMRR](https://trustmrr.com/startup/anon-mobile-app)|
-|anonymous-app / Anonymous startup|未知|未知|$812 / $974 / $9.5k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-app)|
+|anonymous-app / Anonymous startup|未知|未知|$812 / $940 / $9.5k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-app)|
 |anonymous-bot-for-slack / Anonymous Bot for Slack|Send anonymous message in Slack|未知|$792 / $1.9k / $53k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-bot-for-slack)|
-|anonymous-startup / Anonymous startup|未知|未知|$0 / $778k / $5.2M|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup)|
+|anonymous-startup / Anonymous startup|未知|未知|$0 / $777k / $5.2M|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup)|
 |anonymous-startup-1 / Anonymous startup|未知|未知|$160 / $307 / $63k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-1)|
 |anonymous-startup-10 / Anonymous startup|未知|未知|$0 / $0 / $60|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-10)|
 |anonymous-startup-11 / Anonymous startup|未知|未知|$0 / $0 / $407k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-11)|
 |anonymous-startup-12 / Anonymous startup|未知|未知|$1.6k / $1.5k / $42k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-12)|
-|anonymous-startup-13 / Anonymous startup|未知|未知|$202 / $201 / $2.5k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-13)|
+|anonymous-startup-13 / Anonymous startup|未知|未知|$202 / $192 / $2.5k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-13)|
 |anonymous-startup-14 / Stealth Company|未知|未知|$4.83 / $0.00 / $140|P|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-14)|
-|anonymous-startup-15 / Anonymous startup|Apple notes of food tracking|未知|$1k / $855 / $12k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-15)|
+|anonymous-startup-15 / Anonymous startup|Apple notes of food tracking|未知|$1k / $867 / $12k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-15)|
 |anonymous-startup-16 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-16)|
 |anonymous-startup-17 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-17)|
 |anonymous-startup-18 / Anonymous startup|未知|未知|$2.4k / $1.5k / $14k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-18)|
-|anonymous-startup-2 / Anonymous startup|One form to rule them all.|未知|$35k / $37k / $375k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-2)|
+|anonymous-startup-2 / Anonymous startup|One form to rule them all.|未知|$35k / $38k / $376k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-2)|
 |anonymous-startup-20 / Anonymous startup|未知|未知|$21k / $19k / $264k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-20)|
 |anonymous-startup-21 / Anonymous startup|未知|未知|$470 / $500 / $4.2k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-21)|
 |anonymous-startup-22 / Anonymous startup|未知|未知|$0 / $340 / $7.7k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-22)|
-|anonymous-startup-23 / Anonymous startup|AI Infographic MakerApp — is available for acquisition as a complete 3-platform package: iOS + Android + Web. Traction (live, verifiable via RevenueCat): 📈 ~33,000 new users acquired since launch (De|未知|$527 / $670 / $11k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-23)|
+|anonymous-startup-23 / Anonymous startup|AI Infographic MakerApp — is available for acquisition as a complete 3-platform package: iOS + Android + Web. Traction (live, verifiable via RevenueCat): 📈 ~33,000 new users acquired since launch (De|未知|$518 / $680 / $11k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-23)|
 |anonymous-startup-24 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-24)|
-|anonymous-startup-25 / Anonymous startup|未知|未知|$212k / $204k / $1.3M|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-25)|
-|anonymous-startup-26 / Anonymous startup|未知|未知|$0 / $616 / $231k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-26)|
-|anonymous-startup-27 / Anonymous startup|未知|未知|$150 / $150 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-27)|
+|anonymous-startup-25 / Anonymous startup|未知|未知|$210k / $202k / $1.3M|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-25)|
+|anonymous-startup-26 / Anonymous startup|未知|未知|$0 / $658 / $231k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-26)|
+|anonymous-startup-27 / Anonymous startup|未知|未知|$51 / $150 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-27)|
 |anonymous-startup-28 / Anonymous startup|Established in 2021, this profitable WordPress and WooCommerce maintenance business serves 23 recurring U.S. clients. Billing moved to Stripe in June 2024; can share earlier revenue, verifiable throug|Customer Support|$3.2k / $3.4k / $127k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-28)|
 |anonymous-startup-3 / Anonymous startup|未知|Marketplace|$0 / $4.2k / $31k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-3)|
-|anonymous-startup-31 / Anonymous startup|Automate guest operations in your vacation rental for $0/month|Travel|$7.9k / $7.9k / $233k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-31)|
-|anonymous-startup-32 / Anonymous startup|未知|未知|$355 / $753 / $2.8k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-32)|
+|anonymous-startup-31 / Anonymous startup|Automate guest operations in your vacation rental for $0/month|Travel|$7.9k / $7.3k / $234k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-31)|
+|anonymous-startup-32 / Anonymous startup|未知|未知|$375 / $743 / $2.9k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-32)|
 |anonymous-startup-33 / Anonymous startup|Ai Startup|未知|$0 / $0 / $27k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-33)|
-|anonymous-startup-34 / Anonymous startup|未知|未知|$849 / $618 / $11k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-34)|
+|anonymous-startup-34 / Anonymous startup|未知|未知|$849 / $891 / $11k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-34)|
 |anonymous-startup-35 / Anonymous startup|未知|未知|$199 / $202 / $705|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-35)|
-|anonymous-startup-36 / Anonymous startup|未知|未知|$443 / $478 / $6.1k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-36)|
-|anonymous-startup-37 / Anonymous startup|未知|未知|$4.9k / $4.1k / $69k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-37)|
+|anonymous-startup-36 / Anonymous startup|未知|未知|$443 / $448 / $6.1k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-36)|
+|anonymous-startup-37 / Anonymous startup|未知|未知|$4.9k / $4k / $69k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-37)|
 |anonymous-startup-39 / Anonymous startup|未知|未知|$433 / $0 / $117k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-39)|
 |anonymous-startup-4 / Anonymous startup|未知|未知|$0 / $0 / $845|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-4)|
 |anonymous-startup-40 / Anonymous startup|Find new marketplace listings, fast. Connect with API/MCP/webhooks to enable integration of other reseller tools.|未知|$455 / $1.1k / $4.1k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-40)|
-|anonymous-startup-42 / Anonymous startup|Finance/Stocks Paid/Free Newsletter - 30% Open Rates - Bestseller - Room for Expansion - Not Niche Dependent - 98% Margins - Low Time Investment|未知|$1.2k / $579 / $99k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-42)|
-|anonymous-startup-44 / Anonymous startup|未知|未知|$0 / $7.9k / $209k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-44)|
-|anonymous-startup-46 / Anonymous startup|未知|Software|$9.8k / $10k / $30k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-46)|
-|anonymous-startup-47 / Anonymous startup|未知|未知|$57 / $44 / $161|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-47)|
+|anonymous-startup-42 / Anonymous startup|Finance/Stocks Paid/Free Newsletter - 30% Open Rates - Bestseller - Room for Expansion - Not Niche Dependent - 98% Margins - Low Time Investment|未知|$1.2k / $602 / $99k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-42)|
+|anonymous-startup-44 / Anonymous startup|未知|未知|$0 / $6.9k / $209k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-44)|
+|anonymous-startup-46 / Anonymous startup|未知|Software|$9.7k / $10k / $30k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-46)|
+|anonymous-startup-47 / Anonymous startup|未知|未知|$54 / $44 / $161|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-47)|
 |anonymous-startup-49 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-49)|
 |anonymous-startup-5 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-5)|
 |anonymous-startup-50 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-50)|
 |anonymous-startup-51 / Anonymous startup|未知|未知|$0 / $0 / $9|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-51)|
-|anonymous-startup-52 / Anonymous startup|Selling digital / physical portraits generated by AI|未知|$0 / $487 / $42k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-52)|
-|anonymous-startup-54 / Anonymous startup|Small software for weddings|未知|$0 / $68 / $683|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-54)|
+|anonymous-startup-52 / Anonymous startup|Selling digital / physical portraits generated by AI|未知|$0 / $517 / $42k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-52)|
+|anonymous-startup-54 / Anonymous startup|Small software for weddings|未知|$0 / $0 / $683|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-54)|
 |anonymous-startup-55 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-55)|
-|anonymous-startup-56 / Anonymous startup|one of 30+ apps, posting all the numbers @utkuships|未知|$0 / $7 / $20|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-56)|
-|anonymous-startup-57 / Anonymous startup|未知|E-commerce|$0 / $39k / $64k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-57)|
+|anonymous-startup-56 / Anonymous startup|one of 30+ apps, posting all the numbers @utkuships|未知|$0 / $3 / $20|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-56)|
+|anonymous-startup-57 / Anonymous startup|未知|E-commerce|$0 / $39k / $65k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-57)|
 |anonymous-startup-58 / Anonymous startup|未知|未知|$1.5k / $1.4k / $216k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-58)|
 |anonymous-startup-59 / Anonymous startup|未知|Software|$12k / $13k / $631k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-59)|
 |anonymous-startup-6 / Anonymous startup|未知|未知|$0 / $0 / $15|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-6)|
 |anonymous-startup-60 / Anonymous startup|未知|未知|$22 / $22 / $180|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-60)|
-|anonymous-startup-61 / Anonymous startup|AI Tools|未知|$0 / $28 / $62|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-61)|
-|anonymous-startup-62 / Anonymous Startup|Teaching platform.|未知|$49 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-62)|
+|anonymous-startup-61 / Anonymous startup|AI Tools|未知|$0 / $14 / $62|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-61)|
+|anonymous-startup-62 / Anonymous startup|Teaching platform.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-62)|
 |anonymous-startup-63 / Anonymous startup|one of 30+ apps, posting all the numbers @utkuships|未知|$0 / $0 / $37|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-63)|
 |anonymous-startup-64 / Anonymous startup|A consumer app in the productivity niche! With a viral feature that instantly grabs users' attention.|未知|$7 / $0 / $80|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-64)|
 |anonymous-startup-65 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-65)|
 |anonymous-startup-66 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-66)|
-|anonymous-startup-67 / FreshCut|未知|未知|$44 / $57 / $59|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-67)|
+|anonymous-startup-67 / FreshCut|未知|未知|$44 / $56 / $59|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-67)|
 |anonymous-startup-68 / Anonymous startup|未知|Artificial Intelligence|$0 / $14k / $78k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-68)|
 |anonymous-startup-69 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-69)|
-|anonymous-startup-6a307f / Anonymous startup|Didn't touch this app for months until recently. Making 4.5k monthly with 90% profit margin (excluding appstores tax). All organic, never spent anything on marketing. Android version released recently|Mobile Apps|$4.1k / $4.1k / $46k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-6a307f)|
+|anonymous-startup-6a307f / Anonymous startup|Didn't touch this app for months until recently. Making 4.5k monthly with 90% profit margin (excluding appstores tax). All organic, never spent anything on marketing. Android version released recently|Mobile Apps|$3.9k / $4.1k / $46k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-6a307f)|
 |anonymous-startup-7 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-7)|
 |anonymous-startup-70 / Anonymous startup|Ai tool for prediction Markets|Artificial Intelligence|$64k / $38k / $159k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-70)|
-|anonymous-startup-71 / BizRisk|Ai-Powered Due Diligence for companies, directors and domains|未知|$0 / $850 / $3.1k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-71)|
+|anonymous-startup-71 / BizRisk|Ai-Powered Due Diligence for companies, directors and domains|未知|$0 / $916 / $3.2k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-71)|
 |anonymous-startup-72 / Anonymous startup|未知|未知|$113 / $134 / $380|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-72)|
 |anonymous-startup-73 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-73)|
-|anonymous-startup-74 / Anonymous startup|未知|Mobile Apps|$31k / $34k / $2.3M|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-74)|
+|anonymous-startup-74 / Anonymous startup|未知|Mobile Apps|$30k / $33k / $2.3M|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-74)|
 |anonymous-startup-75 / Anonymous startup|AI legal-information SaaS for French law. Answers to everyday legal questions grounded in 160,710 official articles from 78 codes, refreshed nightly. 5-agent pipeline with a verification layer, 255 SE|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-75)|
 |anonymous-startup-76 / Anonymous startup|P11|未知|$0 / $0 / $37|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-76)|
 |anonymous-startup-78 / Anonymous startup|未知|未知|$10 / $11 / $21|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-78)|
 |anonymous-startup-79 / NexusUI|Free animated React components and Next.js templates built with Tailwind CSS and Framer Motion|未知|$0 / $529 / $529|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-79)|
-|anonymous-startup-80 / Anonymous startup|未知|未知|$733 / $883 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-80)|
-|anonymous-startup-81 / Anonymous startup|Video Generation|未知|$1.2k / $1.8k / $37k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-81)|
-|anonymous-startup-82 / Anonymous startup|未知|未知|$1.5k / $1.8k / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-82)|
+|anonymous-startup-80 / Anonymous startup|未知|未知|$759 / $925 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-80)|
+|anonymous-startup-81 / Anonymous startup|Video Generation|未知|$1.3k / $1.8k / $37k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-81)|
+|anonymous-startup-82 / Anonymous startup|未知|未知|$1.5k / $1.8k / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-82)|
 |anonymous-startup-83 / Anonymous startup|未知|未知|$0 / $12 / $12|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-83)|
-|anonymous-startup-9 / Anonymous startup|未知|未知|$512 / $584 / $9.5k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-9)|
-|anonymous-startup-95 / Anonymous startup|Only organic growth|Mobile Apps|$17k / $24k / $138k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-95)|
+|anonymous-startup-9 / Anonymous startup|未知|未知|$517 / $539 / $9.5k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-9)|
+|anonymous-startup-95 / Anonymous startup|Only organic growth|Mobile Apps|$17k / $24k / $139k|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-95)|
 |another-castle / heardles|A free browser-based musical quiz inspired by Heardle, where players guess which Zelda game a piece of music comes from.|未知|$0 / $0 / $64|D|[TrustMRR](https://trustmrr.com/startup/another-castle)|
-|anseai-llc / Drizzle|We provide ai videos solution for marketers|未知|$140 / $192 / $4.7k|D|[TrustMRR](https://trustmrr.com/startup/anseai-llc)|
+|anseai-llc / Drizzle|We provide ai videos solution for marketers|未知|$130 / $177 / $4.7k|D|[TrustMRR](https://trustmrr.com/startup/anseai-llc)|
 |anshul-thakur / Anshul Thakur|未知|未知|$0.00 / $0.00 / $0.00|P|[TrustMRR](https://trustmrr.com/startup/anshul-thakur) [官网](https://bodrume.com/)|
 |answerkin / Answerkin|Your customers now ask AI before they search. Answerkin shows whether Gemini recommends your business or a competitor for the questions they actually ask, which websites it trusts, and what to fix so|未知|$12 / $1 / $1|D|[TrustMRR](https://trustmrr.com/startup/answerkin)|
 |antatube / Antatube|Lightweight YouTube alternative focused on simplicity, speed and a distraction-free viewing experience. Simply paste any YouTube URL.|未知|$0 / $0 / $109|D|[TrustMRR](https://trustmrr.com/startup/antatube)|
 |antforms / AntForms|Form builder that is actually free not just in marketing|未知|$0 / $0 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/antforms)|
 |anti-agent / Anti-Agent|Cursor for personal learning curriculum|未知|$29 / $14 / $303|D|[TrustMRR](https://trustmrr.com/startup/anti-agent)|
-|antique-identification / Antique Identification|Antique Identifier - Antiqua helps you instantly identify antiques using advanced AI.|未知|$13 / $12 / $102|D|[TrustMRR](https://trustmrr.com/startup/antique-identification)|
+|antique-identification / Antique Identification|Antique Identifier - Antiqua helps you instantly identify antiques using advanced AI.|未知|$13 / $15 / $105|D|[TrustMRR](https://trustmrr.com/startup/antique-identification)|
 |antler-consult-llc / Antler Consult LLC|Antler Consult designs, builds and delivers full-stack AI systems, automation workflows and startup-ready tech stacks.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/antler-consult-llc)|
 |antonio-tropiano / Antonio Tropiano|Advanced Twitter Analytics tool|未知|$0 / $0 / $349|D|[TrustMRR](https://trustmrr.com/startup/antonio-tropiano)|
 |antra-ai / Antra ai|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/antra-ai)|
 |antrapro / AntraPro|Software for businesses that need appointment scheduling management with added value.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/antrapro)|
-|antwork / Antwork|Antwork is the agentic social media scheduler. Your AI (ChatGPT, Claude, Cursor, Codex) drafts in your voice, and Antwork schedules and publishes to 12 networks.|未知|$341 / $948 / $954|D|[TrustMRR](https://trustmrr.com/startup/antwork)|
+|antwork / Antwork|Antwork is the agentic social media scheduler. Your AI (ChatGPT, Claude, Cursor, Codex) drafts in your voice, and Antwork schedules and publishes to 12 networks.|未知|$360 / $967 / $973|D|[TrustMRR](https://trustmrr.com/startup/antwork)|
 |anurag-sharma / Vidrush|VidRush is an AI video pipeline that turns a topic or a spoken idea into a finished faceless YouTube documentary. It writes the script, narrates it, finds matching footage, and renders a ready-to-uplo|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anurag-sharma)|
 |anurage-files / Anonymous startup|The Anurage files are a partially released collection of millions of documents, images, videos, and emails .|未知|$73 / $47 / $1k|D|[TrustMRR](https://trustmrr.com/startup/anurage-files)|
 |anvil / Anvil CRM|Anvil is a lightweight CRM built for small businesses and growing sales teams. It gives your team one place to keep every customer account current, see what is happening with each one, and plan the ne|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anvil)|
 |anxiety-aid-tools / Anxiety Aid Tools|Evidence-based mental health tools|未知|$0 / $195 / $595|D|[TrustMRR](https://trustmrr.com/startup/anxiety-aid-tools)|
 |any-erase / Any Erase|Any Erase allows on-device removal of obstacles from your photos along with background removal and custom backgrounds.|未知|$8 / $4 / $116|D|[TrustMRR](https://trustmrr.com/startup/any-erase)|
 |any2sql / any2sql|Any2SQL uses AI to transform any text into SQL, execute it securely against your database, and return results with visualisations and API access.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/any2sql)|
-|anyapi-labs-inc / AnyAPI|Openrouter for scraping. Social data, SEO data, enrichment, all in one place. Multiple providers compete on price and uptime|未知|$0 / $33k / $48k|D|[TrustMRR](https://trustmrr.com/startup/anyapi-labs-inc)|
+|anyapi-labs-inc / AnyAPI|Openrouter for scraping. Social data, SEO data, enrichment, all in one place. Multiple providers compete on price and uptime|未知|$0 / $34k / $50k|D|[TrustMRR](https://trustmrr.com/startup/anyapi-labs-inc)|
 |anycode / VerifyToLaunch|Validate with a fake paywall. See if strangers will pay.|未知|$0 / $0 / $70|D|[TrustMRR](https://trustmrr.com/startup/anycode)|
 |anylayr / Anylayr|Anylayr is an AI product designer that turns ideas into real ui in seconds. you describe the product or screen you want to build, and Anylayr generates structured frames, layouts, and components follo|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anylayr)|
-|anymelo / Anymelo|Anymelo is an AI tool that generates music and songs from text or lyrics.|未知|$724 / $958 / $8.8k|D|[TrustMRR](https://trustmrr.com/startup/anymelo)|
-|anyrouter / AnyRouter|Unify LLM AI Gateway. Largest free token pool.|未知|$353 / $382 / $714|D|[TrustMRR](https://trustmrr.com/startup/anyrouter)|
+|anymelo / Anymelo|Anymelo is an AI tool that generates music and songs from text or lyrics.|未知|$739 / $933 / $8.8k|D|[TrustMRR](https://trustmrr.com/startup/anymelo)|
+|anyrouter / AnyRouter|Unify LLM AI Gateway. Largest free token pool.|未知|$358 / $406 / $742|D|[TrustMRR](https://trustmrr.com/startup/anyrouter)|
 |anyrow / Anyrow|Anyrow is AI document extraction software with built-in structured storage. Upload PDFs, scanned invoices, receipts, or emails — Anyrow's AI extracts data into editable tables with full CRUD, REST API|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anyrow)|
 |anysend / AnySend|AnySend is a peer-to-peer file transfer tool that runs entirely in the browser. No app to install, no account to create, no file size limit. Files go directly from one device to another — nothing is u|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anysend)|
 |anytest / AnyTest|AnyTest is an agentic web testing platform that autonomously explores applications, creates tests, and continuously validates critical user flows - without requiring teams to write and maintain fragil|未知|$228 / $224 / $913|D|[TrustMRR](https://trustmrr.com/startup/anytest)|
@@ -167,26 +167,26 @@
 |apexverify / APEXVERIFY|Email, Phone & Address Verification Online Software. Based on a credit system, customers are charged during checkout when reloading credits.|未知|$0 / $36 / $111|D|[TrustMRR](https://trustmrr.com/startup/apexverify)|
 |apexvol / ApexVol|ApexVol provides professional options analytics software for traders, including real-time Greeks analysis, volatility tools, GEX analysis, and options flow detection. Customers subscribe through our w|未知|$1.8k / $1.7k / $7.2k|D|[TrustMRR](https://trustmrr.com/startup/apexvol)|
 |api-fast / API Fast|API Fast provides simple and affordable social media APIs for Instagram, TikTok, and YouTube.|未知|$29 / $29 / $136|D|[TrustMRR](https://trustmrr.com/startup/api-fast)|
-|api-hub-ai / api-hub.ai|One unified API to access all AI models in the world. Missing one? We'll add it within 24 hours.|未知|$36 / $27 / $466|D|[TrustMRR](https://trustmrr.com/startup/api-hub-ai)|
+|api-hub-ai / api-hub.ai|One unified API to access all AI models in the world. Missing one? We'll add it within 24 hours.|未知|$27 / $27 / $466|D|[TrustMRR](https://trustmrr.com/startup/api-hub-ai)|
 |api-monitoring / API-Monitoring|Know when your APIs change before your users do|未知|$0 / $0 / $7|D|[TrustMRR](https://trustmrr.com/startup/api-monitoring)|
 |api-plugin / API Plugin|API Plugin simplifies connecting to public APIs and managing them without backend setup.|未知|$0 / $0 / $288|D|[TrustMRR](https://trustmrr.com/startup/api-plugin)|
-|apiframe / Apiframe|One API to Access Multiple AI Models.|未知|$30k / $41k / $546k|D|[TrustMRR](https://trustmrr.com/startup/apiframe)|
+|apiframe / Apiframe|One API to Access Multiple AI Models.|未知|$30k / $40k / $547k|D|[TrustMRR](https://trustmrr.com/startup/apiframe)|
 |apify-hub / Apify Hub|Sass Products|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/apify-hub)|
-|apipod / APIPod|The ultimate AI media API.|未知|$0 / $101k / $195k|D|[TrustMRR](https://trustmrr.com/startup/apipod)|
+|apipod / APIPod|The ultimate AI media API.|未知|$0 / $103k / $199k|D|[TrustMRR](https://trustmrr.com/startup/apipod)|
 |apirealtest / ApiRealTest|API Real Test allows users to test APIs in a user-like environment. Alternative to Postman.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/apirealtest)|
 |apm-communication / APM Communication|Provides interactive simulations to help tech leaders master soft skills.|未知|$18 / $19 / $585|D|[TrustMRR](https://trustmrr.com/startup/apm-communication)|
-|apogee / Apogee|Apogee helps media buyers and agencies bulk-launch ads across Meta, TikTok and Snapchat. Import creatives from Drive, Dropbox or Frame.io, automate naming and campaign setup, generate ad copy, reuse w|未知|$6.7k / $8.2k / $36k|D|[TrustMRR](https://trustmrr.com/startup/apogee)|
+|apogee / Apogee|Apogee helps media buyers and agencies bulk-launch ads across Meta, TikTok and Snapchat. Import creatives from Drive, Dropbox or Frame.io, automate naming and campaign setup, generate ad copy, reuse w|未知|$6.8k / $8.3k / $36k|D|[TrustMRR](https://trustmrr.com/startup/apogee)|
 |apograph / Apograph|Apograph turns speech into text entirely on your iPhone. Whisper models run locally, so recordings and transcripts never leave the device: no account, no server, no analytics. Works in Airplane Mode.|未知|$0 / $15 / $32|D|[TrustMRR](https://trustmrr.com/startup/apograph)|
 |apollo-canada / Nicotine Pouches Canada|NicotinePouchesCanada.co is a Canadian e-commerce platform dedicated to the sale, discovery, and comparison of tobacco-free nicotine pouches. Based out of Richmond, British Columbia, the online retail|未知|$0 / $0 / $154|D|[TrustMRR](https://trustmrr.com/startup/apollo-canada)|
 |apolo-music / APOLO MUSIC|Private AI music studio Make original music. Keep every right to it. APOLO MUSIC turns a description into a finished, downloadable track. Your studio is private, your catalogue is yours, and no one el|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/apolo-music)|
-|apostrophe / Apostrophe|Write French you're not afraid to send. End the doubt in every sentence. Audio dictations with instant AI correction. Built for adults who want to write French without hesitation. CEFR A1 to C2. iPhon|未知|$273 / $450 / $2.5k|D|[TrustMRR](https://trustmrr.com/startup/apostrophe)|
+|apostrophe / Apostrophe|Write French you're not afraid to send. End the doubt in every sentence. Audio dictations with instant AI correction. Built for adults who want to write French without hesitation. CEFR A1 to C2. iPhon|未知|$269 / $506 / $2.6k|D|[TrustMRR](https://trustmrr.com/startup/apostrophe)|
 |app-analysis / App Analysis|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/app-analysis)|
 |app-development / App development|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/app-development)|
 |app-graphics-canvas / App Graphics Canvas|App Graphics Canvas lets developers create professional App Store and Google Play screenshots without design skills. Upload your screenshots, drop them into realistic device frames, add gradients, tex|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/app-graphics-canvas)|
 |app-issue-map-competitor-app-analysis / App Issue Map - Competitor app analysis|We analyse app store reviews of your competitors to find issues their users are having giving you opportunities and gaps for your competing apps. Simple one-off pricing per report, no annoying constan|未知|$0 / $0 / $5|D|[TrustMRR](https://trustmrr.com/startup/app-issue-map-competitor-app-analysis)|
 |app-top / App Top|未知|未知|$0 / $10 / $12|D|[TrustMRR](https://trustmrr.com/startup/app-top)|
 |apparate-pty-ltd / Apparate Pty Ltd|Lead Generation Services|未知|$10 / $10 / $45k|D|[TrustMRR](https://trustmrr.com/startup/apparate-pty-ltd)|
-|apparelai / ApparelAI|AI model photoshoots for fashion brands: upload a flat lay, hanger or mannequin shot and get studio-quality on-model images in under 30 seconds.|未知|$725 / $958 / $6.9k|D|[TrustMRR](https://trustmrr.com/startup/apparelai)|
+|apparelai / ApparelAI|AI model photoshoots for fashion brands: upload a flat lay, hanger or mannequin shot and get studio-quality on-model images in under 30 seconds.|未知|$725 / $956 / $7k|D|[TrustMRR](https://trustmrr.com/startup/apparelai)|
 |appbrendex / appbrendex|Design Mobile App Screens Just by Describing What You Want|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appbrendex)|
 |appbridgelab / Anonymous startup|Google Play demands 20 testers and 14 days of checks—far beyond what indie developers can manage. Even after approval, they struggle for downloads and reviews. AppBridgeLab fills this gap with complet|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appbridgelab)|
 |appcurves / AppCurves|Google Play shows a rounded band like "1,000,000,000+". AppCurves records the exact download counter behind it every night, for every app on a Google Play chart in 203 markets, and keeps every reading|未知|$9 / $9 / $9|D|[TrustMRR](https://trustmrr.com/startup/appcurves)|
@@ -199,13 +199,13 @@
 |apphunter-ai / apphunter.ai|Discover winning mobile apps before anyone else. Spot demand early, validate revenue potential and move straight into build mode.|未知|$0 / $49 / $109|D|[TrustMRR](https://trustmrr.com/startup/apphunter-ai)|
 |appinsights / AppInsights|AppInsights provides data analysis and business intelligence services.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appinsights)|
 |appinvento / Appinvento|Appinvento is an AI-powered app development platform that helps founders, businesses, and development teams turn ideas into scalable, production-ready web and mobile applications faster. It automates|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appinvento)|
-|appitstudio-apps-bundle-and-services / AppitStudio Apps Bundle And Services|AppIt Studio builds a toolkit of three native macOS apps that work better together: DockFlow saves and switches your whole workspace by preset, ExtraDock adds unlimited customizable Docks on any scree|未知|$0 / $1.4k / $19k|D|[TrustMRR](https://trustmrr.com/startup/appitstudio-apps-bundle-and-services)|
+|appitstudio-apps-bundle-and-services / AppitStudio Apps Bundle And Services|AppIt Studio builds a toolkit of three native macOS apps that work better together: DockFlow saves and switches your whole workspace by preset, ExtraDock adds unlimited customizable Docks on any scree|未知|$0 / $1.3k / $19k|D|[TrustMRR](https://trustmrr.com/startup/appitstudio-apps-bundle-and-services)|
 |appl-ist / appl.ist|appl.ist is a portfolio platform for indie hackers and makers. Claim your unique URL, showcase your projects with verified revenue (via Stripe), display stats like MRR and users, and connect your soci|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appl-ist)|
 |applai / Applai|Dein KI-Karrierebegleiter Lebensläufe optimieren, Anschreiben generieren und Bewerbungen verfolgen — KI-gestützt, für Österreich.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/applai)|
 |applauncher / Applauncher|Applauncher is a community-powered launchpad for indie apps. Creators submit their apps and get discovered by early adopters who earn credits for engaging — leaving reviews, trying apps, and sharing f|未知|$0 / $0 / $29|D|[TrustMRR](https://trustmrr.com/startup/applauncher)|
 |applaunchflow / AppLaunchFlow|App Store and Play Store screenshots, ASO copy, promo videos, app icons, mockups, localization, social graphics, and rank tracking in one launch workspace.|未知|$2.5k / $3.1k / $29k|D|[TrustMRR](https://trustmrr.com/startup/applaunchflow)|
 |applaunchpage / AppLaunchPage|AppLaunchPage helps mobile app developers get more downloads by giving their app a landing page that ranks on Google and AI search, not just the App Store. Track visits, store clicks, and conversions|未知|$8 / $0 / $155|D|[TrustMRR](https://trustmrr.com/startup/applaunchpage)|
-|applausible / Applausible|Applausible brings Plausible analytics to your iOS and Android devices. Monitor your website's performance anytime, anywhere.|未知|$70 / $133 / $2.6k|D|[TrustMRR](https://trustmrr.com/startup/applausible)|
+|applausible / Applausible|Applausible brings Plausible analytics to your iOS and Android devices. Monitor your website's performance anytime, anywhere.|未知|$70 / $134 / $2.6k|D|[TrustMRR](https://trustmrr.com/startup/applausible)|
 |appleak / Appleak|Steal the videos, ads, creators, and intel your competitors use to grow. Appleak is an app intelligence tool that shows what competitors are using to grow on the App Store and Google Play: the ads the|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appleak)|
 |application-de-revision / Application de revision|Une plateforme d’apprentissage intelligente qui transforme chaque fiche de cours en entraînement sur mesure. Grâce à l’IA, elle génère des exercices adaptés avec corrigés détaillés pour progresser rap|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/application-de-revision)|
 |applr / Applr|AI resume builder and mock interview coach for international students. Paste a job description, get an ATS-matched resume in 30 seconds, then rehearse the interview with an AI interviewer.|未知|$0 / $0 / $25|D|[TrustMRR](https://trustmrr.com/startup/applr)|
@@ -219,7 +219,7 @@
 |appmakerkit / AppMakerKit|Create stunning App Store ready screenshots and icons in seconds. No design skills needed. Export at exact App Store resolutions for iPhone and iPad.|Design Tools|$0.00 / $500 / $8,039|P|[TrustMRR](https://trustmrr.com/startup/appmakerkit) [官网](https://appmakerkit.com/)|
 |appmarket / appmarket.lol|appmarket.lol is where internet products compete for a public ranking. Instead of a one-day launch spike, every product lists for free at $0.00 and earns a live Market Cap from the attention it keeps|未知|$0 / $0 / $3|D|[TrustMRR](https://trustmrr.com/startup/appmarket)|
 |appmaster / Appmaster|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appmaster)|
-|appmockupgenerator / APPMOCKUPGENERATOR|SaaS tool for app developers to create professional App Store and Play Store screenshots without a designer. AI generates device mockups, marketing copy, and backgrounds from raw screenshots in minute|未知|$101 / $177 / $4.7k|D|[TrustMRR](https://trustmrr.com/startup/appmockupgenerator)|
+|appmockupgenerator / APPMOCKUPGENERATOR|SaaS tool for app developers to create professional App Store and Play Store screenshots without a designer. AI generates device mockups, marketing copy, and backgrounds from raw screenshots in minute|未知|$101 / $197 / $4.8k|D|[TrustMRR](https://trustmrr.com/startup/appmockupgenerator)|
 |appnalyze / Appnalyze|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appnalyze)|
 |appointly-uk / Appointly UK|Booking platform for service providers in the UK|未知|$39 / $1.5k / $6.8k|D|[TrustMRR](https://trustmrr.com/startup/appointly-uk)|
 |appraise-software / Appraise Software|Appraise.software combines domain valuation, deal discovery, keyword trend analysis, and AI-assisted domain hunting tools.|未知|$24 / $0 / $407|D|[TrustMRR](https://trustmrr.com/startup/appraise-software)|
@@ -234,19 +234,19 @@
 |appsnaps / AppSnaps|AppSnaps is a tool to generate app store screenshots.|Design Tools/Dev Tools/Productivity/SaaS/Mobile Apps|$0.00 / $0.00 / $24.95|P|[TrustMRR](https://trustmrr.com/startup/appsnaps) [官网](https://appsnaps.io/)|
 |appsonbid / appsonbid|Appsonbid.com is a zero-commission marketplace to buy and sell apps / micro-SaaS. We use a "Blind Teaser" architecture to hide your URL from copycats, while letting buyers bid/offer freely on your ver|未知|$0 / $0 / $9|D|[TrustMRR](https://trustmrr.com/startup/appsonbid)|
 |appsoutbid / appsoutbid|a pay-to-rank leaderboard in playstore style|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appsoutbid)|
-|appspy / AppSpy|AppSpy is a tool for tracking and analyzing app rankings, prices, and trends.|未知|$103 / $119 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/appspy)|
+|appspy / AppSpy|AppSpy is a tool for tracking and analyzing app rankings, prices, and trends.|未知|$98 / $119 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/appspy)|
 |appstacked / appstacked|Find the perfect Shopify app for your store|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/appstacked)|
 |appstoreready / AppStoreReady|Web-based tool for mobile app developers to resize and format screenshots for Apple App Store and Google Play Store submissions. Users upload images and receive properly sized assets for all required|未知|$0 / $0 / $90|D|[TrustMRR](https://trustmrr.com/startup/appstoreready)|
 |appstruct-services-inc / APPSTRUCT SERVICES INC|Turn ideas into real mobile & web apps with AI. Get you from blank page to something you can share and iterate fast; AppStruct Services Inc. also ships AI SaaS built for operators who want outcomes, not complexity.|AI/No-Code/Dev Tools/SaaS|$0.00 / $0.00 / $29.00|P|[TrustMRR](https://trustmrr.com/startup/appstruct-services-inc) [官网](https://appstruct.ai/)|
 |apptally / AppTally|Track how fast your competitors are growing in Google Play Store. Download stats updated daily.|Analytics/Dev Tools/SaaS|$0.00 / $44.19 / $163|P|[TrustMRR](https://trustmrr.com/startup/apptally) [官网](https://apptally.net/)|
-|appthetics / Appthetics|Design mobile apps just by chatting with AI. No design skills needed.|未知|$85 / $88 / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/appthetics)|
+|appthetics / Appthetics|Design mobile apps just by chatting with AI. No design skills needed.|未知|$76 / $88 / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/appthetics)|
 |apptime-ai / Apptime AI|A place to easily create, host, and share AI-powered apps.|未知|$0 / $0 / $174|D|[TrustMRR](https://trustmrr.com/startup/apptime-ai)|
 |apptrack / AppTrack|Job application tracking for job seekers|AI/Productivity|$33.67 / $27.00 / $215|P|[TrustMRR](https://trustmrr.com/startup/apptrack) [官网](https://apptrack.ing/)|
 |apptrendkit / Apptrendkit|AppTrendKit is an affordable iOS app market research and ASO platform for indie developers. Discover trending apps, estimate competitor revenue and downloads, find high-opportunity keywords, and uncover profitable app niches using real App Store data. Free to start.|Analytics/SaaS/Dev Tools/Marketing|$53.98 / $53.98 / $53.98|P|[TrustMRR](https://trustmrr.com/startup/apptrendkit) [官网](https://www.apptrendkit.com/)|
 |apptruth / AppTruth|See what your app really does|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/apptruth)|
 |appwispr / AppWispr|AppWispr finds app ideas backed by live demand and turns the strongest opportunities into product briefs, mockups, screenshots, launch copy, and build guides.|Content Creation/Design Tools/Dev Tools|$0.00 / $0.00 / $57.95|P|[TrustMRR](https://trustmrr.com/startup/appwispr) [官网](https://www.appwispr.com/)|
 |appx / AppX|AppX is an AI mobile app builder. Describe your app in plain words and it writes a standard Expo + React Native project. Preview it in the browser, open it on your own phone with Expo Go, and change i|未知|$0 / $0 / $59|D|[TrustMRR](https://trustmrr.com/startup/appx)|
-|aprende-hebreo / Anonymous startup|Online Hebrew academy offering Modern Hebrew, Biblical Hebrew, and Torah Studies through a scalable SaaS model. Students learn through daily live classes, on-demand video courses, AI-powered tutors, a|未知|$59 / $1.8k / $289k|D|[TrustMRR](https://trustmrr.com/startup/aprende-hebreo)|
+|aprende-hebreo / Anonymous startup|Online Hebrew academy offering Modern Hebrew, Biblical Hebrew, and Torah Studies through a scalable SaaS model. Students learn through daily live classes, on-demand video courses, AI-powered tutors, a|未知|$59 / $1.7k / $289k|D|[TrustMRR](https://trustmrr.com/startup/aprende-hebreo)|
 |aprende-vibe-coding / Aprende Vibe Coding|De cero a tu primer producto con IA, en horas.|未知|$0 / $0 / $5.9k|D|[TrustMRR](https://trustmrr.com/startup/aprende-vibe-coding)|
 |aprova-o-concurso-p-blico / Aprovação Concurso Público|Banco de questões, simulados, Mentor IA, plano de estudos e briefing diário — tudo em um só lugar. Comece grátis e evolua no seu ritmo.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/aprova-o-concurso-p-blico)|
 |aprs-conseil / APRS CONSEIL|Agence spécialisée dans le social media et l'automatisation|未知|$0 / $1.4k / $6k|D|[TrustMRR](https://trustmrr.com/startup/aprs-conseil)|

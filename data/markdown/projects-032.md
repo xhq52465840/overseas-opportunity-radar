@@ -1,4 +1,4 @@
-# TrustMRR公开项目 7751–8000 / 13170
+# TrustMRR公开项目 7751–8000 / 13241
 无预筛；功能/类别为来源原文。收入非利润；目录值可能舍入；未知不等于0；新入池/成立日不代表上线。
 |slug / 产品|功能原文|原站类别|MRR / 30天 / 累计（USD）|来源级别|链接|
 |---|---|---|---|---|---|
@@ -8,22 +8,22 @@
 |podbrief / PodBrief|PodBrief turns podcasts and YouTube videos into short summaries you can get through in minutes. Save hours every month without missing what matters.|未知|$0 / $0 / $166|D|[TrustMRR](https://trustmrr.com/startup/podbrief)|
 |podcads / Podcads|Turn any product URL into a scroll-stopping podcast-style video ad in minutes. Built for Meta and TikTok. Just paste a link, get ad creative ready to ship.|未知|$208 / $0 / $169|D|[TrustMRR](https://trustmrr.com/startup/podcads)|
 |podcast-generator-ai / podcast-generator.ai|The AI Podcast Generator that turns all your reading into vivid listening.|未知|$157 / $127 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/podcast-generator-ai)|
-|podcastify / Podcastify|Generate podcast in seconds, not hours|未知|$445 / $432 / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/podcastify)|
-|podcasts-to-text / Podcasts To Text|Transcribe Spotify & Apple Podcasts Fast - Convert Podcasts to Text. Instantly transcribe Spotify or Apple Podcasts into text, SRT, VTT, or JSON. Perfect for podcasters, language learners, students, a|未知|$1.6k / $1.6k / $10k|D|[TrustMRR](https://trustmrr.com/startup/podcasts-to-text)|
+|podcastify / Podcastify|Generate podcast in seconds, not hours|未知|$435 / $422 / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/podcastify)|
+|podcasts-to-text / Podcasts To Text|Transcribe Spotify & Apple Podcasts Fast - Convert Podcasts to Text. Instantly transcribe Spotify or Apple Podcasts into text, SRT, VTT, or JSON. Perfect for podcasters, language learners, students, a|未知|$1.6k / $1.5k / $10k|D|[TrustMRR](https://trustmrr.com/startup/podcasts-to-text)|
 |podfan / Podfan|Platform for podcasters to monetize their content through memberships and donations|未知|$225 / $197 / $20k|D|[TrustMRR](https://trustmrr.com/startup/podfan)|
 |podium / Podium|The digital identity platform for athletes. A place where athletes can own their competitive history, achievements, and personal bests in one public profile.|Health & Fitness/SaaS|$0.00 / $0.00 / $792|P|[TrustMRR](https://trustmrr.com/startup/podium) [官网](https://podium.bio/)|
 |podq / PodQ|The fastest way to queue up podcasts!|未知|$2 / $0 / $20|D|[TrustMRR](https://trustmrr.com/startup/podq)|
 |podzeus / Podzeus|PodZeus is an early-stage podcast intelligence platform for brands, PR teams, agencies, and researchers. It lets users search, monitor, and analyze podcast conversations at scale. The hard infrastruct|未知|$0 / $0 / $1.5k|D|[TrustMRR](https://trustmrr.com/startup/podzeus)|
 |point-la-ligne-dict-es / Point à la ligne : dictées|An iPhone app that turns a photo of a child’s weekly spelling list into spoken practice dictations and revision sessions for French primary school.|未知|$4 / $4 / $4|D|[TrustMRR](https://trustmrr.com/startup/point-la-ligne-dict-es)|
-|pok-dex-checklist / Pokédex Checklist|Gotta Check 'Em All! Build and share your Pokédex, one card at a time. Track 1025 Pokémon species with our web tracker, perfect for collectors.|未知|$390 / $521 / $2.7k|D|[TrustMRR](https://trustmrr.com/startup/pok-dex-checklist)|
-|pokeitem / PokeItem|PokéItem turns your TCG collections into a portfolio. Track the value of every card and every sealed item, in real time.|Mobile Apps|$22k / $34k / $105k|D|[TrustMRR](https://trustmrr.com/startup/pokeitem)|
-|pokemon-fusion / Pokemon-fusion|Pokémon Fusion allows you to create unique new Pokémon by combining two different species.|未知|$0 / $23 / $78|D|[TrustMRR](https://trustmrr.com/startup/pokemon-fusion)|
+|pok-dex-checklist / Pokédex Checklist|Gotta Check 'Em All! Build and share your Pokédex, one card at a time. Track 1025 Pokémon species with our web tracker, perfect for collectors.|未知|$390 / $512 / $2.8k|D|[TrustMRR](https://trustmrr.com/startup/pok-dex-checklist)|
+|pokeitem / PokeItem|PokéItem turns your TCG collections into a portfolio. Track the value of every card and every sealed item, in real time.|Mobile Apps|$22k / $35k / $107k|D|[TrustMRR](https://trustmrr.com/startup/pokeitem)|
+|pokemon-fusion / Pokemon-fusion|Pokémon Fusion allows you to create unique new Pokémon by combining two different species.|未知|$0 / $12 / $78|D|[TrustMRR](https://trustmrr.com/startup/pokemon-fusion)|
 |pokemon-tcg / Pokemon TCG|Track the value of your trading cards and monitor price changes over time. Scan cards instantly, see their real market worth, and keep your collection value under control.|未知|$4 / $0 / $59|D|[TrustMRR](https://trustmrr.com/startup/pokemon-tcg)|
-|poker-trainer-ai-texas-holdem / Poker Trainer AI -Texas Holdem|The app utilizes advanced Monte Carlo Simulation algorithms to calculate realistic winning probabilities in Texas Hold'em scenarios, providing strategic recommendations and a comprehensive training sy|未知|$514 / $666 / $3.7k|D|[TrustMRR](https://trustmrr.com/startup/poker-trainer-ai-texas-holdem)|
+|poker-trainer-ai-texas-holdem / Poker Trainer AI -Texas Holdem|The app utilizes advanced Monte Carlo Simulation algorithms to calculate realistic winning probabilities in Texas Hold'em scenarios, providing strategic recommendations and a comprehensive training sy|未知|$513 / $683 / $3.8k|D|[TrustMRR](https://trustmrr.com/startup/poker-trainer-ai-texas-holdem)|
 |pokerroll / PokerRoll|You play the game, we track the gains. Log cash & tournament sessions, track bankroll in your currency, and see your stats and charts—all in one place.|Mobile Apps/AI/Analytics|$6.99 / $6.99 / $70.58|P|[TrustMRR](https://trustmrr.com/startup/pokerroll) [官网](https://apps.apple.com/app/id6759615276)|
 |pokescreener / PokeScreener|PokeScreener is a webapp where you can check prices of Pokemon cards and create collections for your cards. Customers will need to upgrade to a pro account to use our premium features like: creating unlimited collections, unlimited daily scans for Pokemon cards etc.|Games/Mobile Apps|$480 / $444 / $10,274|P|[TrustMRR](https://trustmrr.com/startup/pokescreener) [官网](https://pokescreener.com/)|
 |pokeshops-selly-store / Pokeshops|Provided Pokemon Go services when the game was still relevant. Currently building A LOT of simple web tools.|未知|$0 / $0 / $13k|D|[TrustMRR](https://trustmrr.com/startup/pokeshops-selly-store)|
-|poket-photobooth-polaroid / Poket - Photobooth & Polaroid|Capture memories more beautifully. Share feelings more genuinely. Keep every moment in a space that feels like you.|未知|$132 / $103 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/poket-photobooth-polaroid)|
+|poket-photobooth-polaroid / Poket - Photobooth & Polaroid|Capture memories more beautifully. Share feelings more genuinely. Keep every moment in a space that feels like you.|未知|$126 / $102 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/poket-photobooth-polaroid)|
 |pokobot / Pokobot|Never forget anything ever again, with Pokobot you get reminders on your WhatsApp.|未知|$3 / $8 / $51|D|[TrustMRR](https://trustmrr.com/startup/pokobot)|
 |pola-browser / Pola Browser|The productivity browser designed for organized workflows, smart tab management and distraction-free browsing across all your projects.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/pola-browser)|
 |pola-browser-1 / Pola Browser|Pola Browser is a WebKit-based browser that supports extensions like Bitwarden and Proton Pass. It offers user focused features such as floating tabs, themed backgrounds, multi-window support and cloud sync via Google Drive. The browser emphasizes customization, usability and stability, with regular updates and active developer engagement. Two pricing: 19.99€/year or 49.99€ liftime.|Productivity/Mobile Apps/Utilities|$4.56 / $44.99 / $244|P|[TrustMRR](https://trustmrr.com/startup/pola-browser-1) [官网](https://apps.apple.com/app/id6749057114)|
@@ -32,8 +32,8 @@
 |polish-perfect / Polish Perfect|Polish Perfect is the professional platform built for nail technicians. Find open positions at salons hiring in your area, claim and update your business listing so clients can find you, and create pr|未知|$0 / $1 / $1|D|[TrustMRR](https://trustmrr.com/startup/polish-perfect)|
 |polite-potato / Polite Potato|Polite Potato helps a shop get a genuine Google review without the awkward ask. A customer scans a QR code, says what actually happened, and AI assistance turns that into an editable draft they post o|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/polite-potato)|
 |polybotmaker / PolyBotMaker|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/polybotmaker)|
-|polyfork / Polyfork|Web-ready 3D assets you can recolor, resize, remix.|未知|$0 / $7k / $23k|D|[TrustMRR](https://trustmrr.com/startup/polyfork)|
-|polyhistorical / PolyHistorical|Replay any BTC or ETH Up/Down market tick by tick. Full bid/ask depth, sub-second resolution, every timeframe, ready for your backtests.|未知|$389 / $389 / $4.5k|D|[TrustMRR](https://trustmrr.com/startup/polyhistorical)|
+|polyfork / Polyfork|Web-ready 3D assets you can recolor, resize, remix.|未知|$0 / $7.2k / $23k|D|[TrustMRR](https://trustmrr.com/startup/polyfork)|
+|polyhistorical / PolyHistorical|Replay any BTC or ETH Up/Down market tick by tick. Full bid/ask depth, sub-second resolution, every timeframe, ready for your backtests.|未知|$389 / $372 / $4.5k|D|[TrustMRR](https://trustmrr.com/startup/polyhistorical)|
 |polylogue / Polylogue|Polylogue is a collaborative writing platform where AI agents join your workspace as real team members — reading documents, leaving comments, and editing alongside you.|未知|$110 / $110 / $1.8k|D|[TrustMRR](https://trustmrr.com/startup/polylogue)|
 |polymathclaw / polymathclaw|PolymathClaw is a managed AI agent platform. Sign up, add your API key, and get a personal AI that browses the web, sends emails, runs code, and schedules tasks running 24/7 on its own private server.|未知|$0 / $0 / $38|D|[TrustMRR](https://trustmrr.com/startup/polymathclaw)|
 |polymind-chess / PolyMind Chess|Learn chess by talking through your moves. PolyMind Chess pairs a playable board with Léon, a conversational coach who explains mistakes, answers spoken and written questions, and turns recurring weaknesses into targeted practice. Play against Stockfish or explore AI opponents with different styles, directly in your browser. Available in English and French. Start free; Premium unlocks unlimited ga…〔全文见JSON〕|Games/Education/AI|$4.99 / $4.99 / $9.98|P|[TrustMRR](https://trustmrr.com/startup/polymind-chess) [官网](https://polymindchess.com/)|
@@ -51,7 +51,7 @@
 |poopup / PoopUp|A Javascript plugin to send push notifications|未知|$0 / $9 / $7.7k|D|[TrustMRR](https://trustmrr.com/startup/poopup)|
 |popcam / popcam|webcam filter Saas|未知|$50 / $50 / $777|D|[TrustMRR](https://trustmrr.com/startup/popcam)|
 |popgift-ai / Popgift.ai|Creating and delivering personalized songs as gifts, made easy!|AI/Entertainment/Marketplace|$0.00 / $112 / $147|P|[TrustMRR](https://trustmrr.com/startup/popgift-ai) [官网](https://www.popgift.ai/)|
-|popjam-io / POPJAM.IO|POPJAM simulates audiences and generates targeted ad variants for the new era of agentic marketing.|未知|$588 / $337 / $5.2k|D|[TrustMRR](https://trustmrr.com/startup/popjam-io)|
+|popjam-io / POPJAM.IO|POPJAM simulates audiences and generates targeted ad variants for the new era of agentic marketing.|未知|$588 / $445 / $5.3k|D|[TrustMRR](https://trustmrr.com/startup/popjam-io)|
 |popular-link-in-bio / Anonymous startup|Self growth link in bio. Feature social analytics for instagram (in-house scrapper). TikTok. Already built system for threads, twitter and YouTube but not shipped yet.|Content Creation|$29k / $31k / $308k|D|[TrustMRR](https://trustmrr.com/startup/popular-link-in-bio)|
 |porada-llc / Porada, LLC|Porada offers a platform for finding mentors and gaining industry knowledge.|未知|$0 / $0 / $2.5k|D|[TrustMRR](https://trustmrr.com/startup/porada-llc)|
 |porosheets / Porosheets|Full AI platform for teachers to generate everything they need within the classroom so they can focus on teaching|未知|$31 / $20 / $460|D|[TrustMRR](https://trustmrr.com/startup/porosheets)|
@@ -61,10 +61,10 @@
 |portreeve / Portreeve|Portreeve is an abuse gate for SaaS companies|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/portreeve)|
 |ports-du-l-man / Ports du Léman|A comprehensive guide to Lake Geneva and its harbors. It provides detailed, up-to-date information on each port, including available services, moorings, and local activities.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/ports-du-l-man)|
 |porttracex / PortTraceX|PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: ports being blocked, busy, or hijacked by unknown processes|未知|$0 / $0 / $89|D|[TrustMRR](https://trustmrr.com/startup/porttracex)|
-|posepal / PosePal|PosePal is an iPhone camera app that shows you how to pose. Pick a pose from a library of 330+ and a guide appears right in your camera, so you can line yourself up before you take the photo. Then fin|未知|$1.2k / $1.8k / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/posepal)|
-|posi / Posi|Better poses, better photos.|未知|$245 / $438 / $438|D|[TrustMRR](https://trustmrr.com/startup/posi)|
+|posepal / PosePal|PosePal is an iPhone camera app that shows you how to pose. Pick a pose from a library of 330+ and a guide appears right in your camera, so you can line yourself up before you take the photo. Then fin|未知|$1.2k / $1.9k / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/posepal)|
+|posi / Posi|Better poses, better photos.|未知|$257 / $469 / $469|D|[TrustMRR](https://trustmrr.com/startup/posi)|
 |position-size-calculator / Position Size Calculator|Get position size and risk-reward in seconds with Position Size Calculator. Calculate trade sizing instantly via risk reward ratio.|未知|$33 / $0 / $851|D|[TrustMRR](https://trustmrr.com/startup/position-size-calculator)|
-|post-bridge / POST BRIDGE|Post your content to multiple social media platforms at the same time, all-in one place.|未知|$48k / $44k / $595k|D|[TrustMRR](https://trustmrr.com/startup/post-bridge)|
+|post-bridge / POST BRIDGE|Post your content to multiple social media platforms at the same time, all-in one place.|未知|$49k / $44k / $596k|D|[TrustMRR](https://trustmrr.com/startup/post-bridge)|
 |post-buzz / Post.Buzz|post.buzz is an all-in-one AI social media platform to create, schedule, publish, analyze, and grow your social presence. Manage all your channels from one place with AI-powered content creation, imag|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/post-buzz)|
 |post-layer-co / Post Layer Co|Post Layer Co is a tool for scheduling and managing social media posts across multiple platforms.|未知|$0 / $0 / $60|D|[TrustMRR](https://trustmrr.com/startup/post-layer-co)|
 |post-maker / Post Maker|Turn your raw screenshots into beautiful shareable posts on social media|未知|$0 / $0 / $67|D|[TrustMRR](https://trustmrr.com/startup/post-maker)|
@@ -75,7 +75,7 @@
 |postabl / Postabl|Make your screenshots postabl!|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postabl)|
 |postage-to / Postage.TO|Postage.TO is the easiest way to send physical letters online across the globe|未知|$0 / $160 / $3.1k|D|[TrustMRR](https://trustmrr.com/startup/postage-to)|
 |postal-form / Postal Form|Allows users to mail PDF documents from their phone without needing a printer or post office visit.|未知|$0 / $12k / $36k|D|[TrustMRR](https://trustmrr.com/startup/postal-form)|
-|postana / Postana|Postana is an AI-native social media management SaaS built for creators and small teams. Users can plan content, generate ideas, manage a visual calendar, create posts, and schedule/publish across cha|未知|$98 / $170 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/postana)|
+|postana / Postana|Postana is an AI-native social media management SaaS built for creators and small teams. Users can plan content, generate ideas, manage a visual calendar, create posts, and schedule/publish across cha|未知|$98 / $161 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/postana)|
 |postautopsy / Postautopsy|The fastest way to understand what’s working (and what’s not) in your LinkedIn content.|未知|$41 / $43 / $1k|D|[TrustMRR](https://trustmrr.com/startup/postautopsy)|
 |postbase / Postbase|The AI-native social media tool for developers and creators.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postbase)|
 |postbishop / postbishop|social media scheduling tool|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postbishop)|
@@ -89,8 +89,8 @@
 |postede / Postede|We help you post about anything.|未知|$56 / $43 / $384|D|[TrustMRR](https://trustmrr.com/startup/postede)|
 |poster / Poster|Generate videos and images for your social media, suited for your brand and marketing|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/poster)|
 |poster-grammar / Poster Grammar|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/poster-grammar)|
-|posterly-ai-powered-social-media-scheduling / Posterly - AI Powered Social Media Scheduling|Plan, publish and grow faster with API and MCP. The AI-powered social media scheduler & content creation tool for creators and teams. Manage Instagram, TikTok, LinkedIn, YouTube, and more from one uni|未知|$963 / $1.5k / $5.4k|D|[TrustMRR](https://trustmrr.com/startup/posterly-ai-powered-social-media-scheduling)|
-|posteverywhere / PostEverywhere|PostEverywhere is a Social Media Scheduling Tool built for AI Agents.|未知|$10k / $11k / $70k|D|[TrustMRR](https://trustmrr.com/startup/posteverywhere)|
+|posterly-ai-powered-social-media-scheduling / Posterly - AI Powered Social Media Scheduling|Plan, publish and grow faster with API and MCP. The AI-powered social media scheduler & content creation tool for creators and teams. Manage Instagram, TikTok, LinkedIn, YouTube, and more from one uni|未知|$963 / $1.6k / $5.4k|D|[TrustMRR](https://trustmrr.com/startup/posterly-ai-powered-social-media-scheduling)|
+|posteverywhere / PostEverywhere|PostEverywhere is a Social Media Scheduling Tool built for AI Agents.|未知|$10k / $12k / $71k|D|[TrustMRR](https://trustmrr.com/startup/posteverywhere)|
 |postezi / Postezi|Stop writing social posts from scratch. Postezi drafts them from what you're already building and ships them everywhere.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postezi)|
 |postfalcon / Postfalcon|Social media scheduler for creators and small teams. Write a post once, schedule it on a calendar, and Postfalcon publishes it on time to Mastodon, Bluesky, Instagram, Facebook, Threads, TikTok, YouTu|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postfalcon)|
 |postfury / PostFury|PostFury helps creators plan sharper posts, stay consistent, and track what drives their account forward. It offers a workflow to capture ideas, generate hooks, and schedule content efficiently. With|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postfury)|
@@ -102,7 +102,7 @@
 |postifyy / Postifyy|Record a 2-minute voice note about your work. Postifyy turns it into a week of LinkedIn posts in your own words, checks every one, and posts them on schedule. Built for founders building trust, and fo|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postifyy)|
 |postiv-io / Postiv.io|a platform for social network marketing - content creation, scheduling, automation and analytics, supports 30+ social networks, an ai copilot and much more|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postiv-io)|
 |postivate / Postivate|Postivate is the social media scheduler for creators, teams and agencies. Write one post, tailor it for every network, get it approved and schedule it. Your AI assistant knows your brand, and your AI|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postivate)|
-|postiz / Postiz|Postiz is the ultimate agentic social media scheduler tool|未知|$451k / $493k / $2M|D|[TrustMRR](https://trustmrr.com/startup/postiz)|
+|postiz / Postiz|Postiz is the ultimate agentic social media scheduler tool|未知|$454k / $495k / $2M|D|[TrustMRR](https://trustmrr.com/startup/postiz)|
 |postking / PostKing|Your Vibe-Marketing Platform that uses fine tuned models to grow. Content automation that writes SEO, blogs, social, all in your voice.|未知|$145 / $114 / $1.2k|D|[TrustMRR](https://trustmrr.com/startup/postking)|
 |postlake / PostLake|PostLake is a social media API built for AI agents, developers and automation workflows. Connect once to publish, schedule and manage content across 9 social networks through a unified API. PostLake a|未知|$0 / $0 / $20|D|[TrustMRR](https://trustmrr.com/startup/postlake)|
 |postlift-io / Postlift.io|We are developing and selling access to our softwares.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postlift-io)|
@@ -112,12 +112,12 @@
 |postnitro / PostNitro|PostNitro.ai is an all-in-one content creation and distribution platform designed to help creators and businesses generate and schedule high-performing social media carousels in seconds. By combining|未知|$490 / $3.8k / $201k|D|[TrustMRR](https://trustmrr.com/startup/postnitro)|
 |postonreddit / postonreddit|postonreddit is a tool that analyzes historical and recurring activity patterns on Reddit to determine optimal posting times. It enables users to programmatically create and publish posts to their Red|未知|$0 / $0 / $74|D|[TrustMRR](https://trustmrr.com/startup/postonreddit)|
 |postpact-app / postpact.app|The X algorithm rewards accounts that post every day: more impressions, more followers, a growing account. The hard part is sticking to it. That's where we come in: €1 a day riding on your consistency|未知|$5 / $11 / $322|D|[TrustMRR](https://trustmrr.com/startup/postpact-app)|
-|postpeer / PostPeer|PostPeer is a unified social media posting API that lets you post, schedule, and manage content across Twitter/X, Instagram, YouTube, TikTok, Facebook, Threads, Pinterest, and more, all from one endpo|未知|$7.3k / $13k / $37k|D|[TrustMRR](https://trustmrr.com/startup/postpeer)|
-|postplanify / PostPlanify|PostPlanify is an all-in-one social media management platform to plan, schedule, and manage content across multiple platforms. Keep everything organized in one place and stay consistent without switch|未知|$4.4k / $5.2k / $38k|D|[TrustMRR](https://trustmrr.com/startup/postplanify)|
+|postpeer / PostPeer|PostPeer is a unified social media posting API that lets you post, schedule, and manage content across Twitter/X, Instagram, YouTube, TikTok, Facebook, Threads, Pinterest, and more, all from one endpo|未知|$7.2k / $13k / $38k|D|[TrustMRR](https://trustmrr.com/startup/postpeer)|
+|postplanify / PostPlanify|PostPlanify is an all-in-one social media management platform to plan, schedule, and manage content across multiple platforms. Keep everything organized in one place and stay consistent without switch|未知|$4.4k / $5.3k / $38k|D|[TrustMRR](https://trustmrr.com/startup/postplanify)|
 |postpocket / PostPocket|PostPocket is your clutter-free bookmark manager — built to help you save, organize, and revisit the content that matters to you.|未知|$1 / $1 / $102|D|[TrustMRR](https://trustmrr.com/startup/postpocket)|
 |postpro-ai / postpro.ai|AI LinkedIn Post Optimizer & Analytics to Grow fast!|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postpro-ai)|
 |postpublish-pro / PostPublish Pro|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postpublish-pro)|
-|postquickai / PostQuickAI|PostQuickAI helps content creators be more efficient with posting across multiple social media platforms, and uses AI to optimize social media posts for maximum reach.|未知|$709 / $608 / $13k|D|[TrustMRR](https://trustmrr.com/startup/postquickai)|
+|postquickai / PostQuickAI|PostQuickAI helps content creators be more efficient with posting across multiple social media platforms, and uses AI to optimize social media posts for maximum reach.|未知|$709 / $632 / $13k|D|[TrustMRR](https://trustmrr.com/startup/postquickai)|
 |postraid / PostRaid|Photo AI, it is a web application that users can use AI functions to edit their photos.|未知|$107 / $58 / $562|D|[TrustMRR](https://trustmrr.com/startup/postraid)|
 |postroom / PostRoom|PostRoom is a content approval workspace for freelance social media managers and small agencies. Organize client drafts, collect version-specific approvals through expiring review links, export approv|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postroom)|
 |postroutine-io / PostRoutine — Social Media API & MCP for AI Agents, Founders and Developers|PostRoutine is an agent-ready social media platform for developers, founders, and teams. Connect top social channels and let AI agents like Cursor, Codex, Claude, ChatGPT, and OpenClaw publish posts,|未知|$99 / $99 / $99|D|[TrustMRR](https://trustmrr.com/startup/postroutine-io)|
@@ -125,14 +125,14 @@
 |postsyncs-ai-content-twin-schedule-posts-reels-carousels-in-your-voice / PostSyncs - AI Content Twin \| Schedule Posts, Reels & Carousels in Your Voice|PostSyncs is an AI-powered content twin that helps creators and businesses generate and schedule posts, reels, and carousels in their own voice. It learns your tone and style to create authentic, high|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postsyncs-ai-content-twin-schedule-posts-reels-carousels-in-your-voice)|
 |posture-icu / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/posture-icu)|
 |postvoy / Postvoy|Postvoy runs your X account on a strategy you control. Posts, replies, and warm DMs in your voice — autonomous X growth for SaaS founders.. A product designed to help users achieve their goals more ef|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postvoy)|
-|postwing / PostWing|Social Media Scheduler|未知|$177 / $166 / $659|D|[TrustMRR](https://trustmrr.com/startup/postwing)|
+|postwing / PostWing|Social Media Scheduler|未知|$177 / $176 / $669|D|[TrustMRR](https://trustmrr.com/startup/postwing)|
 |posty / Posty|Posty is a LinkedIn growth tool that helps freelancers and professionals increase their visibility, attract more qualified prospects, and turn connections into clients|未知|$12 / $0 / $150|D|[TrustMRR](https://trustmrr.com/startup/posty)|
 |postysocial / Posty|Posty is a social media management platform that helps businesses, creators, and agencies plan, schedule, and publish content across multiple social networks, with built-in collaboration and approval|未知|$214 / $828 / $1k|D|[TrustMRR](https://trustmrr.com/startup/postysocial)|
 |postzen / PostZen|Generate AI Articles to WordPress in One Click|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/postzen)|
 |potatie / Potatie|Get complete, custom landing pages delivered as clean HTML files. Faster turnaround, lower prices than traditional designers|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/potatie)|
 |potion-agency / Vowra|Shopify for experiences — a vertical SaaS platform where workshop, class, and retreat hosts manage bookings, payments, and guest communication in one place, with built-in marketplace revenue via Strip|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/potion-agency)|
 |pottle / pottle|A potty training app that walks first-time parents through a phase-by-phase method, tracks progress, and tells them exactly what to do when things go wrong.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/pottle)|
-|pouch-quit / Pouch Quit|Pouch Quit provides personalized tools, craving relief, and tracking to help users quit nicotine pouches and regain their freedom.|未知|$460 / $577 / $6.4k|D|[TrustMRR](https://trustmrr.com/startup/pouch-quit)|
+|pouch-quit / Pouch Quit|Pouch Quit provides personalized tools, craving relief, and tracking to help users quit nicotine pouches and regain their freedom.|未知|$460 / $583 / $6.4k|D|[TrustMRR](https://trustmrr.com/startup/pouch-quit)|
 |pouncio / Pouncio|Pouncio is an AI bot for Vinted resellers. It watches all 21 Vinted markets 24/7, and its AI reads every new listing (photos, title and description, in any language) to find the exact model and condit|未知|$504 / $528 / $808|D|[TrustMRR](https://trustmrr.com/startup/pouncio)|
 |powerbuyer / PowerBuyer|PowerBuyer is a subscription SaaS tool that helps professional resellers find inventory on Etsy. Users pay a monthly fee to access real-time listing monitoring and bulk search features. The app querie|未知|$0 / $0 / $234|D|[TrustMRR](https://trustmrr.com/startup/powerbuyer)|
 |powered-by-piland / Piland|Powered By Piland is a development agency. We specialize in creating websites, web applications, and SaaS solutions. We typically charge customers half up front to get started on a project and half at|未知|$0 / $0 / $551|D|[TrustMRR](https://trustmrr.com/startup/powered-by-piland)|
@@ -141,13 +141,13 @@
 |powertools-for-chatgpt / PowerTools For ChatGPT|Pin, Search messages and conversations in ChatGPT with a ton of awesome features!|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/powertools-for-chatgpt)|
 |pozy / Pozy|The 1st bidding job marketplace for AI startups.|未知|$0 / $0 / $377|D|[TrustMRR](https://trustmrr.com/startup/pozy)|
 |ppramanik62 / MyHand|Your handwriting, as a real font file, and the photo never leaves your browser. The browser fits the notebook rules, dewarps the page, removes the ruling, and segments all 81 glyphs. Only 1-bit bitmap|未知|$0 / $0 / $20|D|[TrustMRR](https://trustmrr.com/startup/ppramanik62)|
-|practiceme / Practiceme|AI-powered English practice with native accents and real-time feedback.|Education|$3.3k / $4.7k / $31k|D|[TrustMRR](https://trustmrr.com/startup/practiceme)|
+|practiceme / Practiceme|AI-powered English practice with native accents and real-time feedback.|Education|$3.3k / $4.6k / $31k|D|[TrustMRR](https://trustmrr.com/startup/practiceme)|
 |practisheet / Practisheet|Practisheet is a hands-on practice site for Excel and SQL. Instead of watching videos, you solve real analyst tasks in a live spreadsheet or SQL editor in your browser, and every answer is graded inst|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/practisheet)|
-|pratik-patel / Pratik Patel|未知|未知|$0 / $25 / $37|D|[TrustMRR](https://trustmrr.com/startup/pratik-patel)|
+|pratik-patel / Pratik Patel|未知|未知|$0 / $12 / $37|D|[TrustMRR](https://trustmrr.com/startup/pratik-patel)|
 |prawnhub / PrawnHub|Deploy AI agents in seconds|未知|$0 / $5 / $693|D|[TrustMRR](https://trustmrr.com/startup/prawnhub)|
-|pray-focus / Pray Focus|Pray Focus is a prayer app that helps Christians build a prayer habit and spend less time on social media by blocking their apps daily.|未知|$95 / $196 / $922|D|[TrustMRR](https://trustmrr.com/startup/pray-focus)|
-|pray-screen-time-quran-focus / Pray Screen Time - Quran Focus|PrayFocus is an iOS app that automatically blocks distracting apps during prayer times, helping Muslims step away from their phones, pray on time, and stay focused on Salah and the Quran.|未知|$29 / $7 / $417|D|[TrustMRR](https://trustmrr.com/startup/pray-screen-time-quran-focus)|
-|prayerfirst / PrayerFirst|PrayerFirst helps Christians put Scripture before scrolling by shielding distracting apps until they complete a prayer-focused action, Bible timer, or journal entry.|未知|$37 / $47 / $83|D|[TrustMRR](https://trustmrr.com/startup/prayerfirst)|
+|pray-focus / Pray Focus|Pray Focus is a prayer app that helps Christians build a prayer habit and spend less time on social media by blocking their apps daily.|未知|$92 / $196 / $922|D|[TrustMRR](https://trustmrr.com/startup/pray-focus)|
+|pray-screen-time-quran-focus / Pray Screen Time - Quran Focus|PrayFocus is an iOS app that automatically blocks distracting apps during prayer times, helping Muslims step away from their phones, pray on time, and stay focused on Salah and the Quran.|未知|$21 / $6 / $417|D|[TrustMRR](https://trustmrr.com/startup/pray-screen-time-quran-focus)|
+|prayerfirst / PrayerFirst|PrayerFirst helps Christians put Scripture before scrolling by shielding distracting apps until they complete a prayer-focused action, Bible timer, or journal entry.|未知|$37 / $51 / $87|D|[TrustMRR](https://trustmrr.com/startup/prayerfirst)|
 |precificaai / PrecificaAI|Automatic Calculation Automatically calculate the total cost including ingredients, packaging, labor, and fixed costs. Ingredient Management Organize your ingredients with precise units of measurement|未知|$4 / $5 / $111|D|[TrustMRR](https://trustmrr.com/startup/precificaai)|
 |precis / Precis|Precis is on-device dictation for the Mac. Hold a shortcut, speak, and clean, punctuated text appears in any app. Speech never leaves your Mac. One-time purchase, no subscription.|未知|$0 / $19 / $19|D|[TrustMRR](https://trustmrr.com/startup/precis)|
 |precisionly-ai / Precisionly Ai|Ai Creator Hub with over 300+ ai tools to choose from. Has a DR 47 and already has users signing up.|未知|$0 / $20 / $40|D|[TrustMRR](https://trustmrr.com/startup/precisionly-ai)|
@@ -155,12 +155,12 @@
 |predictsights / Predictsights|Builder-built product in a fast-growing prediction market analytics niche. I lack marketing and distribution experience, so selling to someone who can scale, market, and grow this properly.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/predictsights)|
 |predicty / Predicty|Predicty is a live, trademarked PropTech app that predicts a property's value 2 to 5 years into the future, not just today's price. A proprietary engine, not a generic AI wrapper, forecasts future val|未知|$0 / $0 / $234|D|[TrustMRR](https://trustmrr.com/startup/predicty)|
 |preflopgenius / PreflopGenius|Logiciel d'entrainement preflop au poker.|未知|$15 / $16 / $200|D|[TrustMRR](https://trustmrr.com/startup/preflopgenius)|
-|pregnancy-ai-tst / Pregnancy AI Tst|AI-powered pregnancy test checker and pregnancy app that provides a digital second opinion on home test strips.|未知|$18 / $26 / $526|D|[TrustMRR](https://trustmrr.com/startup/pregnancy-ai-tst)|
+|pregnancy-ai-tst / Pregnancy AI Tst|AI-powered pregnancy test checker and pregnancy app that provides a digital second opinion on home test strips.|未知|$18 / $24 / $526|D|[TrustMRR](https://trustmrr.com/startup/pregnancy-ai-tst)|
 |prelaunchkit / PrelaunchKit|Whether you're building a SaaS, physical product, service, or course - validate demand with real money before you invest months and thousands in development.|未知|$0 / $0 / $23|D|[TrustMRR](https://trustmrr.com/startup/prelaunchkit)|
-|premierdelaclasse / Premierdelaclasse.lol|La 1re place est à 499,50 € Pas de jury, pas d'algorithme. Votre rang, c'est ce que vous versez. Dès 0,30 €.|未知|$0 / $47 / $7.7k|D|[TrustMRR](https://trustmrr.com/startup/premierdelaclasse)|
+|premierdelaclasse / Premierdelaclasse.lol|La 1re place est à 499,50 € Pas de jury, pas d'algorithme. Votre rang, c'est ce que vous versez. Dès 0,30 €.|未知|$0 / $2 / $7.7k|D|[TrustMRR](https://trustmrr.com/startup/premierdelaclasse)|
 |premium-slides / Premium Slides|Build beautiful proposals fast 5,000+ animated slides. Zero design skills needed. Build 3× faster and save 8+ hours every week.|未知|$0 / $0 / $82|D|[TrustMRR](https://trustmrr.com/startup/premium-slides)|
 |prems / Prems|Prems réserve vos visites d'appart automatiquement. Ne recevez que les confirmations de visites !|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/prems)|
-|prep-for-certs / Prep For Certs|Prepare for IT certifications with targeted practice exams, clear explanations, and exam-focused study tools.|未知|$223 / $523 / $9.9k|D|[TrustMRR](https://trustmrr.com/startup/prep-for-certs)|
+|prep-for-certs / Prep For Certs|Prepare for IT certifications with targeted practice exams, clear explanations, and exam-focused study tools.|未知|$223 / $503 / $9.9k|D|[TrustMRR](https://trustmrr.com/startup/prep-for-certs)|
 |prepa-ecos-ia / Prepa Ecos IA|Marre de bégayer devant ton binôme ? 🤖 Entraîne-toi aux ECOS avec l'IA n°1 en France. 📈 +800 cas, débriefing CNG en temps réel et gain de places assuré. Validé par le sang. 🩸|未知|$241 / $244 / $2.4k|D|[TrustMRR](https://trustmrr.com/startup/prepa-ecos-ia)|
 |prepare-fyi / Prepare.fyi|AI-powered platform for interview preparation. Offers voice-based practice and instant feedback.|未知|$0 / $9 / $17|D|[TrustMRR](https://trustmrr.com/startup/prepare-fyi)|
 |prepiq / PrepiQ|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/prepiq)|
@@ -168,7 +168,7 @@
 |prerun-run-warmups-stretch / Prerun: run warmups & stretch|Start every run the right way. Prerun provides structured warm-ups and stretches to enhance performance, reduce injury risk, and build better running habits now with Apple Watch support for a smoother|未知|$14 / $13 / $68|D|[TrustMRR](https://trustmrr.com/startup/prerun-run-warmups-stretch)|
 |preseedme / preseedme|PreseedMe helps founders turn daily progress into proof investors can trust. It gives you one place to track execution, build credibility, and understand what is still missing before you raise.|未知|$0 / $0 / $87|D|[TrustMRR](https://trustmrr.com/startup/preseedme)|
 |presentationgpt / PresentationGPT|AI-powered tool for generating high-quality presentations|未知|$0 / $0 / $11k|D|[TrustMRR](https://trustmrr.com/startup/presentationgpt)|
-|presentia-ai / Presentia AI|Creates AI-generated presentations with customizable themes and multilingual support|未知|$1k / $1.5k / $62k|D|[TrustMRR](https://trustmrr.com/startup/presentia-ai)|
+|presentia-ai / Presentia AI|Creates AI-generated presentations with customizable themes and multilingual support|未知|$992 / $1.5k / $62k|D|[TrustMRR](https://trustmrr.com/startup/presentia-ai)|
 |presenvo / Presenvo|Presenvo is an AI website generator for local businesses. Paste a Google Maps listing and it turns the business profile, photos, and real customer reviews into a polished, hosted website—with review-b|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/presenvo)|
 |presho-technology-labs-llp / Presho Technology Labs LLP|ChatOBot AI enables users to talk to their internal systems through Chat enabled via generative AI.|未知|$128 / $70 / $4.3k|D|[TrustMRR](https://trustmrr.com/startup/presho-technology-labs-llp)|
 |presscart / Presscart|Media marketplace for building your online visibility and credibility.|未知|$2k / $62k / $3.3M|D|[TrustMRR](https://trustmrr.com/startup/presscart)|
@@ -176,10 +176,10 @@
 |presswhizz / PressWhizz|PressWhizz is an online link-building marketplace where you can buy or sell links.|Marketplace|$0 / $189k / $1.2M|D|[TrustMRR](https://trustmrr.com/startup/presswhizz)|
 |prestashop-e-invoicing / Prestashop E-Invoicing|Meet EU e-invoicing mandates without leaving PrestaShop. Generate and download fully Peppol-compliant UBL invoices directly from any order. Get compliant in five minutes.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/prestashop-e-invoicing)|
 |presto-flyer / Anonymous startup|AI generated flyers|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/presto-flyer)|
-|prettier / Prettier|Your AI Beauty Consultant 🎀|未知|$2.5k / $2.5k / $31k|D|[TrustMRR](https://trustmrr.com/startup/prettier)|
+|prettier / Prettier|Your AI Beauty Consultant 🎀|未知|$2.6k / $2.5k / $31k|D|[TrustMRR](https://trustmrr.com/startup/prettier)|
 |prettymd / PrettyMD|PrettyMD is a simple, beautiful app for reading the .md files your AI writes — specs, plans, skills, agents, and more.|未知|$0 / $0 / $38|D|[TrustMRR](https://trustmrr.com/startup/prettymd)|
 |preuve-ai / Preuve AI|Market research and competitive intelligence for founders, and the white-label engine agencies, accelerators and consultants use to pre-qualify inbound startups. Preuve AI runs an idea through 60+ liv|未知|$0 / $1.1k / $30k|D|[TrustMRR](https://trustmrr.com/startup/preuve-ai)|
-|preview-tool-for-gofile / Preview Tool – for Gofile™|Preview Tool for Gofile allows users to preview and download Gofile links instantly|未知|$37 / $89 / $268|D|[TrustMRR](https://trustmrr.com/startup/preview-tool-for-gofile)|
+|preview-tool-for-gofile / Preview Tool – for Gofile™|Preview Tool for Gofile allows users to preview and download Gofile links instantly|未知|$37 / $86 / $268|D|[TrustMRR](https://trustmrr.com/startup/preview-tool-for-gofile)|
 |previewly / Previewly|Previewly helps you create beautiful Open Graph images for your SaaS in minutes. Upload your logo, add a short description, and let AI generate clean, professional previews that make your links stand|未知|$0 / $0 / $12|D|[TrustMRR](https://trustmrr.com/startup/previewly)|
 |prex0y / Cvtomam.pl|Modern CV platform helping job seekers create professional, ATS-friendly resumes faster with AI-powered tools and smart optimization.|未知|$0 / $0 / $13|D|[TrustMRR](https://trustmrr.com/startup/prex0y)|
 |price-per-token / Price Per Token|The best place to compare LLM APIs|未知|$1.7k / $1.7k / $7.4k|D|[TrustMRR](https://trustmrr.com/startup/price-per-token)|
@@ -188,7 +188,7 @@
 |pricingmonitor-ai-agent-that-keeps-an-eye-on-your-competitors / PricingMonitor - AI Agent that keeps an eye on your competitors.|PricingMonitor uses AI to track and alert changes in competitor pricing across different languages and currencies. We just launched on the 22nd of December, so it's free for you to take it for a 30-da|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/pricingmonitor-ai-agent-that-keeps-an-eye-on-your-competitors)|
 |pricklymails / PricklyMails|Verify email addresses before you send, so your list stays clean and your sender reputation intact. Honest verdicts, no address kept, EU-hosted.|未知|$9 / $9 / $9|D|[TrustMRR](https://trustmrr.com/startup/pricklymails)|
 |prijimacitesty-cz / prijimacitesty.cz|Nabízím online testy pro přípravu na přijímací zkoušky na střední školy. Studenti si mohou zdarma vyzkoušet testy z matematiky a českého jazyka podle CERMATu. Prémiová verze umožňuje přístup ke všem t|未知|$0 / $0 / $2|D|[TrustMRR](https://trustmrr.com/startup/prijimacitesty-cz)|
-|prilo-ai / Prilo AI|First-ever AI-powered preparation software for CTSO competitions and AP Exams.|未知|$1.4k / $1.4k / $21k|D|[TrustMRR](https://trustmrr.com/startup/prilo-ai)|
+|prilo-ai / Prilo AI|First-ever AI-powered preparation software for CTSO competitions and AP Exams.|未知|$1.4k / $1.4k / $22k|D|[TrustMRR](https://trustmrr.com/startup/prilo-ai)|
 |primacasa-ai / primacasa.ai|Primacasa.ai is the mortgage broker's AI operating system, allowing to automate the procedure of presenting a customer to the bank in 5 minutes|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/primacasa-ai)|
 |primeclaws / PrimeClaws|Reliable, affordable VPS & managed hosting optimized for OpenClaw – the powerful open-source personal AI assistant (formerly Clawdbot/Moltbot). Run your always-on AI agent 24/7 with full data privacy,|未知|$1k / $1.8k / $2.7k|D|[TrustMRR](https://trustmrr.com/startup/primeclaws)|
 |primer3-api / Primer3 API|Access the power of Primer3 through an easy-to-use REST API.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/primer3-api)|
@@ -196,7 +196,7 @@
 |primestate / PrimeState|Discover what actually works for YOUR brain. Track inputs, find patterns, optimize your focus and energy.|未知|$24 / $24 / $251|D|[TrustMRR](https://trustmrr.com/startup/primestate)|
 |primestudios / primestudios|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/primestudios)|
 |printer / Printer|App for printing, scanning, and making photo collages from iPhone or iPad.|未知|$0 / $5 / $169|D|[TrustMRR](https://trustmrr.com/startup/printer)|
-|printerxr / PrinterXR|An Online Printer Setup Exclusive Guide web portal with document editing and a printables maker|未知|$702 / $1k / $161k|D|[TrustMRR](https://trustmrr.com/startup/printerxr)|
+|printerxr / PrinterXR|An Online Printer Setup Exclusive Guide web portal with document editing and a printables maker|未知|$700 / $1.1k / $161k|D|[TrustMRR](https://trustmrr.com/startup/printerxr)|
 |printotr-a / Printotr Aı|Printo TR AI – The Ultimate E-commerce Design Automation Tool Description: Elevate your Etsy and Shopify business with Printo TR AI, the specialized design automation tool built for Print-on-Demand (P|未知|$0 / $1.6k / $9.9k|D|[TrustMRR](https://trustmrr.com/startup/printotr-a)|
 |printpigeon-ltd / PrintPigeon Ltd|PrintPigeon provides online professional letter printing and posting services in the UK.|未知|$0 / $0 / $35k|D|[TrustMRR](https://trustmrr.com/startup/printpigeon-ltd)|
 |priora / Priora|Every Feature Earns Its Place.|未知|$4 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/priora)|
@@ -208,11 +208,11 @@
 |private-api-saas / Anonymous startup|未知|未知|$1k / $1.1k / $7.1k|D|[TrustMRR](https://trustmrr.com/startup/private-api-saas)|
 |private-design-venture / Anonymous startup|未知|未知|$0 / $0 / $592k|D|[TrustMRR](https://trustmrr.com/startup/private-design-venture)|
 |private-enterprise / Anonymous startup|未知|未知|$171 / $279 / $2.8k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise)|
-|private-enterprise-1 / Anonymous startup|未知|未知|$0 / $5.3k / $77k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-1)|
+|private-enterprise-1 / Anonymous startup|未知|未知|$0 / $5.2k / $77k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-1)|
 |private-enterprise-10 / Omnira : Focus & Sleep Sounds|Omnira is a profitable iOS wellness app for sleep, focus, and relaxation. Its standout 8D Audio Creator transforms music into an immersive listening experience. Users can also create personalized medi|未知|$19k / $16k / $308k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-10)|
 |private-enterprise-11 / Anonymous startup|未知|未知|$248 / $0 / $4k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-11)|
-|private-enterprise-12 / Anonymous startup|未知|未知|$1.7k / $912 / $25k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-12)|
-|private-enterprise-13 / Anonymous startup|未知|未知|$1k / $641 / $2.9k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-13)|
+|private-enterprise-12 / Anonymous startup|未知|未知|$1.7k / $921 / $25k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-12)|
+|private-enterprise-13 / Anonymous startup|未知|未知|$994 / $621 / $2.9k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-13)|
 |private-enterprise-14 / Murmur - Private, unlimited. Text-to-speech for Apple Silicon.|Murmur turns scripts into natural speech on your Mac, with voices you clone or design yourself. One purchase, unlimited generation. Your audio never leaves the machine.|未知|$0 / $909 / $9.3k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-14)|
 |private-enterprise-15 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-15)|
 |private-enterprise-16 / Anonymous startup|未知|未知|$0 / $4 / $1.3M|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-16)|
@@ -222,33 +222,33 @@
 |private-enterprise-2 / Anonymous startup|未知|未知|$0 / $36 / $605|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-2)|
 |private-enterprise-20 / Anonymous startup|未知|未知|$0 / $100 / $5.8k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-20)|
 |private-enterprise-21 / Anonymous startup|Competitor to: Lovable, Replit, Base44, Anything.com, etc. $50k/mo, established product in hot industry, company is run by an officer. Plenty of potential. AI app/website builder (build by chatting to|未知|$0 / $0 / $303k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-21)|
-|private-enterprise-22 / Anonymous startup|B2B SAAS AUTOMOTIVE FR|SaaS|$4.8k / $6.5k / $128k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-22)|
+|private-enterprise-22 / Anonymous startup|B2B SAAS AUTOMOTIVE FR|SaaS|$4.4k / $5.7k / $129k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-22)|
 |private-enterprise-23 / Anonymous startup|未知|未知|$51 / $0 / $50|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-23)|
 |private-enterprise-24 / Anonymous startup|未知|未知|$587 / $3.6k / $7.7k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-24)|
 |private-enterprise-26 / Anonymous startup|Another Private One|未知|$14k / $15k / $77k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-26)|
-|private-enterprise-27 / Anonymous startup|未知|未知|$0 / $528 / $1.6k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-27)|
-|private-enterprise-28 / Anonymous startup|未知|未知|$0 / $35 / $202|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-28)|
+|private-enterprise-27 / Anonymous startup|未知|未知|$0 / $503 / $1.6k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-27)|
+|private-enterprise-28 / Anonymous startup|未知|未知|$0 / $39 / $206|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-28)|
 |private-enterprise-3 / Anonymous startup|未知|未知|$0 / $0 / $128|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-3)|
 |private-enterprise-30 / Oli Ai|#1 AI Voice Appointment Setter.|未知|$299 / $296 / $6.1k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-30)|
 |private-enterprise-31 / Anonymous startup|未知|未知|$798 / $939 / $928k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-31)|
-|private-enterprise-33 / Anonymous startup|未知|未知|$2k / $2.7k / $6.2k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-33)|
+|private-enterprise-33 / Anonymous startup|未知|未知|$2k / $2.7k / $6.3k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-33)|
 |private-enterprise-34 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-34)|
 |private-enterprise-35 / Anonymous startup|未知|Fintech|$16k / $23k / $187k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-35)|
-|private-enterprise-36 / Anonymous startup|未知|未知|$112 / $136 / $860|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-36)|
-|private-enterprise-37 / Anonymous startup|未知|未知|$276 / $342 / $5.3k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-37)|
-|private-enterprise-38 / Anonymous startup|未知|未知|$88 / $221 / $48k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-38)|
+|private-enterprise-36 / Anonymous startup|未知|未知|$112 / $138 / $863|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-36)|
+|private-enterprise-37 / Anonymous startup|未知|未知|$276 / $331 / $5.3k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-37)|
+|private-enterprise-38 / Anonymous startup|未知|未知|$88 / $250 / $48k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-38)|
 |private-enterprise-39 / Anonymous startup|未知|Mobile Apps|$3.1k / $4.2k / $26k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-39)|
-|private-enterprise-4 / Anonymous startup|未知|SaaS|$6k / $6.3k / $104k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-4)|
+|private-enterprise-4 / Anonymous startup|未知|SaaS|$5.9k / $6.4k / $104k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-4)|
 |private-enterprise-40 / Anonymous startup|未知|未知|$2.2k / $1.5k / $51k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-40)|
 |private-enterprise-41 / Anonymous startup|未知|未知|$0 / $0 / $10|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-41)|
 |private-enterprise-42 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-42)|
 |private-enterprise-43 / Anonymous startup|未知|未知|$1.6k / $1.5k / $9.9k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-43)|
 |private-enterprise-44 / Anonymous startup|未知|未知|$9 / $9 / $27|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-44)|
 |private-enterprise-45 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-45)|
-|private-enterprise-46 / Anonymous startup|未知|未知|$501 / $767 / $3.6k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-46)|
-|private-enterprise-47 / Anonymous startup|未知|未知|$0 / $1.2k / $29k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-47)|
+|private-enterprise-46 / Anonymous startup|未知|未知|$501 / $648 / $3.6k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-46)|
+|private-enterprise-47 / Anonymous startup|未知|未知|$0 / $1.3k / $29k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-47)|
 |private-enterprise-48 / Anonymous startup|A mobile app that helps creators go viral on TikTok and Reels.|未知|$608 / $1.1k / $2.8k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-48)|
-|private-enterprise-49 / Anonymous startup|未知|未知|$466 / $450 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-49)|
+|private-enterprise-49 / Anonymous startup|未知|未知|$462 / $450 / $2.3k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-49)|
 |private-enterprise-5 / Anonymous startup|未知|未知|$232 / $232 / $13k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-5)|
 |private-enterprise-50 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-50)|
 |private-enterprise-51 / Anonymous startup|未知|未知|$0 / $2.7k / $219k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-51)|

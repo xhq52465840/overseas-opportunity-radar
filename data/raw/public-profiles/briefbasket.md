@@ -1,5 +1,5 @@
 # briefbasket
-> Cached snapshot — next refresh expected around 2026-11-21T07:32:45.410Z.
+> Cached snapshot — next refresh expected around 2026-11-23T07:09:01.530Z.
 Public AI-agent Markdown profile for [briefbasket](https://trustmrr.com/startup/briefbasket) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [briefbasket](https://trustmrr.com/startup/
 - Founded date: 2026-06-17
 - Founder: [Shaunbuilds](https://trustmrr.com/founder/poweroverthink)
 - Founder image: [https://pbs.twimg.com/profile_images/2122558116101255168/qVb3h6Nw.jpg](https://pbs.twimg.com/profile_images/2122558116101255168/qVb3h6Nw.jpg)
-- X followers: 948
+- X followers: 945
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Paddle (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-20T05:00:37.125Z
+- Revenue last synced: 2026-11-22T05:00:05.887Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $16.07
-- Revenue data last synced: 2026-11-20T05:00:37.125Z
+- Revenue data last synced: 2026-11-22T05:00:05.887Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-22 | $0.00 |
-| 2026-10-23 | $0.00 |
 | 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-18 | $0.00 |
 | 2026-11-19 | $0.00 |
 | 2026-11-20 | $0.00 |
+| 2026-11-21 | $0.00 |
+| 2026-11-22 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -161,8 +161,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 743,
     "cachedOfferCount": 5,
-    "revenueLast30Days": "$4,912",
-    "revenueGrowthLast30Days": "-27.8%",
+    "revenueLast30Days": "$4,861",
+    "revenueGrowthLast30Days": "-29.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Fast-growing AI video & photo generation app for iOS & Android. 100% organic growth, 4.5★ from 2,050 reviews, ready for paid user acquisition.",
@@ -181,8 +181,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$778,985",
-    "revenueGrowthLast30Days": "+17.6%",
+    "revenueLast30Days": "$777,427",
+    "revenueGrowthLast30Days": "+15.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -201,8 +201,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$80,950",
-    "revenueGrowthLast30Days": "-15.0%",
+    "revenueLast30Days": "$79,167",
+    "revenueGrowthLast30Days": "-17.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -221,8 +221,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,165",
-    "revenueGrowthLast30Days": "-17.7%",
+    "revenueLast30Days": "$3,086",
+    "revenueGrowthLast30Days": "-22.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A job board for blockchain companies, with a focus on DeFi",
@@ -239,12 +239,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1921,
+    "cachedUniquePageviews": 1930,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$6,907",
-    "revenueGrowthLast30Days": "-0.7%",
+    "revenueLast30Days": "$6,836",
+    "revenueGrowthLast30Days": "-0.3%",
     "askingPrice": "$1,200,000",
-    "revenueMultiple": "14.5x",
+    "revenueMultiple": "14.6x",
     "description": "DodgePrint is a multi‑channel SaaS platform for managing product listings, orders, and analytics on Etsy, Amazon, TikTok, and Shopify. It automates tasks like order fulfillment, in",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUmw1bVJMWng5SGg2TGZTfGZsX2xpdmVfZUxOalNvVjRUZGQyS2pUNEhaUFM3RHdL00PS3mgQwP",
     "startupUrl": "https://trustmrr.com/startup/dodgeprint"
@@ -262,7 +262,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
     "revenueLast30Days": "$5,900",
-    "revenueGrowthLast30Days": "+4.4%",
+    "revenueGrowthLast30Days": "+4.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Outbound sales, built inside your company.",

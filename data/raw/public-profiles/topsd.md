@@ -1,5 +1,5 @@
 # toPSD
-> Cached snapshot — next refresh expected around 2026-11-21T07:32:42.702Z.
+> Cached snapshot — next refresh expected around 2026-11-23T07:08:58.844Z.
 Public AI-agent Markdown profile for [toPSD](https://trustmrr.com/startup/topsd) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [toPSD](https://trustmrr.com/startup/topsd)
 - Founded date: 2026-10-12
 - Founder: [xevrion](https://trustmrr.com/founder/xevrion_the1)
 - Founder image: [https://pbs.twimg.com/profile_images/2071564153282871296/vgxF-UEx.jpg](https://pbs.twimg.com/profile_images/2071564153282871296/vgxF-UEx.jpg)
-- X followers: 3,426
+- X followers: 3,447
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Dodo Payments (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-20T06:22:28.035Z
+- Revenue last synced: 2026-11-22T06:21:29.127Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: Yes
@@ -37,7 +37,7 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $25.85 |
+| Last 7 days | $0.00 |
 | Last 30 days | $62.45 |
 | Last 3 months | $62.45 |
 | Last 6 months | $62.45 |
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $62.45
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $62.45
-- Revenue data last synced: 2026-11-20T06:22:28.035Z
+- Revenue data last synced: 2026-11-22T06:21:29.127Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-22 | $0.00 |
-| 2026-10-23 | $0.00 |
 | 2026-10-24 | $3.90 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $7.80 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-18 | $0.00 |
 | 2026-11-19 | $0.00 |
 | 2026-11-20 | $0.00 |
+| 2026-11-21 | $0.00 |
+| 2026-11-22 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -94,9 +94,9 @@ These are current or last-30-day snapshots stored on the startup profile. Full t
 - Current MRR: $0.00
 - Last 30 days MRR growth: 0.0%
 - Current active subscriptions: 0
-- Last 30 days traffic or visitors: 19
-- Last 30 days Google Search impressions: 614
-- Last 30 days revenue per visitor: $3.29
+- Last 30 days traffic or visitors: 8
+- Last 30 days Google Search impressions: 88
+- Last 30 days revenue per visitor: $7.81
 
 
 ## Metrics Available After Login
@@ -167,8 +167,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$10,203",
-    "revenueGrowthLast30Days": "+12.8%",
+    "revenueLast30Days": "$10,128",
+    "revenueGrowthLast30Days": "+10.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -187,8 +187,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$283,763",
-    "revenueGrowthLast30Days": "+40.1%",
+    "revenueLast30Days": "$310,787",
+    "revenueGrowthLast30Days": "+55.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -205,12 +205,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 803,
+    "cachedUniquePageviews": 807,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$4,327",
-    "revenueGrowthLast30Days": "+142.4%",
+    "revenueLast30Days": "$4,817",
+    "revenueGrowthLast30Days": "+174.5%",
     "askingPrice": "$20,000",
-    "revenueMultiple": "0.4x",
+    "revenueMultiple": "0.3x",
     "description": "Create 4K AI images, posters, mockups, and infographics from prompts or reference images.",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/nano-banana-pro"
@@ -227,8 +227,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,253",
-    "revenueGrowthLast30Days": "+456.6%",
+    "revenueLast30Days": "$7,190",
+    "revenueGrowthLast30Days": "+603.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A local newsletter located In Canada",
