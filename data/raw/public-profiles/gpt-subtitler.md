@@ -1,5 +1,5 @@
 # GPT Subtitler
-> Cached snapshot — next refresh expected around 2026-11-23T07:08:49.854Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:22:43.001Z.
 Public AI-agent Markdown profile for [GPT Subtitler](https://trustmrr.com/startup/gpt-subtitler) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -23,7 +23,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T03:47:31.466Z
+- Revenue last synced: 2026-11-23T03:43:53.195Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -34,22 +34,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $54.81 |
-| Last 7 days | $222 |
-| Last 30 days | $1,170 |
-| Last 3 months | $4,364 |
-| Last 6 months | $8,783 |
-| Last 12 months | $25,320 |
-| All time | $45,486 |
-- Last 30 days revenue snapshot: $1,170
-- Last 30 days revenue growth: -24.3%
-- All-time revenue snapshot: $45,486
-- Revenue data last synced: 2026-11-22T03:47:31.466Z
+| Last 24 hours | $14.90 |
+| Last 7 days | $227 |
+| Last 30 days | $1,160 |
+| Last 3 months | $4,349 |
+| Last 6 months | $8,763 |
+| Last 12 months | $25,270 |
+| All time | $45,500 |
+- Last 30 days revenue snapshot: $1,165
+- Last 30 days revenue growth: -22.6%
+- All-time revenue snapshot: $45,500
+- Revenue data last synced: 2026-11-23T03:43:53.195Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $15.00 |
 | 2026-10-25 | $34.91 |
 | 2026-10-26 | $35.39 |
 | 2026-10-27 | $127 |
@@ -78,7 +77,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-19 | $5.01 |
 | 2026-11-20 | $38.29 |
 | 2026-11-21 | $64.71 |
-| 2026-11-22 | $0.00 |
+| 2026-11-22 | $14.90 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -93,15 +93,15 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $1,244 |
 | 2026-09 | $1,727 |
 | 2026-10 | $1,563 |
-| 2026-11 | $729 |
+| 2026-11 | $744 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $540
-- Last 30 days MRR growth: -18.7%
-- Current active subscriptions: 69
+- Current MRR: $545
+- Last 30 days MRR growth: -17.9%
+- Current active subscriptions: 70
 
 
 ## Metrics Available After Login
@@ -163,8 +163,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$55,792",
-    "revenueGrowthLast30Days": "-10.2%",
+    "revenueLast30Days": "$57,057",
+    "revenueGrowthLast30Days": "-8.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -203,8 +203,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,644",
-    "revenueGrowthLast30Days": "-13.0%",
+    "revenueLast30Days": "$4,969",
+    "revenueGrowthLast30Days": "-3.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established brand (operational since at least 2017). Low overhead business model. Dominant SEO position in Paso Robles wine tourism. Recurring revenue with annual contracts. Strong",
@@ -223,8 +223,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$24,817",
-    "revenueGrowthLast30Days": "+25.5%",
+    "revenueLast30Days": "$24,605",
+    "revenueGrowthLast30Days": "+23.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "We develop CRM solutions for Travel Agents and agencies",
@@ -261,12 +261,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2252,
+    "cachedUniquePageviews": 2272,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$24,385",
-    "revenueGrowthLast30Days": "+7.3%",
+    "revenueLast30Days": "$24,299",
+    "revenueGrowthLast30Days": "+5.4%",
     "askingPrice": "$920,000",
-    "revenueMultiple": "3.1x",
+    "revenueMultiple": "3.2x",
     "description": "Profitable every month since launch, 24 in a row, at a ~92% margin with under $100/mo in operating costs. No Google, Meta or Reddit ads: growth comes from a site built for Google a",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/chatgpt-toolbox-d1a3337a-7d38-4b6c-b1b3-712873407fe9.png",
     "startupUrl": "https://trustmrr.com/startup/ai-toolbox"

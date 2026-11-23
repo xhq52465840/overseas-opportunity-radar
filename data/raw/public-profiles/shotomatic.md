@@ -1,5 +1,5 @@
 # Shotomatic
-> Cached snapshot — next refresh expected around 2026-11-23T07:08:53.436Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:56:13.887Z.
 Public AI-agent Markdown profile for [Shotomatic](https://trustmrr.com/startup/shotomatic) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Shotomatic](https://trustmrr.com/startup/s
 - Founded date: 2025-04-20
 - Founder: [Wooyeong Kim](https://trustmrr.com/founder/wooing0306)
 - Founder image: [https://pbs.twimg.com/profile_images/1831229535783931904/sa6ccU27.jpg](https://pbs.twimg.com/profile_images/1831229535783931904/sa6ccU27.jpg)
-- X followers: 564
+- X followers: 566
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Lemon Squeezy (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T02:18:23.621Z
+- Revenue last synced: 2026-11-23T02:17:50.416Z
 - Google Analytics API connected: Yes
 - DataFast API key connected: Yes
 - Google Search Console API connected: Yes
@@ -36,22 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $79.13 |
-| Last 7 days | $129 |
-| Last 30 days | $813 |
-| Last 3 months | $3,000 |
-| Last 6 months | $5,786 |
-| Last 12 months | $11,765 |
-| All time | $16,954 |
-- Last 30 days revenue snapshot: $813
-- Last 30 days revenue growth: -8.1%
-- All-time revenue snapshot: $16,954
-- Revenue data last synced: 2026-11-22T02:18:23.621Z
+| Last 24 hours | $24.80 |
+| Last 7 days | $150 |
+| Last 30 days | $833 |
+| Last 3 months | $3,022 |
+| Last 6 months | $5,723 |
+| Last 12 months | $11,772 |
+| All time | $16,984 |
+- Last 30 days revenue snapshot: $833
+- Last 30 days revenue growth: -1.8%
+- All-time revenue snapshot: $16,984
+- Revenue data last synced: 2026-11-23T02:17:50.416Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $39.00 |
 | 2026-10-27 | $47.19 |
@@ -80,7 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-19 | $32.19 |
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $79.13 |
-| 2026-11-22 | $0.00 |
+| 2026-11-22 | $5.39 |
+| 2026-11-23 | $24.80 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,7 +95,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $1,118 |
 | 2026-09 | $1,313 |
 | 2026-10 | $790 |
-| 2026-11 | $571 |
+| 2026-11 | $601 |
 
 
 ## Metric Snapshots
@@ -104,7 +104,7 @@ These are current or last-30-day snapshots stored on the startup profile. Full t
 - Current MRR: $213
 - Last 30 days MRR growth: -4.4%
 - Current active subscriptions: 22
-- Last 30 days traffic or visitors: 17,218
+- Last 30 days traffic or visitors: 17,363
 - Last 30 days revenue per visitor: $0.05
 
 
@@ -166,10 +166,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2897,
+    "cachedUniquePageviews": 2899,
     "cachedOfferCount": 14,
-    "revenueLast30Days": "$14,304",
-    "revenueGrowthLast30Days": "-18.4%",
+    "revenueLast30Days": "$14,097",
+    "revenueGrowthLast30Days": "-20.0%",
     "askingPrice": "$200,000",
     "revenueMultiple": "1.2x",
     "description": "Linkar offers mechanical warranty for vehicles, covering repair costs up to 15,000€ per year.",
@@ -188,8 +188,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,900",
-    "revenueGrowthLast30Days": "+4.5%",
+    "revenueLast30Days": "$8,400",
+    "revenueGrowthLast30Days": "+48.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Outbound sales, built inside your company.",
@@ -206,10 +206,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 752,
+    "cachedUniquePageviews": 758,
     "cachedOfferCount": 1,
     "revenueLast30Days": "$3,056",
-    "revenueGrowthLast30Days": "+136.6%",
+    "revenueGrowthLast30Days": "+152.5%",
     "askingPrice": "$45,000",
     "revenueMultiple": "1.2x",
     "description": null,
@@ -226,10 +226,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1934,
+    "cachedUniquePageviews": 1937,
     "cachedOfferCount": 11,
-    "revenueLast30Days": "$14,145",
-    "revenueGrowthLast30Days": "-9.4%",
+    "revenueLast30Days": "$14,517",
+    "revenueGrowthLast30Days": "-7.2%",
     "askingPrice": "$500,000",
     "revenueMultiple": "2.9x",
     "description": "Profitable IPTV Player and VPN app portfolio with $238K TTM profit and approximately 90% margin. This listing includes two cross-platform apps under the same brand: an IPTV Player",
@@ -246,10 +246,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 633,
-    "cachedOfferCount": 6,
-    "revenueLast30Days": "$9,889",
-    "revenueGrowthLast30Days": "-55.8%",
+    "cachedUniquePageviews": 636,
+    "cachedOfferCount": 7,
+    "revenueLast30Days": "$9,689",
+    "revenueGrowthLast30Days": "-56.4%",
     "askingPrice": "$150,000",
     "revenueMultiple": "1.3x",
     "description": "Growing, profitable niche social networking app. - 4.8 stars 3k+ stars across App / Play Store - 160k+ users all time - 12-20k MAU - 4-5k DAU - Generally in top 20-50 for Social N",
@@ -268,8 +268,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,437",
-    "revenueGrowthLast30Days": "-43.6%",
+    "revenueLast30Days": "$3,449",
+    "revenueGrowthLast30Days": "-43.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,

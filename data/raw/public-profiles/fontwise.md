@@ -1,5 +1,5 @@
 # Fontwise
-> Cached snapshot — next refresh expected around 2026-11-23T07:08:45.337Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:56:05.735Z.
 Public AI-agent Markdown profile for [Fontwise](https://trustmrr.com/startup/fontwise) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Lemon Squeezy (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T05:34:03.091Z
+- Revenue last synced: 2026-11-23T05:26:43.684Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -37,21 +37,20 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $76.98 |
+| Last 7 days | $36.58 |
 | Last 30 days | $236 |
 | Last 3 months | $579 |
 | Last 6 months | $981 |
 | Last 12 months | $1,349 |
 | All time | $1,349 |
 - Last 30 days revenue snapshot: $236
-- Last 30 days revenue growth: +56.6%
+- Last 30 days revenue growth: +98.2%
 - All-time revenue snapshot: $1,349
-- Revenue data last synced: 2026-11-22T05:34:03.091Z
+- Revenue data last synced: 2026-11-23T05:26:43.684Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $0.00 |
 | 2026-10-25 | $31.58 |
 | 2026-10-26 | $38.77 |
 | 2026-10-27 | $59.81 |
@@ -81,6 +80,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -164,8 +164,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 407,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$55,027",
-    "revenueGrowthLast30Days": "+298.9%",
+    "revenueLast30Days": "$56,595",
+    "revenueGrowthLast30Days": "+332.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Runcrate is a developer-friendly AI cloud platform and GPU provider founded in 2025 that combines raw on-demand GPU infrastructure with an OpenAI-compatible inference API",
@@ -184,8 +184,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,148",
-    "revenueGrowthLast30Days": "+59.3%",
+    "revenueLast30Days": "$3,195",
+    "revenueGrowthLast30Days": "+61.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Sell more cars from the leads you’re already paying for.",
@@ -204,8 +204,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 40,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,474",
-    "revenueGrowthLast30Days": "-41.9%",
+    "revenueLast30Days": "$3,347",
+    "revenueGrowthLast30Days": "-42.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Track bowel movements, food, symptoms, meds, labs, and flare notes with FlareCare, a gut health app for IBS, IBD, Crohn disease, and colitis.",
@@ -224,8 +224,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,217",
-    "revenueGrowthLast30Days": "-38.1%",
+    "revenueLast30Days": "$4,182",
+    "revenueGrowthLast30Days": "-34.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI-powered study app that turns learning materials into color-coded notes, quizzes, and flashcards to make studying more engaging and effective.",
@@ -242,9 +242,9 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1800,
-    "cachedOfferCount": 18,
-    "revenueLast30Days": "$7,405",
+    "cachedUniquePageviews": 1809,
+    "cachedOfferCount": 19,
+    "revenueLast30Days": "$7,406",
     "revenueGrowthLast30Days": "+36.2%",
     "askingPrice": "$100,000",
     "revenueMultiple": "1.1x",
@@ -264,8 +264,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$54,144",
-    "revenueGrowthLast30Days": "+13.6%",
+    "revenueLast30Days": "$54,237",
+    "revenueGrowthLast30Days": "+12.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI music mastering with text prompts, guide the AI with words and hear the magic. Includes a free stem splitter as well.",

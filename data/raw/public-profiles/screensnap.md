@@ -1,5 +1,5 @@
 # ScreenSnap
-> Cached snapshot — next refresh expected around 2026-11-23T07:05:50.114Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:56:12.011Z.
 Public AI-agent Markdown profile for [ScreenSnap](https://trustmrr.com/startup/screensnap) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T04:34:26.155Z
+- Revenue last synced: 2026-11-23T04:28:46.253Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,12 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $3.00
-- Revenue data last synced: 2026-11-22T04:34:26.155Z
+- Revenue data last synced: 2026-11-23T04:28:46.253Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
@@ -81,6 +80,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -162,8 +162,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,297",
-    "revenueGrowthLast30Days": "+622.6%",
+    "revenueLast30Days": "$6,262",
+    "revenueGrowthLast30Days": "+590.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A suite of marketing and lead generation products to grow your business.",
@@ -182,8 +182,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,608",
-    "revenueGrowthLast30Days": "+134.5%",
+    "revenueLast30Days": "$3,685",
+    "revenueGrowthLast30Days": "+144.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -200,10 +200,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1298,
-    "cachedOfferCount": 3,
-    "revenueLast30Days": "$12,891",
-    "revenueGrowthLast30Days": "+10.7%",
+    "cachedUniquePageviews": 1307,
+    "cachedOfferCount": 4,
+    "revenueLast30Days": "$13,201",
+    "revenueGrowthLast30Days": "+16.7%",
     "askingPrice": "$50,000",
     "revenueMultiple": "0.3x",
     "description": "Four live AI video products sold as one deal: Vidko (an idea becomes a finished 5-30 min YouTube documentary), Mamox (a website becomes a motion-graphics ad), Kidzi (cartoon films ",
@@ -222,8 +222,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,526",
-    "revenueGrowthLast30Days": "-8.2%",
+    "revenueLast30Days": "$3,496",
+    "revenueGrowthLast30Days": "-8.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Indie Hacker",
@@ -242,8 +242,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,733",
-    "revenueGrowthLast30Days": "+116.9%",
+    "revenueLast30Days": "$3,554",
+    "revenueGrowthLast30Days": "+79.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Pinterest is the cheapest traffic left for affiliates and sellers. The catch: nobody has an hour per pin. URL2Pin fixes that. Paste one product URL and get a full batch of scroll-s",
@@ -251,10 +251,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/url2pin"
   },
   {
-    "name": "Stealth Company",
-    "slug": "ai-content-marketing-agent",
-    "category": "Content Creation",
-    "categoryUrl": "https://trustmrr.com/category/content-creation",
+    "name": "Bakering App SL",
+    "slug": "bakering-app-sl",
+    "category": "E-commerce",
+    "categoryUrl": "https://trustmrr.com/category/ecommerce",
     "isForSale": false,
     "listingTier": "free",
     "listingTierName": "Free",
@@ -262,13 +262,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,192",
-    "revenueGrowthLast30Days": "-70.9%",
+    "revenueLast30Days": "$5,615",
+    "revenueGrowthLast30Days": "+9.7%",
     "askingPrice": null,
     "revenueMultiple": null,
-    "description": "AI agent that works as a content engine that helps creators generate viral videos. It handles from researching to ready-to-publish videos.",
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/ai-content-marketing-agent"
+    "description": "Best home delivery catering with products from the most renowned bakeries and patisseries in Barcelona.",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xODg1TWFEYXVlenh4OXRGfGZsX2xpdmVfWVFFd3NMMUx3V29NSG9FVzFoYnpCTk9D00ijezwS4V",
+    "startupUrl": "https://trustmrr.com/startup/bakering-app-sl"
   }
 ]
 ```

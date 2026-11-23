@@ -1,5 +1,5 @@
 # pdf2epub
-> Cached snapshot — next refresh expected around 2026-11-23T05:37:00.009Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:56:18.294Z.
 Public AI-agent Markdown profile for [pdf2epub](https://trustmrr.com/startup/pdf2epub) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -21,7 +21,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T00:24:00.849Z
+- Revenue last synced: 2026-11-23T06:14:28.465Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -33,21 +33,20 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $0.00 |
-| Last 30 days | $25.00 |
-| Last 3 months | $25.00 |
-| Last 6 months | $25.00 |
-| Last 12 months | $25.00 |
-| All time | $25.00 |
-- Last 30 days revenue snapshot: $25.00
+| Last 7 days | $3.31 |
+| Last 30 days | $28.31 |
+| Last 3 months | $28.31 |
+| Last 6 months | $28.31 |
+| Last 12 months | $28.31 |
+| All time | $28.31 |
+- Last 30 days revenue snapshot: $28.31
 - Last 30 days revenue growth: 0.0%
-- All-time revenue snapshot: $25.00
-- Revenue data last synced: 2026-11-22T00:24:00.849Z
+- All-time revenue snapshot: $28.31
+- Revenue data last synced: 2026-11-23T06:14:28.465Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
@@ -76,12 +75,13 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-19 | $0.00 |
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $0.00 |
-| 2026-11-22 | $0.00 |
+| 2026-11-22 | $3.31 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
 | 2026-10 | $0.00 |
-| 2026-11 | $25.00 |
+| 2026-11 | $28.31 |
 
 
 ## Metric Snapshots
@@ -152,12 +152,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 2002,
+    "cachedUniquePageviews": 2006,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,392",
-    "revenueGrowthLast30Days": "-5.0%",
+    "revenueLast30Days": "$4,231",
+    "revenueGrowthLast30Days": "-8.5%",
     "askingPrice": "$199,000",
-    "revenueMultiple": "3.8x",
+    "revenueMultiple": "3.9x",
     "description": "NETTIFY is a full-stack website builder that lets small businesses launch complete, professional sites in minutes - no coding needed. Choose AI editor or edit manually, start from ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTnZjdkxGc2h3NmRmbEp2fGZsX2xpdmVfdUdEQWdnQW90TU5SU3M1UmtEV3RFZTRJ001IwwAk8V",
     "startupUrl": "https://trustmrr.com/startup/nettify"
@@ -172,7 +172,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1476,
+    "cachedUniquePageviews": 1482,
     "cachedOfferCount": 1,
     "revenueLast30Days": "$6,888",
     "revenueGrowthLast30Days": "-0.7%",
@@ -192,10 +192,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 403,
+    "cachedUniquePageviews": 406,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,786",
-    "revenueGrowthLast30Days": "+16.0%",
+    "revenueLast30Days": "$5,782",
+    "revenueGrowthLast30Days": "+15.3%",
     "askingPrice": "$180,000",
     "revenueMultiple": "2.6x",
     "description": "Web-based AI image editing tool for creators and small businesses. Users upload an image and get a polished, AI-edited result in under a minute - no design skills needed. Monetized",
@@ -214,8 +214,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1007,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$7,378",
-    "revenueGrowthLast30Days": "-17.7%",
+    "revenueLast30Days": "$7,386",
+    "revenueGrowthLast30Days": "-17.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Loyalty built around people, not cards.",
@@ -234,8 +234,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$21,370",
-    "revenueGrowthLast30Days": "-28.7%",
+    "revenueLast30Days": "$20,576",
+    "revenueGrowthLast30Days": "-32.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "The community, content & tools supporting founders to ramen profitable, and beyond.",

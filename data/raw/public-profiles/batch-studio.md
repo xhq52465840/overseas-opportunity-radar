@@ -1,5 +1,5 @@
 # Batch Studio
-> Cached snapshot — next refresh expected around 2026-11-23T07:08:44.657Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:56:04.915Z.
 Public AI-agent Markdown profile for [Batch Studio](https://trustmrr.com/startup/batch-studio) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -51,7 +51,6 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
@@ -81,6 +80,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -171,8 +171,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,376",
-    "revenueGrowthLast30Days": "-3.7%",
+    "revenueLast30Days": "$3,317",
+    "revenueGrowthLast30Days": "-5.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established in 2021, this profitable WordPress and WooCommerce maintenance business serves 23 recurring U.S. clients. Billing moved to Stripe in June 2024; can share earlier revenu",
@@ -191,8 +191,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,900",
-    "revenueGrowthLast30Days": "+4.5%",
+    "revenueLast30Days": "$8,400",
+    "revenueGrowthLast30Days": "+48.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Outbound sales, built inside your company.",
@@ -211,8 +211,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,649",
-    "revenueGrowthLast30Days": "-1.1%",
+    "revenueLast30Days": "$7,637",
+    "revenueGrowthLast30Days": "-3.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Popular Shopify Discount App",
@@ -229,12 +229,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 931,
+    "cachedUniquePageviews": 938,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$3,899",
-    "revenueGrowthLast30Days": "+11.8%",
+    "revenueLast30Days": "$4,112",
+    "revenueGrowthLast30Days": "+21.0%",
     "askingPrice": "$125,000",
-    "revenueMultiple": "2.7x",
+    "revenueMultiple": "2.5x",
     "description": "Helping electrical and computer engineers find hardware roles through company-specific interview question banks, exercises, resume-tools, and behavioral questions",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/voltage-learning-13951c4f-e76c-4b21-83e7-7439974c6c52.png",
     "startupUrl": "https://trustmrr.com/startup/voltage-learning"
@@ -249,10 +249,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 2131,
+    "cachedUniquePageviews": 2148,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$39,812",
-    "revenueGrowthLast30Days": "+15.2%",
+    "revenueLast30Days": "$40,371",
+    "revenueGrowthLast30Days": "+17.3%",
     "askingPrice": "$250,000",
     "revenueMultiple": "0.5x",
     "description": "AI-image & video-generation platform.",

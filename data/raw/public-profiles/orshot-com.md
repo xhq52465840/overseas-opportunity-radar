@@ -1,5 +1,5 @@
 # Orshot.com
-> Cached snapshot — next refresh expected around 2026-11-23T05:54:14.690Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:01:14.475Z.
 Public AI-agent Markdown profile for [Orshot.com](https://trustmrr.com/startup/orshot-com) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Orshot.com](https://trustmrr.com/startup/o
 - Founded date: 2025-03-25
 - Founder: [rishi 🌔](https://trustmrr.com/founder/thelifeofrishi)
 - Founder image: [https://pbs.twimg.com/profile_images/2034389705446285312/-nvFreGp.jpg](https://pbs.twimg.com/profile_images/2034389705446285312/-nvFreGp.jpg)
-- X followers: 7,554
+- X followers: 7,555
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T02:01:01.622Z
+- Revenue last synced: 2026-11-23T02:01:04.166Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,22 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $138 |
-| Last 7 days | $2,076 |
-| Last 30 days | $12,967 |
-| Last 3 months | $30,836 |
-| Last 6 months | $52,141 |
-| Last 12 months | $78,242 |
-| All time | $84,792 |
-- Last 30 days revenue snapshot: $12,967
-- Last 30 days revenue growth: +27.8%
-- All-time revenue snapshot: $84,792
-- Revenue data last synced: 2026-11-22T02:01:01.622Z
+| Last 24 hours | $232 |
+| Last 7 days | $2,109 |
+| Last 30 days | $12,745 |
+| Last 3 months | $29,786 |
+| Last 6 months | $52,412 |
+| Last 12 months | $78,513 |
+| All time | $85,063 |
+- Last 30 days revenue snapshot: $12,944
+- Last 30 days revenue growth: +27.0%
+- All-time revenue snapshot: $85,063
+- Revenue data last synced: 2026-11-23T02:01:04.166Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $1,174 |
 | 2026-10-25 | $545 |
 | 2026-10-26 | $346 |
 | 2026-10-27 | $526 |
@@ -80,7 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-19 | $362 |
 | 2026-11-20 | $488 |
 | 2026-11-21 | $216 |
-| 2026-11-22 | $0.00 |
+| 2026-11-22 | $271 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,15 +95,15 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $7,987 |
 | 2026-09 | $8,080 |
 | 2026-10 | $11,498 |
-| 2026-11 | $8,441 |
+| 2026-11 | $8,712 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $13,838
-- Last 30 days MRR growth: +42.2%
-- Current active subscriptions: 236
+- Current MRR: $13,925
+- Last 30 days MRR growth: +40.3%
+- Current active subscriptions: 237
 
 
 ## Metrics Available After Login
@@ -166,8 +166,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1577,
     "cachedOfferCount": 18,
-    "revenueLast30Days": "$17,885",
-    "revenueGrowthLast30Days": "+6.9%",
+    "revenueLast30Days": "$17,903",
+    "revenueGrowthLast30Days": "+6.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Provides a simple way to scan your Shopify shop for Google Merchant Center compliance issues",
@@ -186,8 +186,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,366",
-    "revenueGrowthLast30Days": "-42.2%",
+    "revenueLast30Days": "$3,324",
+    "revenueGrowthLast30Days": "-42.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -206,8 +206,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$51,899",
-    "revenueGrowthLast30Days": "-34.9%",
+    "revenueLast30Days": "$53,352",
+    "revenueGrowthLast30Days": "-32.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -226,8 +226,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$10,568",
-    "revenueGrowthLast30Days": "-14.4%",
+    "revenueLast30Days": "$10,418",
+    "revenueGrowthLast30Days": "-15.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Taja helps SMB's optimize, repurpose, and distribute their long form videos across all major social platforms.",
@@ -266,8 +266,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,273",
-    "revenueGrowthLast30Days": "-18.7%",
+    "revenueLast30Days": "$3,306",
+    "revenueGrowthLast30Days": "-16.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,

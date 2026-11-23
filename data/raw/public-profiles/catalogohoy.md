@@ -1,5 +1,5 @@
 # CatalogoHoy
-> Cached snapshot — next refresh expected around 2026-11-23T06:50:53.887Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:56:20.124Z.
 Public AI-agent Markdown profile for [CatalogoHoy](https://trustmrr.com/startup/catalogohoy) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -27,7 +27,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: RevenueCat (API key), Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T06:37:26.733Z
+- Revenue last synced: 2026-11-23T06:28:00.220Z
 - Google Analytics API connected: Yes
 - DataFast API key connected: No
 - Google Search Console API connected: Yes
@@ -38,22 +38,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $128 |
-| Last 7 days | $640 |
+| Last 24 hours | $23.43 |
+| Last 7 days | $671 |
 | Last 30 days | $2,281 |
-| Last 3 months | $4,934 |
-| Last 6 months | $7,036 |
-| Last 12 months | $7,213 |
-| All time | $7,213 |
+| Last 3 months | $4,911 |
+| Last 6 months | $7,079 |
+| Last 12 months | $7,256 |
+| All time | $7,256 |
 - Last 30 days revenue snapshot: $2,281
-- Last 30 days revenue growth: +70.8%
-- All-time revenue snapshot: $7,213
-- Revenue data last synced: 2026-11-22T06:37:26.733Z
+- Last 30 days revenue growth: +78.0%
+- All-time revenue snapshot: $7,256
+- Revenue data last synced: 2026-11-23T06:28:00.220Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $43.73 |
 | 2026-10-25 | $28.55 |
 | 2026-10-26 | $60.62 |
 | 2026-10-27 | $12.21 |
@@ -82,7 +81,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-19 | $287 |
 | 2026-11-20 | $40.81 |
 | 2026-11-21 | $21.71 |
-| 2026-11-22 | $107 |
+| 2026-11-22 | $127 |
+| 2026-11-23 | $23.43 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -93,17 +93,17 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $920 |
 | 2026-09 | $1,438 |
 | 2026-10 | $1,425 |
-| 2026-11 | $1,837 |
+| 2026-11 | $1,880 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $536
-- Last 30 days MRR growth: +699.3%
-- Current active subscriptions: 36
-- Last 30 days traffic or visitors: 88,357
-- Last 30 days revenue per visitor: $0.03
+- Current MRR: $569
+- Last 30 days MRR growth: +426.1%
+- Current active subscriptions: 38
+- Last 30 days traffic or visitors: 92,694
+- Last 30 days revenue per visitor: $0.02
 - Last 30 days profit margin: 88.0%
 
 
@@ -174,7 +174,7 @@ GitHub metrics are verified from the connected GitHub repository when available.
 - First listed for sale: 2026-11-08
 - Asking price: $56,000
 - Revenue multiple: 2.0x
-- Interested buyers who saw this recently: 1,012
+- Interested buyers who saw this recently: 1,053
 - Acquisition offers received: 2
 - Message from the seller: Nicolás Soto — "I’m selling CatalogoHoy because I’m now fully focused on a new project that aims to transform fitness training and community in Venezuela. CatalogoHoy is close to passive income: everything is built, automated and running on its own. [Private metric reference available after login.] Customers are very loyal, and the main lever for growth is simply more marketing."
 - Make an offer: [CatalogoHoy offer page](https://trustmrr.com/startup/catalogohoy?offer=1)
@@ -197,7 +197,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 10498,
+    "cachedUniquePageviews": 10584,
     "cachedOfferCount": 26,
     "revenueLast30Days": "$386",
     "revenueGrowthLast30Days": "-44.2%",
@@ -217,10 +217,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 1936,
-    "cachedOfferCount": 7,
-    "revenueLast30Days": "$4,483",
-    "revenueGrowthLast30Days": "+87.3%",
+    "cachedUniquePageviews": 2176,
+    "cachedOfferCount": 8,
+    "revenueLast30Days": "$4,505",
+    "revenueGrowthLast30Days": "+76.2%",
     "askingPrice": "$70,000",
     "revenueMultiple": "1.3x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
@@ -237,10 +237,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 6122,
+    "cachedUniquePageviews": 6174,
     "cachedOfferCount": 11,
     "revenueLast30Days": "$9.99",
-    "revenueGrowthLast30Days": "-95.8%",
+    "revenueGrowthLast30Days": "-91.4%",
     "askingPrice": "$12,000",
     "revenueMultiple": "100.1x",
     "description": "VoiceBrief is a SaaS learning platform that turns PDFs, web pages, and text into original-document audio, synced read-along, summaries, quizzes, flashcards, and slides. Customers d",
@@ -257,12 +257,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 8251,
-    "cachedOfferCount": 11,
-    "revenueLast30Days": "$10,942",
-    "revenueGrowthLast30Days": "+13.6%",
-    "askingPrice": "$105,000",
-    "revenueMultiple": "0.8x",
+    "cachedUniquePageviews": 8482,
+    "cachedOfferCount": 12,
+    "revenueLast30Days": "$10,522",
+    "revenueGrowthLast30Days": "+20.7%",
+    "askingPrice": "$175,000",
+    "revenueMultiple": "1.4x",
     "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVDhTbVA1QVdQTEozb085fGZsX2xpdmVfVUZ5NURIbUZaUGU0b0pqZ3BSS0ptVFJz00zakZSvK5",
     "startupUrl": "https://trustmrr.com/startup/pdf-vault"
@@ -277,12 +277,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#fff7e4",
     "cardBackgroundColorDark": "#3a2f1f",
-    "cachedUniquePageviews": 6608,
-    "cachedOfferCount": 24,
-    "revenueLast30Days": "$865",
-    "revenueGrowthLast30Days": "-8.2%",
+    "cachedUniquePageviews": 6787,
+    "cachedOfferCount": 26,
+    "revenueLast30Days": "$907",
+    "revenueGrowthLast30Days": "-3.8%",
     "askingPrice": "$17,500",
-    "revenueMultiple": "1.7x",
+    "revenueMultiple": "1.6x",
     "description": "AIRIX is an AI visibility platform for small and local businesses, and for the agencies that serve them. People increasingly ask AI chatbots for recommendations (\"best dentist in L",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/startup-afcea017cd03-555695bb-46d5-4f4a-a247-56992d6f2e2f.png",
     "startupUrl": "https://trustmrr.com/startup/airix"
@@ -297,10 +297,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 6792,
+    "cachedUniquePageviews": 6849,
     "cachedOfferCount": 10,
-    "revenueLast30Days": "$6,007",
-    "revenueGrowthLast30Days": "+100.3%",
+    "revenueLast30Days": "$6,136",
+    "revenueGrowthLast30Days": "+97.3%",
     "askingPrice": "$95,000",
     "revenueMultiple": "1.3x",
     "description": "AI Social Media",

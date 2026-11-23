@@ -1,5 +1,5 @@
 # DocToTable
-> Cached snapshot — next refresh expected around 2026-11-23T06:42:32.127Z.
+> Cached snapshot — next refresh expected around 2026-11-24T07:54:11.708Z.
 Public AI-agent Markdown profile for [DocToTable](https://trustmrr.com/startup/doctotable) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-22T05:20:00.470Z
+- Revenue last synced: 2026-11-23T05:13:10.005Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -43,12 +43,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $79.15
 - Last 30 days revenue growth: -15.8%
 - All-time revenue snapshot: $316
-- Revenue data last synced: 2026-11-22T05:20:00.470Z
+- Revenue data last synced: 2026-11-23T05:13:10.005Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-24 | $0.00 |
 | 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
@@ -78,6 +77,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
+| 2026-11-23 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -154,12 +154,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 377,
+    "cachedUniquePageviews": 386,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$7,581",
-    "revenueGrowthLast30Days": "-23.5%",
+    "revenueLast30Days": "$7,305",
+    "revenueGrowthLast30Days": "-26.3%",
     "askingPrice": "$190,000",
-    "revenueMultiple": "2.1x",
+    "revenueMultiple": "2.2x",
     "description": "Profitable, bootstrapped dynamic QR SaaS with $118K TTM revenue and 30% YoY growth. 38,492 customers use it to edit QR codes after printing, changing links or campaigns anytime wit",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-venture-31"
@@ -176,8 +176,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$16,308",
-    "revenueGrowthLast30Days": "+19.6%",
+    "revenueLast30Days": "$15,475",
+    "revenueGrowthLast30Days": "+6.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "I want to process payments through Stripe, using Stripe's API. I also want to create tools for stripe, like a dashboard.",
@@ -196,8 +196,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,276",
-    "revenueGrowthLast30Days": "+6.2%",
+    "revenueLast30Days": "$4,189",
+    "revenueGrowthLast30Days": "+6.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Washer and dryer rentals. Customers will be billed monthly",
@@ -216,8 +216,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$17,530",
-    "revenueGrowthLast30Days": "+37.2%",
+    "revenueLast30Days": "$20,530",
+    "revenueGrowthLast30Days": "+60.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces",
@@ -234,12 +234,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1801,
+    "cachedUniquePageviews": 1803,
     "cachedOfferCount": 12,
-    "revenueLast30Days": "$4,744",
-    "revenueGrowthLast30Days": "-5.9%",
+    "revenueLast30Days": "$4,692",
+    "revenueGrowthLast30Days": "-8.3%",
     "askingPrice": "$500,000",
-    "revenueMultiple": "8.8x",
+    "revenueMultiple": "8.9x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-global-job-board"
@@ -256,8 +256,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,190",
-    "revenueGrowthLast30Days": "+603.8%",
+    "revenueLast30Days": "$5,982",
+    "revenueGrowthLast30Days": "+163.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A local newsletter located In Canada",
