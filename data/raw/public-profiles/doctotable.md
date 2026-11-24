@@ -1,5 +1,5 @@
 # DocToTable
-> Cached snapshot — next refresh expected around 2026-11-24T07:54:11.708Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:45.260Z.
 Public AI-agent Markdown profile for [DocToTable](https://trustmrr.com/startup/doctotable) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T05:13:10.005Z
+- Revenue last synced: 2026-11-24T05:13:09.313Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -43,12 +43,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $79.15
 - Last 30 days revenue growth: -15.8%
 - All-time revenue snapshot: $316
-- Revenue data last synced: 2026-11-23T05:13:10.005Z
+- Revenue data last synced: 2026-11-24T05:13:09.313Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -78,6 +77,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -154,10 +154,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 386,
+    "cachedUniquePageviews": 392,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$7,305",
-    "revenueGrowthLast30Days": "-26.3%",
+    "revenueLast30Days": "$7,293",
+    "revenueGrowthLast30Days": "-27.5%",
     "askingPrice": "$190,000",
     "revenueMultiple": "2.2x",
     "description": "Profitable, bootstrapped dynamic QR SaaS with $118K TTM revenue and 30% YoY growth. 38,492 customers use it to edit QR codes after printing, changing links or campaigns anytime wit",
@@ -176,13 +176,33 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$15,475",
-    "revenueGrowthLast30Days": "+6.3%",
+    "revenueLast30Days": "$15,678",
+    "revenueGrowthLast30Days": "+13.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "I want to process payments through Stripe, using Stripe's API. I also want to create tools for stripe, like a dashboard.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUGRvMHpSeGhZUURmUllHfGZsX2xpdmVfeXZoUVJwZzVnOFY1a3lJN2o1YVJLRm1400Sxo9KHPB",
     "startupUrl": "https://trustmrr.com/startup/writestack"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "confidential-startup-92",
+    "category": "Services",
+    "categoryUrl": "https://trustmrr.com/category/services",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$3,251",
+    "revenueGrowthLast30Days": "-20.9%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": null,
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/confidential-startup-92"
   },
   {
     "name": "Nashville Appliance Rental",
@@ -196,8 +216,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,189",
-    "revenueGrowthLast30Days": "+6.4%",
+    "revenueLast30Days": "$4,102",
+    "revenueGrowthLast30Days": "+1.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Washer and dryer rentals. Customers will be billed monthly",
@@ -216,8 +236,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$20,530",
-    "revenueGrowthLast30Days": "+60.6%",
+    "revenueLast30Days": "$23,230",
+    "revenueGrowthLast30Days": "+81.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces",
@@ -234,35 +254,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1803,
+    "cachedUniquePageviews": 1805,
     "cachedOfferCount": 12,
-    "revenueLast30Days": "$4,692",
+    "revenueLast30Days": "$4,693",
     "revenueGrowthLast30Days": "-8.3%",
     "askingPrice": "$500,000",
     "revenueMultiple": "8.9x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-global-job-board"
-  },
-  {
-    "name": "Harbour City Scoop",
-    "slug": "harbour-city-scoop",
-    "category": "News & Magazines",
-    "categoryUrl": "https://trustmrr.com/category/news-magazines",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,982",
-    "revenueGrowthLast30Days": "+163.0%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "A local newsletter located In Canada",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/harbour-city-scoop-de3e255b-58d1-42e2-99a4-e009a66187d6.png",
-    "startupUrl": "https://trustmrr.com/startup/harbour-city-scoop"
   }
 ]
 ```

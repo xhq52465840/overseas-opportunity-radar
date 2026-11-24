@@ -1,5 +1,5 @@
 # SiteHaul
-> Cached snapshot — next refresh expected around 2026-11-24T07:56:12.927Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:55.129Z.
 Public AI-agent Markdown profile for [SiteHaul](https://trustmrr.com/startup/sitehaul) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -15,7 +15,7 @@ Public AI-agent Markdown profile for [SiteHaul](https://trustmrr.com/startup/sit
 - Founded date: 2026-07-15
 - Founder: [Dave Ships](https://trustmrr.com/founder/davetookthese)
 - Founder image: [https://pbs.twimg.com/profile_images/2061017976644743168/kf0yE8Ur.jpg](https://pbs.twimg.com/profile_images/2061017976644743168/kf0yE8Ur.jpg)
-- X followers: 10,797
+- X followers: 10,798
 
 
 ## Verification Sources
@@ -24,7 +24,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T04:49:47.814Z
+- Revenue last synced: 2026-11-24T04:49:19.756Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -45,12 +45,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: -100.0%
 - All-time revenue snapshot: $49.00
-- Revenue data last synced: 2026-11-23T04:49:47.814Z
+- Revenue data last synced: 2026-11-24T04:49:19.756Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -80,6 +79,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -201,8 +201,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,876",
-    "revenueGrowthLast30Days": "+502.8%",
+    "revenueLast30Days": "$4,041",
+    "revenueGrowthLast30Days": "+501.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -221,8 +221,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$22,943",
-    "revenueGrowthLast30Days": "+6.5%",
+    "revenueLast30Days": "$23,062",
+    "revenueGrowthLast30Days": "+3.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Australian owned wholesale supplier. 3,800+ disposable cups, food packaging, cleaning supplies & eco-friendly products. Free Melbourne Metro delivery $150+ ex GST.",
@@ -241,8 +241,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,347",
-    "revenueGrowthLast30Days": "+5282.5%",
+    "revenueLast30Days": "$3,846",
+    "revenueGrowthLast30Days": "+6084.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -261,8 +261,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$11,323",
-    "revenueGrowthLast30Days": "+893.6%",
+    "revenueLast30Days": "$22,104",
+    "revenueGrowthLast30Days": "+1854.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Complete VPS reseller platform for traders. It automates signup, Stripe payments, recurring subscriptions, wallet top-ups, VPS provisioning, customer dashboard, support tickets, an",

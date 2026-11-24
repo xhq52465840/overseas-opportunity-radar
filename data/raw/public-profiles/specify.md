@@ -1,5 +1,5 @@
 # Specify
-> Cached snapshot — next refresh expected around 2026-11-24T07:33:49.769Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:49.743Z.
 Public AI-agent Markdown profile for [Specify](https://trustmrr.com/startup/specify) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -21,7 +21,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T02:19:41.648Z
+- Revenue last synced: 2026-11-24T08:19:58.940Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,18 +36,17 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Last 7 days | $0.00 |
 | Last 30 days | $0.00 |
 | Last 3 months | $0.00 |
-| Last 6 months | $3,291 |
+| Last 6 months | $3,125 |
 | Last 12 months | $17,235 |
 | All time | $22,276 |
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: +29.2%
 - All-time revenue snapshot: $22,276
-- Revenue data last synced: 2026-11-23T02:19:41.648Z
+- Revenue data last synced: 2026-11-24T08:19:58.940Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -77,6 +76,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -93,8 +93,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $28.77
-- Last 30 days MRR growth: -2.0%
+- Current MRR: $28.59
+- Last 30 days MRR growth: -2.6%
 - Current active subscriptions: 1
 
 
@@ -158,8 +158,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,232",
-    "revenueGrowthLast30Days": "+68.7%",
+    "revenueLast30Days": "$5,186",
+    "revenueGrowthLast30Days": "+64.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -198,8 +198,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$75,113",
-    "revenueGrowthLast30Days": "-1.9%",
+    "revenueLast30Days": "$75,481",
+    "revenueGrowthLast30Days": "+2.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Digidoktor erbjuder digital, läkarbedömd behandling för viktnedgång. I appen kan patienter följa sin vikt, registrera kost och hålla koll på behandlingen över tid. De får också upp",
@@ -258,8 +258,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$47,394",
-    "revenueGrowthLast30Days": "+3.4%",
+    "revenueLast30Days": "$47,969",
+    "revenueGrowthLast30Days": "+5.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,

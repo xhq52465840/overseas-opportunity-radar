@@ -1,5 +1,5 @@
 # ScreenSnap
-> Cached snapshot — next refresh expected around 2026-11-24T07:56:12.011Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:54.369Z.
 Public AI-agent Markdown profile for [ScreenSnap](https://trustmrr.com/startup/screensnap) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T04:28:46.253Z
+- Revenue last synced: 2026-11-24T04:28:45.891Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,12 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $3.00
-- Revenue data last synced: 2026-11-23T04:28:46.253Z
+- Revenue data last synced: 2026-11-24T04:28:45.891Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -81,6 +80,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -162,8 +162,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,262",
-    "revenueGrowthLast30Days": "+590.5%",
+    "revenueLast30Days": "$5,142",
+    "revenueGrowthLast30Days": "+153.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A suite of marketing and lead generation products to grow your business.",
@@ -182,8 +182,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,685",
-    "revenueGrowthLast30Days": "+144.9%",
+    "revenueLast30Days": "$3,721",
+    "revenueGrowthLast30Days": "+225.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -200,10 +200,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1307,
+    "cachedUniquePageviews": 1322,
     "cachedOfferCount": 4,
-    "revenueLast30Days": "$13,201",
-    "revenueGrowthLast30Days": "+16.7%",
+    "revenueLast30Days": "$13,601",
+    "revenueGrowthLast30Days": "+22.6%",
     "askingPrice": "$50,000",
     "revenueMultiple": "0.3x",
     "description": "Four live AI video products sold as one deal: Vidko (an idea becomes a finished 5-30 min YouTube documentary), Mamox (a website becomes a motion-graphics ad), Kidzi (cartoon films ",
@@ -222,8 +222,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,496",
-    "revenueGrowthLast30Days": "-8.3%",
+    "revenueLast30Days": "$3,755",
+    "revenueGrowthLast30Days": "-0.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Indie Hacker",
@@ -242,8 +242,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,554",
-    "revenueGrowthLast30Days": "+79.2%",
+    "revenueLast30Days": "$3,661",
+    "revenueGrowthLast30Days": "+85.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Pinterest is the cheapest traffic left for affiliates and sellers. The catch: nobody has an hour per pin. URL2Pin fixes that. Paste one product URL and get a full batch of scroll-s",
@@ -262,8 +262,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,615",
-    "revenueGrowthLast30Days": "+9.7%",
+    "revenueLast30Days": "$6,481",
+    "revenueGrowthLast30Days": "+26.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Best home delivery catering with products from the most renowned bakeries and patisseries in Barcelona.",

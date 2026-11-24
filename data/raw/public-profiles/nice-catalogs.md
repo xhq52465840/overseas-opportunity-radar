@@ -1,5 +1,5 @@
 # Nice Catalogs
-> Cached snapshot — next refresh expected around 2026-11-24T07:51:22.258Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:09:03.233Z.
 Public AI-agent Markdown profile for [Nice Catalogs](https://trustmrr.com/startup/nice-catalogs) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T04:49:20.427Z
+- Revenue last synced: 2026-11-24T04:49:18.302Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,7 +36,7 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $10.00 |
+| Last 24 hours | $0.00 |
 | Last 7 days | $30.00 |
 | Last 30 days | $55.00 |
 | Last 3 months | $175 |
@@ -46,12 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $55.00
 - Last 30 days revenue growth: -8.3%
 - All-time revenue snapshot: $415
-- Revenue data last synced: 2026-11-23T04:49:20.427Z
+- Revenue data last synced: 2026-11-24T04:49:18.302Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $10.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -81,6 +80,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $5.00 |
 | 2026-11-22 | $10.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -168,10 +168,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 2176,
-    "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,505",
-    "revenueGrowthLast30Days": "+76.2%",
+    "cachedUniquePageviews": 2383,
+    "cachedOfferCount": 10,
+    "revenueLast30Days": "$4,405",
+    "revenueGrowthLast30Days": "+69.0%",
     "askingPrice": "$70,000",
     "revenueMultiple": "1.3x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
@@ -190,8 +190,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,481",
-    "revenueGrowthLast30Days": "+29.4%",
+    "revenueLast30Days": "$4,523",
+    "revenueGrowthLast30Days": "+32.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -210,8 +210,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,113",
-    "revenueGrowthLast30Days": "-5.2%",
+    "revenueLast30Days": "$4,494",
+    "revenueGrowthLast30Days": "+4.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Leverage combines property search, deal analysis, and AI-powered valuation into a clear result: Within minutes, you’ll know whether a property is worth pursuing—and what to do next",
@@ -228,9 +228,9 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1803,
+    "cachedUniquePageviews": 1805,
     "cachedOfferCount": 12,
-    "revenueLast30Days": "$4,692",
+    "revenueLast30Days": "$4,693",
     "revenueGrowthLast30Days": "-8.3%",
     "askingPrice": "$500,000",
     "revenueMultiple": "8.9x",
@@ -248,12 +248,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 2006,
+    "cachedUniquePageviews": 2010,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,231",
-    "revenueGrowthLast30Days": "-8.5%",
+    "revenueLast30Days": "$4,325",
+    "revenueGrowthLast30Days": "-5.7%",
     "askingPrice": "$199,000",
-    "revenueMultiple": "3.9x",
+    "revenueMultiple": "3.8x",
     "description": "NETTIFY is a full-stack website builder that lets small businesses launch complete, professional sites in minutes - no coding needed. Choose AI editor or edit manually, start from ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTnZjdkxGc2h3NmRmbEp2fGZsX2xpdmVfdUdEQWdnQW90TU5SU3M1UmtEV3RFZTRJ001IwwAk8V",
     "startupUrl": "https://trustmrr.com/startup/nettify"
@@ -270,8 +270,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,714",
-    "revenueGrowthLast30Days": "-49.2%",
+    "revenueLast30Days": "$6,829",
+    "revenueGrowthLast30Days": "-55.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "We turn century homes into high-performing, long-term rental assets.",

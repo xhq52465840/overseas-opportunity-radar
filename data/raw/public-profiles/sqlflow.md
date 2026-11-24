@@ -1,5 +1,5 @@
 # SQLFlow
-> Cached snapshot — next refresh expected around 2026-11-24T07:56:11.139Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:53.363Z.
 Public AI-agent Markdown profile for [SQLFlow](https://trustmrr.com/startup/sqlflow) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T04:05:50.803Z
+- Revenue last synced: 2026-11-24T10:05:49.459Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -43,12 +43,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $0.00
-- Revenue data last synced: 2026-11-23T04:05:50.803Z
+- Revenue data last synced: 2026-11-24T10:05:49.459Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -78,6 +77,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 
 
 ## Metric Snapshots
@@ -143,12 +143,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 769,
-    "cachedOfferCount": 2,
-    "revenueLast30Days": "$356",
-    "revenueGrowthLast30Days": "+17.1%",
+    "cachedUniquePageviews": 784,
+    "cachedOfferCount": 3,
+    "revenueLast30Days": "$346",
+    "revenueGrowthLast30Days": "+10.2%",
     "askingPrice": "$4,000",
-    "revenueMultiple": "0.9x",
+    "revenueMultiple": "1.0x",
     "description": "This saas analyzes text to determine whether it was written by AI - such as ChatGPT, Claude, Gemini, or any other LLM. It’s also the perfect tool to humanize AI-generated content, ",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/startup-c9231495860e"
@@ -163,12 +163,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 950,
-    "cachedOfferCount": 14,
-    "revenueLast30Days": "$450",
-    "revenueGrowthLast30Days": "+818.4%",
+    "cachedUniquePageviews": 1001,
+    "cachedOfferCount": 15,
+    "revenueLast30Days": "$401",
+    "revenueGrowthLast30Days": "+309.2%",
     "askingPrice": "$1,800",
-    "revenueMultiple": "0.3x",
+    "revenueMultiple": "0.4x",
     "description": "ReplyCurrent is an AI customer support SaaS I built to help businesses answer customer questions automatically. You connect your website, help center, or documents, and it creates ",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/replycurrent-73edb7dd-dede-4fc5-9611-344a6f51535e.png",
     "startupUrl": "https://trustmrr.com/startup/replycurrent"
@@ -183,12 +183,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 374,
+    "cachedUniquePageviews": 413,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$121",
-    "revenueGrowthLast30Days": "-13.8%",
+    "revenueLast30Days": "$131",
+    "revenueGrowthLast30Days": "-6.7%",
     "askingPrice": "$3,600",
-    "revenueMultiple": "2.5x",
+    "revenueMultiple": "2.3x",
     "description": "GPT Scrambler helps people turn AI drafts into writing that sounds human. Students use it to polish essays, content writers and marketers to get natural copy in the right tone, and",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/paddle-business-41-5df2e038-dd44-415c-a698-37bbc837e3e3.png",
     "startupUrl": "https://trustmrr.com/startup/gpt-scrambler"
@@ -203,10 +203,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 2176,
-    "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,505",
-    "revenueGrowthLast30Days": "+76.2%",
+    "cachedUniquePageviews": 2383,
+    "cachedOfferCount": 10,
+    "revenueLast30Days": "$4,405",
+    "revenueGrowthLast30Days": "+69.0%",
     "askingPrice": "$70,000",
     "revenueMultiple": "1.3x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
@@ -223,10 +223,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 8482,
-    "cachedOfferCount": 12,
-    "revenueLast30Days": "$10,522",
-    "revenueGrowthLast30Days": "+20.7%",
+    "cachedUniquePageviews": 8760,
+    "cachedOfferCount": 13,
+    "revenueLast30Days": "$10,576",
+    "revenueGrowthLast30Days": "+26.4%",
     "askingPrice": "$175,000",
     "revenueMultiple": "1.4x",
     "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
@@ -243,10 +243,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 31161,
+    "cachedUniquePageviews": 31428,
     "cachedOfferCount": 54,
-    "revenueLast30Days": "$40,855",
-    "revenueGrowthLast30Days": "+7.0%",
+    "revenueLast30Days": "$40,552",
+    "revenueGrowthLast30Days": "+7.3%",
     "askingPrice": "$1,500,000",
     "revenueMultiple": "3.1x",
     "description": "Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",

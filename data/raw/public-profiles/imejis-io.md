@@ -1,5 +1,5 @@
 # Imejis.io
-> Cached snapshot — next refresh expected around 2026-11-24T07:27:53.871Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:59.632Z.
 Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/imejis-io) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/im
 - Founded date: 2023-11-09
 - Founder: [Dharmik \\| MakerRadar](https://trustmrr.com/founder/dharmikjagodana)
 - Founder image: [https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg](https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg)
-- X followers: 333
+- X followers: 332
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-23T03:14:23.570Z
+- Revenue last synced: 2026-11-24T09:14:00.763Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,22 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $14.99 |
-| Last 7 days | $29.98 |
-| Last 30 days | $145 |
-| Last 3 months | $575 |
+| Last 24 hours | $0.00 |
+| Last 7 days | $44.97 |
+| Last 30 days | $160 |
+| Last 3 months | $590 |
 | Last 6 months | $1,050 |
-| Last 12 months | $1,619 |
-| All time | $2,089 |
-- Last 30 days revenue snapshot: $145
-- Last 30 days revenue growth: -31.0%
-- All-time revenue snapshot: $2,089
-- Revenue data last synced: 2026-11-23T03:14:23.570Z
+| Last 12 months | $1,634 |
+| All time | $2,104 |
+- Last 30 days revenue snapshot: $160
+- Last 30 days revenue growth: -23.8%
+- All-time revenue snapshot: $2,104
+- Revenue data last synced: 2026-11-24T09:14:00.763Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -80,7 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-20 | $0.00 |
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $14.99 |
-| 2026-11-23 | $0.00 |
+| 2026-11-23 | $14.99 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,7 +95,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $205 |
 | 2026-09 | $205 |
 | 2026-10 | $200 |
-| 2026-11 | $115 |
+| 2026-11 | $130 |
 
 
 ## Metric Snapshots
@@ -169,8 +169,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$21,769",
-    "revenueGrowthLast30Days": "0.0%",
+    "revenueLast30Days": "$20,720",
+    "revenueGrowthLast30Days": "+1787.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Unlimited access to App Store optimization for Mac and Windows with no subscription.",
@@ -187,10 +187,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1425,
+    "cachedUniquePageviews": 1429,
     "cachedOfferCount": 7,
-    "revenueLast30Days": "$6,227",
-    "revenueGrowthLast30Days": "+6.2%",
+    "revenueLast30Days": "$6,255",
+    "revenueGrowthLast30Days": "+5.7%",
     "askingPrice": "$100,000",
     "revenueMultiple": "1.3x",
     "description": "This cross-platform AI photo app democratizes pro-level editing without complex prompts or login friction. Growth: Revenue surged from $3k to $6k in 3 months (65% margin). Assets: ",
@@ -209,8 +209,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,906",
-    "revenueGrowthLast30Days": "+5.4%",
+    "revenueLast30Days": "$7,037",
+    "revenueGrowthLast30Days": "+7.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Ofrecemos diferentes tipos de Saas por suscripción, como herramientas para crear agentes de IA para whatsapp",
@@ -229,8 +229,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$563,708",
-    "revenueGrowthLast30Days": "+42.6%",
+    "revenueLast30Days": "$553,684",
+    "revenueGrowthLast30Days": "+36.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Discover the events worth showing up for, grab your tickets in seconds, and host your own — all on the platform built for real-life moments.",
@@ -247,7 +247,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 17756,
+    "cachedUniquePageviews": 17775,
     "cachedOfferCount": 44,
     "revenueLast30Days": "$18,684",
     "revenueGrowthLast30Days": "+6.1%",
@@ -258,10 +258,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/backlinker-ai"
   },
   {
-    "name": "Stealth Company",
-    "slug": "startup-f5208a0753ad",
-    "category": "Mobile Apps",
-    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
+    "name": "Supergrow",
+    "slug": "supergrow",
+    "category": "Social Media",
+    "categoryUrl": "https://trustmrr.com/category/social-media",
     "isForSale": false,
     "listingTier": "free",
     "listingTierName": "Free",
@@ -269,13 +269,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$11,903",
-    "revenueGrowthLast30Days": "+22.6%",
+    "revenueLast30Days": "$32,216",
+    "revenueGrowthLast30Days": "+14.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/startup-f5208a0753ad"
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/stealth-company-4-39f68695-e82a-410e-89fe-3dec65e9e2bd.png",
+    "startupUrl": "https://trustmrr.com/startup/supergrow"
   }
 ]
 ```

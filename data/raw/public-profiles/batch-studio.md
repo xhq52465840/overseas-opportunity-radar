@@ -1,5 +1,5 @@
 # Batch Studio
-> Cached snapshot — next refresh expected around 2026-11-24T07:56:04.915Z.
+> Cached snapshot — next refresh expected around 2026-11-25T10:08:47.070Z.
 Public AI-agent Markdown profile for [Batch Studio](https://trustmrr.com/startup/batch-studio) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -51,7 +51,6 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-25 | $0.00 |
 | 2026-10-26 | $0.00 |
 | 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
@@ -81,6 +80,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
+| 2026-11-24 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -151,8 +151,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,856",
-    "revenueGrowthLast30Days": "+159.1%",
+    "revenueLast30Days": "$7,559",
+    "revenueGrowthLast30Days": "+149.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Perfect Little Business is an AI agency for expert-led businesses: coaches, consultants, authors and SaaS founders. We take companies from legacy systems to AI-native through three",
@@ -171,8 +171,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,317",
-    "revenueGrowthLast30Days": "-5.4%",
+    "revenueLast30Days": "$5,351",
+    "revenueGrowthLast30Days": "+52.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established in 2021, this profitable WordPress and WooCommerce maintenance business serves 23 recurring U.S. clients. Billing moved to Stripe in June 2024; can share earlier revenu",
@@ -211,8 +211,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,637",
-    "revenueGrowthLast30Days": "-3.6%",
+    "revenueLast30Days": "$7,682",
+    "revenueGrowthLast30Days": "-3.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Popular Shopify Discount App",
@@ -229,10 +229,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 938,
+    "cachedUniquePageviews": 948,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$4,112",
-    "revenueGrowthLast30Days": "+21.0%",
+    "revenueLast30Days": "$4,154",
+    "revenueGrowthLast30Days": "+22.9%",
     "askingPrice": "$125,000",
     "revenueMultiple": "2.5x",
     "description": "Helping electrical and computer engineers find hardware roles through company-specific interview question banks, exercises, resume-tools, and behavioral questions",
@@ -249,10 +249,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 2148,
+    "cachedUniquePageviews": 2172,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$40,371",
-    "revenueGrowthLast30Days": "+17.3%",
+    "revenueLast30Days": "$41,353",
+    "revenueGrowthLast30Days": "+16.7%",
     "askingPrice": "$250,000",
     "revenueMultiple": "0.5x",
     "description": "AI-image & video-generation platform.",
