@@ -1,11 +1,11 @@
 # TrustMRR 最近24小时变化汇总
-生成：2026-11-24 18:09 北京时间（UTC+8）
-运行记录 1 次；事件 4652 条；需人工判断的实质候选事件 163 条。
-当前状态：success；版本：86096dca5942aef758d60b863eb09963945f611479315aadd88e06859cd5021b
+生成：2026-11-25 16:54 北京时间（UTC+8）
+运行记录 2 次；事件 8986 条；需人工判断的实质候选事件 292 条。
+当前状态：success；版本：558148c204cfd216cbbdc5beca8b3a2d4206685cb9e19dd60726b912230a6a8f
 新入池≠刚上线；首次观察正值≠实际首单；目录舍入展示变化≠确认增长；滚动收入下降≠流失；收入≠利润。
-- display_change: 4472
-- new_project: 94
-- first_observed_positive: 67
+- display_change: 8677
+- new_project: 164
+- first_observed_positive: 126
 - metric_decrease: 8
 - metric_increase: 11
 - 0sec | display_change | revenue_30d 101.0 → 89.0 | Public display changed; may reflect rounding, not confirmed economic growth. Rolling-window decline does NOT prove churn.

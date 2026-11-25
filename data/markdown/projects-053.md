@@ -1,4 +1,4 @@
-# TrustMRR公开项目 13001–13250 / 13398
+# TrustMRR公开项目 13001–13250 / 13468
 无预筛；功能/类别为来源原文。收入非利润；目录值可能舍入；未知不等于0；新入池/成立日不代表上线。
 |slug / 产品|功能原文|原站类别|MRR / 30天 / 累计（USD）|来源级别|链接|
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 |monadnock-lifetime-access / Monadnock lifetime access|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/monadnock-lifetime-access)|
 |naron / Naron|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/naron)|
 |neovek-elerisk / Elerisk|Elerisk is an online tool that guides you, question by question, through the risk assessment of your machines: hazard identification, G‑F‑O‑P rating and required performance level (PLr), measures, all|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/neovek-elerisk)|
-|notch / Notch|Notch is a desktop app for meetings, living in the notch at the top of your screen. Before a call it writes meeting notes from your files and past meetings with the same people. During the call it sho|未知|$8 / $668 / $1.4k|D|[TrustMRR](https://trustmrr.com/startup/notch)|
+|notch / Notch|Notch is a desktop app for meetings, living in the notch at the top of your screen. Before a call it writes meeting notes from your files and past meetings with the same people. During the call it sho|未知|$8 / $698 / $1.5k|D|[TrustMRR](https://trustmrr.com/startup/notch)|
 |notjackychou / NOTJACKYCHOU|A pay-to-rank wall where indie hackers buy a spot for their product and see whether everyone else combined can out-earn Jacky Chou.|未知|$0 / $1 / $1|D|[TrustMRR](https://trustmrr.com/startup/notjackychou)|
 |oddteapot / oddteapot|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/oddteapot)|
 |opengs / OPENGS|Connect Stripe and your website to benchmark growth against competitors and get tailored growth systems, with optional installation support.|未知|$0 / $10 / $10|D|[TrustMRR](https://trustmrr.com/startup/opengs)|
@@ -20,38 +20,38 @@
 |paddle-business-42 / Lytmark|An embeddable changelog, roadmap, and feedback widget that helps SaaS teams announce product updates, gather user reactions and ideas, and close the loop when requested features ship.|未知|$0 / $2 / $2|D|[TrustMRR](https://trustmrr.com/startup/paddle-business-42)|
 |pitchxray / PitchXray|See if AI recommends them. Drop in a prospect URL. Walk into the call with proof that AI is already naming someone else.|未知|$0 / $23 / $23|D|[TrustMRR](https://trustmrr.com/startup/pitchxray)|
 |pluggyback / Pluggyback|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/pluggyback)|
-|pocketdpe / PocketDPE|PocketDPE is an iPhone app that simulates the oral portion of an FAA checkride using a voice-based AI examiner.|未知|$6.2k / $15k / $24k|D|[TrustMRR](https://trustmrr.com/startup/pocketdpe)|
+|pocketdpe / PocketDPE|PocketDPE is an iPhone app that simulates the oral portion of an FAA checkride using a voice-based AI examiner.|未知|$6.3k / $14k / $25k|D|[TrustMRR](https://trustmrr.com/startup/pocketdpe)|
 |prepi / prepi|Creates personalized weekly meal plans and a budget-fitting grocery list based on users’ diets, allergies, tastes, and local Gulf supermarket prices.|未知|$18 / $68 / $68|D|[TrustMRR](https://trustmrr.com/startup/prepi)|
 |private-enterprise-100 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-100)|
-|private-venture-111 / Anonymous startup|未知|未知|$3k / $3.3k / $64k|D|[TrustMRR](https://trustmrr.com/startup/private-venture-111)|
+|private-venture-111 / Anonymous startup|未知|未知|$2.9k / $3.2k / $64k|D|[TrustMRR](https://trustmrr.com/startup/private-venture-111)|
 |private-venture-112 / Private Venture|未知|未知|$0 / $21 / $21|D|[TrustMRR](https://trustmrr.com/startup/private-venture-112)|
-|private-venture-113 / Redstring: Mobile Detective Game|Detective Murder Mystery Games|未知|$511 / $1.2k / $4.7k|D|[TrustMRR](https://trustmrr.com/startup/private-venture-113)|
+|private-venture-113 / Redstring: Mobile Detective Game|Detective Murder Mystery Games|未知|$551 / $1.2k / $4.8k|D|[TrustMRR](https://trustmrr.com/startup/private-venture-113)|
 |rankthedeal / RankTheDeal|RankTheDeal lists software offers and sells one-time sponsored placements on its deal leaderboards. https://rankthedeal.com/|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/rankthedeal)|
 |rawania-ai / Rawania AI|Rawania AI allows users to upload pictures of their room and stage it using AI.|未知|$20 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/rawania-ai)|
 |remitnudge / RemitNudge|AI-powered accounts receivable follow-ups for freelancers, consultants, and agencies. Drop an overdue invoice, approve polite AI reminder sequences, and auto-pause the second a client replies.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/remitnudge)|
 |resold / Resold|Resold is a profit and tax tracker for second-hand resellers. You log a sale in seconds and it shows what you really kept after Vinted, eBay or Depop fees, postage and what you paid for the item. It a|未知|$12 / $12 / $12|D|[TrustMRR](https://trustmrr.com/startup/resold)|
 |sectionwise / Sectionwise|GRE and GMAT prep, one section at a time: a free diagnostic, a five-level practice ladder, an AI tutor and spaced redos of every miss.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/sectionwise)|
-|setless / Setless|Setless turns one photo of a clothing item into a full set of on-model product photos — no studio, no model, no photographer. Pick a model and a look, or try the item on yourself, then turn any photo|未知|$10 / $34 / $115|D|[TrustMRR](https://trustmrr.com/startup/setless)|
+|setless / Setless|Setless turns one photo of a clothing item into a full set of on-model product photos — no studio, no model, no photographer. Pick a model and a look, or try the item on yourself, then turn any photo|未知|$31 / $34 / $120|D|[TrustMRR](https://trustmrr.com/startup/setless)|
 |shipshout / Anonymous startup|ShipShout is the AI marketer for SaaS and mobile-app founders. Paste your website, App Store or Google Play link (and optionally connect GitHub) and it learns your product, plans a weekly content cale|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/shipshout)|
 |smd-fine-goods / SMD Fine Goods|fine jewelry, home decor and accessories|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/smd-fine-goods)|
 |staff-playbook / Staff Playbook|Staff Playbook is employee onboarding and training software for small businesses. Owners turn their SOPs into a first week for each new hire: short lessons with quick checks, people to meet, tasks and|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/staff-playbook)|
 |startup-0befd839f17f / Anonymous startup|Claude Motion turns documents, scripts, notes, and slides into narrated presentations and motion videos using Claude Code or Codex. Choose a visual style, add voiceover and interactive elements, then|未知|$468 / $468 / $618|D|[TrustMRR](https://trustmrr.com/startup/startup-0befd839f17f)|
-|startup-b68db611c86a / Anonymous startup|未知|未知|$6.4k / $3.9k / $3.9k|D|[TrustMRR](https://trustmrr.com/startup/startup-b68db611c86a)|
-|startup-f7f14e6b056f / Anonymous startup|未知|未知|$0 / $54 / $54|D|[TrustMRR](https://trustmrr.com/startup/startup-f7f14e6b056f)|
+|startup-b68db611c86a / Anonymous startup|未知|未知|$11k / $6.8k / $6.8k|D|[TrustMRR](https://trustmrr.com/startup/startup-b68db611c86a)|
+|startup-f7f14e6b056f / Anonymous startup|未知|未知|$0 / $90 / $90|D|[TrustMRR](https://trustmrr.com/startup/startup-f7f14e6b056f)|
 |statement-to-excel / Statement to Excel|Drop in bank statement PDFs, including scans, and get Excel or a QuickBooks/Xero CSV in about 30 seconds. Every statement is checked against its opening and closing balance, so a missed row shows up b|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/statement-to-excel)|
-|stealth-venture-74 / Anonymous startup|未知|未知|$1,000 / $569 / $14k|D|[TrustMRR](https://trustmrr.com/startup/stealth-venture-74)|
+|stealth-venture-74 / Anonymous startup|未知|未知|$1k / $526 / $14k|D|[TrustMRR](https://trustmrr.com/startup/stealth-venture-74)|
 |stealth-venture-75 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/stealth-venture-75)|
-|storybirdie / StoryBirdie|Pre-Production AI: Screenplay Analysis, Shot Listing, StoryBoarding|未知|$68 / $252 / $657|D|[TrustMRR](https://trustmrr.com/startup/storybirdie)|
+|storybirdie / StoryBirdie|Pre-Production AI: Screenplay Analysis, Shot Listing, StoryBoarding|未知|$68 / $252 / $662|D|[TrustMRR](https://trustmrr.com/startup/storybirdie)|
 |superjoin / Superjoin|Superjoin brings live data from HubSpot, Salesforce and 30+ integrations into Google Sheets and Excel, with scheduled refreshes and two-way HubSpot sync. 116 paying business accounts, a HubSpot Certif|未知|$97k / $10k / $285k|D|[TrustMRR](https://trustmrr.com/startup/superjoin)|
 |threadshook / Threadshook|Algo Threads System Automation - Decode the Threads algorithm like a market: see what’s going viral in your niche, why it works, and turn it into short posts scored for scroll-stop and reply potential|未知|$0 / $2 / $2|D|[TrustMRR](https://trustmrr.com/startup/threadshook)|
 |ticklist / Ticklist|Ticklist is an iPhone bucket list made to feel like a real paper notebook. Write a dream in pencil; the day you live it, tick the box: the line goes over in ink, a date stamp comes down and your photo|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/ticklist)|
-|tidyshelf / TidyShelf|Finder is great for organising folders, but it's hard to find a file when you don't remember its name. TidyShelf fixes that. • Describe it, find it. Search in plain words like "pdfs from last week ove|未知|$0 / $228 / $228|D|[TrustMRR](https://trustmrr.com/startup/tidyshelf)|
+|tidyshelf / TidyShelf|Finder is great for organising folders, but it's hard to find a file when you don't remember its name. TidyShelf fixes that. • Describe it, find it. Search in plain words like "pdfs from last week ove|未知|$0 / $305 / $305|D|[TrustMRR](https://trustmrr.com/startup/tidyshelf)|
 |tingzi / TingZi|TingZi teaches heritage speakers to read the Chinese they already speak: snap any text, tap a word, hear it.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/tingzi)|
-|tiquiz / Tiquiz|Tiquiz is an AI-powered quiz funnel builder for marketers, coaches, creators, and agencies. Create interactive quizzes, assessments, surveys, and video quizzes to capture and qualify leads. Segment co|未知|$320 / $1.7k / $39k|D|[TrustMRR](https://trustmrr.com/startup/tiquiz)|
+|tiquiz / Tiquiz|Tiquiz is an AI-powered quiz funnel builder for marketers, coaches, creators, and agencies. Create interactive quizzes, assessments, surveys, and video quizzes to capture and qualify leads. Segment co|未知|$321 / $1k / $39k|D|[TrustMRR](https://trustmrr.com/startup/tiquiz)|
 |tryhej / hej|hej brings native support into mobile apps with a shared team inbox, private notes and app-scoped access. It offers Swift, Expo and Flutter SDKs, native iOS chat, configurable support automations and|未知|$0 / $60 / $178|D|[TrustMRR](https://trustmrr.com/startup/tryhej)|
 |unnamed-company-76 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-76)|
 |unnamed-company-77 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-77)|
-|unnamed-company-78 / Anonymous startup|未知|未知|$0 / $2.2k / $2.2k|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-78)|
+|unnamed-company-78 / Anonymous startup|未知|未知|$0 / $3.3k / $3.3k|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-78)|
 |v-ux-malins / Vœux Malins|Voeux Malins helps French real estate agents send every client a personal New Year video in five minutes. Record one message, paste your list of names, and each client gets a link where the video gree|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/v-ux-malins)|
 |vandalize-it / Vandalize it|A 3D museum where anyone can put their logo and link, or their @handle as graffiti, on a spot of the painting or the walls around it. The closer to her smile, the more it costs, and anyone can pay mor|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/vandalize-it)|
 |videotion / Videotion|Short explainers videos for Reels, YT Shorts and TikTok, with script, voice, motion graphics and captions|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/videotion)|
@@ -67,7 +67,7 @@
 |anonymous-startup-98 / Stealth Company|未知|SaaS|$20.28 / $20.00 / $20.00|P|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-98)|
 |anonymous-startup-99 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/anonymous-startup-99)|
 |appunbuild / appunbuild|Get recreated source code for an App Store or Google Play app, packaged with a screen guide and Claude template so you can customize it.|未知|$0 / $1 / $1|D|[TrustMRR](https://trustmrr.com/startup/appunbuild)|
-|appzoku / AppZoku|Appzoku is a marketing tool built for solo iOS developers and small teams who need to market like a growth team without hiring one. Scrolling, generating, editing, and rerolling concepts is free and u|未知|$1.6k / $5k / $5.2k|D|[TrustMRR](https://trustmrr.com/startup/appzoku)|
+|appzoku / AppZoku|Appzoku is a marketing tool built for solo iOS developers and small teams who need to market like a growth team without hiring one. Scrolling, generating, editing, and rerolling concepts is free and u|未知|$1.6k / $5.1k / $5.3k|D|[TrustMRR](https://trustmrr.com/startup/appzoku)|
 |askshelf / AskShelf|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/askshelf)|
 |avoid-the-ceiling / Avoid the Ceiling|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/avoid-the-ceiling)|
 |beagleleads / Beagleleads|Beagleleads is a lead finder for people who sell to local businesses. Search a trade and a city or country and get each business with the owner's name, best phone number and email, a problem found on|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/beagleleads)|
@@ -84,7 +84,7 @@
 |color-by-number-maker / Color by Number Maker|Printable color by number pages made from your own photos.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/color-by-number-maker)|
 |contentskeeper-home-inventory / ContentsKeeper: AI Home Inventory App for Insurance Claims|ContentsKeeper helps you catalog your home and home contents on iPhone, iPad and Mac. Photograph a room and private, on-device AI lists what it sees and reads receipts and serial numbers. You confirm|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/contentskeeper-home-inventory)|
 |cozy-room / Cozy Room|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/cozy-room)|
-|cupboard / Cupboard|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/cupboard)|
+|cupboard / Cupboard|A one-time-purchase Mac app that turns your desktop into an interactive winter scene with falling snow, playful toys, live wallpapers, and cozy decorations.|未知|$0 / $1 / $1|D|[TrustMRR](https://trustmrr.com/startup/cupboard)|
 |dearest-years / Dearest Years|Dearest Years turns your own old family photos into a short keepsake film. Each photo gets a few seconds of gentle, silent AI motion, joined with licensed music. One-time purchase: Gift Film $49 (up t|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/dearest-years)|
 |demandmine / DemandMine|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/demandmine)|
 |dockyard / Dockyard|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/dockyard)|
@@ -95,7 +95,7 @@
 |farmbitemedia / Farmbite Media|get a production property video from a property listing link|未知|$1.8k / $9 / $152|D|[TrustMRR](https://trustmrr.com/startup/farmbitemedia)|
 |farmixy / Farmixy|Farmixy is a cloud phone for each social account, with its own residential IP. An AI agent on the phone warms up the account, posts, likes, and comments.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/farmixy)|
 |finance / Finance — Money Overview|Finance brings supported bank accounts and eligible Apple Wallet activity together on iPhone. Track spending, income, balances, and recurring charges, then open the transactions behind each total. Org|未知|$0 / $0 / $10|D|[TrustMRR](https://trustmrr.com/startup/finance)|
-|focusmode / focusmode PRO|A privacy-first browser extension that helps people interrupt automatic visits to distracting websites and make a deliberate choice before continuing.|未知|$0 / $139 / $4.6k|D|[TrustMRR](https://trustmrr.com/startup/focusmode)|
+|focusmode / focusmode PRO|A privacy-first browser extension that helps people interrupt automatic visits to distracting websites and make a deliberate choice before continuing.|未知|$0 / $162 / $4.6k|D|[TrustMRR](https://trustmrr.com/startup/focusmode)|
 |founderdata / FounderData|Self-hosted web and iOS analytics that connects visitors, acquisition sources, and payments to show which channels generate revenue.|未知|$0 / $113 / $113|D|[TrustMRR](https://trustmrr.com/startup/founderdata)|
 |fuzz-free / FUZZ FREE|Get smooth, fuzz-free skin fast with FUZZ FREE Hair Identifier Spray. Spot fine hair easily for a flawless, radiant look!|未知|$0 / $0 / $222|D|[TrustMRR](https://trustmrr.com/startup/fuzz-free)|
 |getasupervisor / GetASupervisor|Get Admission in PhD 10x Faster|未知|$0 / $10 / $10|D|[TrustMRR](https://trustmrr.com/startup/getasupervisor)|
@@ -112,7 +112,7 @@
 |hukit / HUKIT|Hukit turns an App Store link into ready-to-post vertical video ads for TikTok, Reels and Meta. Indie iOS developers paste their link, pick hooks written from their app's own listing and reviews, and|未知|$0 / $19 / $19|D|[TrustMRR](https://trustmrr.com/startup/hukit)|
 |jagoda / jagoda|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/jagoda)|
 |je-t-aime-a-world-for-two / Je t'aime - a world for two|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/je-t-aime-a-world-for-two)|
-|jiggicons / Jiggicons|6,010 animated SVG icons with spatial audio, in outline, solid, duotone and glass. Each one moves and sounds like the thing it shows. Includes React, Vue and JavaScript components, a CLI, a shadcn reg|未知|$0 / $1.3k / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/jiggicons)|
+|jiggicons / Jiggicons|6,010 animated SVG icons with spatial audio, in outline, solid, duotone and glass. Each one moves and sounds like the thing it shows. Includes React, Vue and JavaScript components, a CLI, a shadcn reg|未知|$0 / $1.9k / $1.9k|D|[TrustMRR](https://trustmrr.com/startup/jiggicons)|
 |justaudited / JustAudited|JustAudited is an independent website audit tool. Type a website address and get a score out of 100, the fixes that matter most, and the proof behind each one. Same public rules for every site. Free a|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/justaudited)|
 |keptmrr / keptmrr|Churn alerts for SaaS founders. KeptMRR connects to Stripe or Dodo Payments, plus Supabase or Clerk for login activity. Every Monday it lists the paying customers who are going quiet and are likely to|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/keptmrr)|
 |keyjar / KeyJar|KeyJar finds the AI and API keys copied across your .env files, notes and old backups, and moves them into one encrypted vault on your laptop. Your .env keeps a kj:// reference instead, and kj run fil|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/keyjar)|
@@ -121,10 +121,10 @@
 |letslaunch / LetsLaunch|LetsLaunch is a free product launch directory for indie makers and SaaS founders. Makers pick a launch week (20 free spots per week) and get a product page built for Google and AI search (Markdown cop|未知|$0 / $36 / $45|D|[TrustMRR](https://trustmrr.com/startup/letslaunch)|
 |manigfal-tech / manigfal.tech|Replaces keyword guesswork and manual SEO work. Get verified keywords, AI-citation tracking, and weekly tickets and article drafts from an agent with hard thresholds of quality.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/manigfal-tech)|
 |mapfable / Mapfable|Mapfable is a visual project map for people building with AI. Save decisions, sources and next steps so a fresh AI chat can pick up where the last one stopped. When a bug spans several services, trace|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/mapfable)|
-|maple-minute / Maple Minute|Fill in one form and we file your federal incorporation with Corporations Canada, register the company in Ontario or British Columbia and send you the certificate. Government fees at cost, plus our $1|未知|$75 / $2.2k / $2.2k|D|[TrustMRR](https://trustmrr.com/startup/maple-minute)|
+|maple-minute / Maple Minute|Fill in one form and we file your federal incorporation with Corporations Canada, register the company in Ontario or British Columbia and send you the certificate. Government fees at cost, plus our $1|未知|$76 / $2.2k / $2.2k|D|[TrustMRR](https://trustmrr.com/startup/maple-minute)|
 |marveros / MarverOS|Voice mission control for iPhone and Mac. Speak a reply into Messages, or take a Google Meet on your iPhone while your Mac keeps the notes. Next up: tell an agent what you need and send it the screen|未知|$0 / $56 / $56|D|[TrustMRR](https://trustmrr.com/startup/marveros)|
 |maxforms-inc / Maxforms, Inc.|Maxforms is an AI-powered online form builder. Create forms from a prompt, a template, or a drag-and-drop editor. Use conditional logic and multi-step forms, collect file uploads and e-signatures, acc|未知|$199 / $59 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/maxforms-inc)|
-|meboki / Meboki|Private, local grammar checker for macOS. Checks English in any app's text field with an open-source LLM (Gemma 4 via llama.cpp) running on your Mac. Wavy underlines, one key to fix, no account, no te|未知|$0 / $151 / $151|D|[TrustMRR](https://trustmrr.com/startup/meboki)|
+|meboki / Meboki|Private, local grammar checker for macOS. Checks English in any app's text field with an open-source LLM (Gemma 4 via llama.cpp) running on your Mac. Wavy underlines, one key to fix, no account, no te|未知|$0 / $245 / $245|D|[TrustMRR](https://trustmrr.com/startup/meboki)|
 |monadnock / Monadnock|AI Travel Agent|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/monadnock)|
 |newyorklifegame / New York life Game|New York Life Game is an immersive virtual world inspired by New York City, designed to bring gaming, social interaction, and digital experiences together. Players can explore a virtual city, create i|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/newyorklifegame)|
 |oratory / Oratory|Oratory helps home-service sales teams practice homeowner objections out loud and coach reps with scored feedback.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/oratory)|
@@ -134,7 +134,7 @@
 |private-enterprise-101 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-101)|
 |private-enterprise-102 / Anonymous startup|未知|未知|$0 / $11 / $11|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-102)|
 |private-enterprise-103 / Anonymous startup|未知|未知|$0 / $61 / $7k|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-103)|
-|private-venture-114 / Anonymous startup|未知|未知|$13 / $38 / $38|D|[TrustMRR](https://trustmrr.com/startup/private-venture-114)|
+|private-venture-114 / Anonymous startup|未知|未知|$13 / $40 / $40|D|[TrustMRR](https://trustmrr.com/startup/private-venture-114)|
 |private-venture-115 / Anonymous startup|未知|未知|$2 / $2 / $2|D|[TrustMRR](https://trustmrr.com/startup/private-venture-115)|
 |private-venture-116 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-venture-116)|
 |prospevo / Prospevo|Lead feed for freelance web designers: businesses registered this week in the UK and France with no website yet, a ready-made one-page mockup and the message to send. Each lead goes to one freelancer|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/prospevo)|
@@ -152,25 +152,25 @@
 |simon-busch / Ugh.pet|The baddest fuc*ing pet|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/simon-busch)|
 |stampywallet / StampyWallet|StampyWallet is a digital loyalty card for independent local businesses. Your customers add your card to Apple Wallet or Google Wallet in a few seconds, with no app to download. You scan it with your|未知|$131 / $119 / $119|D|[TrustMRR](https://trustmrr.com/startup/stampywallet)|
 |stashlet / Stashlet|Turn any AI into your own app. Stashlet is the database behind it: one structured stash that Claude, ChatGPT, Gemini and your coding agents all read and write. Tell one AI, ask any of them. Includes a|未知|$12 / $13 / $13|D|[TrustMRR](https://trustmrr.com/startup/stashlet)|
-|stealth-company-115 / Anonymous startup|Stealth iOS app over 50k ARR in the Health niche|未知|$4.3k / $9.2k / $24k|D|[TrustMRR](https://trustmrr.com/startup/stealth-company-115)|
+|stealth-company-115 / Anonymous startup|Stealth iOS app over 50k ARR in the Health niche|未知|$4.3k / $9k / $25k|D|[TrustMRR](https://trustmrr.com/startup/stealth-company-115)|
 |stealth-venture-76 / Anonymous startup|未知|未知|$0 / $59 / $59|D|[TrustMRR](https://trustmrr.com/startup/stealth-venture-76)|
-|sugikit / Sugikit|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/sugikit)|
+|sugikit / Sugikit|Turns users’ visual preferences into prompts and tools that help coding agents restyle websites to match their taste, with checks for quality.|未知|$0 / $199 / $199|D|[TrustMRR](https://trustmrr.com/startup/sugikit)|
 |suko-sh / suko.sh|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/suko-sh)|
 |supaseo / SupaSEO|SupaSEO shows local businesses exactly where they rank in Google search, Google Maps, and AI answers like ChatGPT across their service area. Grid scans reveal which neighborhoods you are invisible in,|未知|$0 / $99 / $99|D|[TrustMRR](https://trustmrr.com/startup/supaseo)|
 |swipeclean / SwipeClean|SwipeClean is an Android app that fixes "storage full" by turning gallery cleanup into a swipe game: left to delete, right to keep. Your photos and videos are sorted by year and month, with the larges|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/swipeclean)|
 |the-table-plan / The Table Plan|The Table Plan is wedding seating software for couples and wedding planners. Import your guest list from a CSV, set keep-apart and keep-together rules once, and auto-seat honours them every time you r|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/the-table-plan)|
 |tillwatch / Tillwatch|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/tillwatch)|
-|traderecord / TradeRecord|TradeRecord – The Ultimate Backtesting Software Take your trading to the next level. Analyze, test, and refine your strategies with powerful market replay, advanced Order Flow, Footprint charts, and d|未知|$102 / $48 / $1.3k|D|[TrustMRR](https://trustmrr.com/startup/traderecord)|
+|traderecord / TradeRecord|TradeRecord – The Ultimate Backtesting Software Take your trading to the next level. Analyze, test, and refine your strategies with powerful market replay, advanced Order Flow, Footprint charts, and d|未知|$135 / $81 / $1.4k|D|[TrustMRR](https://trustmrr.com/startup/traderecord)|
 |tradflex-com / Tradflex.com|Un SaaS pour être informé de toute l’actualité du marché sélectionné.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/tradflex-com)|
 |turfhold / Turfhold|Turfhold is a self-hosted local SEO suite for agencies. It tracks Google Maps rankings on a geo-grid, audits Google Business Profiles and websites, checks citations across 1,111 directories, and sends|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/turfhold)|
 |tweet-brain / Tweet Brain|TweetBrain learns how you think, follows what's happening in your field, and drafts posts in your voice, ready for you to review every morning.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/tweet-brain)|
-|ugc-app / yukolab|Yukolab is the outreach tool for UGC and travel content creators. Search any city, get a list of hotels, restaurants, villas and resorts, surface their business emails, and pitch them from your own Gm|未知|$620 / $752 / $3.7k|D|[TrustMRR](https://trustmrr.com/startup/ugc-app)|
+|ugc-app / yukolab|Yukolab is the outreach tool for UGC and travel content creators. Search any city, get a list of hotels, restaurants, villas and resorts, surface their business emails, and pitch them from your own Gm|未知|$606 / $725 / $3.7k|D|[TrustMRR](https://trustmrr.com/startup/ugc-app)|
 |unnamed-company-79 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-79)|
 |unnamed-company-80 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-80)|
 |vaulteroid / Vaulteroid|Vaulteroid is a digital logbook for household equipment. Keep receipts, warranties, manuals, photos, and maintenance records together for each appliance. Quickly find the right document and share an e|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/vaulteroid)|
 |vexqo / vexqo|vexqo provides live Meta Ad Library and eBay data through an HTTP API and MCP. Developers can search public ads by keyword or advertiser, retrieve creatives, dates and platforms, and enrich ads with l|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/vexqo)|
 |volanea / Volanea|Volanea is an email infrastructure platform built on AWS SES, with bounce handling, DKIM setup and deliverability tooling.|未知|$85 / $99 / $103|D|[TrustMRR](https://trustmrr.com/startup/volanea)|
-|xava-labs-hong-kong-limited / The Battleship Dev|Battleship Dev runs GitHub Actions on unlimited usage dedicated machines. Predictable monthly costs. Blazing fast cache. Smart testing. Built for 24/7 agents.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/xava-labs-hong-kong-limited)|
+|xava-labs-hong-kong-limited / The Battleship Dev|Battleship Dev runs GitHub Actions on unlimited usage dedicated machines. Predictable monthly costs. Blazing fast cache. Smart testing. Built for 24/7 agents.|未知|$0 / $79 / $79|D|[TrustMRR](https://trustmrr.com/startup/xava-labs-hong-kong-limited)|
 |yearwith / YearWith|YearWith gives every customer of an online store their own year-in-review: their orders, favourite product, how long they've been a customer, and a thank-you offer. Works with orders exports from Shop|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/yearwith)|
 |adnovation / Adnovation|A ready-to-use Next.js SaaS boilerplate that helps founders launch products faster with payments, authentication, database integration, SEO, and other essentials already set up.|Dev Tools/SaaS/Productivity|$0.00 / $0.00 / $6,327|P|[TrustMRR](https://trustmrr.com/startup/adnovation) [官网](https://www.startupbolt.com/)|
 |ads / ads|未知|未知|$0.00 / $0.00 / $0.00|P|[TrustMRR](https://trustmrr.com/startup/ads)|
@@ -184,16 +184,16 @@
 |cafemac2 / CafeMac2|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/cafemac2)|
 |case-tonight-party-game / Case Tonight party game|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/case-tonight-party-game)|
 |curato / Curato|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/curato)|
-|deframer / Deframer|Deframer turns a published Framer site into a clean TypeScript project for Next.js, TanStack Start, Astro, React Router or Vite. Paste the URL to get readable components, a route for every page, your|未知|$0 / $374 / $374|D|[TrustMRR](https://trustmrr.com/startup/deframer)|
+|deframer / Deframer|Deframer turns a published Framer site into a clean TypeScript project for Next.js, TanStack Start, Astro, React Router or Vite. Paste the URL to get readable components, a route for every page, your|未知|$0 / $548 / $548|D|[TrustMRR](https://trustmrr.com/startup/deframer)|
 |diemsy / Diemsy|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/diemsy)|
 |e-commerce-automator / Marjio|未知|未知|$10 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/e-commerce-automator)|
 |find-clover / Find Clover|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/find-clover)|
 |firstbubble / Firstbubble|Free website listings in a rotating, public leaderboard that helps sites get noticed and attract real visitors.|未知|$0 / $1 / $1|D|[TrustMRR](https://trustmrr.com/startup/firstbubble)|
-|flux3-video / FLUX3 video|A browser-based AI workspace for generating short videos from text prompts or photos, with free credits and no API key or installation required.|未知|$125 / $125 / $911|D|[TrustMRR](https://trustmrr.com/startup/flux3-video)|
+|flux3-video / FLUX3 video|A browser-based AI workspace for generating short videos from text prompts or photos, with free credits and no API key or installation required.|未知|$140 / $288 / $1.1k|D|[TrustMRR](https://trustmrr.com/startup/flux3-video)|
 |geozy / Geozy|Geozy is an interactive 3D atlas of the world. Scrub through 5,000 years of borders, see real World Bank and CIA data rise off the globe, compare countries, and explore trade, alliances, religions and|未知|$7 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/geozy)|
 |greetpack / GreetPack|Branded holiday and Black Friday posts for small businesses and agencies, ready in minutes.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/greetpack)|
 |h3-max / H3 Max|Generate polished 5–15 second AI videos from a text prompt, still image, or references, with synchronized audio and dialogue rendered in one pass.|未知|$299 / $385 / $632|D|[TrustMRR](https://trustmrr.com/startup/h3-max)|
-|hardcopy / Hardcopy|Hardcopy is a Mac app that backs up an iCloud Photos library to your own drive, checks every file, and then frees up iCloud space.|未知|$0 / $373 / $373|D|[TrustMRR](https://trustmrr.com/startup/hardcopy)|
+|hardcopy / Hardcopy|Hardcopy is a Mac app that backs up an iCloud Photos library to your own drive, checks every file, and then frees up iCloud space.|未知|$0 / $512 / $512|D|[TrustMRR](https://trustmrr.com/startup/hardcopy)|
 |headerx / headerX|Redefining the way ads work on X|未知|$12 / $12 / $12|D|[TrustMRR](https://trustmrr.com/startup/headerx)|
 |hidden-business-107 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/hidden-business-107)|
 |joinastartup / JoinAStartup|JoinAStartUp is a job aggregator for startup roles worldwide. We collect openings from across the web into one searchable list, check that listings are still open, and link to the original posting so|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/joinastartup)|
@@ -201,7 +201,7 @@
 |linkfeed / LinkFeed|LinkedIn's feed always felt cluttered to me: a top bar, three columns of cards, ads in the sidebar. X's layout is much easier to read, so I built LinkFeed, a Chrome extension that gives LinkedIn that|未知|$0 / $18 / $18|D|[TrustMRR](https://trustmrr.com/startup/linkfeed)|
 |little-monk / Little Monk|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/little-monk)|
 |little-north-pole / Little North Pole|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/little-north-pole)|
-|lomt-k-r-hu / Álomtükör-hu|We run an online shop selling personalised digital content. Customers fill in a short form, pay once by card, and receive their report by email as a PDF within minutes. Nothing physical is shipped and|未知|$0 / $1.9k / $1.9k|D|[TrustMRR](https://trustmrr.com/startup/lomt-k-r-hu)|
+|lomt-k-r-hu / Álomtükör-hu|We run an online shop selling personalised digital content. Customers fill in a short form, pay once by card, and receive their report by email as a PDF within minutes. Nothing physical is shipped and|未知|$0 / $2.6k / $2.6k|D|[TrustMRR](https://trustmrr.com/startup/lomt-k-r-hu)|
 |macsuite / Macsuite|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/macsuite)|
 |mailmark / Mailmark|A single platform for managing domains, mailboxes, campaigns, transactional email, and deliverability across all of a developer’s products.|未知|$0 / $0 / $13|D|[TrustMRR](https://trustmrr.com/startup/mailmark)|
 |mainfix / MainFix|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/mainfix)|
@@ -218,12 +218,12 @@
 |peerreel / Peerreel|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/peerreel)|
 |private-enterprise-104 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-104)|
 |private-enterprise-105 / Anonymous startup|未知|未知|$0 / $22 / $22|D|[TrustMRR](https://trustmrr.com/startup/private-enterprise-105)|
-|private-printing / Anonymous startup|3D Printing Business.|未知|$0 / $1.7k / $3.9k|D|[TrustMRR](https://trustmrr.com/startup/private-printing)|
+|private-printing / Anonymous startup|3D Printing Business.|未知|$0 / $1k / $3.9k|D|[TrustMRR](https://trustmrr.com/startup/private-printing)|
 |rahbr / Rahbr|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/rahbr)|
 |razorpay-business-23 / Razorpay business|未知|未知|$0 / $146 / $146|D|[TrustMRR](https://trustmrr.com/startup/razorpay-business-23)|
 |reelforge / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/reelforge)|
 |reelmade / ReelMade|Paste your website, answer a few questions, get a vertical video ad.|未知|$0 / $32 / $32|D|[TrustMRR](https://trustmrr.com/startup/reelmade)|
-|robocards / RoboCards|RoboCards is a business run by a robot. Rivet, a real SO-101 robot arm, prints your founder card on a photo printer, picks it up and presents your brand to the camera on a live stream. You get a share|未知|$0 / $10 / $10|D|[TrustMRR](https://trustmrr.com/startup/robocards)|
+|robocards / RoboCards|RoboCards is a business run by a robot. Rivet, a real SO-101 robot arm, prints your founder card on a photo printer, picks it up and presents your brand to the camera on a live stream. You get a share|未知|$0 / $15 / $15|D|[TrustMRR](https://trustmrr.com/startup/robocards)|
 |saasquare / Saasquare|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/saasquare)|
 |sigmashake / SigmaShake|SigmaShake deterministically checks AI-agent tool calls against local rules before execution, letting teams allow, deny, pause for approval, or redirect risky actions across multiple agents.|未知|$5 / $305 / $602|D|[TrustMRR](https://trustmrr.com/startup/sigmashake)|
 |startup-93a6ef94ba99 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/startup-93a6ef94ba99)|
@@ -231,15 +231,15 @@
 |stealth-company-118 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/stealth-company-118)|
 |stealth-company-119 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/stealth-company-119)|
 |stealth-company-120 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/stealth-company-120)|
-|stealth-startup-10k / Anonymous startup|Stealth startup|未知|$29 / $3.7k / $3.7k|D|[TrustMRR](https://trustmrr.com/startup/stealth-startup-10k)|
+|stealth-startup-10k / Anonymous startup|Stealth startup|未知|$29 / $5k / $5k|D|[TrustMRR](https://trustmrr.com/startup/stealth-startup-10k)|
 |the-developer-company / Infinitum|AI-native coding IDE with Tab predictions, AI chat, and integrated terminals for $5 a month.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/the-developer-company)|
 |thirtystep / ThirtyStep|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/thirtystep)|
-|unnamed-company-82 / Unnamed Company|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-82)|
+|unnamed-company-82 / Anonymous startup|未知|未知|$0 / $12 / $12|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-82)|
 |unnamed-company-83 / Anonymous startup|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/unnamed-company-83)|
 |visionflick / Visionflick|Visionflick turns your goals into a short film: AI-created scenes, real video clips, your affirmations spoken by a calm voice, and music.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/visionflick)|
 |vulnscanners-com / VulnScanners|Hosted Vulnerability Scanning. Run security scans, get deliverable reports.|未知|$0 / $10 / $80|D|[TrustMRR](https://trustmrr.com/startup/vulnscanners-com)|
 |wb1936store / wb1936.store|Pay-as-you-go hosted AI tools and MCP servers that I've personally made.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/wb1936store)|
-|webdesign-so / webdesign.so|Helps agencies find local businesses without effective websites, generate finished sites for them, and manage outreach and sales—all in one tool.|未知|$0 / $15k / $15k|D|[TrustMRR](https://trustmrr.com/startup/webdesign-so)|
+|webdesign-so / webdesign.so|Helps agencies find local businesses without effective websites, generate finished sites for them, and manage outreach and sales—all in one tool.|未知|$0 / $16k / $16k|D|[TrustMRR](https://trustmrr.com/startup/webdesign-so)|
 |yearender / Yearender|未知|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/yearender)|
 |you-love-wrapped / You Love Wrapped|Turns a WhatsApp chat into a Wrapped style story, with a letter, photos and a song, that someone sends to the person they love at one private link. Paid plans unlock publishing: monthly or a one time lifetime payment.|未知|$0 / $0 / $0|D|[TrustMRR](https://trustmrr.com/startup/you-love-wrapped)|
 |zion-studios / Zion Studios|Builds modern, SEO-optimized websites that help individuals and small businesses—especially contractors—get found online, convert visitors into leads, and collect reviews.|未知|$582 / $4.5k / $7.4k|D|[TrustMRR](https://trustmrr.com/startup/zion-studios)|
