@@ -1,5 +1,5 @@
 # Orshot.com
-> Cached snapshot — next refresh expected around 2026-11-25T10:00:40.766Z.
+> Cached snapshot — next refresh expected around 2026-11-27T06:02:35.330Z.
 Public AI-agent Markdown profile for [Orshot.com](https://trustmrr.com/startup/orshot-com) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T08:01:00.096Z
+- Revenue last synced: 2026-11-26T02:01:01.597Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $335 |
-| Last 7 days | $2,220 |
-| Last 30 days | $11,975 |
-| Last 3 months | $29,927 |
-| Last 6 months | $51,968 |
-| Last 12 months | $78,829 |
-| All time | $85,429 |
-- Last 30 days revenue snapshot: $11,975
-- Last 30 days revenue growth: +14.8%
-- All-time revenue snapshot: $85,429
-- Revenue data last synced: 2026-11-24T08:01:00.096Z
+| Last 24 hours | $353 |
+| Last 7 days | $3,277 |
+| Last 30 days | $12,917 |
+| Last 3 months | $31,159 |
+| Last 6 months | $53,016 |
+| Last 12 months | $80,092 |
+| All time | $87,072 |
+- Last 30 days revenue snapshot: $12,917
+- Last 30 days revenue growth: +19.8%
+- All-time revenue snapshot: $87,072
+- Revenue data last synced: 2026-11-26T02:01:01.597Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $346 |
-| 2026-10-27 | $526 |
 | 2026-10-28 | $586 |
 | 2026-10-29 | $661 |
 | 2026-10-30 | $385 |
@@ -80,7 +78,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $216 |
 | 2026-11-22 | $271 |
 | 2026-11-23 | $296 |
-| 2026-11-24 | $69.00 |
+| 2026-11-24 | $1,329 |
+| 2026-11-25 | $251 |
+| 2026-11-26 | $132 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,14 +95,14 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $7,987 |
 | 2026-09 | $8,080 |
 | 2026-10 | $11,498 |
-| 2026-11 | $9,077 |
+| 2026-11 | $10,720 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $13,627
-- Last 30 days MRR growth: +36.3%
+- Current MRR: $13,615
+- Last 30 days MRR growth: +29.4%
 - Current active subscriptions: 234
 
 
@@ -133,7 +133,7 @@ Full startup page: [https://trustmrr.com/startup/orshot-com](https://trustmrr.co
 
 - Domain: orshot.com
 - Domain rating: 60.0
-- Last synced: 2026-11-17T06:36:40.657Z
+- Last synced: 2026-11-25T06:35:45.619Z
 
 
 ## Screenshots
@@ -166,8 +166,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1577,
     "cachedOfferCount": 18,
-    "revenueLast30Days": "$18,577",
-    "revenueGrowthLast30Days": "+9.8%",
+    "revenueLast30Days": "$18,295",
+    "revenueGrowthLast30Days": "+7.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Provides a simple way to scan your Shopify shop for Google Merchant Center compliance issues",
@@ -186,8 +186,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,294",
-    "revenueGrowthLast30Days": "-41.9%",
+    "revenueLast30Days": "$3,116",
+    "revenueGrowthLast30Days": "-45.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -206,8 +206,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$52,932",
-    "revenueGrowthLast30Days": "-32.2%",
+    "revenueLast30Days": "$52,356",
+    "revenueGrowthLast30Days": "-34.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -226,8 +226,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$10,513",
-    "revenueGrowthLast30Days": "-10.6%",
+    "revenueLast30Days": "$11,188",
+    "revenueGrowthLast30Days": "-5.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Taja helps SMB's optimize, repurpose, and distribute their long form videos across all major social platforms.",
@@ -266,8 +266,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,287",
-    "revenueGrowthLast30Days": "-17.0%",
+    "revenueLast30Days": "$3,310",
+    "revenueGrowthLast30Days": "-15.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,

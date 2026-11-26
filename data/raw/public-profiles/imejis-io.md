@@ -1,5 +1,5 @@
 # Imejis.io
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:59.632Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:50.407Z.
 Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/imejis-io) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Imejis.io](https://trustmrr.com/startup/im
 - Founded date: 2023-11-09
 - Founder: [Dharmik \\| MakerRadar](https://trustmrr.com/founder/dharmikjagodana)
 - Founder image: [https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg](https://pbs.twimg.com/profile_images/2000782440038850562/gGuORbcY.jpg)
-- X followers: 332
+- X followers: 328
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T09:14:00.763Z
+- Revenue last synced: 2026-11-26T03:13:56.456Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -39,20 +39,18 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Last 24 hours | $0.00 |
 | Last 7 days | $44.97 |
 | Last 30 days | $160 |
-| Last 3 months | $590 |
-| Last 6 months | $1,050 |
+| Last 3 months | $575 |
+| Last 6 months | $1,035 |
 | Last 12 months | $1,634 |
 | All time | $2,104 |
 - Last 30 days revenue snapshot: $160
 - Last 30 days revenue growth: -23.8%
 - All-time revenue snapshot: $2,104
-- Revenue data last synced: 2026-11-24T09:14:00.763Z
+- Revenue data last synced: 2026-11-26T03:13:56.456Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $14.99 |
 | 2026-10-30 | $14.99 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $14.99 |
 | 2026-11-23 | $14.99 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -169,8 +169,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$20,720",
-    "revenueGrowthLast30Days": "+1787.1%",
+    "revenueLast30Days": "$14,013",
+    "revenueGrowthLast30Days": "+59.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Unlimited access to App Store optimization for Mac and Windows with no subscription.",
@@ -187,12 +187,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1429,
+    "cachedUniquePageviews": 1432,
     "cachedOfferCount": 7,
-    "revenueLast30Days": "$6,255",
-    "revenueGrowthLast30Days": "+5.7%",
+    "revenueLast30Days": "$6,164",
+    "revenueGrowthLast30Days": "+3.5%",
     "askingPrice": "$100,000",
-    "revenueMultiple": "1.3x",
+    "revenueMultiple": "1.4x",
     "description": "This cross-platform AI photo app democratizes pro-level editing without complex prompts or login friction. Growth: Revenue surged from $3k to $6k in 3 months (65% margin). Assets: ",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/ai-image-editor"
@@ -209,8 +209,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,037",
-    "revenueGrowthLast30Days": "+7.4%",
+    "revenueLast30Days": "$6,509",
+    "revenueGrowthLast30Days": "-2.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Ofrecemos diferentes tipos de Saas por suscripción, como herramientas para crear agentes de IA para whatsapp",
@@ -229,33 +229,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$553,684",
-    "revenueGrowthLast30Days": "+36.9%",
+    "revenueLast30Days": "$537,815",
+    "revenueGrowthLast30Days": "+28.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Discover the events worth showing up for, grab your tickets in seconds, and host your own — all on the platform built for real-life moments.",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/myplots"
-  },
-  {
-    "name": "Backlinker AI",
-    "slug": "backlinker-ai",
-    "category": "Marketing",
-    "categoryUrl": "https://trustmrr.com/category/marketing",
-    "isForSale": true,
-    "listingTier": "premium",
-    "listingTierName": "Scale",
-    "cardBackgroundColor": "#e5f6fe",
-    "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 17775,
-    "cachedOfferCount": 44,
-    "revenueLast30Days": "$18,684",
-    "revenueGrowthLast30Days": "+6.1%",
-    "askingPrice": "$350,000",
-    "revenueMultiple": "1.6x",
-    "description": "Backlinker AI automates backlink acquisition through AI-powered reporter and editorial outreach. Built for agencies, founders, and SEO teams, it finds relevant opportunities, draft",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/seo-startup-0326818f-cba7-4496-bfcf-84c9eb1993f7.jpg",
-    "startupUrl": "https://trustmrr.com/startup/backlinker-ai"
   },
   {
     "name": "Supergrow",
@@ -276,6 +256,26 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "description": null,
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/stealth-company-4-39f68695-e82a-410e-89fe-3dec65e9e2bd.png",
     "startupUrl": "https://trustmrr.com/startup/supergrow"
+  },
+  {
+    "name": "Khosmos",
+    "slug": "khosmos",
+    "category": "Fintech",
+    "categoryUrl": "https://trustmrr.com/category/fintech",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$30,776",
+    "revenueGrowthLast30Days": "+28.4%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Nous développons une application mobile de facturation destinée aux artisans du bâtiment. Celle-ci a pour but d'aider ces personnes à générer des devis, factures, attestations pour",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTXFac1lGMFYxZU5sOGZkfGZsX2xpdmVfOElka2QwcWxJT1JLcjRGNmwxMWVKQnly00HNB8Xtr5",
+    "startupUrl": "https://trustmrr.com/startup/khosmos"
   }
 ]
 ```

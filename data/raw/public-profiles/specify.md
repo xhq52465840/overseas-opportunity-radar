@@ -1,5 +1,5 @@
 # Specify
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:49.743Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:40.603Z.
 Public AI-agent Markdown profile for [Specify](https://trustmrr.com/startup/specify) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -21,7 +21,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T08:19:58.940Z
+- Revenue last synced: 2026-11-26T08:19:57.139Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,19 +36,17 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Last 7 days | $0.00 |
 | Last 30 days | $0.00 |
 | Last 3 months | $0.00 |
-| Last 6 months | $3,125 |
-| Last 12 months | $17,235 |
+| Last 6 months | $3,064 |
+| Last 12 months | $17,230 |
 | All time | $22,276 |
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: +29.2%
 - All-time revenue snapshot: $22,276
-- Revenue data last synced: 2026-11-24T08:19:58.940Z
+- Revenue data last synced: 2026-11-26T08:19:57.139Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -77,10 +75,11 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
-| 2025-11 | $5.06 |
 | 2026-01 | $15.88 |
 | 2026-02 | $303 |
 | 2026-03 | $296 |
@@ -93,8 +92,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $28.59
-- Last 30 days MRR growth: -2.6%
+- Current MRR: $28.77
+- Last 30 days MRR growth: -1.4%
 - Current active subscriptions: 1
 
 
@@ -125,7 +124,7 @@ Full startup page: [https://trustmrr.com/startup/specify](https://trustmrr.com/s
 
 - Domain: specify.ro
 - Domain rating: 3.0
-- Last synced: 2026-11-18T06:30:41.115Z
+- Last synced: 2026-11-26T06:30:40.433Z
 
 
 ## Screenshots
@@ -158,13 +157,33 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,186",
-    "revenueGrowthLast30Days": "+64.6%",
+    "revenueLast30Days": "$5,156",
+    "revenueGrowthLast30Days": "+58.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-65"
+  },
+  {
+    "name": "Blabla",
+    "slug": "blabla",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": true,
+    "listingTier": "pro",
+    "listingTierName": "Growth",
+    "cardBackgroundColor": "#e5ecfe",
+    "cardBackgroundColorDark": "#1a223a",
+    "cachedUniquePageviews": 1738,
+    "cachedOfferCount": 5,
+    "revenueLast30Days": "$3,782",
+    "revenueGrowthLast30Days": "-15.7%",
+    "askingPrice": "$500,000",
+    "revenueMultiple": "11.0x",
+    "description": "Blabla turns social conversations into revenue. Every comment, ad comment and DM from Instagram, TikTok, YouTube and Facebook lands in one inbox, where a custom-trained AI replie",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xT2JuU25BSFVzZUlGRGtafGZsX2xpdmVfVjJvT056M3NuaXM3c2xscXpQZW9MZlBV00bhHZf64j",
+    "startupUrl": "https://trustmrr.com/startup/blabla"
   },
   {
     "name": "GetXAPI - Cheapest Twitter API",
@@ -198,8 +217,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$75,481",
-    "revenueGrowthLast30Days": "+2.0%",
+    "revenueLast30Days": "$74,647",
+    "revenueGrowthLast30Days": "+0.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Digidoktor erbjuder digital, läkarbedömd behandling för viktnedgång. I appen kan patienter följa sin vikt, registrera kost och hålla koll på behandlingen över tid. De får också upp",
@@ -238,33 +257,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$9,626",
-    "revenueGrowthLast30Days": "-34.7%",
+    "revenueLast30Days": "$8,285",
+    "revenueGrowthLast30Days": "-39.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "With the support of our experts and custom Data & AI tools, boost every lever of your e-commerce.",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/dynalis-studio-99f3dcb2-9d1f-41c5-b804-b0fbb1e068eb.png",
     "startupUrl": "https://trustmrr.com/startup/dynalis-studio"
-  },
-  {
-    "name": "Stealth Company",
-    "slug": "stealth-company-10",
-    "category": null,
-    "categoryUrl": null,
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$47,969",
-    "revenueGrowthLast30Days": "+5.0%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": null,
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/stealth-company-10"
   }
 ]
 ```

@@ -1,5 +1,5 @@
 # InvoiceSplitter
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:46.141Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:36.915Z.
 Public AI-agent Markdown profile for [InvoiceSplitter](https://trustmrr.com/startup/invoicesplitter) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Dodo Payments (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T09:31:45.700Z
+- Revenue last synced: 2026-11-26T03:31:40.053Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $86.13
-- Revenue data last synced: 2026-11-24T09:31:45.700Z
+- Revenue data last synced: 2026-11-26T03:31:40.053Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -121,7 +121,7 @@ Full startup page: [https://trustmrr.com/startup/invoicesplitter](https://trustm
 
 - Domain: invoicesplitter.com
 - Domain rating: 0.0
-- Last synced: 2026-11-17T06:31:43.353Z
+- Last synced: 2026-11-25T06:31:42.334Z
 
 
 ## Screenshots
@@ -152,12 +152,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2054,
+    "cachedUniquePageviews": 2067,
     "cachedOfferCount": 9,
-    "revenueLast30Days": "$5,435",
-    "revenueGrowthLast30Days": "+65.4%",
+    "revenueLast30Days": "$5,283",
+    "revenueGrowthLast30Days": "+57.0%",
     "askingPrice": "$100,552",
-    "revenueMultiple": "1.5x",
+    "revenueMultiple": "1.6x",
     "description": "Upwork Jobs Auto-Responder How it works: 1) Filters relevant jobs 2) Drafts human like proposals according your case-studies 3) Sends proposals automatically",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/hi-no-code-inc-42cac4b4-70f6-434e-98fa-13f28a745302.png",
     "startupUrl": "https://trustmrr.com/startup/u-never-sleep"
@@ -174,8 +174,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,661",
-    "revenueGrowthLast30Days": "-10.1%",
+    "revenueLast30Days": "$3,563",
+    "revenueGrowthLast30Days": "-8.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "It's AI service for photo colorization and restoration",
@@ -194,8 +194,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$30,064",
-    "revenueGrowthLast30Days": "+7.4%",
+    "revenueLast30Days": "$27,469",
+    "revenueGrowthLast30Days": "-16.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "EmailEngine is a self-hosted email API. It connects to any email account over IMAP/SMTP, the Gmail API or Microsoft Graph and exposes all of them through one REST API, with real-ti",
@@ -214,8 +214,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$11,760",
-    "revenueGrowthLast30Days": "+25.6%",
+    "revenueLast30Days": "$11,952",
+    "revenueGrowthLast30Days": "+25.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -232,8 +232,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 873,
-    "cachedOfferCount": 5,
+    "cachedUniquePageviews": 878,
+    "cachedOfferCount": 6,
     "revenueLast30Days": "$3,327",
     "revenueGrowthLast30Days": "+2.4%",
     "askingPrice": "$390,000",
@@ -254,8 +254,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$23,230",
-    "revenueGrowthLast30Days": "+81.8%",
+    "revenueLast30Days": "$22,030",
+    "revenueGrowthLast30Days": "+57.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces",

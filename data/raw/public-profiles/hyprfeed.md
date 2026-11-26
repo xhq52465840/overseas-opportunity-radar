@@ -1,5 +1,5 @@
 # Hyprfeed
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:50.632Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:41.437Z.
 Public AI-agent Markdown profile for [Hyprfeed](https://trustmrr.com/startup/hyprfeed) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -23,7 +23,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: RevenueCat (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T09:55:33.611Z
+- Revenue last synced: 2026-11-26T03:55:33.815Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -44,13 +44,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $5.94
-- Revenue data last synced: 2026-11-24T09:55:33.611Z
+- Revenue data last synced: 2026-11-26T03:55:33.815Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -79,6 +77,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -167,8 +167,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,037",
-    "revenueGrowthLast30Days": "+7.4%",
+    "revenueLast30Days": "$6,509",
+    "revenueGrowthLast30Days": "-2.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Ofrecemos diferentes tipos de Saas por suscripción, como herramientas para crear agentes de IA para whatsapp",
@@ -187,8 +187,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$20,444",
-    "revenueGrowthLast30Days": "+14.9%",
+    "revenueLast30Days": "$21,515",
+    "revenueGrowthLast30Days": "+19.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Chat Data is a platform for building AI agents trained on a business's own docs, websites, and files. Agents run on GPT, Claude, Gemini, and other models, and deploy from one dashb",
@@ -225,12 +225,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 560,
+    "cachedUniquePageviews": 561,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$5,488",
-    "revenueGrowthLast30Days": "-4.0%",
+    "revenueLast30Days": "$5,624",
+    "revenueGrowthLast30Days": "-1.4%",
     "askingPrice": "$500,000",
-    "revenueMultiple": "7.6x",
+    "revenueMultiple": "7.4x",
     "description": "We help educators to create quizzes and forms",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-7"
@@ -247,8 +247,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$7,005",
-    "revenueGrowthLast30Days": "-11.1%",
+    "revenueLast30Days": "$7,022",
+    "revenueGrowthLast30Days": "-10.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Smart speed-cam detector for safe trips",
@@ -265,12 +265,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 848,
+    "cachedUniquePageviews": 849,
     "cachedOfferCount": 5,
-    "revenueLast30Days": "$4,727",
-    "revenueGrowthLast30Days": "-23.3%",
+    "revenueLast30Days": "$4,545",
+    "revenueGrowthLast30Days": "-18.8%",
     "askingPrice": "$200,000",
-    "revenueMultiple": "3.5x",
+    "revenueMultiple": "3.7x",
     "description": null,
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-2"

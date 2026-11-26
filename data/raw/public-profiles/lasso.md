@@ -1,5 +1,5 @@
 # Lasso
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:48.826Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:39.606Z.
 Public AI-agent Markdown profile for [Lasso](https://trustmrr.com/startup/lasso) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -24,7 +24,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T09:25:36.046Z
+- Revenue last synced: 2026-11-26T03:25:33.787Z
 - Google Analytics API connected: Yes
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -45,13 +45,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $98.21
 - Last 30 days revenue growth: -2.3%
 - All-time revenue snapshot: $301
-- Revenue data last synced: 2026-11-24T09:25:36.046Z
+- Revenue data last synced: 2026-11-26T03:25:33.787Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -80,6 +78,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -91,11 +91,11 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $80.78
-- Last 30 days MRR growth: -2.6%
+- Current MRR: $81.15
+- Last 30 days MRR growth: -1.4%
 - Current active subscriptions: 1
-- Last 30 days traffic or visitors: 1,865
-- Last 30 days revenue per visitor: $0.05
+- Last 30 days traffic or visitors: 1,779
+- Last 30 days revenue per visitor: $0.06
 
 
 ## Metrics Available After Login
@@ -160,8 +160,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 549,
     "cachedOfferCount": 3,
-    "revenueLast30Days": "$16,999",
-    "revenueGrowthLast30Days": "-43.3%",
+    "revenueLast30Days": "$13,999",
+    "revenueGrowthLast30Days": "-53.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Reddit GEO/LLM Agency for B2B SaaS ($1M-$10M ARR). Monthly Financials: • Revenue: $50,000 MRR • Costs: ~$13k (Reddit fees + Account Manager + Writer) • Net Profit: ~$37,000/mo (7",
@@ -180,8 +180,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$20,425",
-    "revenueGrowthLast30Days": "-31.7%",
+    "revenueLast30Days": "$20,268",
+    "revenueGrowthLast30Days": "-31.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "The community, content & tools supporting founders to ramen profitable, and beyond.",
@@ -200,8 +200,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$18,209",
-    "revenueGrowthLast30Days": "+67.2%",
+    "revenueLast30Days": "$17,662",
+    "revenueGrowthLast30Days": "+54.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -238,12 +238,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 560,
+    "cachedUniquePageviews": 561,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$5,488",
-    "revenueGrowthLast30Days": "-4.0%",
+    "revenueLast30Days": "$5,624",
+    "revenueGrowthLast30Days": "-1.4%",
     "askingPrice": "$500,000",
-    "revenueMultiple": "7.6x",
+    "revenueMultiple": "7.4x",
     "description": "We help educators to create quizzes and forms",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-7"
@@ -260,8 +260,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$27,124",
-    "revenueGrowthLast30Days": "-6.4%",
+    "revenueLast30Days": "$26,998",
+    "revenueGrowthLast30Days": "-6.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Add 50+ Ad and Marketing Tools to your AI via MCP. Supercharge your Claude/ChatGPT where it will be able to find and pull any of your competitors ads, analyze them, duplicate and c",

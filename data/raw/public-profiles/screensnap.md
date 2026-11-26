@@ -1,5 +1,5 @@
 # ScreenSnap
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:54.369Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:44.993Z.
 Public AI-agent Markdown profile for [ScreenSnap](https://trustmrr.com/startup/screensnap) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [ScreenSnap](https://trustmrr.com/startup/s
 - Founded date: 2026-06-08
 - Founder: [Charles Nguyen](https://trustmrr.com/founder/charlesng116)
 - Founder image: [https://pbs.twimg.com/profile_images/2050968173164593152/Kl3zpVvU.jpg](https://pbs.twimg.com/profile_images/2050968173164593152/Kl3zpVvU.jpg)
-- X followers: 503
+- X followers: 500
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T04:28:45.891Z
+- Revenue last synced: 2026-11-26T04:28:18.544Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -46,13 +46,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $3.00
-- Revenue data last synced: 2026-11-24T04:28:45.891Z
+- Revenue data last synced: 2026-11-26T04:28:18.544Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -129,7 +129,7 @@ Full startup page: [https://trustmrr.com/startup/screensnap](https://trustmrr.co
 
 - Domain: screensnap.site
 - Domain rating: 0.0
-- Last synced: 2026-11-17T06:34:43.041Z
+- Last synced: 2026-11-25T06:34:45.284Z
 
 
 ## Screenshots
@@ -162,8 +162,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,142",
-    "revenueGrowthLast30Days": "+153.6%",
+    "revenueLast30Days": "$4,977",
+    "revenueGrowthLast30Days": "+127.1%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A suite of marketing and lead generation products to grow your business.",
@@ -182,8 +182,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,721",
-    "revenueGrowthLast30Days": "+225.2%",
+    "revenueLast30Days": "$3,694",
+    "revenueGrowthLast30Days": "+278.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -200,10 +200,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1322,
+    "cachedUniquePageviews": 1338,
     "cachedOfferCount": 4,
-    "revenueLast30Days": "$13,601",
-    "revenueGrowthLast30Days": "+22.6%",
+    "revenueLast30Days": "$13,989",
+    "revenueGrowthLast30Days": "+41.1%",
     "askingPrice": "$50,000",
     "revenueMultiple": "0.3x",
     "description": "Four live AI video products sold as one deal: Vidko (an idea becomes a finished 5-30 min YouTube documentary), Mamox (a website becomes a motion-graphics ad), Kidzi (cartoon films ",
@@ -222,33 +222,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,755",
-    "revenueGrowthLast30Days": "-0.9%",
+    "revenueLast30Days": "$3,865",
+    "revenueGrowthLast30Days": "+3.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Indie Hacker",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/imagetranslate-ai-65bb6d12-af24-427a-a709-b353776e8ccc.jpg",
     "startupUrl": "https://trustmrr.com/startup/corey-chiu"
-  },
-  {
-    "name": "URL2Pin",
-    "slug": "url2pin",
-    "category": "Marketing",
-    "categoryUrl": "https://trustmrr.com/category/marketing",
-    "isForSale": false,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,661",
-    "revenueGrowthLast30Days": "+85.4%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "Pinterest is the cheapest traffic left for affiliates and sellers. The catch: nobody has an hour per pin. URL2Pin fixes that. Paste one product URL and get a full batch of scroll-s",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/url2pin-af45fdb9-42fd-4d3f-85cb-63040fdfa644.png",
-    "startupUrl": "https://trustmrr.com/startup/url2pin"
   },
   {
     "name": "Bakering App SL",
@@ -262,13 +242,33 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,481",
-    "revenueGrowthLast30Days": "+26.9%",
+    "revenueLast30Days": "$6,688",
+    "revenueGrowthLast30Days": "+25.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Best home delivery catering with products from the most renowned bakeries and patisseries in Barcelona.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xODg1TWFEYXVlenh4OXRGfGZsX2xpdmVfWVFFd3NMMUx3V29NSG9FVzFoYnpCTk9D00ijezwS4V",
     "startupUrl": "https://trustmrr.com/startup/bakering-app-sl"
+  },
+  {
+    "name": "Okfans",
+    "slug": "okfans",
+    "category": "Entertainment",
+    "categoryUrl": "https://trustmrr.com/category/entertainment",
+    "isForSale": true,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 2919,
+    "cachedOfferCount": 28,
+    "revenueLast30Days": "$3,649",
+    "revenueGrowthLast30Days": "-15.1%",
+    "askingPrice": "$30,000",
+    "revenueMultiple": "0.7x",
+    "description": "OnlyFans alternative.",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUDFSdHhEakNvcTFLRUc3fGZsX2xpdmVfakZxOWVjRjY0OEJTNVY4VkNNYjg5WmZl00ujfD1wio",
+    "startupUrl": "https://trustmrr.com/startup/okfans"
   }
 ]
 ```

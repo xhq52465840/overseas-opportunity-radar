@@ -1,5 +1,5 @@
 # SQLFlow
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:53.363Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:44.099Z.
 Public AI-agent Markdown profile for [SQLFlow](https://trustmrr.com/startup/sqlflow) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T10:05:49.459Z
+- Revenue last synced: 2026-11-26T04:05:46.502Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -43,13 +43,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $0.00
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $0.00
-- Revenue data last synced: 2026-11-24T10:05:49.459Z
+- Revenue data last synced: 2026-11-26T04:05:46.502Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -78,6 +76,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 
 
 ## Metric Snapshots
@@ -134,26 +134,6 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
 ```json
 [
   {
-    "name": "Stealth Company",
-    "slug": "startup-c9231495860e",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
-    "isForSale": true,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 784,
-    "cachedOfferCount": 3,
-    "revenueLast30Days": "$346",
-    "revenueGrowthLast30Days": "+10.2%",
-    "askingPrice": "$4,000",
-    "revenueMultiple": "1.0x",
-    "description": "This saas analyzes text to determine whether it was written by AI - such as ChatGPT, Claude, Gemini, or any other LLM. It’s also the perfect tool to humanize AI-generated content, ",
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/startup-c9231495860e"
-  },
-  {
     "name": "ReplyCurrent",
     "slug": "replycurrent",
     "category": "Artificial Intelligence",
@@ -163,19 +143,39 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1001,
+    "cachedUniquePageviews": 1057,
     "cachedOfferCount": 15,
-    "revenueLast30Days": "$401",
-    "revenueGrowthLast30Days": "+309.2%",
+    "revenueLast30Days": "$450",
+    "revenueGrowthLast30Days": "+206.1%",
     "askingPrice": "$1,800",
-    "revenueMultiple": "0.4x",
+    "revenueMultiple": "0.3x",
     "description": "ReplyCurrent is an AI customer support SaaS I built to help businesses answer customer questions automatically. You connect your website, help center, or documents, and it creates ",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/replycurrent-73edb7dd-dede-4fc5-9611-344a6f51535e.png",
     "startupUrl": "https://trustmrr.com/startup/replycurrent"
   },
   {
-    "name": "GPT Scrambler",
-    "slug": "gpt-scrambler",
+    "name": "Regiere Deutschland",
+    "slug": "regiere-deutschland",
+    "category": "Entertainment",
+    "categoryUrl": "https://trustmrr.com/category/entertainment",
+    "isForSale": true,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 559,
+    "cachedOfferCount": 4,
+    "revenueLast30Days": "$428",
+    "revenueGrowthLast30Days": "+534.3%",
+    "askingPrice": "$2,500",
+    "revenueMultiple": "0.5x",
+    "description": "Become the chancellor, win elections, and govern Germany in this political simulation game.",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/regiere-deutschland-1c0d6be5-f918-4094-8b6c-b69f2652fa4e.jpg",
+    "startupUrl": "https://trustmrr.com/startup/regiere-deutschland"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "startup-c9231495860e",
     "category": "Artificial Intelligence",
     "categoryUrl": "https://trustmrr.com/category/ai",
     "isForSale": true,
@@ -183,15 +183,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 413,
-    "cachedOfferCount": 2,
-    "revenueLast30Days": "$131",
-    "revenueGrowthLast30Days": "-6.7%",
-    "askingPrice": "$3,600",
-    "revenueMultiple": "2.3x",
-    "description": "GPT Scrambler helps people turn AI drafts into writing that sounds human. Students use it to polish essays, content writers and marketers to get natural copy in the right tone, and",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/paddle-business-41-5df2e038-dd44-415c-a698-37bbc837e3e3.png",
-    "startupUrl": "https://trustmrr.com/startup/gpt-scrambler"
+    "cachedUniquePageviews": 800,
+    "cachedOfferCount": 3,
+    "revenueLast30Days": "$316",
+    "revenueGrowthLast30Days": "-1.3%",
+    "askingPrice": "$4,000",
+    "revenueMultiple": "1.1x",
+    "description": "This saas analyzes text to determine whether it was written by AI - such as ChatGPT, Claude, Gemini, or any other LLM. It’s also the perfect tool to humanize AI-generated content, ",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/startup-c9231495860e"
   },
   {
     "name": "Stealth Company",
@@ -203,12 +203,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 2383,
-    "cachedOfferCount": 10,
-    "revenueLast30Days": "$4,405",
-    "revenueGrowthLast30Days": "+69.0%",
-    "askingPrice": "$70,000",
-    "revenueMultiple": "1.3x",
+    "cachedUniquePageviews": 2660,
+    "cachedOfferCount": 12,
+    "revenueLast30Days": "$4,673",
+    "revenueGrowthLast30Days": "+70.7%",
+    "askingPrice": "$65,000",
+    "revenueMultiple": "1.2x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/hidden-business-90"
@@ -223,10 +223,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5ecfe",
     "cardBackgroundColorDark": "#1a223a",
-    "cachedUniquePageviews": 8760,
+    "cachedUniquePageviews": 9226,
     "cachedOfferCount": 13,
-    "revenueLast30Days": "$10,576",
-    "revenueGrowthLast30Days": "+26.4%",
+    "revenueLast30Days": "$10,710",
+    "revenueGrowthLast30Days": "+32.4%",
     "askingPrice": "$175,000",
     "revenueMultiple": "1.4x",
     "description": "PDF Vault is a done-for-you digital business-in-a-box. Members license ready-to-sell PDFs that come with a hosted sales page, and they keep 100% of their sales. It earns money two ",
@@ -243,12 +243,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 31428,
-    "cachedOfferCount": 54,
-    "revenueLast30Days": "$40,552",
-    "revenueGrowthLast30Days": "+7.3%",
+    "cachedUniquePageviews": 31933,
+    "cachedOfferCount": 57,
+    "revenueLast30Days": "$41,095",
+    "revenueGrowthLast30Days": "+9.3%",
     "askingPrice": "$1,500,000",
-    "revenueMultiple": "3.1x",
+    "revenueMultiple": "3.0x",
     "description": "Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUTJONEdDZXRFWlo2R3ZPfGZsX2xpdmVfa1NER2dadXBGY0FBQWJLMVBUYkRWN21m00QLSX2GfH",
     "startupUrl": "https://trustmrr.com/startup/vidai-llc"

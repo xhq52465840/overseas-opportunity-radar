@@ -1,5 +1,5 @@
 # Nice Catalogs
-> Cached snapshot — next refresh expected around 2026-11-25T10:09:03.233Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:54.068Z.
 Public AI-agent Markdown profile for [Nice Catalogs](https://trustmrr.com/startup/nice-catalogs) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T04:49:18.302Z
+- Revenue last synced: 2026-11-26T04:48:50.568Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -37,22 +37,20 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $30.00 |
-| Last 30 days | $55.00 |
+| Last 7 days | $20.00 |
+| Last 30 days | $50.00 |
 | Last 3 months | $175 |
-| Last 6 months | $345 |
-| Last 12 months | $415 |
-| All time | $415 |
-- Last 30 days revenue snapshot: $55.00
-- Last 30 days revenue growth: -8.3%
-- All-time revenue snapshot: $415
-- Revenue data last synced: 2026-11-24T04:49:18.302Z
+| Last 6 months | $350 |
+| Last 12 months | $420 |
+| All time | $420 |
+- Last 30 days revenue snapshot: $50.00
+- Last 30 days revenue growth: -16.7%
+- All-time revenue snapshot: $420
+- Revenue data last synced: 2026-11-26T04:48:50.568Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $10.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -81,6 +79,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $10.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $5.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -92,15 +92,15 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $65.00 |
 | 2026-09 | $60.00 |
 | 2026-10 | $55.00 |
-| 2026-11 | $45.00 |
+| 2026-11 | $50.00 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $55.00
-- Last 30 days MRR growth: 0.0%
-- Current active subscriptions: 7
+- Current MRR: $60.00
+- Last 30 days MRR growth: +9.1%
+- Current active subscriptions: 8
 
 
 ## Metrics Available After Login
@@ -137,7 +137,7 @@ Full startup page: [https://trustmrr.com/startup/nice-catalogs](https://trustmrr
 
 - Domain: nicecatalogs.com
 - Domain rating: 11.0
-- Last synced: 2026-11-18T06:30:41.056Z
+- Last synced: 2026-11-26T06:30:40.379Z
 
 
 ## Screenshots
@@ -168,12 +168,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Scale",
     "cardBackgroundColor": "#e5f6fe",
     "cardBackgroundColorDark": "#1a2d3a",
-    "cachedUniquePageviews": 2383,
-    "cachedOfferCount": 10,
-    "revenueLast30Days": "$4,405",
-    "revenueGrowthLast30Days": "+69.0%",
-    "askingPrice": "$70,000",
-    "revenueMultiple": "1.3x",
+    "cachedUniquePageviews": 2660,
+    "cachedOfferCount": 12,
+    "revenueLast30Days": "$4,673",
+    "revenueGrowthLast30Days": "+70.7%",
+    "askingPrice": "$65,000",
+    "revenueMultiple": "1.2x",
     "description": "Not an AI wrapper. This is a niche app built for combat-sports athletes, and it ranks #1 in its category. Real users, a loyal audience that comes back every season, and almost no r",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/hidden-business-90"
@@ -190,8 +190,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,523",
-    "revenueGrowthLast30Days": "+32.7%",
+    "revenueLast30Days": "$4,373",
+    "revenueGrowthLast30Days": "+26.7%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -210,8 +210,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,494",
-    "revenueGrowthLast30Days": "+4.2%",
+    "revenueLast30Days": "$4,629",
+    "revenueGrowthLast30Days": "+0.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Leverage combines property search, deal analysis, and AI-powered valuation into a clear result: Within minutes, you’ll know whether a property is worth pursuing—and what to do next",
@@ -228,12 +228,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1805,
+    "cachedUniquePageviews": 1810,
     "cachedOfferCount": 12,
-    "revenueLast30Days": "$4,693",
-    "revenueGrowthLast30Days": "-8.3%",
+    "revenueLast30Days": "$4,525",
+    "revenueGrowthLast30Days": "-11.7%",
     "askingPrice": "$500,000",
-    "revenueMultiple": "8.9x",
+    "revenueMultiple": "9.2x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-global-job-board"
@@ -248,21 +248,21 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 2010,
+    "cachedUniquePageviews": 2019,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,325",
-    "revenueGrowthLast30Days": "-5.7%",
+    "revenueLast30Days": "$4,442",
+    "revenueGrowthLast30Days": "-3.2%",
     "askingPrice": "$199,000",
-    "revenueMultiple": "3.8x",
+    "revenueMultiple": "3.7x",
     "description": "NETTIFY is a full-stack website builder that lets small businesses launch complete, professional sites in minutes - no coding needed. Choose AI editor or edit manually, start from ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTnZjdkxGc2h3NmRmbEp2fGZsX2xpdmVfdUdEQWdnQW90TU5SU3M1UmtEV3RFZTRJ001IwwAk8V",
     "startupUrl": "https://trustmrr.com/startup/nettify"
   },
   {
-    "name": "Lesko Homes",
-    "slug": "leskohomes",
-    "category": "Real Estate",
-    "categoryUrl": "https://trustmrr.com/category/real-estate",
+    "name": "Aistote",
+    "slug": "aistote",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
     "isForSale": false,
     "listingTier": "free",
     "listingTierName": "Free",
@@ -270,13 +270,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$6,829",
-    "revenueGrowthLast30Days": "-55.1%",
+    "revenueLast30Days": "$4,097",
+    "revenueGrowthLast30Days": "-33.9%",
     "askingPrice": null,
     "revenueMultiple": null,
-    "description": "We turn century homes into high-performing, long-term rental assets.",
-    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUTJKRWJQNnRmNzBhdU5rfGZsX2xpdmVfcnNIUlc4bU1zZ0dtcTdBU0N6dGFISlFW00Nfqw9uhI",
-    "startupUrl": "https://trustmrr.com/startup/leskohomes"
+    "description": "AI-powered study app that turns learning materials into color-coded notes, quizzes, and flashcards to make studying more engaging and effective.",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/aistote-6ee7d054-d263-45e6-87af-3e0b656e1009.jpg",
+    "startupUrl": "https://trustmrr.com/startup/aistote"
   }
 ]
 ```

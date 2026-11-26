@@ -1,5 +1,5 @@
 # GPT Subtitler
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:52.526Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:43.255Z.
 Public AI-agent Markdown profile for [GPT Subtitler](https://trustmrr.com/startup/gpt-subtitler) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -23,7 +23,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T09:43:26.190Z
+- Revenue last synced: 2026-11-26T03:43:25.026Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -34,23 +34,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $20.40 |
-| Last 7 days | $218 |
-| Last 30 days | $1,160 |
-| Last 3 months | $4,350 |
-| Last 6 months | $8,743 |
-| Last 12 months | $25,205 |
-| All time | $45,521 |
-- Last 30 days revenue snapshot: $1,160
-- Last 30 days revenue growth: -21.0%
-- All-time revenue snapshot: $45,521
-- Revenue data last synced: 2026-11-24T09:43:26.190Z
+| Last 24 hours | $19.91 |
+| Last 7 days | $228 |
+| Last 30 days | $1,180 |
+| Last 3 months | $4,370 |
+| Last 6 months | $8,669 |
+| Last 12 months | $25,216 |
+| All time | $45,606 |
+- Last 30 days revenue snapshot: $1,180
+- Last 30 days revenue growth: -17.5%
+- All-time revenue snapshot: $45,606
+- Revenue data last synced: 2026-11-26T03:43:25.026Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $35.39 |
-| 2026-10-27 | $127 |
 | 2026-10-28 | $93.83 |
 | 2026-10-29 | $69.50 |
 | 2026-10-30 | $30.02 |
@@ -78,7 +76,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $64.71 |
 | 2026-11-22 | $14.90 |
 | 2026-11-23 | $15.40 |
-| 2026-11-24 | $5.00 |
+| 2026-11-24 | $10.00 |
+| 2026-11-25 | $79.91 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -93,15 +93,15 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $1,244 |
 | 2026-09 | $1,727 |
 | 2026-10 | $1,563 |
-| 2026-11 | $765 |
+| 2026-11 | $850 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $545
-- Last 30 days MRR growth: -17.9%
-- Current active subscriptions: 70
+- Current MRR: $540
+- Last 30 days MRR growth: -17.5%
+- Current active subscriptions: 69
 
 
 ## Metrics Available After Login
@@ -163,8 +163,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$58,026",
-    "revenueGrowthLast30Days": "-6.1%",
+    "revenueLast30Days": "$61,728",
+    "revenueGrowthLast30Days": "+5.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": null,
@@ -203,13 +203,33 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,794",
-    "revenueGrowthLast30Days": "-7.0%",
+    "revenueLast30Days": "$5,019",
+    "revenueGrowthLast30Days": "-2.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Established brand (operational since at least 2017). Low overhead business model. Dominant SEO position in Paso Robles wine tourism. Recurring revenue with annual contracts. Strong",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTlZuWFZHY0h4MXZZN2ZufGZsX2xpdmVfYmc5RTFOYjlnVnpFdXYzemNSM2h1eGp400qxXK7cSj",
     "startupUrl": "https://trustmrr.com/startup/paso-robles-wineries"
+  },
+  {
+    "name": "Blabla",
+    "slug": "blabla",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": true,
+    "listingTier": "pro",
+    "listingTierName": "Growth",
+    "cardBackgroundColor": "#e5ecfe",
+    "cardBackgroundColorDark": "#1a223a",
+    "cachedUniquePageviews": 1738,
+    "cachedOfferCount": 5,
+    "revenueLast30Days": "$3,782",
+    "revenueGrowthLast30Days": "-15.7%",
+    "askingPrice": "$500,000",
+    "revenueMultiple": "11.0x",
+    "description": "Blabla turns social conversations into revenue. Every comment, ad comment and DM from Instagram, TikTok, YouTube and Facebook lands in one inbox, where a custom-trained AI replie",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xT2JuU25BSFVzZUlGRGtafGZsX2xpdmVfVjJvT056M3NuaXM3c2xscXpQZW9MZlBV00bhHZf64j",
+    "startupUrl": "https://trustmrr.com/startup/blabla"
   },
   {
     "name": "JourneyFuse",
@@ -223,8 +243,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$25,526",
-    "revenueGrowthLast30Days": "+29.2%",
+    "revenueLast30Days": "$26,130",
+    "revenueGrowthLast30Days": "+33.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "We develop CRM solutions for Travel Agents and agencies",
@@ -250,26 +270,6 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "description": "Tribe Social provides a platform for creating custom community apps with features like courses, live calls, and payments.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUUpJaXE0UFhUajBUUFcwfGZsX2xpdmVfekozczhjU2NkSTZwVGdVcE84SnhMc0ZU005eJNQeux",
     "startupUrl": "https://trustmrr.com/startup/tribe-social"
-  },
-  {
-    "name": "AI Toolbox",
-    "slug": "ai-toolbox",
-    "category": "Artificial Intelligence",
-    "categoryUrl": "https://trustmrr.com/category/ai",
-    "isForSale": true,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2294,
-    "cachedOfferCount": 6,
-    "revenueLast30Days": "$24,857",
-    "revenueGrowthLast30Days": "+6.7%",
-    "askingPrice": "$920,000",
-    "revenueMultiple": "3.1x",
-    "description": "Profitable every month since launch, 24 in a row, at a ~92% margin with under $100/mo in operating costs. No Google, Meta or Reddit ads: growth comes from a site built for Google a",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/chatgpt-toolbox-d1a3337a-7d38-4b6c-b1b3-712873407fe9.png",
-    "startupUrl": "https://trustmrr.com/startup/ai-toolbox"
   }
 ]
 ```

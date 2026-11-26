@@ -1,5 +1,5 @@
 # pdf2epub
-> Cached snapshot — next refresh expected around 2026-11-25T10:09:00.526Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:51.294Z.
 Public AI-agent Markdown profile for [pdf2epub](https://trustmrr.com/startup/pdf2epub) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -21,7 +21,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Polar (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T06:14:23.808Z
+- Revenue last synced: 2026-11-26T06:13:57.835Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -42,13 +42,11 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 - Last 30 days revenue snapshot: $28.31
 - Last 30 days revenue growth: 0.0%
 - All-time revenue snapshot: $28.31
-- Revenue data last synced: 2026-11-24T06:14:23.808Z
+- Revenue data last synced: 2026-11-26T06:13:57.835Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -77,6 +75,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $3.31 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -88,7 +88,7 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
 - Current MRR: $10.00
-- Last 30 days MRR growth: 0.0%
+- Last 30 days MRR growth: +100.0%
 - Current active subscriptions: 1
 
 
@@ -152,12 +152,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Growth",
     "cardBackgroundColor": "#e6fff0",
     "cardBackgroundColorDark": "#1a3a2a",
-    "cachedUniquePageviews": 2010,
+    "cachedUniquePageviews": 2019,
     "cachedOfferCount": 8,
-    "revenueLast30Days": "$4,325",
-    "revenueGrowthLast30Days": "-5.7%",
+    "revenueLast30Days": "$4,442",
+    "revenueGrowthLast30Days": "-3.2%",
     "askingPrice": "$199,000",
-    "revenueMultiple": "3.8x",
+    "revenueMultiple": "3.7x",
     "description": "NETTIFY is a full-stack website builder that lets small businesses launch complete, professional sites in minutes - no coding needed. Choose AI editor or edit manually, start from ",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTnZjdkxGc2h3NmRmbEp2fGZsX2xpdmVfdUdEQWdnQW90TU5SU3M1UmtEV3RFZTRJ001IwwAk8V",
     "startupUrl": "https://trustmrr.com/startup/nettify"
@@ -172,7 +172,7 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1485,
+    "cachedUniquePageviews": 1491,
     "cachedOfferCount": 1,
     "revenueLast30Days": "$6,888",
     "revenueGrowthLast30Days": "-0.7%",
@@ -192,12 +192,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 411,
+    "cachedUniquePageviews": 420,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,825",
-    "revenueGrowthLast30Days": "+17.3%",
+    "revenueLast30Days": "$5,920",
+    "revenueGrowthLast30Days": "+20.2%",
     "askingPrice": "$180,000",
-    "revenueMultiple": "2.6x",
+    "revenueMultiple": "2.5x",
     "description": "Web-based AI image editing tool for creators and small businesses. Users upload an image and get a polished, AI-edited result in under a minute - no design skills needed. Monetized",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/hidden-business-59"
@@ -214,8 +214,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1007,
     "cachedOfferCount": 1,
-    "revenueLast30Days": "$7,413",
-    "revenueGrowthLast30Days": "-7.1%",
+    "revenueLast30Days": "$7,705",
+    "revenueGrowthLast30Days": "+4.2%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Loyalty built around people, not cards.",
@@ -234,8 +234,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$20,425",
-    "revenueGrowthLast30Days": "-31.7%",
+    "revenueLast30Days": "$20,268",
+    "revenueGrowthLast30Days": "-31.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "The community, content & tools supporting founders to ramen profitable, and beyond.",
@@ -243,10 +243,10 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/ramen-club"
   },
   {
-    "name": "SalesShortcut Inc.",
-    "slug": "salesshortcut-inc",
-    "category": "Analytics",
-    "categoryUrl": "https://trustmrr.com/category/analytics",
+    "name": "Paso Robles Wineries",
+    "slug": "paso-robles-wineries",
+    "category": "Travel",
+    "categoryUrl": "https://trustmrr.com/category/travel",
     "isForSale": false,
     "listingTier": "free",
     "listingTierName": "Free",
@@ -254,13 +254,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,125",
-    "revenueGrowthLast30Days": "+165.4%",
+    "revenueLast30Days": "$5,019",
+    "revenueGrowthLast30Days": "-2.4%",
     "askingPrice": null,
     "revenueMultiple": null,
-    "description": "AI that gets solo home service contractors found and booked.",
-    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUzhNVVMyVWNNMEJqMUhzfGZsX2xpdmVfN1NOcTdXdTduODRvelZQeERKbGhlcDh200l6D6dRGE",
-    "startupUrl": "https://trustmrr.com/startup/salesshortcut-inc"
+    "description": "Established brand (operational since at least 2017). Low overhead business model. Dominant SEO position in Paso Robles wine tourism. Recurring revenue with annual contracts. Strong",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTlZuWFZHY0h4MXZZN2ZufGZsX2xpdmVfYmc5RTFOYjlnVnpFdXYzemNSM2h1eGp400qxXK7cSj",
+    "startupUrl": "https://trustmrr.com/startup/paso-robles-wineries"
   }
 ]
 ```

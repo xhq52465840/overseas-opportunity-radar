@@ -1,5 +1,5 @@
 # Fontwise
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:47.948Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:38.711Z.
 Public AI-agent Markdown profile for [Fontwise](https://trustmrr.com/startup/fontwise) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -16,7 +16,7 @@ Public AI-agent Markdown profile for [Fontwise](https://trustmrr.com/startup/fon
 - Founded date: 2025-11-21
 - Founder: [Saeef](https://trustmrr.com/founder/saeefam)
 - Founder image: [https://pbs.twimg.com/profile_images/1446039825019068416/e1NHywcK.jpg](https://pbs.twimg.com/profile_images/1446039825019068416/e1NHywcK.jpg)
-- X followers: 7,940
+- X followers: 7,939
 
 
 ## Verification Sources
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Lemon Squeezy (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T05:26:15.263Z
+- Revenue last synced: 2026-11-26T05:25:48.672Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -37,22 +37,20 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $0.00 |
-| Last 30 days | $236 |
-| Last 3 months | $579 |
-| Last 6 months | $981 |
-| Last 12 months | $1,349 |
-| All time | $1,349 |
-- Last 30 days revenue snapshot: $236
-- Last 30 days revenue growth: +98.2%
-- All-time revenue snapshot: $1,349
-- Revenue data last synced: 2026-11-24T05:26:15.263Z
+| Last 7 days | $30.74 |
+| Last 30 days | $197 |
+| Last 3 months | $604 |
+| Last 6 months | $1,012 |
+| Last 12 months | $1,380 |
+| All time | $1,380 |
+- Last 30 days revenue snapshot: $197
+- Last 30 days revenue growth: +7.1%
+- All-time revenue snapshot: $1,380
+- Revenue data last synced: 2026-11-26T05:25:48.672Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $38.77 |
-| 2026-10-27 | $59.81 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $0.00 |
@@ -80,7 +78,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $0.00 |
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
-| 2026-11-24 | $0.00 |
+| 2026-11-24 | $30.74 |
+| 2026-11-25 | $0.00 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,14 +95,14 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $113 |
 | 2026-09 | $225 |
 | 2026-10 | $237 |
-| 2026-11 | $106 |
+| 2026-11 | $137 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
 - Current MRR: $15.00
-- Last 30 days MRR growth: -25.0%
+- Last 30 days MRR growth: 0.0%
 - Current active subscriptions: 3
 
 
@@ -164,13 +164,53 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 407,
     "cachedOfferCount": 2,
-    "revenueLast30Days": "$58,726",
-    "revenueGrowthLast30Days": "+337.9%",
+    "revenueLast30Days": "$61,121",
+    "revenueGrowthLast30Days": "+331.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Runcrate is a developer-friendly AI cloud platform and GPU provider founded in 2025 that combines raw on-demand GPU infrastructure with an OpenAI-compatible inference API",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUlUzQzFCSGdpUG9tdzBIfGZsX2xpdmVfZFUwMUtaMGV2bndwQk52OExCNjU5bnh000pjRSsiJB",
     "startupUrl": "https://trustmrr.com/startup/runcrate"
+  },
+  {
+    "name": "Next Level Builders",
+    "slug": "next-level-builders",
+    "category": "Community",
+    "categoryUrl": "https://trustmrr.com/category/community",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$3,320",
+    "revenueGrowthLast30Days": "+36792.9%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "A platform offering coaching, templates, and community support for micro-SaaS founders.",
+    "iconUrl": "https://polar-public-files.s3.amazonaws.com/organization_avatar/7caca1d7-7ad3-4126-9ee5-e7f51eae44cf/b0cb0a2e-2c1f-499c-bac1-f8e789040a1a/icon.png",
+    "startupUrl": "https://trustmrr.com/startup/next-level-builders"
+  },
+  {
+    "name": "Akal AI Inc.",
+    "slug": "akal-ai-inc",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$3,139",
+    "revenueGrowthLast30Days": "+54.6%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Sell more cars from the leads you’re already paying for.",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/akal-ai-inc"
   },
   {
     "name": "FlareCare",
@@ -184,8 +224,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 40,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,195",
-    "revenueGrowthLast30Days": "-44.4%",
+    "revenueLast30Days": "$3,009",
+    "revenueGrowthLast30Days": "-45.3%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Track bowel movements, food, symptoms, meds, labs, and flare notes with FlareCare, a gut health app for IBS, IBD, Crohn disease, and colitis.",
@@ -204,8 +244,8 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,291",
-    "revenueGrowthLast30Days": "-29.1%",
+    "revenueLast30Days": "$4,097",
+    "revenueGrowthLast30Days": "-33.9%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "AI-powered study app that turns learning materials into color-coded notes, quizzes, and flashcards to make studying more engaging and effective.",
@@ -222,55 +262,15 @@ Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1818,
+    "cachedUniquePageviews": 1836,
     "cachedOfferCount": 20,
-    "revenueLast30Days": "$7,176",
-    "revenueGrowthLast30Days": "+31.3%",
+    "revenueLast30Days": "$7,639",
+    "revenueGrowthLast30Days": "+40.1%",
     "askingPrice": "$100,000",
-    "revenueMultiple": "1.2x",
+    "revenueMultiple": "1.1x",
     "description": "SaaS helping students and young professionals train for consulting case interviews.",
     "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/roadtooffer-70f858eb-0ff6-48bd-b4fc-138a4c5dff6b.png",
     "startupUrl": "https://trustmrr.com/startup/road-to-offer"
-  },
-  {
-    "name": "SoundBoost.ai (formerly Diktatorial)",
-    "slug": "soundboost-ai-formerly-diktatorial",
-    "category": "Entertainment",
-    "categoryUrl": "https://trustmrr.com/category/entertainment",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$54,957",
-    "revenueGrowthLast30Days": "+14.2%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "AI music mastering with text prompts, guide the AI with words and hear the magic. Includes a free stem splitter as well.",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/soundboost-ai-formerly-diktatorial-2e5b0477-58f0-4a32-8e8c-040a35856096.png",
-    "startupUrl": "https://trustmrr.com/startup/soundboost-ai-formerly-diktatorial"
-  },
-  {
-    "name": "Harmar AI",
-    "slug": "harmaravet-llc",
-    "category": "Content Creation",
-    "categoryUrl": "https://trustmrr.com/category/content-creation",
-    "isForSale": true,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 725,
-    "cachedOfferCount": 1,
-    "revenueLast30Days": "$3,286",
-    "revenueGrowthLast30Days": "-7.7%",
-    "askingPrice": "$150,000",
-    "revenueMultiple": "3.8x",
-    "description": "Upload a video, get captions in about a minute. Switch languages mid-sentence and every word stays exactly as you said it, in its own alphabet. 55+ languages.",
-    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/harmaravet-llc-fcaaca90-b640-455b-902d-1fd964edad98.jpg",
-    "startupUrl": "https://trustmrr.com/startup/harmaravet-llc"
   }
 ]
 ```

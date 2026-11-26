@@ -1,5 +1,5 @@
 # PDFBolt
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:44.387Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:35.255Z.
 Public AI-agent Markdown profile for [PDFBolt](https://trustmrr.com/startup/pdfbolt) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -25,7 +25,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T08:17:04.935Z
+- Revenue last synced: 2026-11-26T08:17:56.086Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -36,23 +36,21 @@ Where a secondary source is marked connected below, traffic, visitor, search imp
 Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
 | Period | Verified revenue |
 | --- | ---: |
-| Last 24 hours | $249 |
-| Last 7 days | $601 |
-| Last 30 days | $2,401 |
-| Last 3 months | $7,342 |
-| Last 6 months | $14,801 |
-| Last 12 months | $21,716 |
-| All time | $23,749 |
-- Last 30 days revenue snapshot: $2,401
-- Last 30 days revenue growth: +4.2%
-- All-time revenue snapshot: $23,749
-- Revenue data last synced: 2026-11-24T08:17:04.935Z
+| Last 24 hours | $38.00 |
+| Last 7 days | $584 |
+| Last 30 days | $2,228 |
+| Last 3 months | $6,972 |
+| Last 6 months | $14,796 |
+| Last 12 months | $21,811 |
+| All time | $23,863 |
+- Last 30 days revenue snapshot: $2,228
+- Last 30 days revenue growth: -2.3%
+- All-time revenue snapshot: $23,863
+- Revenue data last synced: 2026-11-26T08:17:56.086Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $287 |
-| 2026-10-27 | $23.37 |
 | 2026-10-28 | $76.00 |
 | 2026-10-29 | $80.02 |
 | 2026-10-30 | $19.00 |
@@ -80,7 +78,9 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-21 | $42.37 |
 | 2026-11-22 | $19.00 |
 | 2026-11-23 | $249 |
-| 2026-11-24 | $0.00 |
+| 2026-11-24 | $76.00 |
+| 2026-11-25 | $19.00 |
+| 2026-11-26 | $19.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -95,15 +95,15 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $2,570 |
 | 2026-09 | $2,503 |
 | 2026-10 | $2,359 |
-| 2026-11 | $1,647 |
+| 2026-11 | $1,761 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
-- Current MRR: $2,249
-- Last 30 days MRR growth: +4.4%
-- Current active subscriptions: 63
+- Current MRR: $2,325
+- Last 30 days MRR growth: +8.9%
+- Current active subscriptions: 67
 
 
 ## Metrics Available After Login
@@ -134,7 +134,7 @@ Full startup page: [https://trustmrr.com/startup/pdfbolt](https://trustmrr.com/s
 
 - Domain: pdfbolt.com
 - Domain rating: 39.0
-- Last synced: 2026-11-17T06:37:43.042Z
+- Last synced: 2026-11-25T06:37:41.540Z
 
 
 ## Screenshots
@@ -176,6 +176,26 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "startupUrl": "https://trustmrr.com/startup/poach-vc"
   },
   {
+    "name": "Blabla",
+    "slug": "blabla",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": true,
+    "listingTier": "pro",
+    "listingTierName": "Growth",
+    "cardBackgroundColor": "#e5ecfe",
+    "cardBackgroundColorDark": "#1a223a",
+    "cachedUniquePageviews": 1738,
+    "cachedOfferCount": 5,
+    "revenueLast30Days": "$3,782",
+    "revenueGrowthLast30Days": "-15.7%",
+    "askingPrice": "$500,000",
+    "revenueMultiple": "11.0x",
+    "description": "Blabla turns social conversations into revenue. Every comment, ad comment and DM from Instagram, TikTok, YouTube and Facebook lands in one inbox, where a custom-trained AI replie",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xT2JuU25BSFVzZUlGRGtafGZsX2xpdmVfVjJvT056M3NuaXM3c2xscXpQZW9MZlBV00bhHZf64j",
+    "startupUrl": "https://trustmrr.com/startup/blabla"
+  },
+  {
     "name": "Stealth Company",
     "slug": "japanese-education-app",
     "category": "Mobile Apps",
@@ -187,8 +207,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 1277,
     "cachedOfferCount": 12,
-    "revenueLast30Days": "$9,837",
-    "revenueGrowthLast30Days": "-30.5%",
+    "revenueLast30Days": "$9,320",
+    "revenueGrowthLast30Days": "-31.8%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "A profitable organically grown subscription-based iPhone Japanese learning app with no costs except Apple Proceeds and a differentiated Lock Screen learning experience. The product",
@@ -207,8 +227,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": "#3a1f1f",
     "cachedUniquePageviews": 2163,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$8,626",
-    "revenueGrowthLast30Days": "-14.1%",
+    "revenueLast30Days": "$9,539",
+    "revenueGrowthLast30Days": "-4.0%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "BLOXG is a rapidly growing influencer marketplace built for Roblox, one of the world's largest gaming platforms with 100M+ daily active users. Launched in 2026, BLOXG has already p",
@@ -227,8 +247,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$5,591",
-    "revenueGrowthLast30Days": "+2362.2%",
+    "revenueLast30Days": "$5,883",
+    "revenueGrowthLast30Days": "+1183.5%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "UK Pokémon card restoration workshop with a free AI Pre-grading iPhone app. Photograph a card's front and back in the YIAN app or on yian.uk and get a Pre-grading Report: centering",
@@ -245,35 +265,15 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 2696,
+    "cachedUniquePageviews": 2709,
     "cachedOfferCount": 6,
-    "revenueLast30Days": "$9,547",
-    "revenueGrowthLast30Days": "-55.6%",
+    "revenueLast30Days": "$9,222",
+    "revenueGrowthLast30Days": "-54.2%",
     "askingPrice": "$1,500,000",
-    "revenueMultiple": "13.1x",
+    "revenueMultiple": "13.6x",
     "description": "Photo sharing app for events",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/photo-sharing"
-  },
-  {
-    "name": "Stealth Company",
-    "slug": "ai-video-generator-photos",
-    "category": "Mobile App",
-    "categoryUrl": "https://trustmrr.com/category/mobile-apps",
-    "isForSale": false,
-    "listingTier": "starter",
-    "listingTierName": "Starter",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 743,
-    "cachedOfferCount": 5,
-    "revenueLast30Days": "$4,711",
-    "revenueGrowthLast30Days": "-30.9%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": "Fast-growing AI video & photo generation app for iOS & Android. 100% organic growth, 4.5★ from 2,050 reviews, ready for paid user acquisition.",
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/ai-video-generator-photos"
   }
 ]
 ```

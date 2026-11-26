@@ -1,5 +1,5 @@
 # DocToTable
-> Cached snapshot — next refresh expected around 2026-11-25T10:08:45.260Z.
+> Cached snapshot — next refresh expected around 2026-11-27T08:39:36.034Z.
 Public AI-agent Markdown profile for [DocToTable](https://trustmrr.com/startup/doctotable) on TrustMRR.
 > Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
 
@@ -22,7 +22,7 @@ All revenue-related metrics on this page—including revenue, MRR, customers, su
 Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
 - Verified payment provider API source: Stripe (API key)
 - Merchant of record: No
-- Revenue last synced: 2026-11-24T05:13:09.313Z
+- Revenue last synced: 2026-11-26T05:12:41.252Z
 - Google Analytics API connected: No
 - DataFast API key connected: No
 - Google Search Console API connected: No
@@ -34,22 +34,20 @@ Revenue values are public verified revenue summaries. Current and last-30-day me
 | Period | Verified revenue |
 | --- | ---: |
 | Last 24 hours | $0.00 |
-| Last 7 days | $29.00 |
-| Last 30 days | $79.15 |
-| Last 3 months | $229 |
-| Last 6 months | $316 |
-| Last 12 months | $316 |
-| All time | $316 |
-- Last 30 days revenue snapshot: $79.15
-- Last 30 days revenue growth: -15.8%
-- All-time revenue snapshot: $316
-- Revenue data last synced: 2026-11-24T05:13:09.313Z
+| Last 7 days | $4.36 |
+| Last 30 days | $83.51 |
+| Last 3 months | $233 |
+| Last 6 months | $320 |
+| Last 12 months | $320 |
+| All time | $320 |
+- Last 30 days revenue snapshot: $83.51
+- Last 30 days revenue growth: -11.2%
+- All-time revenue snapshot: $320
+- Revenue data last synced: 2026-11-26T05:12:41.252Z
 ### Daily revenue — last 30 days
 Daily totals use UTC calendar dates. Today's value may be partial.
 | Date | Verified revenue |
 | --- | ---: |
-| 2026-10-26 | $0.00 |
-| 2026-10-27 | $0.00 |
 | 2026-10-28 | $0.00 |
 | 2026-10-29 | $0.00 |
 | 2026-10-30 | $4.52 |
@@ -78,6 +76,8 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-11-22 | $0.00 |
 | 2026-11-23 | $0.00 |
 | 2026-11-24 | $0.00 |
+| 2026-11-25 | $4.36 |
+| 2026-11-26 | $0.00 |
 ### Monthly revenue timeline
 | Month | Verified revenue |
 | --- | ---: |
@@ -85,14 +85,14 @@ Daily totals use UTC calendar dates. Today's value may be partial.
 | 2026-08 | $43.08 |
 | 2026-09 | $83.64 |
 | 2026-10 | $70.51 |
-| 2026-11 | $74.63 |
+| 2026-11 | $78.99 |
 
 
 ## Metric Snapshots
 
 These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
 - Current MRR: $47.00
-- Last 30 days MRR growth: 0.0%
+- Last 30 days MRR growth: +23.7%
 - Current active subscriptions: 3
 
 
@@ -105,13 +105,16 @@ Full startup page: [https://trustmrr.com/startup/doctotable](https://trustmrr.co
 
 ## Startup Insights
 
-- Value proposition: Convert PDF documents to Excel or CSV with AI detection of data elements, free for initial pages with no signup required.
-- Problem solved: Converting PDF documents to Excel or CSV efficiently, securely, and without the need for storage or signup.
-- Pricing model: Free for the first 2 pages in each of 3 finite browser previews
+- Value proposition: Convert PDF tables into Excel or CSV quickly with AI-powered table detection, without signup or email.
+- Problem solved: Manually extracting tables from PDFs into spreadsheets is time-consuming; DocToTable automates extraction, including from scanned PDFs.
+- Pricing model: Free for the first 2 pages of up to 3 documents; no signup required.
+- Target persona: People and businesses that need to extract data from PDF documents into spreadsheets, including accountants and finance, payroll, inventory, and operations teams.
+- Audience type: [Both](https://trustmrr.com/search?targetAudience=Both)
 - Team size: 1 person
 - Funding: Bootstrapped
 - Estimated user count: 0
-- Markets: [AI](https://trustmrr.com/category/ai), [Productivity](https://trustmrr.com/category/productivity), [SaaS](https://trustmrr.com/category/saas)
+- Additional info: 256-bit SSL, GDPR compliant, and states that uploaded files and data are not stored.
+- Markets: [AI](https://trustmrr.com/category/ai), [Utilities](https://trustmrr.com/category/utilities), [Productivity](https://trustmrr.com/category/productivity)
 
 
 ## Tech Stack
@@ -128,7 +131,7 @@ Full startup page: [https://trustmrr.com/startup/doctotable](https://trustmrr.co
 
 ## Screenshots
 
-![Landing page (1920x2849)](https://d21oz30g4w22sz.cloudfront.net/startup-screenshots/doctotable/1787583480987-ea83e516-e7ea-42eb-b26a-ea829eae8e31-landing-page.webp)
+![Landing page (1920x2975)](https://d21oz30g4w22sz.cloudfront.net/startup-screenshots/doctotable/1795590877303-b17ed780-ebca-4c5c-bccf-ec961c4cdb98-landing-page.webp)
 
 
 ## Acquisition
@@ -154,12 +157,12 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Starter",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 392,
-    "cachedOfferCount": 1,
-    "revenueLast30Days": "$7,293",
-    "revenueGrowthLast30Days": "-27.5%",
+    "cachedUniquePageviews": 409,
+    "cachedOfferCount": 2,
+    "revenueLast30Days": "$6,843",
+    "revenueGrowthLast30Days": "-31.9%",
     "askingPrice": "$190,000",
-    "revenueMultiple": "2.2x",
+    "revenueMultiple": "2.3x",
     "description": "Profitable, bootstrapped dynamic QR SaaS with $118K TTM revenue and 30% YoY growth. 38,492 customers use it to edit QR codes after printing, changing links or campaigns anytime wit",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-venture-31"
@@ -176,33 +179,13 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$15,678",
-    "revenueGrowthLast30Days": "+13.2%",
+    "revenueLast30Days": "$15,239",
+    "revenueGrowthLast30Days": "+4.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "I want to process payments through Stripe, using Stripe's API. I also want to create tools for stripe, like a dashboard.",
     "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUGRvMHpSeGhZUURmUllHfGZsX2xpdmVfeXZoUVJwZzVnOFY1a3lJN2o1YVJLRm1400Sxo9KHPB",
     "startupUrl": "https://trustmrr.com/startup/writestack"
-  },
-  {
-    "name": "Stealth Company",
-    "slug": "confidential-startup-92",
-    "category": "Services",
-    "categoryUrl": "https://trustmrr.com/category/services",
-    "isForSale": false,
-    "listingTier": "free",
-    "listingTierName": "Free",
-    "cardBackgroundColor": null,
-    "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 0,
-    "cachedOfferCount": 0,
-    "revenueLast30Days": "$3,251",
-    "revenueGrowthLast30Days": "-20.9%",
-    "askingPrice": null,
-    "revenueMultiple": null,
-    "description": null,
-    "iconUrl": null,
-    "startupUrl": "https://trustmrr.com/startup/confidential-startup-92"
   },
   {
     "name": "Nashville Appliance Rental",
@@ -216,8 +199,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$4,102",
-    "revenueGrowthLast30Days": "+1.9%",
+    "revenueLast30Days": "$4,189",
+    "revenueGrowthLast30Days": "+6.4%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Washer and dryer rentals. Customers will be billed monthly",
@@ -236,8 +219,8 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "cardBackgroundColorDark": null,
     "cachedUniquePageviews": 0,
     "cachedOfferCount": 0,
-    "revenueLast30Days": "$23,230",
-    "revenueGrowthLast30Days": "+81.8%",
+    "revenueLast30Days": "$22,030",
+    "revenueGrowthLast30Days": "+57.6%",
     "askingPrice": null,
     "revenueMultiple": null,
     "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces",
@@ -254,15 +237,35 @@ Note: Stealth Company is a placeholder label, not the actual company name. It me
     "listingTierName": "Free",
     "cardBackgroundColor": null,
     "cardBackgroundColorDark": null,
-    "cachedUniquePageviews": 1805,
+    "cachedUniquePageviews": 1810,
     "cachedOfferCount": 12,
-    "revenueLast30Days": "$4,693",
-    "revenueGrowthLast30Days": "-8.3%",
+    "revenueLast30Days": "$4,525",
+    "revenueGrowthLast30Days": "-11.7%",
     "askingPrice": "$500,000",
-    "revenueMultiple": "8.9x",
+    "revenueMultiple": "9.2x",
     "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traf",
     "iconUrl": null,
     "startupUrl": "https://trustmrr.com/startup/stealth-company-global-job-board"
+  },
+  {
+    "name": "Promptwise",
+    "slug": "promptwise",
+    "category": "Artificial Intelligence",
+    "categoryUrl": "https://trustmrr.com/category/ai",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$95,876",
+    "revenueGrowthLast30Days": "+2.1%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Generative AI SaaS platform. Our offer consists of generative AI products and tools, that focus on AI video, image and audio generation. The services are offered through subscripti",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xU3U3NktKNGpDQ1dyTENUfGZsX2xpdmVfbDFUbDdOWXFXY1p2RWZxSVB6bnJpWURt00fHe7cSi8",
+    "startupUrl": "https://trustmrr.com/startup/promptwise"
   }
 ]
 ```
